@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T02:37:31.770056+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2026-08-16T03:26:17.242328+08:00",
+  "total_titles_processed": 409,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 02时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 03时26分]"
         },
         {
           "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土” | 环球市场",
@@ -27,8 +27,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 02时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 03时26分]"
         },
         {
           "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
@@ -38,8 +38,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 02时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 03时26分]"
         },
         {
           "title": "特朗普：击败伊朗后，将宣布霍尔木兹海峡为美国领土",
@@ -49,8 +49,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 02时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 03时26分]"
         }
       ]
     },
@@ -68,8 +68,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 02时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 03时26分]"
         },
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -80,8 +80,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 02时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 03时26分]"
         },
         {
           "title": "DeepSeek Harness实测",
@@ -89,11 +89,40 @@
           "source": "bilibili 热搜",
           "ranks": [
             27,
-            30
+            30,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 02时37分]"
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 03时26分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
+          "url": "https://www.cls.cn/detail/2455147",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 03时26分]"
+        },
+        {
+          "title": "据TheInformation：英伟达(NVDA.O)正在洽谈向SB Energy投资30亿美元，作为OpenAI数据中心交易的一部分。",
+          "url": "https://flash.jin10.com/detail/20260816031526828800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时26分"
         }
       ]
     },
@@ -109,25 +138,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 02时37分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
-          "url": "https://www.cls.cn/detail/2455147",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 02时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 03时26分]"
         }
       ]
     },
@@ -144,8 +156,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 02时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 03时26分]"
         }
       ]
     },
@@ -159,11 +171,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 02时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 03时26分]"
         }
       ]
     }
