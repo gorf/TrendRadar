@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T20:47:36.397756+08:00",
-  "total_titles_processed": 684,
+  "generated_at": "2026-08-15T21:35:08.680019+08:00",
+  "total_titles_processed": 753,
   "failed_sources": [],
   "trends": [
     {
@@ -16,21 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时19分 ~ 20时47分]"
-        },
-        {
-          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
-          "url": "https://www.cls.cn/detail/2455050",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时19分 ~ 20时47分]"
+          "appearance_count": 8,
+          "time_info": "[15时19分 ~ 21时35分]"
         },
         {
           "title": "特朗普：击败伊朗后会宣布霍尔木兹海峡为美国领土",
@@ -40,11 +27,26 @@
             8,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时31分 ~ 20时47分]"
+          "appearance_count": 6,
+          "time_info": "[17时31分 ~ 21时35分]"
+        },
+        {
+          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
+          "url": "https://www.cls.cn/detail/2455050",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时19分 ~ 21时35分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-15）",
@@ -58,6 +60,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时28分 ~ 20时47分]"
+        },
+        {
+          "title": "特朗普：击败伊朗后，将宣布霍尔木兹海峡为美国领土",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33787320",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时26分 ~ 21时35分]"
         },
         {
           "title": "伊朗回应特朗普：霍尔木兹海峡开放与关闭由伊朗掌控",
@@ -82,18 +96,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时19分 ~ 16时35分]"
-        },
-        {
-          "title": "特朗普：击败伊朗后，将宣布霍尔木兹海峡为美国领土",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33787320",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时26分 ~ 20时47分]"
         },
         {
           "title": "特朗普证实部署中东的林肯号航母将被替换，部署近 9 个月，船员心理崩溃、跳海事件引发质疑，如何看待此事？",
@@ -143,8 +145,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时19分 ~ 20时47分]"
+          "appearance_count": 8,
+          "time_info": "[15时19分 ~ 21时35分]"
         },
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -156,8 +158,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时19分 ~ 20时47分]"
+          "appearance_count": 8,
+          "time_info": "[15时19分 ~ 21时35分]"
         },
         {
           "title": "DeepSeek Harness实测",
@@ -183,11 +185,12 @@
           "url": "https://wallstreetcn.com/articles/3779490",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时31分 ~ 20时47分]"
+          "appearance_count": 5,
+          "time_info": "[17时31分 ~ 21时35分]"
         },
         {
           "title": "大举增持谷歌！伯克希尔二季度有大动作 “巴菲特接班人”终于挥洒现金？",
@@ -214,8 +217,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时19分 ~ 20时47分]"
+          "appearance_count": 8,
+          "time_info": "[15时19分 ~ 21时35分]"
         },
         {
           "title": "加息降温压不下收益率，40万亿美债要付出什么代价？",
@@ -258,11 +261,12 @@
           "url": "https://www.cls.cn/detail/2455147",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时47分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时47分 ~ 21时35分]"
         }
       ]
     },
@@ -293,11 +297,12 @@
           "url": "https://www.cls.cn/detail/2455043",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时19分 ~ 20时47分]"
+          "appearance_count": 8,
+          "time_info": "[15时19分 ~ 21时35分]"
         }
       ]
     }
