@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T19:26:36.874141+08:00",
-  "total_titles_processed": 600,
+  "generated_at": "2026-08-15T20:47:36.397756+08:00",
+  "total_titles_processed": 684,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2455058",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时19分 ~ 19时26分]"
+          "appearance_count": 6,
+          "time_info": "[15时19分 ~ 20时47分]"
         },
         {
           "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
@@ -24,23 +25,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时19分 ~ 19时26分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-15）",
-          "url": "https://flash.jin10.com/detail/20260815175959913800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 19时26分]"
+          "appearance_count": 6,
+          "time_info": "[15时19分 ~ 20时47分]"
         },
         {
           "title": "特朗普：击败伊朗后会宣布霍尔木兹海峡为美国领土",
@@ -49,11 +39,25 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时31分 ~ 20时47分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-15）",
+          "url": "https://flash.jin10.com/detail/20260815175959913800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            10,
+            18
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时31分 ~ 19时26分]"
+          "time_info": "[18时28分 ~ 20时47分]"
         },
         {
           "title": "伊朗回应特朗普：霍尔木兹海峡开放与关闭由伊朗掌控",
@@ -84,11 +88,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33787320",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时26分 ~ 20时47分]"
         },
         {
           "title": "特朗普证实部署中东的林肯号航母将被替换，部署近 9 个月，船员心理崩溃、跳海事件引发质疑，如何看待此事？",
@@ -134,11 +139,12 @@
           "url": "https://www.zhihu.com/question/2071773348753945432",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时19分 ~ 19时26分]"
+          "appearance_count": 6,
+          "time_info": "[15时19分 ~ 20时47分]"
         },
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -150,8 +156,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时19分 ~ 19时26分]"
+          "appearance_count": 6,
+          "time_info": "[15时19分 ~ 20时47分]"
         },
         {
           "title": "DeepSeek Harness实测",
@@ -180,8 +186,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 18时28分]"
+          "appearance_count": 3,
+          "time_info": "[17时31分 ~ 20时47分]"
         },
         {
           "title": "大举增持谷歌！伯克希尔二季度有大动作 “巴菲特接班人”终于挥洒现金？",
@@ -208,8 +214,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时19分 ~ 19时26分]"
+          "appearance_count": 6,
+          "time_info": "[15时19分 ~ 20时47分]"
         },
         {
           "title": "加息降温压不下收益率，40万亿美债要付出什么代价？",
@@ -244,6 +250,23 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
+          "url": "https://www.cls.cn/detail/2455147",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 1,
       "titles": [
@@ -273,8 +296,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时19分 ~ 19时26分]"
+          "appearance_count": 6,
+          "time_info": "[15时19分 ~ 20时47分]"
         }
       ]
     }
