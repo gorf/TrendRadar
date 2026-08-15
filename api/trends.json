@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-15T17:31:46.604051+08:00",
-  "total_titles_processed": 476,
+  "generated_at": "2026-08-15T18:28:31.616078+08:00",
+  "total_titles_processed": 536,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-15）",
+          "url": "https://flash.jin10.com/detail/20260815175959913800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
         {
           "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土” | 环球市场",
           "url": "https://www.cls.cn/detail/2455058",
@@ -15,19 +26,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时19分 ~ 17时31分]"
+          "appearance_count": 4,
+          "time_info": "[15时19分 ~ 18时28分]"
         },
         {
           "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
           "url": "https://www.cls.cn/detail/2455050",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时19分 ~ 17时31分]"
+          "appearance_count": 4,
+          "time_info": "[15时19分 ~ 18时28分]"
         },
         {
           "title": "伊朗回应特朗普：霍尔木兹海峡开放与关闭由伊朗掌控",
@@ -58,11 +70,12 @@
           "url": "https://wallstreetcn.com/articles/3779487",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 18时28分]"
         },
         {
           "title": "特朗普证实部署中东的林肯号航母将被替换，部署近 9 个月，船员心理崩溃、跳海事件引发质疑，如何看待此事？",
@@ -111,8 +124,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时19分 ~ 17时31分]"
+          "appearance_count": 4,
+          "time_info": "[15时19分 ~ 18时28分]"
         },
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -124,8 +137,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时19分 ~ 17时31分]"
+          "appearance_count": 4,
+          "time_info": "[15时19分 ~ 18时28分]"
         },
         {
           "title": "DeepSeek Harness实测",
@@ -133,11 +146,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             21,
-            23
+            23,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时19分 ~ 17时31分]"
+          "appearance_count": 4,
+          "time_info": "[15时19分 ~ 18时28分]"
         }
       ]
     },
@@ -152,9 +166,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 18时28分]"
         },
         {
           "title": "大举增持谷歌！伯克希尔二季度有大动作 “巴菲特接班人”终于挥洒现金？",
@@ -163,7 +177,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
         }
@@ -181,8 +195,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时19分 ~ 17时31分]"
+          "appearance_count": 4,
+          "time_info": "[15时19分 ~ 18时28分]"
         },
         {
           "title": "加息降温压不下收益率，40万亿美债要付出什么代价？",
@@ -211,8 +225,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时19分 ~ 17时31分]"
+          "appearance_count": 4,
+          "time_info": "[15时19分 ~ 18时28分]"
         }
       ]
     },
@@ -246,8 +260,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时19分 ~ 17时31分]"
+          "appearance_count": 4,
+          "time_info": "[15时19分 ~ 18时28分]"
         }
       ]
     }
