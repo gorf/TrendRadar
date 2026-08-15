@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T01:25:55.714755+08:00",
-  "total_titles_processed": 353,
+  "generated_at": "2026-08-16T02:37:31.770056+08:00",
+  "total_titles_processed": 382,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 02时37分]"
         },
         {
           "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土” | 环球市场",
           "url": "https://www.cls.cn/detail/2455058",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 02时37分]"
         },
         {
           "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
@@ -37,8 +38,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 02时37分]"
         },
         {
           "title": "特朗普：击败伊朗后，将宣布霍尔木兹海峡为美国领土",
@@ -48,8 +49,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 02时37分]"
         }
       ]
     },
@@ -63,11 +64,12 @@
           "source": "知乎",
           "ranks": [
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 02时37分]"
         },
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -78,19 +80,20 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 02时37分]"
         },
         {
           "title": "DeepSeek Harness实测",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%AE%9E%E6%B5%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            27
+            27,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 02时37分]"
         }
       ]
     },
@@ -106,8 +109,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 02时37分]"
         }
       ]
     },
@@ -123,8 +126,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 02时37分]"
         }
       ]
     },
@@ -141,8 +144,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 02时37分]"
         }
       ]
     },
@@ -155,11 +158,12 @@
           "url": "https://www.cls.cn/detail/2455043",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 02时37分]"
         }
       ]
     }
