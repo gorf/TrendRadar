@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T06:27:25.599980+08:00",
-  "total_titles_processed": 481,
+  "generated_at": "2026-08-17T07:26:08.672310+08:00",
+  "total_titles_processed": 530,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 06时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 07时26分]"
         },
         {
           "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 06时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 07时26分]"
         },
         {
           "title": "特朗普再促参议院通过全年采用夏令时法案",
@@ -39,39 +39,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时32分 ~ 05时25分]"
-        },
-        {
-          "title": "特朗普：欢迎沙土巴三国签署共同防务协议",
-          "url": "https://wallstreetcn.com/livenews/3150084",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时27分"
-        },
-        {
-          "title": "特朗普：“不满”美国早前同意参加与韩国的联合军演",
-          "url": "https://wallstreetcn.com/livenews/3150083",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时27分"
-        },
-        {
-          "title": "特朗普称要大幅缩减美韩联合军演",
-          "url": "https://flash.jin10.com/detail/20260817054805585800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时27分"
         },
         {
           "title": "哈马斯方面表示，我们高度评价特朗普在促成加沙停火协议方面发挥的作用。",
@@ -121,11 +88,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            8
+            8,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时25分 ~ 06时27分]"
+          "appearance_count": 3,
+          "time_info": "[05时25分 ~ 07时26分]"
         },
         {
           "title": "美国总统特朗普：我对美国很久以前就同意与韩国进行联合军事演习这一事实感到不满。我已指示战争部长赫格塞思大幅减少联合军事演习。",
@@ -133,11 +101,37 @@
           "source": "金十数据",
           "ranks": [
             2,
-            9
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时25分 ~ 07时26分]"
+        },
+        {
+          "title": "美国总统特朗普：非常高兴看到沙特、土耳其和巴基斯坦最近终于签署了麦加联合防御协议。",
+          "url": "https://flash.jin10.com/detail/20260817050503839800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时25分 ~ 07时26分]"
+        },
+        {
+          "title": "特朗普：欢迎沙土巴三国签署共同防务协议",
+          "url": "https://wallstreetcn.com/livenews/3150084",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时25分 ~ 06时27分]"
+          "time_info": "[06时27分 ~ 07时26分]"
         },
         {
           "title": "据阿拉比亚电视台：特朗普高级顾问库什纳与加沙和平委员会的会晤已结束。",
@@ -153,16 +147,16 @@
           "time_info": "[00时32分 ~ 02时36分]"
         },
         {
-          "title": "美国总统特朗普：非常高兴看到沙特、土耳其和巴基斯坦最近终于签署了麦加联合防御协议。",
-          "url": "https://flash.jin10.com/detail/20260817050503839800",
-          "source": "金十数据",
+          "title": "特朗普：“不满”美国早前同意参加与韩国的联合军演",
+          "url": "https://wallstreetcn.com/livenews/3150083",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            10
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时25分 ~ 06时27分]"
+          "time_info": "[06时27分 ~ 07时26分]"
         },
         {
           "title": "据阿拉比亚电视台：特朗普高级顾问库什纳向哈马斯领导人确认，哈马斯的武器将会从加沙地带撤出，不会在加沙存放。",
@@ -187,6 +181,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时25分 ~ 06时27分]"
+        },
+        {
+          "title": "特朗普称要大幅缩减美韩联合军演",
+          "url": "https://flash.jin10.com/detail/20260817054805585800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时27分 ~ 07时26分]"
         },
         {
           "title": "埃及、约旦、阿联酋、卡塔尔、印度尼西亚、沙特阿拉伯、土耳其和巴基斯坦的联合声明称，以色列的拒绝态度威胁到特朗普为结束加沙战争所作的加大力度的努力。",
@@ -226,6 +232,18 @@
           "time_info": "[01时24分 ~ 02时36分]"
         },
         {
+          "title": "特朗普：欢迎沙土巴三国签署共同防务协议",
+          "url": "https://flash.jin10.com/detail/20260817053245864800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时27分 ~ 07时26分]"
+        },
+        {
           "title": "埃及、约旦、阿联酋、卡塔尔、印度尼西亚、沙特阿拉伯、土耳其和巴基斯坦发布联合声明，谴责以色列拒绝美国总统特朗普关于加沙的计划。",
           "url": "https://flash.jin10.com/detail/20260816234910421800",
           "source": "金十数据",
@@ -262,17 +280,6 @@
           "time_info": "[00时32分 ~ 01时24分]"
         },
         {
-          "title": "特朗普：欢迎沙土巴三国签署共同防务协议",
-          "url": "https://flash.jin10.com/detail/20260817053245864800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时27分"
-        },
-        {
           "title": "特朗普为何要求航母改回蒸汽弹射",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E4%BD%95%E8%A6%81%E6%B1%82%E8%88%AA%E6%AF%8D%E6%94%B9%E5%9B%9E%E8%92%B8%E6%B1%BD%E5%BC%B9%E5%B0%84",
           "source": "bilibili 热搜",
@@ -282,6 +289,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "特朗普要求“大幅缩减”美韩军演规模",
+          "url": "https://wallstreetcn.com/livenews/3150092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "特朗普要求“大幅减少”美韩军演：因成本高昂，还释放不当“敌意信号”",
+          "url": "https://flash.jin10.com/detail/20260817063335924800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
         },
         {
           "title": "据半岛电视台：巴勒斯坦消息人士透露，库什纳已告知哈马斯领导层，特朗普认为解除各派武装是加沙采取任何其他行动前的关键一步。",
@@ -338,22 +367,24 @@
           "url": "https://www.cls.cn/detail/2455237",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 06时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 07时26分]"
         },
         {
           "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
           "url": "https://www.cls.cn/detail/2455147",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 06时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 07时26分]"
         },
         {
           "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
@@ -363,8 +394,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 06时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 07时26分]"
         },
         {
           "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
@@ -375,8 +406,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 06时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 07时26分]"
         }
       ]
     },
@@ -392,19 +423,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 06时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 07时26分]"
         },
         {
           "title": "伯克希尔二季度13F持仓变阵：增持谷歌、达美航空，连续两季减持美银",
           "url": "https://wallstreetcn.com/articles/3779522",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 06时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 07时26分]"
         }
       ]
     },
