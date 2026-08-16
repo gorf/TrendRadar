@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T14:49:01.192339+08:00",
-  "total_titles_processed": 881,
+  "generated_at": "2026-08-16T15:35:54.792115+08:00",
+  "total_titles_processed": 938,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时32分 ~ 14时49分]"
+          "appearance_count": 17,
+          "time_info": "[00时32分 ~ 15时35分]"
         },
         {
           "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
@@ -28,8 +28,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 14时49分]"
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 15时35分]"
         },
         {
           "title": "特朗普：击败伊朗后，将宣布霍尔木兹海峡为美国领土",
@@ -77,8 +77,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时41分 ~ 14时49分]"
+          "appearance_count": 5,
+          "time_info": "[12时41分 ~ 15时35分]"
         },
         {
           "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
@@ -89,8 +89,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时34分 ~ 14时49分]"
+          "appearance_count": 4,
+          "time_info": "[13时34分 ~ 15时35分]"
         },
         {
           "title": "美国总统特朗普：参议院必须尽快投票通过《不再改变时钟法案》。白天多些阳光总是好的（还能打击犯罪！），但更重要的，别再每年两次荒唐地来回拨时钟和手表了，又混乱又麻烦。赶紧把它搞定！",
@@ -112,11 +112,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时34分 ~ 14时49分]"
+          "appearance_count": 3,
+          "time_info": "[13时34分 ~ 15时35分]"
         },
         {
           "title": "据CNN：71%的人认为美国总统特朗普在降低日常商品价格方面的努力还不够，较去年58%的比例有所上升。",
@@ -137,11 +138,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            12
+            12,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时34分 ~ 14时49分]"
+          "appearance_count": 3,
+          "time_info": "[13时34分 ~ 15时35分]"
         },
         {
           "title": "美国总统特朗普在社交平台上发布图片，图中他佩戴“Trump 2028”的帽子，并配文“我们将会赢（We are going to win）”。",
@@ -160,11 +162,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E4%BD%95%E8%A6%81%E6%B1%82%E8%88%AA%E6%AF%8D%E6%94%B9%E5%9B%9E%E8%92%B8%E6%B1%BD%E5%BC%B9%E5%B0%84",
           "source": "bilibili 热搜",
           "ranks": [
-            9
+            9,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时48分 ~ 14时49分]"
+          "appearance_count": 3,
+          "time_info": "[14时48分 ~ 15时35分]"
         },
         {
           "title": "美国总统特朗普周日日程一览",
@@ -207,8 +210,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时32分 ~ 14时49分]"
+          "appearance_count": 17,
+          "time_info": "[00时32分 ~ 15时35分]"
         },
         {
           "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -221,8 +224,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时40分 ~ 14时49分]"
+          "appearance_count": 8,
+          "time_info": "[09时40分 ~ 15时35分]"
         },
         {
           "title": "据TheInformation：英伟达(NVDA.O)正在洽谈向SB Energy投资30亿美元，作为OpenAI数据中心交易的一部分。",
@@ -247,11 +250,12 @@
             6,
             9,
             12,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时41分 ~ 14时49分]"
+          "appearance_count": 6,
+          "time_info": "[09时41分 ~ 15时35分]"
         },
         {
           "title": "OpenAI Codex产品负责人：让Sol为你管理一支高效的Luna代理团队。这些模型彼此非常熟悉，能够通力合作，以惊人的速度和效率达成目标。",
@@ -274,8 +278,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时34分 ~ 14时49分]"
+          "appearance_count": 4,
+          "time_info": "[13时34分 ~ 15时35分]"
         }
       ]
     },
@@ -334,11 +338,12 @@
           "ranks": [
             2,
             5,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时41分 ~ 14时49分]"
+          "appearance_count": 4,
+          "time_info": "[12时41分 ~ 15时35分]"
         }
       ]
     },
@@ -364,11 +369,24 @@
           "ranks": [
             1,
             4,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时41分 ~ 15时35分]"
+        },
+        {
+          "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
+          "url": "https://wallstreetcn.com/articles/3779527",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
             9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时41分 ~ 14时49分]"
+          "time_info": "[14时48分 ~ 15时35分]"
         },
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
@@ -376,22 +394,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            13
+            13,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时34分 ~ 14时49分]"
-        },
-        {
-          "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
-          "url": "https://wallstreetcn.com/articles/3779527",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时48分 ~ 14时49分]"
+          "appearance_count": 3,
+          "time_info": "[13时34分 ~ 15时35分]"
         }
       ]
     },
@@ -418,11 +426,12 @@
           "ranks": [
             5,
             11,
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时41分 ~ 14时49分]"
+          "appearance_count": 4,
+          "time_info": "[12时41分 ~ 15时35分]"
         }
       ]
     },
@@ -441,8 +450,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时32分 ~ 14时49分]"
+          "appearance_count": 17,
+          "time_info": "[00时32分 ~ 15时35分]"
         },
         {
           "title": "高瓴旗下HHLR披露最新美股持仓 二季度增持英伟达",
@@ -453,11 +462,12 @@
             10,
             13,
             16,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时41分 ~ 14时49分]"
+          "appearance_count": 6,
+          "time_info": "[09时41分 ~ 15时35分]"
         }
       ]
     }
