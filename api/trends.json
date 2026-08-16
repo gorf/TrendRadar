@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T20:49:28.988118+08:00",
-  "total_titles_processed": 1280,
+  "generated_at": "2026-08-16T21:36:41.829675+08:00",
+  "total_titles_processed": 1328,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时41分 ~ 20时49分]"
+          "appearance_count": 14,
+          "time_info": "[12时41分 ~ 21时36分]"
         },
         {
           "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
@@ -33,8 +33,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时34分 ~ 20时49分]"
+          "appearance_count": 13,
+          "time_info": "[13时34分 ~ 21时36分]"
         },
         {
           "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土” | 环球市场",
@@ -111,6 +111,20 @@
           "time_info": "[13时34分 ~ 16时36分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-16）",
+          "url": "https://flash.jin10.com/detail/20260816180839464800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            8,
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时29分 ~ 21时36分]"
+        },
+        {
           "title": "美国总统特朗普：参议院必须尽快投票通过《不再改变时钟法案》。白天多些阳光总是好的（还能打击犯罪！），但更重要的，别再每年两次荒唐地来回拨时钟和手表了，又混乱又麻烦。赶紧把它搞定！",
           "url": "https://flash.jin10.com/detail/20260816102212922800",
           "source": "金十数据",
@@ -152,19 +166,6 @@
           "time_info": "[14时48分 ~ 17时33分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-16）",
-          "url": "https://flash.jin10.com/detail/20260816180839464800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时29分 ~ 20时49分]"
-        },
-        {
           "title": "据CNN：71%的人认为美国总统特朗普在降低日常商品价格方面的努力还不够，较去年58%的比例有所上升。",
           "url": "https://flash.jin10.com/detail/20260816090134155800",
           "source": "金十数据",
@@ -195,11 +196,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时25分 ~ 20时49分]"
+          "appearance_count": 3,
+          "time_info": "[19时25分 ~ 21时36分]"
         },
         {
           "title": "特朗普再促参议院通过全年采用夏令时法案",
@@ -207,11 +209,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时25分 ~ 20时49分]"
+          "appearance_count": 3,
+          "time_info": "[19时25分 ~ 21时36分]"
         },
         {
           "title": "美国总统特朗普周日日程一览",
@@ -266,8 +269,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时32分 ~ 20时49分]"
+          "appearance_count": 26,
+          "time_info": "[00时32分 ~ 21时36分]"
         },
         {
           "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -281,8 +284,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时40分 ~ 20时49分]"
+          "appearance_count": 17,
+          "time_info": "[09时40分 ~ 21时36分]"
         },
         {
           "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
@@ -296,8 +299,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时34分 ~ 20时49分]"
+          "appearance_count": 13,
+          "time_info": "[13时34分 ~ 21时36分]"
         },
         {
           "title": "英伟达拟投资SB Energy 30亿美元，布局OpenAI数据中心",
@@ -350,9 +353,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时49分 ~ 21时36分]"
         }
       ]
     },
@@ -371,8 +374,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时48分 ~ 20时49分]"
+          "appearance_count": 12,
+          "time_info": "[14时48分 ~ 21时36分]"
         },
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
@@ -393,17 +396,6 @@
           "time_info": "[12时41分 ~ 19时25分]"
         },
         {
-          "title": "阿贝尔掌舵半年伯克希尔大举增持谷歌、A类股晋升前五重仓，Q2加码航空和房产股",
-          "url": "https://wallstreetcn.com/articles/3779490",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 06时28分]"
-        },
-        {
           "title": "伯克希尔二季度13F持仓变阵：增持谷歌、达美航空，连续两季减持美银",
           "url": "https://wallstreetcn.com/articles/3779522",
           "source": "华尔街见闻",
@@ -413,8 +405,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时32分 ~ 20时49分]"
+          "appearance_count": 8,
+          "time_info": "[17时32分 ~ 21时36分]"
+        },
+        {
+          "title": "阿贝尔掌舵半年伯克希尔大举增持谷歌、A类股晋升前五重仓，Q2加码航空和房产股",
+          "url": "https://wallstreetcn.com/articles/3779490",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 06时28分]"
         },
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
