@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T20:54:15.723736+08:00",
-  "total_titles_processed": 1726,
+  "generated_at": "2026-08-17T21:44:05.893569+08:00",
+  "total_titles_processed": 1815,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 60,
       "titles": [
         {
           "title": "特朗普向朝韩发出强烈信号，信息量很大",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时38分 ~ 20时54分]"
+          "appearance_count": 18,
+          "time_info": "[09时38分 ~ 21时44分]"
         },
         {
           "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
@@ -113,6 +113,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
+        },
+        {
+          "title": "美国最高法院拒绝特朗普再次请求审理其针对E. Jean Carroll 500万美元判决结果的上诉。",
+          "url": "https://flash.jin10.com/detail/20260817213146460800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
         },
         {
           "title": "特朗普再促参议院通过全年采用夏令时法案",
@@ -433,6 +444,30 @@
           "time_info": "[00时32分 ~ 01时24分]"
         },
         {
+          "title": "特朗普称若阿曼阻碍美方重开霍尔木兹海峡 将对其实施轰炸",
+          "url": "https://wallstreetcn.com/livenews/3150515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 21时44分]"
+        },
+        {
+          "title": "特朗普要求伊朗举白旗投降",
+          "url": "https://wallstreetcn.com/livenews/3150512",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 21时44分]"
+        },
+        {
           "title": "特朗普会让美航母全面退化吗",
           "url": "https://www.toutiao.com/trending/7674860385295404590/",
           "source": "今日头条",
@@ -442,6 +477,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时05分 ~ 15时06分]"
+        },
+        {
+          "title": "释疑丨扒开新型美式政商关系：特朗普到哪儿，权贵们的房子就买到哪儿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33797232",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时43分 ~ 21时44分]"
         },
         {
           "title": "美国一“特朗普周边店”全场5折清仓",
@@ -475,17 +521,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时32分"
-        },
-        {
-          "title": "特朗普称若阿曼阻碍美方重开霍尔木兹海峡 将对其实施轰炸",
-          "url": "https://wallstreetcn.com/livenews/3150515",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
         },
         {
           "title": "特朗普为何要求航母改回蒸汽弹射",
@@ -532,24 +567,13 @@
           "time_info": "18时38分"
         },
         {
-          "title": "特朗普要求伊朗举白旗投降",
-          "url": "https://wallstreetcn.com/livenews/3150512",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
           "title": "据半岛电视台：哈马斯表示，特朗普的言论确认了他对停火进程的承诺。我们呼吁特朗普总统向以色列政府施压，要求其遵守达成的协议，以实施和平计划的第二阶段。",
           "url": "https://flash.jin10.com/detail/20260817202651967800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -637,7 +661,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -688,6 +712,164 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
+          "url": "https://www.cls.cn/detail/2455237",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 09时39分]"
+        },
+        {
+          "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
+          "url": "https://www.cls.cn/detail/2455353",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时32分 ~ 13时40分]"
+        },
+        {
+          "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
+          "url": "https://wallstreetcn.com/articles/3779526",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 11时05分]"
+        },
+        {
+          "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
+          "url": "https://www.cls.cn/detail/2455147",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 07时26分]"
+        },
+        {
+          "title": "英伟达(NVDA.O)上涨0.8%，OpenAI承诺将在2030年前大规模部署英伟达AI基础设施。",
+          "url": "https://flash.jin10.com/detail/20260817213122179800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        },
+        {
+          "title": "英伟达：累计支付义务上限为1050亿美元。 OpenAI将支付租金。",
+          "url": "https://wallstreetcn.com/livenews/3150527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "OpenAI承诺在2030年前进行大规模的英伟达基础设施部署。",
+          "url": "https://wallstreetcn.com/livenews/3150525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "OpenAI内部动荡加剧：重组不断，员工疲惫，高管离职潮持续，上市计划悄然推迟",
+          "url": "https://wallstreetcn.com/articles/3779533",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时49分 ~ 15时06分]"
+        },
+        {
+          "title": "OpenAI：利用模型帮助保障代码安全。 将模型用于基础设施防御工作。 持续投资于安全架构与管控措施。",
+          "url": "https://wallstreetcn.com/livenews/3150523",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 21时44分]"
+        },
+        {
+          "title": "OpenAI 人事地震",
+          "url": "https://www.baidu.com/s?wd=OpenAI+%E4%BA%BA%E4%BA%8B%E5%9C%B0%E9%9C%87",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时49分 ~ 12时50分]"
+        },
+        {
+          "title": "OpenAI CEO：大学读两年就够了",
+          "url": "https://www.baidu.com/s?wd=OpenAI+CEO%EF%BC%9A%E5%A4%A7%E5%AD%A6%E8%AF%BB%E4%B8%A4%E5%B9%B4%E5%B0%B1%E5%A4%9F%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时05分 ~ 15时06分]"
+        },
+        {
+          "title": "英伟达：OpenAI承诺2030年前部署约12吉瓦英伟达AI算力",
+          "url": "https://wallstreetcn.com/livenews/3150525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        },
+        {
+          "title": "OpenAI：Ports-Pike项目预计将在截至2032年的六年建设期内创造3.5万个建筑业就业岗位，并长期创造2500个运营岗位。",
+          "url": "https://flash.jin10.com/detail/20260817210940922800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 10,
       "titles": [
@@ -699,11 +881,12 @@
             15,
             9,
             6,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时40分 ~ 20时54分]"
+          "appearance_count": 13,
+          "time_info": "[13时40分 ~ 21时44分]"
         },
         {
           "title": "DeepSeek正式涨价",
@@ -758,6 +941,18 @@
           "time_info": "[09时38分 ~ 12时50分]"
         },
         {
+          "title": "Opencode Go 也涨价了，哪里还有便宜 DeepSeek ？",
+          "url": "https://www.zhihu.com/question/2072487733474359004",
+          "source": "知乎",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时53分 ~ 21时44分]"
+        },
+        {
           "title": "DeepSeek Harness 有什么好用的插件？",
           "url": "https://www.zhihu.com/question/2071617281214378127",
           "source": "知乎",
@@ -791,18 +986,6 @@
           "time_info": "[12时49分 ~ 12时50分]"
         },
         {
-          "title": "Opencode Go 也涨价了，哪里还有便宜 DeepSeek ？",
-          "url": "https://www.zhihu.com/question/2072487733474359004",
-          "source": "知乎",
-          "ranks": [
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时53分 ~ 20时54分]"
-        },
-        {
           "title": "如何快速上手DeepSeek Harness",
           "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E4%B8%8A%E6%89%8BDeepSeek%20Harness",
           "source": "bilibili 热搜",
@@ -816,126 +999,74 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 10,
+      "keyword_group": "美股",
+      "match_count": 6,
       "titles": [
         {
-          "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
-          "url": "https://www.cls.cn/detail/2455237",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时32分 ~ 09时39分]"
-        },
-        {
-          "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
-          "url": "https://www.cls.cn/detail/2455353",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时32分 ~ 13时40分]"
-        },
-        {
-          "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
-          "url": "https://wallstreetcn.com/articles/3779526",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时32分 ~ 11时05分]"
-        },
-        {
-          "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
-          "url": "https://www.cls.cn/detail/2455147",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 07时26分]"
-        },
-        {
-          "title": "英伟达：累计支付义务上限为1050亿美元。 OpenAI将支付租金。",
-          "url": "https://wallstreetcn.com/livenews/3150527",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
-          "title": "OpenAI承诺在2030年前进行大规模的英伟达基础设施部署。",
-          "url": "https://wallstreetcn.com/livenews/3150525",
-          "source": "华尔街见闻-快讯",
+          "title": "美股开盘，道指跌0.3%，标普500指数接近平开，纳指涨0.2%。存储概念股上涨，美光科技(MU.O)涨3.6%，闪迪(SNDK.O)涨4.5%。Alphabet(GOOG.O)涨0.2%，伯克希尔二季度继续加仓Alphabet。阿里巴巴(BABA.N)上涨1.6%，公司以15亿美元的价格出售游戏业务。",
+          "url": "https://flash.jin10.com/detail/20260817213040526800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时54分"
+          "time_info": "21时44分"
         },
         {
-          "title": "OpenAI：利用模型帮助保障代码安全。 将模型用于基础设施防御工作。 持续投资于安全架构与管控措施。",
-          "url": "https://wallstreetcn.com/livenews/3150523",
+          "title": "美股期指涨跌不一 芯片股盘前走高 国际油价上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2456385",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时43分 ~ 21时44分]"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3150529",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
+          "time_info": "21时44分"
+        },
+        {
+          "title": "Snap美股盘前跌幅扩大至逾15%。",
+          "url": "https://wallstreetcn.com/livenews/3150462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
+          "title": "美股盘前，存储芯片股普涨，闪迪涨约6%，SK海力士涨约4%，希捷科技涨约3%，西部数据涨约4%，美光科技涨约3%。",
+          "url": "https://wallstreetcn.com/livenews/3150351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时51分"
+        },
+        {
+          "title": "Snap美股盘前跌幅收窄至5%，此前一度跌16%。",
+          "url": "https://wallstreetcn.com/livenews/3150487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
           "time_info": "20时54分"
-        },
-        {
-          "title": "OpenAI内部动荡加剧：重组不断，员工疲惫，高管离职潮持续，上市计划悄然推迟",
-          "url": "https://wallstreetcn.com/articles/3779533",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时49分 ~ 15时06分]"
-        },
-        {
-          "title": "OpenAI 人事地震",
-          "url": "https://www.baidu.com/s?wd=OpenAI+%E4%BA%BA%E4%BA%8B%E5%9C%B0%E9%9C%87",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 12时50分]"
-        },
-        {
-          "title": "OpenAI CEO：大学读两年就够了",
-          "url": "https://www.baidu.com/s?wd=OpenAI+CEO%EF%BC%9A%E5%A4%A7%E5%AD%A6%E8%AF%BB%E4%B8%A4%E5%B9%B4%E5%B0%B1%E5%A4%9F%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时05分 ~ 15时06分]"
         }
       ]
     },
@@ -996,7 +1127,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美债逼近40万亿，美银Hartnett：做多黄金是当下最优解",
@@ -1010,8 +1141,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时49分 ~ 20时54分]"
+          "appearance_count": 15,
+          "time_info": "[12时49分 ~ 21时44分]"
         },
         {
           "title": "媒体人：美债买卖日本救火中国搬家",
@@ -1037,45 +1168,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "Snap美股盘前跌幅扩大至逾15%。",
-          "url": "https://wallstreetcn.com/livenews/3150462",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时32分"
         },
         {
-          "title": "美股盘前，存储芯片股普涨，闪迪涨约6%，SK海力士涨约4%，希捷科技涨约3%，西部数据涨约4%，美光科技涨约3%。",
-          "url": "https://wallstreetcn.com/livenews/3150351",
-          "source": "华尔街见闻-快讯",
+          "title": "美债总规模将破40万亿大关，美银：做多黄金是明智之举",
+          "url": "https://flash.jin10.com/detail/20260817210832512800",
+          "source": "金十数据",
           "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时51分"
-        },
-        {
-          "title": "Snap美股盘前跌幅收窄至5%，此前一度跌16%。",
-          "url": "https://wallstreetcn.com/livenews/3150487",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时54分"
+          "time_info": "21时44分"
         }
       ]
     },
