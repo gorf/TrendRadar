@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T07:26:08.672310+08:00",
-  "total_titles_processed": 530,
+  "generated_at": "2026-08-17T09:39:01.467955+08:00",
+  "total_titles_processed": 702,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 36,
       "titles": [
         {
           "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
@@ -26,8 +26,41 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 07时26分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 09时39分]"
+        },
+        {
+          "title": "特朗普向朝韩发出强烈信号，信息量很大",
+          "url": "https://news.ifeng.com/c/8vehnvg4TOJ",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时38分 ~ 09时39分]"
+        },
+        {
+          "title": "沙土巴三国签署共同防务协议，特朗普发声",
+          "url": "https://news.ifeng.com/c/8veP1BeKo8D",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时38分 ~ 09时39分]"
+        },
+        {
+          "title": "航母被曝大丑闻，美州长：特朗普的回应让我非常愤怒",
+          "url": "https://news.ifeng.com/c/8vegxyVDbqF",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时38分 ~ 09时39分]"
         },
         {
           "title": "特朗普再促参议院通过全年采用夏令时法案",
@@ -39,6 +72,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时32分 ~ 05时25分]"
+        },
+        {
+          "title": "美国总统特朗普周一日程一览",
+          "url": "https://flash.jin10.com/detail/20260817092600312800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
+        {
+          "title": "特朗普发声后，韩国防部称韩美军演正按计划进行",
+          "url": "https://wallstreetcn.com/livenews/3150151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
         },
         {
           "title": "哈马斯方面表示，我们高度评价特朗普在促成加沙停火协议方面发挥的作用。",
@@ -256,6 +311,17 @@
           "time_info": "[00时32分 ~ 01时24分]"
         },
         {
+          "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
+          "url": "https://wallstreetcn.com/articles/3779545",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时38分 ~ 09时39分]"
+        },
+        {
           "title": "消息人士：特朗普高级顾问库什纳和“和平委员会”加沙事务高级代表尼古拉·姆拉德诺夫已向哈马斯承诺，以色列军队将与该组织的解除武装同步，从加沙撤出。",
           "url": "https://flash.jin10.com/detail/20260816234600568800",
           "source": "金十数据",
@@ -280,6 +346,17 @@
           "time_info": "[00时32分 ~ 01时24分]"
         },
         {
+          "title": "特朗普称要大幅缩减美韩联合军演",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%A6%81%E5%A4%A7%E5%B9%85%E7%BC%A9%E5%87%8F%E7%BE%8E%E9%9F%A9%E8%81%94%E5%90%88%E5%86%9B%E6%BC%94%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时38分 ~ 09时39分]"
+        },
+        {
           "title": "特朗普为何要求航母改回蒸汽弹射",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E4%BD%95%E8%A6%81%E6%B1%82%E8%88%AA%E6%AF%8D%E6%94%B9%E5%9B%9E%E8%92%B8%E6%B1%BD%E5%BC%B9%E5%B0%84",
           "source": "bilibili 热搜",
@@ -297,7 +374,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -308,7 +385,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -359,6 +436,56 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "DeepSeek调价生效 涨幅最高达1100%",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E8%B0%83%E4%BB%B7%E7%94%9F%E6%95%88+%E6%B6%A8%E5%B9%85%E6%9C%80%E9%AB%98%E8%BE%BE1100%25",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时38分 ~ 09时39分]"
+        },
+        {
+          "title": "如何评价 DeepSeek 涨价后，OpenCode Go 套餐的 Flash 模型调用量削减 94%？",
+          "url": "https://www.zhihu.com/question/2072481373085028433",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时38分 ~ 09时39分]"
+        },
+        {
+          "title": "DeepSeek Harness邪修攻略",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E9%82%AA%E4%BF%AE%E6%94%BB%E7%95%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时38分 ~ 09时39分]"
+        },
+        {
+          "title": "DeepSeek正式涨价",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时38分 ~ 09时39分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 4,
       "titles": [
@@ -371,8 +498,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 07时26分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 09时39分]"
         },
         {
           "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
@@ -387,6 +514,19 @@
           "time_info": "[00时32分 ~ 07时26分]"
         },
         {
+          "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
+          "url": "https://www.cls.cn/detail/2455353",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 09时39分]"
+        },
+        {
           "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
           "url": "https://wallstreetcn.com/articles/3779526",
           "source": "华尔街见闻",
@@ -394,26 +534,14 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 07时26分]"
-        },
-        {
-          "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
-          "url": "https://www.cls.cn/detail/2455353",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 07时26分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 09时39分]"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
@@ -423,8 +551,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 07时26分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 09时39分]"
         },
         {
           "title": "伯克希尔二季度13F持仓变阵：增持谷歌、达美航空，连续两季减持美银",
@@ -437,6 +565,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时32分 ~ 07时26分]"
+        },
+        {
+          "title": "段永平最新调仓出炉：减持苹果、英伟达、谷歌，买回阿里",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33794674",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时38分 ~ 09时39分]"
         }
       ]
     },
