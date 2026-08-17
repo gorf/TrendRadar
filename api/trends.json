@@ -1,96 +1,22 @@
 {
-  "generated_at": "2026-08-17T23:31:27.802968+08:00",
-  "total_titles_processed": 1986,
+  "generated_at": "2026-08-18T00:34:44.150742+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 68,
+      "match_count": 5,
       "titles": [
         {
-          "title": "特朗普向朝韩发出强烈信号，信息量很大",
-          "url": "https://news.ifeng.com/c/8vehnvg4TOJ",
-          "source": "凤凰网",
+          "title": "美以盟友关系现裂痕 特朗普称以色列应停止对加沙的袭击",
+          "url": "https://flash.jin10.com/detail/20260818002159411800",
+          "source": "金十数据",
           "ranks": [
-            1,
-            2,
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[09时38分 ~ 23时31分]"
-        },
-        {
-          "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
-          "url": "https://news.ifeng.com/c/8vd6r6o7WHm",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 07时26分]"
-        },
-        {
-          "title": "航母被曝大丑闻，美州长：特朗普的回应让我非常愤怒",
-          "url": "https://news.ifeng.com/c/8vegxyVDbqF",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时38分 ~ 17时49分]"
-        },
-        {
-          "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
-          "url": "https://wallstreetcn.com/articles/3779521",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时32分 ~ 09时39分]"
-        },
-        {
-          "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
-          "url": "https://wallstreetcn.com/articles/3779545",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时38分 ~ 19时32分]"
-        },
-        {
-          "title": "沙土巴三国签署共同防务协议，特朗普发声",
-          "url": "https://news.ifeng.com/c/8veP1BeKo8D",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时38分 ~ 13时40分]"
-        },
-        {
-          "title": "苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？",
-          "url": "https://www.zhihu.com/question/2072595818725336495",
-          "source": "知乎",
-          "ranks": [
-            15,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时49分 ~ 18时38分]"
+          "appearance_count": 1,
+          "time_info": "00时34分"
         },
         {
           "title": "特朗普要求伊朗举白旗投降",
@@ -100,1333 +26,131 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时34分 ~ 23时31分]"
-        },
-        {
-          "title": "特朗普为何关键时刻与韩国作对",
-          "url": "https://www.toutiao.com/trending/7674921028065168932/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时37分 ~ 18时38分]"
-        },
-        {
-          "title": "美国总统特朗普：伊朗绝不能以任何方式、形态或形式拥有核武器。",
-          "url": "https://flash.jin10.com/detail/20260817181911430800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时38分"
+          "time_info": "00时34分"
         },
         {
-          "title": "美国最高法院拒绝特朗普再次请求审理其针对E. Jean Carroll 500万美元判决结果的上诉。",
-          "url": "https://flash.jin10.com/detail/20260817213146460800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时44分"
-        },
-        {
-          "title": "特朗普再促参议院通过全年采用夏令时法案",
-          "url": "https://wallstreetcn.com/livenews/3150053",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 05时25分]"
-        },
-        {
-          "title": "美国总统特朗普周一日程一览",
-          "url": "https://flash.jin10.com/detail/20260817092600312800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时39分"
-        },
-        {
-          "title": "美国总统特朗普：首要目标是伊朗不能拥有核武器。",
-          "url": "https://flash.jin10.com/detail/20260817181853245800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时38分"
-        },
-        {
-          "title": "特朗普对：我可能会支持以色列选举中的某位候选人。以色列不该袭击加沙。（福克斯）",
-          "url": "https://wallstreetcn.com/livenews/3150476",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时32分"
-        },
-        {
-          "title": "伊朗战事拖累选情，特朗普被曝拨款支持共和党候选人",
-          "url": "https://wallstreetcn.com/livenews/3150585",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时31分"
-        },
-        {
-          "title": "特朗普威胁称，如果阿曼妨碍美国，美国将轰炸阿曼",
-          "url": "https://wallstreetcn.com/livenews/3150475",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普向朝韩发出强烈信号，信息量很大",
+          "url": "https://news.ifeng.com/c/8vehnvg4TOJ",
+          "source": "凤凰网",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时32分"
-        },
-        {
-          "title": "哈马斯方面表示，我们高度评价特朗普在促成加沙停火协议方面发挥的作用。",
-          "url": "https://flash.jin10.com/detail/20260817031430338800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            12,
-            18,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时25分 ~ 06时27分]"
-        },
-        {
-          "title": "哈马斯方面表示，他们是否同意特朗普计划的第二阶段，取决于是否能实现永久停火和以色列撤军。",
-          "url": "https://flash.jin10.com/detail/20260817031406099800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            13,
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时25分 ~ 06时27分]"
-        },
-        {
-          "title": "哈马斯方面表示，由哈立德·哈亚率领的组织领导层代表团今日在埃及会见了加沙协议的调解方和担保方，组织已向担保方通报，同意特朗普计划的第二阶段。",
-          "url": "https://flash.jin10.com/detail/20260817030717074800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            14,
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时25分 ~ 06时27分]"
-        },
-        {
-          "title": "特朗普：已要求大幅削减与韩国的联合军演规模",
-          "url": "https://flash.jin10.com/detail/20260817051255445800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时25分 ~ 07时26分]"
-        },
-        {
-          "title": "美国总统特朗普：我对美国很久以前就同意与韩国进行联合军事演习这一事实感到不满。我已指示战争部长赫格塞思大幅减少联合军事演习。",
-          "url": "https://flash.jin10.com/detail/20260817050745376800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时25分 ~ 07时26分]"
-        },
-        {
-          "title": "美国总统特朗普：非常高兴看到沙特、土耳其和巴基斯坦最近终于签署了麦加联合防御协议。",
-          "url": "https://flash.jin10.com/detail/20260817050503839800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            10,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时25分 ~ 07时26分]"
-        },
-        {
-          "title": "特朗普：欢迎沙土巴三国签署共同防务协议",
-          "url": "https://wallstreetcn.com/livenews/3150084",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时27分 ~ 07时26分]"
-        },
-        {
-          "title": "据阿拉比亚电视台：特朗普高级顾问库什纳与加沙和平委员会的会晤已结束。",
-          "url": "https://flash.jin10.com/detail/20260816235136555800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            17,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 02时36分]"
-        },
-        {
-          "title": "特朗普：“不满”美国早前同意参加与韩国的联合军演",
-          "url": "https://wallstreetcn.com/livenews/3150083",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时27分 ~ 07时26分]"
-        },
-        {
-          "title": "特朗普发声后，韩国防部称韩美军演正按计划进行",
-          "url": "https://wallstreetcn.com/livenews/3150151",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时39分 ~ 11时05分]"
-        },
-        {
-          "title": "据阿拉比亚电视台：特朗普高级顾问库什纳向哈马斯领导人确认，哈马斯的武器将会从加沙地带撤出，不会在加沙存放。",
-          "url": "https://flash.jin10.com/detail/20260817004811237800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时24分 ~ 02时36分]"
-        },
-        {
-          "title": "美国总统特朗普表示，他度过了一个“很棒”的周末，进行了“许多会议”。",
-          "url": "https://flash.jin10.com/detail/20260817043331858800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时25分 ~ 06时27分]"
-        },
-        {
-          "title": "特朗普称要大幅缩减美韩联合军演",
-          "url": "https://flash.jin10.com/detail/20260817054805585800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时27分 ~ 07时26分]"
+          "time_info": "00时34分"
         },
         {
           "title": "特朗普威胁：若阿曼阻碍美伊和平协议 将对其发动轰炸",
           "url": "https://www.cls.cn/detail/2456389",
           "source": "财联社热门",
           "ranks": [
-            12,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时34分 ~ 23时31分]"
-        },
-        {
-          "title": "埃及、约旦、阿联酋、卡塔尔、印度尼西亚、沙特阿拉伯、土耳其和巴基斯坦的联合声明称，以色列的拒绝态度威胁到特朗普为结束加沙战争所作的加大力度的努力。",
-          "url": "https://flash.jin10.com/detail/20260816235052320800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            18,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 02时36分]"
-        },
-        {
-          "title": "特朗普已指示“大幅缩减”美韩军演",
-          "url": "https://www.toutiao.com/trending/7674325678535491611/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时05分 ~ 12时50分]"
-        },
-        {
-          "title": "据阿拉比亚电视台：特朗普高级顾问库什纳和加沙和平事务高级特使姆拉迪诺夫坚持要求哈马斯交出武器并拆除其基础设施。",
-          "url": "https://flash.jin10.com/detail/20260817004727097800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时24分 ~ 02时36分]"
-        },
-        {
-          "title": "据阿拉比亚电视台：特朗普高级顾问库什纳和加沙和平事务高级特使姆拉迪诺夫拒绝了哈马斯关于“储存武器”的提议。",
-          "url": "https://flash.jin10.com/detail/20260817004657415800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时24分 ~ 02时36分]"
-        },
-        {
-          "title": "特朗普：欢迎沙土巴三国签署共同防务协议",
-          "url": "https://flash.jin10.com/detail/20260817053245864800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时27分 ~ 07时26分]"
-        },
-        {
-          "title": "埃及、约旦、阿联酋、卡塔尔、印度尼西亚、沙特阿拉伯、土耳其和巴基斯坦发布联合声明，谴责以色列拒绝美国总统特朗普关于加沙的计划。",
-          "url": "https://flash.jin10.com/detail/20260816234910421800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时24分]"
-        },
-        {
-          "title": "消息人士：特朗普高级顾问库什纳和“和平委员会”加沙事务高级代表尼古拉·姆拉德诺夫已向哈马斯承诺，以色列军队将与该组织的解除武装同步，从加沙撤出。",
-          "url": "https://flash.jin10.com/detail/20260816234600568800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时24分]"
-        },
-        {
-          "title": "据阿拉比亚电视台：特朗普高级顾问库什纳向哈马斯方面强调，只有各方履行承诺，和平才能实现。",
-          "url": "https://flash.jin10.com/detail/20260816234319301800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时24分]"
-        },
-        {
-          "title": "特朗普称若阿曼阻碍美方重开霍尔木兹海峡 将对其实施轰炸",
-          "url": "https://wallstreetcn.com/livenews/3150515",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时54分 ~ 21时44分]"
-        },
-        {
-          "title": "特朗普要求伊朗举白旗投降",
-          "url": "https://wallstreetcn.com/livenews/3150512",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时54分 ~ 21时44分]"
-        },
-        {
-          "title": "特朗普会让美航母全面退化吗",
-          "url": "https://www.toutiao.com/trending/7674860385295404590/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时05分 ~ 15时06分]"
-        },
-        {
-          "title": "释疑丨扒开新型美式政商关系：特朗普到哪儿，权贵们的房子就买到哪儿",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33797232",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时43分 ~ 21时44分]"
-        },
-        {
-          "title": "美国一“特朗普周边店”全场5折清仓",
-          "url": "https://www.toutiao.com/trending/7674561854663950342/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时53分 ~ 20时54分]"
-        },
-        {
-          "title": "特朗普称要大幅缩减美韩联合军演",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%A6%81%E5%A4%A7%E5%B9%85%E7%BC%A9%E5%87%8F%E7%BE%8E%E9%9F%A9%E8%81%94%E5%90%88%E5%86%9B%E6%BC%94%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时38分 ~ 09时39分]"
-        },
-        {
-          "title": "特朗普称与伊朗伊斯兰革命卫队存在秘密沟通渠道",
-          "url": "https://flash.jin10.com/detail/20260817192811411800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时32分"
-        },
-        {
-          "title": "特朗普为何要求航母改回蒸汽弹射",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E4%BD%95%E8%A6%81%E6%B1%82%E8%88%AA%E6%AF%8D%E6%94%B9%E5%9B%9E%E8%92%B8%E6%B1%BD%E5%BC%B9%E5%B0%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时25分"
-        },
-        {
-          "title": "特朗普要求“大幅缩减”美韩军演规模",
-          "url": "https://wallstreetcn.com/livenews/3150092",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "特朗普要求“大幅减少”美韩军演：因成本高昂，还释放不当“敌意信号”",
-          "url": "https://flash.jin10.com/detail/20260817063335924800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-17）",
-          "url": "https://flash.jin10.com/detail/20260817181137295800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时38分"
-        },
-        {
-          "title": "据半岛电视台：哈马斯表示，特朗普的言论确认了他对停火进程的承诺。我们呼吁特朗普总统向以色列政府施压，要求其遵守达成的协议，以实施和平计划的第二阶段。",
-          "url": "https://flash.jin10.com/detail/20260817202651967800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
-          "title": "阿曼又被特朗普“点名”，分析人士称其惯于“雷声大雨点小”",
-          "url": "https://flash.jin10.com/detail/20260817215735050800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        },
-        {
-          "title": "据半岛电视台：巴勒斯坦消息人士透露，库什纳已告知哈马斯领导层，特朗普认为解除各派武装是加沙采取任何其他行动前的关键一步。",
-          "url": "https://flash.jin10.com/detail/20260817022525779800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时25分"
-        },
-        {
-          "title": "特朗普再称伊朗绝不能拥有核武器",
-          "url": "https://wallstreetcn.com/livenews/3150454",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时32分"
-        },
-        {
-          "title": "美国白宫：特朗普政府和TrumpRx使处方药价格正在大幅下降，承诺已兑现。",
-          "url": "https://flash.jin10.com/detail/20260817215345128800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        },
-        {
-          "title": "特朗普威胁阿曼：若妨碍美国 将对其进行轰炸",
-          "url": "https://flash.jin10.com/detail/20260817191721703800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时32分"
-        },
-        {
-          "title": "美国能源部长赖特：美国在天然气产量方面处于全球领先地位。得益于特朗普总统推动的“美国能源主导”议程，我们将在未来几十年继续保持领先地位。",
-          "url": "https://flash.jin10.com/detail/20260817215308369800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        },
-        {
-          "title": "特朗普女婿库什纳：埃及是美国在中东的重要合作伙伴。",
-          "url": "https://flash.jin10.com/detail/20260816215626803800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "市场消息：埃及总统塞西与特朗普女婿库什纳确认了解决地区当前危机的必要性，重申各方必须致力于履行加沙地带战争停火协议下的义务。",
-          "url": "https://flash.jin10.com/detail/20260816215609663800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "据半岛电视台：巴勒斯坦消息人士表示，库什纳向哈马斯领导层确认，特朗普决心推进其关于加沙地带的计划。",
-          "url": "https://flash.jin10.com/detail/20260817022158141800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时25分"
-        },
-        {
-          "title": "据福克斯新闻：特朗普表示，以色列不该袭击加沙。",
-          "url": "https://flash.jin10.com/detail/20260817191605015800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时32分"
-        },
-        {
-          "title": "据CNN：美国特使库什纳敦促内塔尼亚胡推进特朗普支持的加沙停火计划，“不要制造障碍”<br/>。",
-          "url": "https://flash.jin10.com/detail/20260817215058439800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        },
-        {
-          "title": "以色列总统：今天在耶路撒冷总统府会见了美国特使库什纳、“和平委员会”加沙高级代表姆拉德诺夫以及他们的团队。他们正根据特朗普总统提出的20点计划推动加沙下一阶段的落实工作。我强调，下一阶段必须确保以色列国及其公民的安全，并为该地区所有民族带来稳定以及更加美好的未来。",
-          "url": "https://flash.jin10.com/detail/20260817223608155800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时31分"
-        },
-        {
-          "title": "特朗普的委内瑞拉事务特使正在推动“美国优先”石油交易。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3150496",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
-          "title": "据福克斯新闻：特朗普表示，他可能会在以色列选举中支持某位候选人。",
-          "url": "https://flash.jin10.com/detail/20260817191247640800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时32分"
-        },
-        {
-          "title": "特朗普发文欢迎中东各国自保",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E6%96%87%E6%AC%A2%E8%BF%8E%E4%B8%AD%E4%B8%9C%E5%90%84%E5%9B%BD%E8%87%AA%E4%BF%9D%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时05分"
-        },
-        {
-          "title": "据福克斯新闻：特朗普威胁称，如果阿曼妨碍美国，美国将轰炸阿曼。",
-          "url": "https://flash.jin10.com/detail/20260817191233400800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时32分"
-        },
-        {
-          "title": "特朗普缩减美韩联合军演规模会威胁中朝关系吗？外交部回应",
-          "url": "https://wallstreetcn.com/livenews/3150337",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
-          "url": "https://www.cls.cn/detail/2455237",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时32分 ~ 09时39分]"
-        },
-        {
-          "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
-          "url": "https://www.cls.cn/detail/2455353",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7,
-            5,
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时32分 ~ 13时40分]"
-        },
-        {
-          "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
-          "url": "https://wallstreetcn.com/articles/3779526",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时32分 ~ 11时05分]"
-        },
-        {
-          "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
-          "url": "https://www.cls.cn/detail/2455147",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 07时26分]"
-        },
-        {
-          "title": "英伟达(NVDA.O)上涨0.8%，OpenAI承诺将在2030年前大规模部署英伟达AI基础设施。",
-          "url": "https://flash.jin10.com/detail/20260817213122179800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时44分"
+          "time_info": "00时34分"
         },
         {
-          "title": "英伟达：累计支付义务上限为1050亿美元。 OpenAI将支付租金。",
-          "url": "https://wallstreetcn.com/livenews/3150527",
+          "title": "伊朗战事拖累选情，特朗普被曝拨款支持共和党候选人",
+          "url": "https://wallstreetcn.com/livenews/3150585",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
-          "title": "OpenAI承诺在2030年前进行大规模的英伟达基础设施部署。",
-          "url": "https://wallstreetcn.com/livenews/3150525",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
-          "title": "OpenAI内部动荡加剧：重组不断，员工疲惫，高管离职潮持续，上市计划悄然推迟",
-          "url": "https://wallstreetcn.com/articles/3779533",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时49分 ~ 15时06分]"
-        },
-        {
-          "title": "OpenAI：利用模型帮助保障代码安全。 将模型用于基础设施防御工作。 持续投资于安全架构与管控措施。",
-          "url": "https://wallstreetcn.com/livenews/3150523",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时54分 ~ 22时34分]"
-        },
-        {
-          "title": "OpenAI 人事地震",
-          "url": "https://www.baidu.com/s?wd=OpenAI+%E4%BA%BA%E4%BA%8B%E5%9C%B0%E9%9C%87",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 12时50分]"
-        },
-        {
-          "title": "OpenAI CEO：大学读两年就够了",
-          "url": "https://www.baidu.com/s?wd=OpenAI+CEO%EF%BC%9A%E5%A4%A7%E5%AD%A6%E8%AF%BB%E4%B8%A4%E5%B9%B4%E5%B0%B1%E5%A4%9F%E4%BA%86",
-          "source": "百度热搜",
           "ranks": [
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时05分 ~ 15时06分]"
-        },
-        {
-          "title": "市场消息：美国金融服务公司Synchrony宣布与OpenAI达成企业合作协议，Synchrony将部署GPT-5.6 Sol、Terra和Luna模型，还将推出ChatGPT插件。",
-          "url": "https://flash.jin10.com/detail/20260817230059912800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时31分"
-        },
-        {
-          "title": "英伟达：OpenAI承诺2030年前部署约12吉瓦英伟达AI算力",
-          "url": "https://wallstreetcn.com/livenews/3150525",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时44分"
-        },
-        {
-          "title": "OpenAI：Ports-Pike项目预计将在截至2032年的六年建设期内创造3.5万个建筑业就业岗位，并长期创造2500个运营岗位。",
-          "url": "https://flash.jin10.com/detail/20260817210940922800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时44分"
-        },
-        {
-          "title": "英伟达：OpenAI已承诺到2030年大规模部署英伟达AI基础设施，现有及计划中的部署规模约为12吉瓦",
-          "url": "https://wallstreetcn.com/livenews/3150525",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "美股开盘，道指跌0.3%，标普500指数接近平开，纳指涨0.2%。存储概念股上涨，美光科技(MU.O)涨3.6%，闪迪(SNDK.O)涨4.5%。Alphabet(GOOG.O)涨0.2%，伯克希尔二季度继续加仓Alphabet。阿里巴巴(BABA.N)上涨1.6%，公司以15亿美元的价格出售游戏业务。",
-          "url": "https://flash.jin10.com/detail/20260817213040526800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时44分"
-        },
-        {
-          "title": "美股期指涨跌不一 芯片股盘前走高 国际油价上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2456385",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时43分 ~ 23时31分]"
-        },
-        {
-          "title": "美联储加息预期降温，AI情绪回暖，美股指涨跌互现，存储芯片股普涨，金油齐涨",
-          "url": "https://wallstreetcn.com/articles/3779603",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时30分 ~ 23时31分]"
-        },
-        {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3150529",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时44分 ~ 22时34分]"
-        },
-        {
-          "title": "华尔街“恐慌指数”触及年内低点，机构警告美股秋季抛售风险加剧",
-          "url": "https://flash.jin10.com/detail/20260817220603052800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        },
-        {
-          "title": "美股光通信板块盘初走高，迈威尔科技涨超6%，Coherent涨近5%，Lumentum涨近3%。",
-          "url": "https://wallstreetcn.com/livenews/3150550",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        },
-        {
-          "title": "Snap美股盘前跌幅扩大至逾15%。",
-          "url": "https://wallstreetcn.com/livenews/3150462",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时32分"
-        },
-        {
-          "title": "美股盘初，主要行业ETF涨跌不一，半导体ETF涨超1%，全球科技股指数ETF涨近1%，日常消费品ETF跌近1%。",
-          "url": "https://wallstreetcn.com/livenews/3150547",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        },
-        {
-          "title": "北美科技软件股指数ETF美股盘初跌超0.6%，报103.24美元，脱离6月1日以来（盘中）最高位106.75美元。",
-          "url": "https://wallstreetcn.com/livenews/3150546",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        },
-        {
-          "title": "美股存储板块进一步扩大涨幅，SK海力士ADR涨6.5%，美光科技涨5.7%，闪迪股价涨10.5%。",
-          "url": "https://wallstreetcn.com/livenews/3150574",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时31分"
-        },
-        {
-          "title": "美股盘初：纳指涨0.2%，存储芯片股普涨",
-          "url": "https://wallstreetcn.com/livenews/3150545",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        },
-        {
-          "title": "美股盘前，存储芯片股普涨，闪迪涨约6%，SK海力士涨约4%，希捷科技涨约3%，西部数据涨约4%，美光科技涨约3%。",
-          "url": "https://wallstreetcn.com/livenews/3150351",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时51分"
-        },
-        {
-          "title": "Snap美股盘前跌幅收窄至5%，此前一度跌16%。",
-          "url": "https://wallstreetcn.com/livenews/3150487",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "DeepSeek 新定价已生效，实际体验下来你的感受如何？跟你预想的差异大吗？",
-          "url": "https://www.zhihu.com/question/2072598571090538898",
-          "source": "知乎",
-          "ranks": [
-            15,
-            9,
-            6,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时40分 ~ 22时34分]"
-        },
-        {
-          "title": "DeepSeek正式涨价",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            3,
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时49分 ~ 16时51分]"
-        },
-        {
-          "title": "DeepSeek调价生效 涨幅最高达1100%",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E8%B0%83%E4%BB%B7%E7%94%9F%E6%95%88+%E6%B6%A8%E5%B9%85%E6%9C%80%E9%AB%98%E8%BE%BE1100%25",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时38分 ~ 12时50分]"
-        },
-        {
-          "title": "如何评价 DeepSeek 涨价后，OpenCode Go 套餐的 Flash 模型调用量削减 94%？",
-          "url": "https://www.zhihu.com/question/2072481373085028433",
-          "source": "知乎",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时38分 ~ 11时05分]"
-        },
-        {
-          "title": "DeepSeek正式涨价",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时38分 ~ 12时50分]"
-        },
-        {
-          "title": "Opencode Go 也涨价了，哪里还有便宜 DeepSeek ？",
-          "url": "https://www.zhihu.com/question/2072487733474359004",
-          "source": "知乎",
-          "ranks": [
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时53分 ~ 21时44分]"
-        },
-        {
-          "title": "DeepSeek Harness 有什么好用的插件？",
-          "url": "https://www.zhihu.com/question/2071617281214378127",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时05分 ~ 16时51分]"
-        },
-        {
-          "title": "DeepSeek Harness邪修攻略",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E9%82%AA%E4%BF%AE%E6%94%BB%E7%95%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时38分 ~ 09时39分]"
-        },
-        {
-          "title": "博主：DeepSeek要当全球Agent的底座",
-          "url": "https://www.toutiao.com/trending/7674830497876282921/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 12时50分]"
-        },
-        {
-          "title": "如何快速上手DeepSeek Harness",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E4%B8%8A%E6%89%8BDeepSeek%20Harness",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时40分"
+          "time_info": "00时34分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
         {
           "title": "美债逼近40万亿，美银Hartnett：做多黄金是当下最优解",
           "url": "https://wallstreetcn.com/articles/3779560",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            7,
-            4,
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[12时49分 ~ 23时31分]"
-        },
-        {
-          "title": "媒体人：美债买卖日本救火中国搬家",
-          "url": "https://www.toutiao.com/trending/7674607374035848723/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            25,
-            30,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 06时27分]"
-        },
-        {
-          "title": "李大霄解读美债收益率",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E5%80%BA%E6%94%B6%E7%9B%8A%E7%8E%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时40分"
+          "time_info": "00时34分"
         },
         {
           "title": "汇丰：美联储缩减持仓将使美债只能依赖价格敏感型买家",
           "url": "https://wallstreetcn.com/livenews/3150581",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时31分"
-        },
-        {
-          "title": "美债总规模将破40万亿大关，美银：做多黄金是明智之举",
-          "url": "https://flash.jin10.com/detail/20260817210832512800",
-          "source": "金十数据",
-          "ranks": [
-            20
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时44分"
+          "time_info": "00时34分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "keyword_group": "美股",
+      "match_count": 2,
       "titles": [
         {
-          "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
-          "url": "https://wallstreetcn.com/articles/3779527",
+          "title": "美联储加息预期降温，AI情绪回暖，美股指涨跌互现，存储芯片股普涨，金油齐涨",
+          "url": "https://wallstreetcn.com/articles/3779603",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时32分 ~ 11时05分]"
-        },
-        {
-          "title": "伯克希尔二季度13F持仓变阵：增持谷歌、达美航空，连续两季减持美银",
-          "url": "https://wallstreetcn.com/articles/3779522",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 07时26分]"
-        },
-        {
-          "title": "段永平最新调仓出炉：减持苹果、英伟达、谷歌，买回阿里",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33794674",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            19,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时38分 ~ 19时32分]"
-        },
-        {
-          "title": "Gemini挑瓜 无中生瓜",
-          "url": "https://s.weibo.com/weibo?q=Gemini%E6%8C%91%E7%93%9C%20%E6%97%A0%E4%B8%AD%E7%94%9F%E7%93%9C&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时51分"
+          "time_info": "00时34分"
+        },
+        {
+          "title": "美股期指涨跌不一 芯片股盘前走高 国际油价上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2456385",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek Harness 一下子涌现出那么多插件，有没有大佬给一下推荐？",
+          "url": "https://www.zhihu.com/question/2072103596481683649",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时34分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金价大涨藏着什么信号",
-          "url": "https://www.toutiao.com/trending/7674833333351632403/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时49分 ~ 13时40分]"
-        },
-        {
-          "title": "金价回调半年抛压基本释放",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%9B%9E%E8%B0%83%E5%8D%8A%E5%B9%B4%E6%8A%9B%E5%8E%8B%E5%9F%BA%E6%9C%AC%E9%87%8A%E6%94%BE%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时30分 ~ 23时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
       "match_count": 1,
       "titles": [
         {
-          "title": "美元指数跌0.3%，报99.32。",
-          "url": "https://wallstreetcn.com/livenews/3150340",
-          "source": "华尔街见闻-快讯",
+          "title": "金价回调半年抛压基本释放",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%9B%9E%E8%B0%83%E5%8D%8A%E5%B9%B4%E6%8A%9B%E5%8E%8B%E5%9F%BA%E6%9C%AC%E9%87%8A%E6%94%BE%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
-            26
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时51分"
+          "time_info": "00时34分"
         }
       ]
     }
