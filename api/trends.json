@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T15:06:14.082893+08:00",
-  "total_titles_processed": 1155,
+  "generated_at": "2026-08-17T16:51:27.887493+08:00",
+  "total_titles_processed": 1301,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
@@ -38,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时38分 ~ 15时06分]"
+          "appearance_count": 9,
+          "time_info": "[09时38分 ~ 16时51分]"
         },
         {
           "title": "航母被曝大丑闻，美州长：特朗普的回应让我非常愤怒",
@@ -49,8 +49,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时38分 ~ 15时06分]"
+          "appearance_count": 9,
+          "time_info": "[09时38分 ~ 16时51分]"
         },
         {
           "title": "沙土巴三国签署共同防务协议，特朗普发声",
@@ -74,8 +74,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时38分 ~ 15时06分]"
+          "appearance_count": 9,
+          "time_info": "[09时38分 ~ 16时51分]"
+        },
+        {
+          "title": "苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？",
+          "url": "https://www.zhihu.com/question/2072595818725336495",
+          "source": "知乎",
+          "ranks": [
+            15,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时49分 ~ 16时51分]"
         },
         {
           "title": "特朗普再促参议院通过全年采用夏令时法案",
@@ -140,19 +153,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时25分 ~ 06时27分]"
-        },
-        {
-          "title": "苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？",
-          "url": "https://www.zhihu.com/question/2072595818725336495",
-          "source": "知乎",
-          "ranks": [
-            15,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时49分 ~ 15时06分]"
         },
         {
           "title": "特朗普：已要求大幅削减与韩国的联合军演规模",
@@ -484,6 +484,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时05分"
+        },
+        {
+          "title": "特朗普缩减美韩联合军演规模会威胁中朝关系吗？外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3150337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
         }
       ]
     },
@@ -498,11 +509,12 @@
           "ranks": [
             2,
             3,
-            8
+            8,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时49分 ~ 15时06分]"
+          "appearance_count": 6,
+          "time_info": "[12时49分 ~ 16时51分]"
         },
         {
           "title": "DeepSeek调价生效 涨幅最高达1100%",
@@ -548,11 +560,23 @@
           "source": "知乎",
           "ranks": [
             15,
-            9
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时40分 ~ 16时51分]"
+        },
+        {
+          "title": "DeepSeek Harness 有什么好用的插件？",
+          "url": "https://www.zhihu.com/question/2071617281214378127",
+          "source": "知乎",
+          "ranks": [
+            17
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时40分 ~ 15时06分]"
+          "time_info": "[15时05分 ~ 16时51分]"
         },
         {
           "title": "DeepSeek Harness邪修攻略",
@@ -575,17 +599,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时49分 ~ 12时50分]"
-        },
-        {
-          "title": "DeepSeek Harness 有什么好用的插件？",
-          "url": "https://www.zhihu.com/question/2071617281214378127",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时05分 ~ 15时06分]"
         },
         {
           "title": "如何快速上手DeepSeek Harness",
@@ -693,7 +706,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
@@ -731,6 +744,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时38分 ~ 15时06分]"
+        },
+        {
+          "title": "Gemini挑瓜 无中生瓜",
+          "url": "https://s.weibo.com/weibo?q=Gemini%E6%8C%91%E7%93%9C%20%E6%97%A0%E4%B8%AD%E7%94%9F%E7%93%9C&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
         }
       ]
     },
@@ -738,6 +762,19 @@
       "keyword_group": "美债",
       "match_count": 3,
       "titles": [
+        {
+          "title": "美债逼近40万亿，美银Hartnett：做多黄金是当下最优解",
+          "url": "https://wallstreetcn.com/articles/3779560",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时49分 ~ 16时51分]"
+        },
         {
           "title": "媒体人：美债买卖日本救火中国搬家",
           "url": "https://www.toutiao.com/trending/7674607374035848723/",
@@ -751,18 +788,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时24分 ~ 06时27分]"
-        },
-        {
-          "title": "美债逼近40万亿，美银Hartnett：做多黄金是当下最优解",
-          "url": "https://wallstreetcn.com/articles/3779560",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时49分 ~ 15时06分]"
         },
         {
           "title": "李大霄解读美债收益率",
@@ -791,6 +816,40 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时49分 ~ 13时40分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股盘前，存储芯片股普涨，闪迪涨约6%，SK海力士涨约4%，希捷科技涨约3%，西部数据涨约4%，美光科技涨约3%。",
+          "url": "https://wallstreetcn.com/livenews/3150351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数跌0.3%，报99.32。",
+          "url": "https://wallstreetcn.com/livenews/3150340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
         }
       ]
     }
