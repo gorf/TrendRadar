@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T18:38:13.282792+08:00",
-  "total_titles_processed": 1498,
+  "generated_at": "2026-08-17T19:32:07.684060+08:00",
+  "total_titles_processed": 1610,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 53,
       "titles": [
         {
           "title": "特朗普向朝韩发出强烈信号，信息量很大",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时38分 ~ 18时38分]"
+          "appearance_count": 14,
+          "time_info": "[09时38分 ~ 19时32分]"
         },
         {
           "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
@@ -60,11 +60,12 @@
             9,
             8,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时38分 ~ 18时38分]"
+          "appearance_count": 14,
+          "time_info": "[09时38分 ~ 19时32分]"
         },
         {
           "title": "沙土巴三国签署共同防务协议，特朗普发声",
@@ -108,7 +109,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         },
@@ -141,9 +142,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
+        },
+        {
+          "title": "特朗普对：我可能会支持以色列选举中的某位候选人。以色列不该袭击加沙。（福克斯）",
+          "url": "https://wallstreetcn.com/livenews/3150476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
+          "title": "特朗普威胁称，如果阿曼妨碍美国，美国将轰炸阿曼",
+          "url": "https://wallstreetcn.com/livenews/3150475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         },
         {
           "title": "哈马斯方面表示，我们高度评价特朗普在促成加沙停火协议方面发挥的作用。",
@@ -431,6 +454,17 @@
           "time_info": "[09时38分 ~ 09时39分]"
         },
         {
+          "title": "特朗普称与伊朗伊斯兰革命卫队存在秘密沟通渠道",
+          "url": "https://flash.jin10.com/detail/20260817192811411800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
           "title": "特朗普为何要求航母改回蒸汽弹射",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E4%BD%95%E8%A6%81%E6%B1%82%E8%88%AA%E6%AF%8D%E6%94%B9%E5%9B%9E%E8%92%B8%E6%B1%BD%E5%BC%B9%E5%B0%84",
           "source": "bilibili 热搜",
@@ -470,7 +504,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         },
@@ -484,6 +518,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
+        },
+        {
+          "title": "特朗普再称伊朗绝不能拥有核武器",
+          "url": "https://wallstreetcn.com/livenews/3150454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
+          "title": "特朗普威胁阿曼：若妨碍美国 将对其进行轰炸",
+          "url": "https://flash.jin10.com/detail/20260817191721703800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         },
         {
           "title": "特朗普女婿库什纳：埃及是美国在中东的重要合作伙伴。",
@@ -519,6 +575,28 @@
           "time_info": "03时25分"
         },
         {
+          "title": "据福克斯新闻：特朗普表示，以色列不该袭击加沙。",
+          "url": "https://flash.jin10.com/detail/20260817191605015800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
+          "title": "据福克斯新闻：特朗普表示，他可能会在以色列选举中支持某位候选人。",
+          "url": "https://flash.jin10.com/detail/20260817191247640800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
           "title": "特朗普发文欢迎中东各国自保",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E6%96%87%E6%AC%A2%E8%BF%8E%E4%B8%AD%E4%B8%9C%E5%90%84%E5%9B%BD%E8%87%AA%E4%BF%9D%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -528,6 +606,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时05分"
+        },
+        {
+          "title": "据福克斯新闻：特朗普威胁称，如果阿曼妨碍美国，美国将轰炸阿曼。",
+          "url": "https://flash.jin10.com/detail/20260817191233400800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         },
         {
           "title": "特朗普缩减美韩联合军演规模会威胁中朝关系吗？外交部回应",
@@ -547,6 +636,20 @@
       "match_count": 9,
       "titles": [
         {
+          "title": "DeepSeek 新定价已生效，实际体验下来你的感受如何？跟你预想的差异大吗？",
+          "url": "https://www.zhihu.com/question/2072598571090538898",
+          "source": "知乎",
+          "ranks": [
+            15,
+            9,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时40分 ~ 19时32分]"
+        },
+        {
           "title": "DeepSeek正式涨价",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7",
           "source": "bilibili 热搜",
@@ -559,20 +662,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时49分 ~ 16时51分]"
-        },
-        {
-          "title": "DeepSeek 新定价已生效，实际体验下来你的感受如何？跟你预想的差异大吗？",
-          "url": "https://www.zhihu.com/question/2072598571090538898",
-          "source": "知乎",
-          "ranks": [
-            15,
-            9,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时40分 ~ 18时38分]"
         },
         {
           "title": "DeepSeek调价生效 涨幅最高达1100%",
@@ -784,11 +873,12 @@
           "ranks": [
             18,
             19,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时38分 ~ 18时38分]"
+          "appearance_count": 13,
+          "time_info": "[09时38分 ~ 19时32分]"
         },
         {
           "title": "Gemini挑瓜 无中生瓜",
@@ -818,8 +908,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时49分 ~ 18时38分]"
+          "appearance_count": 11,
+          "time_info": "[12时49分 ~ 19时32分]"
         },
         {
           "title": "媒体人：美债买卖日本救火中国搬家",
@@ -849,6 +939,34 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Snap美股盘前跌幅扩大至逾15%。",
+          "url": "https://wallstreetcn.com/livenews/3150462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
+          "title": "美股盘前，存储芯片股普涨，闪迪涨约6%，SK海力士涨约4%，希捷科技涨约3%，西部数据涨约4%，美光科技涨约3%。",
+          "url": "https://wallstreetcn.com/livenews/3150351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时51分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 1,
       "titles": [
@@ -862,23 +980,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时49分 ~ 13时40分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股盘前，存储芯片股普涨，闪迪涨约6%，SK海力士涨约4%，希捷科技涨约3%，西部数据涨约4%，美光科技涨约3%。",
-          "url": "https://wallstreetcn.com/livenews/3150351",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时51分"
         }
       ]
     },
