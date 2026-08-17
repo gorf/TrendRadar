@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-08-17T16:51:27.887493+08:00",
-  "total_titles_processed": 1301,
+  "generated_at": "2026-08-17T17:49:19.627203+08:00",
+  "total_titles_processed": 1406,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 41,
       "titles": [
+        {
+          "title": "特朗普向朝韩发出强烈信号，信息量很大",
+          "url": "https://news.ifeng.com/c/8vehnvg4TOJ",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时38分 ~ 17时49分]"
+        },
         {
           "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
           "url": "https://news.ifeng.com/c/8vd6r6o7WHm",
@@ -17,6 +29,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时32分 ~ 07时26分]"
+        },
+        {
+          "title": "航母被曝大丑闻，美州长：特朗普的回应让我非常愤怒",
+          "url": "https://news.ifeng.com/c/8vegxyVDbqF",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时38分 ~ 17时49分]"
         },
         {
           "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
@@ -30,27 +53,18 @@
           "time_info": "[00时32分 ~ 09时39分]"
         },
         {
-          "title": "特朗普向朝韩发出强烈信号，信息量很大",
-          "url": "https://news.ifeng.com/c/8vehnvg4TOJ",
-          "source": "凤凰网",
+          "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
+          "url": "https://wallstreetcn.com/articles/3779545",
+          "source": "华尔街见闻",
           "ranks": [
-            1,
-            2
+            9,
+            8,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时38分 ~ 16时51分]"
-        },
-        {
-          "title": "航母被曝大丑闻，美州长：特朗普的回应让我非常愤怒",
-          "url": "https://news.ifeng.com/c/8vegxyVDbqF",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时38分 ~ 16时51分]"
+          "appearance_count": 10,
+          "time_info": "[09时38分 ~ 17时49分]"
         },
         {
           "title": "沙土巴三国签署共同防务协议，特朗普发声",
@@ -64,20 +78,6 @@
           "time_info": "[09时38分 ~ 13时40分]"
         },
         {
-          "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
-          "url": "https://wallstreetcn.com/articles/3779545",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时38分 ~ 16时51分]"
-        },
-        {
           "title": "苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？",
           "url": "https://www.zhihu.com/question/2072595818725336495",
           "source": "知乎",
@@ -87,8 +87,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时49分 ~ 16时51分]"
+          "appearance_count": 7,
+          "time_info": "[12时49分 ~ 17时49分]"
         },
         {
           "title": "特朗普再促参议院通过全年采用夏令时法案",
@@ -492,7 +492,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
         }
@@ -542,6 +542,20 @@
           "time_info": "[09时38分 ~ 11时05分]"
         },
         {
+          "title": "DeepSeek 新定价已生效，实际体验下来你的感受如何？跟你预想的差异大吗？",
+          "url": "https://www.zhihu.com/question/2072598571090538898",
+          "source": "知乎",
+          "ranks": [
+            15,
+            9,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时40分 ~ 17时49分]"
+        },
+        {
           "title": "DeepSeek正式涨价",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -553,19 +567,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时38分 ~ 12时50分]"
-        },
-        {
-          "title": "DeepSeek 新定价已生效，实际体验下来你的感受如何？跟你预想的差异大吗？",
-          "url": "https://www.zhihu.com/question/2072598571090538898",
-          "source": "知乎",
-          "ranks": [
-            15,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时40分 ~ 16时51分]"
         },
         {
           "title": "DeepSeek Harness 有什么好用的插件？",
@@ -742,8 +743,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时38分 ~ 15时06分]"
+          "appearance_count": 9,
+          "time_info": "[09时38分 ~ 17时49分]"
         },
         {
           "title": "Gemini挑瓜 无中生瓜",
@@ -752,7 +753,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
         }
@@ -772,8 +773,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时49分 ~ 16时51分]"
+          "appearance_count": 7,
+          "time_info": "[12时49分 ~ 17时49分]"
         },
         {
           "title": "媒体人：美债买卖日本救火中国搬家",
@@ -830,7 +831,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
         }
@@ -847,7 +848,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
         }
