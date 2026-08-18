@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-18T16:43:35.103931+08:00",
-  "total_titles_processed": 1476,
+  "generated_at": "2026-08-18T17:39:41.282245+08:00",
+  "total_titles_processed": 1594,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 67,
+      "match_count": 70,
       "titles": [
         {
           "title": "特朗普要求伊朗举白旗投降",
@@ -39,8 +39,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时29分 ~ 16时43分]"
+          "appearance_count": 11,
+          "time_info": "[09时29分 ~ 17时39分]"
+        },
+        {
+          "title": "特朗普最新支持率公布",
+          "url": "https://news.ifeng.com/c/8vgNsInzDsl",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时01分 ~ 17时39分]"
         },
         {
           "title": "特朗普向朝韩发出强烈信号，信息量很大",
@@ -54,17 +65,6 @@
           "time_info": "[00时34分 ~ 07时29分]"
         },
         {
-          "title": "特朗普最新支持率公布",
-          "url": "https://news.ifeng.com/c/8vgNsInzDsl",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时01分 ~ 16时43分]"
-        },
-        {
           "title": "特朗普：金正恩已回应其对话请求",
           "url": "https://news.ifeng.com/c/8vgIS66EJvG",
           "source": "凤凰网",
@@ -74,8 +74,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时29分 ~ 16时43分]"
+          "appearance_count": 11,
+          "time_info": "[09时29分 ~ 17时39分]"
+        },
+        {
+          "title": "阿曼正和伊朗斡旋，却收到特朗普的轰炸威胁，咋回事？",
+          "url": "https://news.ifeng.com/c/8vgfXfy9cpA",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时52分 ~ 17时39分]"
         },
         {
           "title": "特朗普将宣布霍尔木兹为美国领土",
@@ -91,17 +102,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时32分 ~ 07时29分]"
-        },
-        {
-          "title": "阿曼正和伊朗斡旋，却收到特朗普的轰炸威胁，咋回事？",
-          "url": "https://news.ifeng.com/c/8vgfXfy9cpA",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时52分 ~ 16时43分]"
         },
         {
           "title": "美国议员：特朗普把欺骗到底当美德",
@@ -218,6 +218,19 @@
           "time_info": "03时33分"
         },
         {
+          "title": "特朗普还对人民大会堂念念不忘",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%98%E5%AF%B9%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82%E5%BF%B5%E5%BF%B5%E4%B8%8D%E5%BF%98%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时42分 ~ 17时39分]"
+        },
+        {
           "title": "特朗普：美国不寻求延长与伊朗的谅解备忘录",
           "url": "https://wallstreetcn.com/livenews/3150646",
           "source": "华尔街见闻-快讯",
@@ -267,18 +280,6 @@
           "time_info": "[02时48分 ~ 03时33分]"
         },
         {
-          "title": "特朗普还对人民大会堂念念不忘",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%98%E5%AF%B9%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82%E5%BF%B5%E5%BF%B5%E4%B8%8D%E5%BF%98%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时42分 ~ 16时43分]"
-        },
-        {
           "title": "特朗普被曝自己也通过邮寄选票投票",
           "url": "https://www.toutiao.com/trending/7675157131825905718/",
           "source": "今日头条",
@@ -313,6 +314,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时29分 ~ 09时30分]"
+        },
+        {
+          "title": "特朗普支持率创下其第二任期内新低",
+          "url": "https://www.toutiao.com/trending/7674808450081115711/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 17时39分]"
         },
         {
           "title": "土耳其总统埃尔多安告诉美国总统特朗普，以色列正在加沙袭击巴勒斯坦人，而和平计划第二阶段本应在此时生效。",
@@ -423,6 +435,18 @@
           "time_info": "[06时31分 ~ 07时29分]"
         },
         {
+          "title": "特朗普还对人民大会堂念念不忘",
+          "url": "https://www.toutiao.com/trending/7674416539562590254/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 17时39分]"
+        },
+        {
           "title": "特朗普：伊朗“不会达成我认为必要的那种协议”",
           "url": "https://wallstreetcn.com/livenews/3150694",
           "source": "华尔街见闻-快讯",
@@ -455,17 +479,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时33分"
-        },
-        {
-          "title": "特朗普支持率创下其第二任期内新低",
-          "url": "https://www.toutiao.com/trending/7674808450081115711/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时43分"
         },
         {
           "title": "美国总统特朗普：我们控制着霍尔木兹海峡。",
@@ -529,7 +542,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
@@ -578,6 +591,17 @@
           "time_info": "07时29分"
         },
         {
+          "title": "美国金融史上最明目张胆的一次？特朗普家族持股加密公司获批银行牌照",
+          "url": "https://www.cls.cn/detail/2456722",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
+        },
+        {
           "title": "加拿大总理卡尼：预计将在当地时间8月19日关税截止日期之前与美国总统特朗普进行交谈。",
           "url": "https://flash.jin10.com/detail/20260818011013156800",
           "source": "金十数据",
@@ -598,6 +622,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时48分"
+        },
+        {
+          "title": "特朗普支持率降至任内新低 八成美国人料美伊战事长期持续",
+          "url": "https://www.cls.cn/detail/2456808",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
         },
         {
           "title": "美国总统特朗普：（关于韩国）如果他们不帮助我们，我们也无法保护他们。",
@@ -655,15 +690,15 @@
           "time_info": "11时01分"
         },
         {
-          "title": "特朗普还对人民大会堂念念不忘",
-          "url": "https://www.toutiao.com/trending/7674416539562590254/",
-          "source": "今日头条",
+          "title": "特朗普：吞并霍尔木兹海峡，这主意不错",
+          "url": "https://www.cls.cn/detail/2456977",
+          "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时43分"
+          "time_info": "17时39分"
         },
         {
           "title": "美国总统特朗普：伊朗想达成协议，但他们不会达成我认为必要的那种协议。",
@@ -778,6 +813,230 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 19,
+      "titles": [
+        {
+          "title": "美股期指涨跌不一 芯片股盘前走高 国际油价上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2456385",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 09时30分]"
+        },
+        {
+          "title": "美联储加息预期降温，AI情绪回暖，美股指涨跌互现，存储芯片股普涨，金油齐涨",
+          "url": "https://wallstreetcn.com/articles/3779603",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 04时33分]"
+        },
+        {
+          "title": "地缘风险推高油价，美股三大指数两连跌，存储芯片、光通信逆势大涨，黄金涨回4400",
+          "url": "https://wallstreetcn.com/articles/3779603",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "李大霄谈美股融资潮",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88%E7%BE%8E%E8%82%A1%E8%9E%8D%E8%B5%84%E6%BD%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
+        },
+        {
+          "title": "美股行业ETF多数收跌，航空业ETF跌超2.2%表现最差，标普能源板块涨约0.9%",
+          "url": "https://wallstreetcn.com/livenews/3150681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时33分 ~ 06时31分]"
+        },
+        {
+          "title": "金十图示：2026年08月17日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260818041647203800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时33分 ~ 06时31分]"
+        },
+        {
+          "title": "金十图示：2026年08月17日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260818041644628800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时33分 ~ 06时31分]"
+        },
+        {
+          "title": "美股期货走低，纳斯达克100指数期货跌超1%，标普500指数期货跌0.5%，道指期货跌0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3150885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时52分 ~ 15时42分]"
+        },
+        {
+          "title": "美股收盘：三大股指收跌 存储概念再走强",
+          "url": "https://flash.jin10.com/detail/20260818040234156800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时33分 ~ 06时31分]"
+        },
+        {
+          "title": "美股收盘：3大利好推动AI板块逆势走强",
+          "url": "https://www.toutiao.com/trending/7675142828237786670/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 09时30分]"
+        },
+        {
+          "title": "美股存储芯片指数初步收涨4.5%，半导体板块涨1.4%。 标普500指数初步收跌0.5%，电信、日用消费品、可选消费板块至多跌1.4%，科技板块跌0.1%，能源板块涨0.9%，是唯一收涨的板块。 纳斯达克100指数初步收跌0.1%，成分股中，汤森路透初步收跌4.3%，罗斯百货跌4.1%，Meta、Adobe、Workday、Autodesk、Nebius Group NV、微软至少跌3.2%，美光涨4.6%，SpaceX涨4.6%，Lumentum、西部数据、Strategy、迈威尔科技、泰瑞达、应用材料至多涨5.9%，闪迪涨8.6%。",
+          "url": "https://wallstreetcn.com/livenews/3150675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时33分"
+        },
+        {
+          "title": "美股期货小幅走低，标普500指数期货跌0.2%，纳斯达克100指数期货跌0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3150788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时01分"
+        },
+        {
+          "title": "爱奇艺美股盘前一度跌超8%，现跌幅收窄至不足4%，公司第二季度收入62.9亿元人民币，预估64亿元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3150999",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
+        },
+        {
+          "title": "美股盘前，存储芯片股普跌，闪迪跌约4%，西部数据跌约4%，美光科技、SK海力士跌约3%。",
+          "url": "https://wallstreetcn.com/livenews/3150946",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时43分"
+        },
+        {
+          "title": "百度美股盘前一度跌超5%，公司第二季度营收313.3亿元人民币，预估315.9亿元人民币；第二季度经调整每ADS利润 7.22元人民币，预估9.75元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3150989",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
+        },
+        {
+          "title": "美股存储芯片指数收涨将近4.8%，五天反弹超20%",
+          "url": "https://wallstreetcn.com/livenews/3150684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "百度集团第二季度营收313.3亿元人民币，预估315.9亿元人民币。 第二季度经调整每ADS利润 7.22元人民币，预估9.75元人民币。 第二季度爱奇艺收入62.9亿元人民币，预估64亿元人民币 第二季度百度核心AI新业务收入125亿元人民币。 第二季度调整后营业利润37.9亿元人民币，预估36.1亿元人民币。 第二季度调整后息税折旧及摊销前利润61.5亿元人民币，预估58.1亿元人民币。 第二季度月活跃用户6.4亿。 第二季度现金及投资总额2,831亿元人民币。 第二季度经调整百度一般性业务经营利润38.2亿元人民币。 百度美股盘前跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3150985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
+        },
+        {
+          "title": "金十图示：2026年08月17日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260818003622924800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        },
+        {
+          "title": "标普500指数收跌40.70点，跌幅0.52%，报7745.06点，美股开盘以来处于持续下跌状态，8月4日以来持续胶着于7800点附近。 道琼斯工业平均指数收跌272.63点，跌幅0.51%，报53459.78点。 纳斯达克综合指数（纳指）收跌84.253点，跌幅0.32%，报26644.911点。 纳斯达克100指数收跌50.76点，跌幅0.17%，报29995.381点。",
+          "url": "https://wallstreetcn.com/livenews/3150675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 17,
       "titles": [
@@ -790,8 +1049,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时29分 ~ 16时43分]"
+          "appearance_count": 12,
+          "time_info": "[07时29分 ~ 17时39分]"
         },
         {
           "title": "美债逼近40万亿，美银Hartnett：做多黄金是当下最优解",
@@ -825,11 +1084,12 @@
           "ranks": [
             9,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时01分 ~ 16时43分]"
+          "appearance_count": 9,
+          "time_info": "[11时01分 ~ 17时39分]"
         },
         {
           "title": "美债抛售潮加剧！30年期美债收益率创2007年以来最高",
@@ -839,11 +1099,12 @@
             9,
             8,
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时01分 ~ 16时43分]"
+          "appearance_count": 9,
+          "time_info": "[11时01分 ~ 17时39分]"
         },
         {
           "title": "分析师：美债收益率飙升或冲击亚洲AI驱动的股市涨势",
@@ -984,186 +1245,6 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "美股期指涨跌不一 芯片股盘前走高 国际油价上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2456385",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 09时30分]"
-        },
-        {
-          "title": "美联储加息预期降温，AI情绪回暖，美股指涨跌互现，存储芯片股普涨，金油齐涨",
-          "url": "https://wallstreetcn.com/articles/3779603",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时34分 ~ 04时33分]"
-        },
-        {
-          "title": "地缘风险推高油价，美股三大指数两连跌，存储芯片、光通信逆势大涨，黄金涨回4400",
-          "url": "https://wallstreetcn.com/articles/3779603",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "美股行业ETF多数收跌，航空业ETF跌超2.2%表现最差，标普能源板块涨约0.9%",
-          "url": "https://wallstreetcn.com/livenews/3150681",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时33分 ~ 06时31分]"
-        },
-        {
-          "title": "金十图示：2026年08月17日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260818041647203800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时33分 ~ 06时31分]"
-        },
-        {
-          "title": "金十图示：2026年08月17日（周一）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260818041644628800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时33分 ~ 06时31分]"
-        },
-        {
-          "title": "美股期货走低，纳斯达克100指数期货跌超1%，标普500指数期货跌0.5%，道指期货跌0.2%。",
-          "url": "https://wallstreetcn.com/livenews/3150885",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时52分 ~ 15时42分]"
-        },
-        {
-          "title": "美股收盘：三大股指收跌 存储概念再走强",
-          "url": "https://flash.jin10.com/detail/20260818040234156800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时33分 ~ 06时31分]"
-        },
-        {
-          "title": "美股收盘：3大利好推动AI板块逆势走强",
-          "url": "https://www.toutiao.com/trending/7675142828237786670/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 09时30分]"
-        },
-        {
-          "title": "美股存储芯片指数初步收涨4.5%，半导体板块涨1.4%。 标普500指数初步收跌0.5%，电信、日用消费品、可选消费板块至多跌1.4%，科技板块跌0.1%，能源板块涨0.9%，是唯一收涨的板块。 纳斯达克100指数初步收跌0.1%，成分股中，汤森路透初步收跌4.3%，罗斯百货跌4.1%，Meta、Adobe、Workday、Autodesk、Nebius Group NV、微软至少跌3.2%，美光涨4.6%，SpaceX涨4.6%，Lumentum、西部数据、Strategy、迈威尔科技、泰瑞达、应用材料至多涨5.9%，闪迪涨8.6%。",
-          "url": "https://wallstreetcn.com/livenews/3150675",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时33分"
-        },
-        {
-          "title": "美股期货小幅走低，标普500指数期货跌0.2%，纳斯达克100指数期货跌0.4%。",
-          "url": "https://wallstreetcn.com/livenews/3150788",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "美股盘前，存储芯片股普跌，闪迪跌约4%，西部数据跌约4%，美光科技、SK海力士跌约3%。",
-          "url": "https://wallstreetcn.com/livenews/3150946",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时43分"
-        },
-        {
-          "title": "美股存储芯片指数收涨将近4.8%，五天反弹超20%",
-          "url": "https://wallstreetcn.com/livenews/3150684",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "金十图示：2026年08月17日（周一）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260818003622924800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时33分"
-        },
-        {
-          "title": "标普500指数收跌40.70点，跌幅0.52%，报7745.06点，美股开盘以来处于持续下跌状态，8月4日以来持续胶着于7800点附近。 道琼斯工业平均指数收跌272.63点，跌幅0.51%，报53459.78点。 纳斯达克综合指数（纳指）收跌84.253点，跌幅0.32%，报26644.911点。 纳斯达克100指数收跌50.76点，跌幅0.17%，报29995.381点。",
-          "url": "https://wallstreetcn.com/livenews/3150675",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 7,
       "titles": [
@@ -1198,7 +1279,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
@@ -1231,7 +1312,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
@@ -1301,6 +1382,51 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "DeepSeek Harness 一下子涌现出那么多插件，有没有大佬给一下推荐？",
+          "url": "https://www.zhihu.com/question/2072103596481683649",
+          "source": "知乎",
+          "ranks": [
+            17,
+            12,
+            7,
+            9,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时34分 ~ 11时54分]"
+        },
+        {
+          "title": "DeepSeek招聘土木人才释放一个信号",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%8B%9B%E8%81%98%E5%9C%9F%E6%9C%A8%E4%BA%BA%E6%89%8D%E9%87%8A%E6%94%BE%E4%B8%80%E4%B8%AA%E4%BF%A1%E5%8F%B7",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
+        },
+        {
+          "title": "DeepSeek Harness满血版解锁",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E6%BB%A1%E8%A1%80%E7%89%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 16时43分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 3,
       "titles": [
@@ -1339,40 +1465,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时30分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "DeepSeek Harness 一下子涌现出那么多插件，有没有大佬给一下推荐？",
-          "url": "https://www.zhihu.com/question/2072103596481683649",
-          "source": "知乎",
-          "ranks": [
-            17,
-            12,
-            7,
-            9,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时34分 ~ 11时54分]"
-        },
-        {
-          "title": "DeepSeek Harness满血版解锁",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E6%BB%A1%E8%A1%80%E7%89%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时42分 ~ 16时43分]"
         }
       ]
     },
