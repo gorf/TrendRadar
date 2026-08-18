@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-18T07:29:18.833526+08:00",
-  "total_titles_processed": 629,
+  "generated_at": "2026-08-18T09:30:08.279291+08:00",
+  "total_titles_processed": 780,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 55,
       "titles": [
         {
           "title": "特朗普要求伊朗举白旗投降",
@@ -15,19 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 07时29分]"
-        },
-        {
-          "title": "特朗普向朝韩发出强烈信号，信息量很大",
-          "url": "https://news.ifeng.com/c/8vehnvg4TOJ",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 07时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 09时30分]"
         },
         {
           "title": "特朗普威胁：若阿曼阻碍美伊和平协议 将对其发动轰炸",
@@ -35,6 +24,18 @@
           "source": "财联社热门",
           "ranks": [
             4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 09时30分]"
+        },
+        {
+          "title": "特朗普向朝韩发出强烈信号，信息量很大",
+          "url": "https://news.ifeng.com/c/8vehnvg4TOJ",
+          "source": "凤凰网",
+          "ranks": [
             3
           ],
           "is_new": false,
@@ -55,6 +56,28 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时32分 ~ 07时29分]"
+        },
+        {
+          "title": "大V：特朗普“金蝉脱壳”是政治失算",
+          "url": "https://www.toutiao.com/trending/7675011910084857394/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 09时30分]"
+        },
+        {
+          "title": "特朗普：不着急结束伊朗战争，若阿曼阻碍谈判、将“狠狠轰炸”，伊朗警告转向全面进攻",
+          "url": "https://wallstreetcn.com/articles/3779635",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 09时30分]"
         },
         {
           "title": "美以盟友关系现裂痕 特朗普称以色列应停止对加沙的袭击",
@@ -195,6 +218,17 @@
           "time_info": "[02时47分 ~ 03时33分]"
         },
         {
+          "title": "60天期限已到，特朗普威胁阿曼，伊朗称将“全面进攻”",
+          "url": "https://news.ifeng.com/c/8vgLjEXesPE",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 09时30分]"
+        },
+        {
           "title": "土耳其总统埃尔多安告诉美国总统特朗普，以色列正在加沙袭击巴勒斯坦人，而和平计划第二阶段本应在此时生效。",
           "url": "https://flash.jin10.com/detail/20260818053902807800",
           "source": "金十数据",
@@ -277,6 +311,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时31分 ~ 07时29分]"
+        },
+        {
+          "title": "特朗普：金正恩已回应其对话请求",
+          "url": "https://news.ifeng.com/c/8vgIS66EJvG",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 09时30分]"
         },
         {
           "title": "美国法官阻止了特朗普政府将新的美国联邦调查局总部从马里兰州迁至华盛顿特区的计划。",
@@ -409,7 +454,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -453,7 +498,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -464,7 +509,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -612,11 +657,24 @@
           "url": "https://wallstreetcn.com/articles/3779603",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时29分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时29分 ~ 09时30分]"
+        },
+        {
+          "title": "美股收盘：美债抛售拖累大盘 三大利好推动AI板块逆势走强",
+          "url": "https://www.cls.cn/detail/2456558",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时29分 ~ 09时30分]"
         },
         {
           "title": "6月日本大幅减持美债，策略师：料不会再减持",
@@ -625,18 +683,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
-          "title": "美股收盘：美债抛售拖累大盘 三大利好推动AI板块逆势走强",
-          "url": "https://www.cls.cn/detail/2456558",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -736,8 +783,21 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "美股期指涨跌不一 芯片股盘前走高 国际油价上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2456385",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 09时30分]"
+        },
         {
           "title": "美联储加息预期降温，AI情绪回暖，美股指涨跌互现，存储芯片股普涨，金油齐涨",
           "url": "https://wallstreetcn.com/articles/3779603",
@@ -750,18 +810,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时34分 ~ 04时33分]"
-        },
-        {
-          "title": "美股期指涨跌不一 芯片股盘前走高 国际油价上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2456385",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 07时29分]"
         },
         {
           "title": "地缘风险推高油价，美股三大指数两连跌，存储芯片、光通信逆势大涨，黄金涨回4400",
@@ -821,6 +869,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时33分 ~ 06时31分]"
+        },
+        {
+          "title": "美股收盘：3大利好推动AI板块逆势走强",
+          "url": "https://www.toutiao.com/trending/7675142828237786670/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 09时30分]"
         },
         {
           "title": "美股存储芯片指数初步收涨4.5%，半导体板块涨1.4%。 标普500指数初步收跌0.5%，电信、日用消费品、可选消费板块至多跌1.4%，科技板块跌0.1%，能源板块涨0.9%，是唯一收涨的板块。 纳斯达克100指数初步收跌0.1%，成分股中，汤森路透初步收跌4.3%，罗斯百货跌4.1%，Meta、Adobe、Workday、Autodesk、Nebius Group NV、微软至少跌3.2%，美光涨4.6%，SpaceX涨4.6%，Lumentum、西部数据、Strategy、迈威尔科技、泰瑞达、应用材料至多涨5.9%，闪迪涨8.6%。",
@@ -963,11 +1022,46 @@
             12,
             7,
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 07时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 09时30分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "英伟达绑定OpenAI未来20年算力需求：1050亿美元担保支持8吉瓦AI数据中心",
+          "url": "https://flash.jin10.com/detail/20260818084752556800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【早报】美股AI板块逆势走强；原油、黄金双双上行；一线城市二手房价格连续5个月上涨",
+          "url": "https://www.cls.cn/detail/2456585",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 09时30分]"
         }
       ]
     }
