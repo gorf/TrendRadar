@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-18T13:35:10.063690+08:00",
-  "total_titles_processed": 1152,
+  "generated_at": "2026-08-18T14:52:42.414755+08:00",
+  "total_titles_processed": 1269,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 62,
       "titles": [
         {
           "title": "特朗普要求伊朗举白旗投降",
@@ -50,8 +50,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时29分 ~ 13时35分]"
+          "appearance_count": 8,
+          "time_info": "[09时29分 ~ 14时52分]"
         },
         {
           "title": "特朗普最新支持率公布",
@@ -61,8 +61,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时01分 ~ 13时35分]"
+          "appearance_count": 6,
+          "time_info": "[11时01分 ~ 14时52分]"
         },
         {
           "title": "特朗普：金正恩已回应其对话请求",
@@ -74,8 +74,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时29分 ~ 13时35分]"
+          "appearance_count": 8,
+          "time_info": "[09时29分 ~ 14时52分]"
         },
         {
           "title": "特朗普将宣布霍尔木兹为美国领土",
@@ -102,6 +102,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时29分 ~ 09时30分]"
+        },
+        {
+          "title": "美国议员：特朗普把欺骗到底当美德",
+          "url": "https://www.toutiao.com/trending/7674814398469947401/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            7,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时54分 ~ 14时52分]"
         },
         {
           "title": "美以盟友关系现裂痕 特朗普称以色列应停止对加沙的袭击",
@@ -137,19 +151,6 @@
           "time_info": "02时48分"
         },
         {
-          "title": "美国议员：特朗普把欺骗到底当美德",
-          "url": "https://www.toutiao.com/trending/7674814398469947401/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时54分 ~ 13时35分]"
-        },
-        {
           "title": "美国总统特朗普：霍尔木兹海峡保持开放，油价正在回落。",
           "url": "https://flash.jin10.com/detail/20260818021458136800",
           "source": "金十数据",
@@ -170,6 +171,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时33分"
+        },
+        {
+          "title": "阿曼正和伊朗斡旋，却收到特朗普的轰炸威胁，咋回事？",
+          "url": "https://news.ifeng.com/c/8vgfXfy9cpA",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
         },
         {
           "title": "美国总统特朗普：我们每周从霍尔木兹海峡运出数百万桶石油，海峡是开放的。",
@@ -449,7 +461,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时35分"
         },
@@ -733,8 +745,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时29分 ~ 13时35分]"
+          "appearance_count": 9,
+          "time_info": "[07时29分 ~ 14时52分]"
         },
         {
           "title": "美股收盘：美债抛售拖累大盘 三大利好推动AI板块逆势走强",
@@ -746,8 +758,33 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时29分 ~ 13时35分]"
+          "appearance_count": 9,
+          "time_info": "[07时29分 ~ 14时52分]"
+        },
+        {
+          "title": "30年期美债收益率创2007年以来新高：油价、财政赤字与AI发债共推长端利率上行",
+          "url": "https://wallstreetcn.com/articles/3779638",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时01分 ~ 14时52分]"
+        },
+        {
+          "title": "美债抛售潮加剧！30年期美债收益率创2007年以来最高",
+          "url": "https://www.cls.cn/detail/2456636",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时01分 ~ 14时52分]"
         },
         {
           "title": "6月日本大幅减持美债，策略师：料不会再减持",
@@ -761,18 +798,6 @@
           "time_info": "07时29分"
         },
         {
-          "title": "30年期美债收益率创2007年以来新高：油价、财政赤字与AI发债共推长端利率上行",
-          "url": "https://wallstreetcn.com/articles/3779638",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时01分 ~ 13时35分]"
-        },
-        {
           "title": "荷兰国际银行：美伊停火协议到期，美债市场“偏空基调”还将延续",
           "url": "https://flash.jin10.com/detail/20260818113355527800",
           "source": "金十数据",
@@ -782,18 +807,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
-        },
-        {
-          "title": "美债抛售潮加剧！30年期美债收益率创2007年以来最高",
-          "url": "https://www.cls.cn/detail/2456636",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时01分 ~ 13时35分]"
         },
         {
           "title": "地产ETF、长端美债ETF收跌超0.8%，领跌美股大类资产类ETF",
@@ -902,7 +915,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股期指涨跌不一 芯片股盘前走高 国际油价上涨 | 今夜看点",
@@ -1010,6 +1023,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
+        },
+        {
+          "title": "美股期货走低，纳斯达克100指数期货跌超1%，标普500指数期货跌0.5%，道指期货跌0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3150885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
         },
         {
           "title": "美股期货小幅走低，标普500指数期货跌0.2%，纳斯达克100指数期货跌0.4%。",
@@ -1254,8 +1278,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时29分 ~ 13时35分]"
+          "appearance_count": 8,
+          "time_info": "[09时29分 ~ 14时52分]"
         }
       ]
     }
