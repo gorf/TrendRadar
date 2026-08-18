@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-18T11:54:16.838578+08:00",
-  "total_titles_processed": 1020,
+  "generated_at": "2026-08-18T12:41:22.371010+08:00",
+  "total_titles_processed": 1088,
   "failed_sources": [],
   "trends": [
     {
@@ -50,8 +50,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时29分 ~ 11时54分]"
+          "appearance_count": 5,
+          "time_info": "[09时29分 ~ 12时41分]"
+        },
+        {
+          "title": "特朗普最新支持率公布",
+          "url": "https://news.ifeng.com/c/8vgNsInzDsl",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时01分 ~ 12时41分]"
         },
         {
           "title": "特朗普将宣布霍尔木兹为美国领土",
@@ -69,17 +80,6 @@
           "time_info": "[01时32分 ~ 07时29分]"
         },
         {
-          "title": "特朗普最新支持率公布",
-          "url": "https://news.ifeng.com/c/8vgNsInzDsl",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时01分 ~ 11时54分]"
-        },
-        {
           "title": "大V：特朗普“金蝉脱壳”是政治失算",
           "url": "https://www.toutiao.com/trending/7675011910084857394/",
           "source": "今日头条",
@@ -89,6 +89,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时29分 ~ 09时30分]"
+        },
+        {
+          "title": "特朗普：金正恩已回应其对话请求",
+          "url": "https://news.ifeng.com/c/8vgIS66EJvG",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时29分 ~ 12时41分]"
         },
         {
           "title": "美以盟友关系现裂痕 特朗普称以色列应停止对加沙的袭击",
@@ -144,19 +157,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时33分"
-        },
-        {
-          "title": "特朗普：金正恩已回应其对话请求",
-          "url": "https://news.ifeng.com/c/8vgIS66EJvG",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时29分 ~ 11时54分]"
         },
         {
           "title": "美国总统特朗普：我们每周从霍尔木兹海峡运出数百万桶石油，海峡是开放的。",
@@ -251,6 +251,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时29分 ~ 09时30分]"
+        },
+        {
+          "title": "美国议员：特朗普把欺骗到底当美德",
+          "url": "https://www.toutiao.com/trending/7674814398469947401/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时54分 ~ 12时41分]"
         },
         {
           "title": "土耳其总统埃尔多安告诉美国总统特朗普，以色列正在加沙袭击巴勒斯坦人，而和平计划第二阶段本应在此时生效。",
@@ -373,6 +385,18 @@
           "time_info": "[06时31分 ~ 07时29分]"
         },
         {
+          "title": "特朗普被曝自己也通过邮寄选票投票",
+          "url": "https://www.toutiao.com/trending/7675157131825905718/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时54分 ~ 12时41分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗正面临重大危机。",
           "url": "https://flash.jin10.com/detail/20260818021305016800",
           "source": "金十数据",
@@ -415,17 +439,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时33分"
-        },
-        {
-          "title": "美国议员：特朗普把欺骗到底当美德",
-          "url": "https://www.toutiao.com/trending/7674814398469947401/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时54分"
         },
         {
           "title": "美国总统特朗普：我们的主要目标是阻止伊朗获得核武器。",
@@ -604,17 +617,6 @@
           "time_info": "04时33分"
         },
         {
-          "title": "特朗普被曝自己也通过邮寄选票投票",
-          "url": "https://www.toutiao.com/trending/7675157131825905718/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时54分"
-        },
-        {
           "title": "跌至33% 美国总统特朗普支持率创本任期新低",
           "url": "https://flash.jin10.com/detail/20260818035107277800",
           "source": "金十数据",
@@ -718,8 +720,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时29分 ~ 11时54分]"
+          "appearance_count": 6,
+          "time_info": "[07时29分 ~ 12时41分]"
         },
         {
           "title": "美股收盘：美债抛售拖累大盘 三大利好推动AI板块逆势走强",
@@ -731,8 +733,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时29分 ~ 11时54分]"
+          "appearance_count": 6,
+          "time_info": "[07时29分 ~ 12时41分]"
         },
         {
           "title": "6月日本大幅减持美债，策略师：料不会再减持",
@@ -752,7 +754,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
         },
@@ -781,6 +783,29 @@
           "time_info": "[04时33分 ~ 06时31分]"
         },
         {
+          "title": "美债抛售潮加剧！30年期美债收益率创2007年以来最高",
+          "url": "https://www.cls.cn/detail/2456636",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时01分 ~ 12时41分]"
+        },
+        {
+          "title": "30年期美债收益率创2007年以来新高：油价、财政赤字与AI发债共推长端利率上行",
+          "url": "https://wallstreetcn.com/articles/3779638",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时01分 ~ 12时41分]"
+        },
+        {
           "title": "城堡证券：美债收益率飙升反映美联储政策风险，下次利率会议结果难料",
           "url": "https://wallstreetcn.com/livenews/3150640",
           "source": "华尔街见闻-快讯",
@@ -791,18 +816,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时48分 ~ 03时33分]"
-        },
-        {
-          "title": "美债抛售潮加剧！30年期美债收益率创2007年以来最高",
-          "url": "https://www.cls.cn/detail/2456636",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时01分 ~ 11时54分]"
         },
         {
           "title": "中英日在6月均减持美债",
@@ -817,24 +830,13 @@
           "time_info": "[04时33分 ~ 06时31分]"
         },
         {
-          "title": "30年期美债收益率创2007年以来新高：油价、财政赤字与AI发债共推长端利率上行",
-          "url": "https://wallstreetcn.com/articles/3779638",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时01分 ~ 11时54分]"
-        },
-        {
           "title": "美债抛售中，交易员转向一个冷门套利策略",
           "url": "https://flash.jin10.com/detail/20260818112706172800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
         },
@@ -1052,7 +1054,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
         },
@@ -1087,7 +1089,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
         }
@@ -1147,7 +1149,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "ChatGPT将变“购物车”？零售商专属信用卡发行商携手OpenAI推进AI内购",
@@ -1155,11 +1157,23 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时01分 ~ 11时54分]"
+          "appearance_count": 3,
+          "time_info": "[11时01分 ~ 12时41分]"
+        },
+        {
+          "title": "OpenAI锁定4.25GW数据中心容量",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E9%94%81%E5%AE%9A4.25GW%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E5%AE%B9%E9%87%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         },
         {
           "title": "英伟达绑定OpenAI未来20年算力需求：1050亿美元担保支持8吉瓦AI数据中心",
@@ -1225,8 +1239,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时29分 ~ 11时54分]"
+          "appearance_count": 5,
+          "time_info": "[09时29分 ~ 12时41分]"
         }
       ]
     }
