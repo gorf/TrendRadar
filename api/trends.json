@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-18T19:11:36.471853+08:00",
-  "total_titles_processed": 1727,
+  "generated_at": "2026-08-18T19:31:43.125877+08:00",
+  "total_titles_processed": 1776,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 70,
+      "match_count": 71,
       "titles": [
         {
           "title": "特朗普最新支持率公布",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时01分 ~ 19时11分]"
+          "appearance_count": 11,
+          "time_info": "[11时01分 ~ 19时31分]"
         },
         {
           "title": "特朗普要求伊朗举白旗投降",
@@ -50,8 +50,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时29分 ~ 19时11分]"
+          "appearance_count": 13,
+          "time_info": "[09时29分 ~ 19时31分]"
         },
         {
           "title": "特朗普向朝韩发出强烈信号，信息量很大",
@@ -74,8 +74,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时29分 ~ 19时11分]"
+          "appearance_count": 13,
+          "time_info": "[09时29分 ~ 19时31分]"
         },
         {
           "title": "阿曼正和伊朗斡旋，却收到特朗普的轰炸威胁，咋回事？",
@@ -85,8 +85,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时52分 ~ 19时11分]"
+          "appearance_count": 6,
+          "time_info": "[14时52分 ~ 19时31分]"
         },
         {
           "title": "特朗普将宣布霍尔木兹为美国领土",
@@ -268,6 +268,20 @@
           "time_info": "[02时48分 ~ 03时33分]"
         },
         {
+          "title": "特朗普还对人民大会堂念念不忘",
+          "url": "https://www.toutiao.com/trending/7674416539562590254/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            12,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时43分 ~ 19时31分]"
+        },
+        {
           "title": "美国总统特朗普：他们（伊朗）不会达成我认为有必要的协议。 伊朗想要达成协议，但他们不会接受我认为必要的协议。 伊朗不会拥有核武器。 如果韩国不提供协助，我们就无法为其提供保护。",
           "url": "https://wallstreetcn.com/livenews/3150643",
           "source": "华尔街见闻-快讯",
@@ -278,6 +292,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时48分 ~ 03时33分]"
+        },
+        {
+          "title": "特朗普支持率创下其第二任期内新低",
+          "url": "https://www.toutiao.com/trending/7674808450081115711/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时43分 ~ 19时31分]"
         },
         {
           "title": "特朗普被曝自己也通过邮寄选票投票",
@@ -293,29 +320,16 @@
           "time_info": "[11时54分 ~ 13时35分]"
         },
         {
-          "title": "特朗普支持率创下其第二任期内新低",
-          "url": "https://www.toutiao.com/trending/7674808450081115711/",
-          "source": "今日头条",
+          "title": "美国金融史上最明目张胆的一次？特朗普家族持股加密公司获批银行牌照",
+          "url": "https://www.cls.cn/detail/2456722",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            9
+            10,
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时43分 ~ 19时11分]"
-        },
-        {
-          "title": "特朗普还对人民大会堂念念不忘",
-          "url": "https://www.toutiao.com/trending/7674416539562590254/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            12,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时43分 ~ 19时11分]"
+          "time_info": "[17时39分 ~ 19时31分]"
         },
         {
           "title": "特朗普推文揭穿美韩同盟的价码",
@@ -411,18 +425,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时31分 ~ 07时29分]"
-        },
-        {
-          "title": "美国金融史上最明目张胆的一次？特朗普家族持股加密公司获批银行牌照",
-          "url": "https://www.cls.cn/detail/2456722",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时39分 ~ 19时11分]"
         },
         {
           "title": "特朗普称金正恩已回应其“对话”请求",
@@ -812,6 +814,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "特朗普还对人民大会堂念念不忘",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%98%E5%AF%B9%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82%E5%BF%B5%E5%BF%B5%E4%B8%8D%E5%BF%98",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         }
       ]
     },
@@ -828,8 +841,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时29分 ~ 19时11分]"
+          "appearance_count": 14,
+          "time_info": "[07时29分 ~ 19时31分]"
         },
         {
           "title": "美债逼近40万亿，美银Hartnett：做多黄金是当下最优解",
@@ -867,8 +880,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时01分 ~ 19时11分]"
+          "appearance_count": 11,
+          "time_info": "[11时01分 ~ 19时31分]"
         },
         {
           "title": "美债抛售潮加剧！30年期美债收益率创2007年以来最高",
@@ -884,6 +897,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[11时01分 ~ 17时39分]"
+        },
+        {
+          "title": "美债抛售潮恐持续！华尔街齐拉警报 一文读懂背后推手",
+          "url": "https://www.cls.cn/detail/2457199",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时11分 ~ 19时31分]"
         },
         {
           "title": "分析师：美债收益率飙升或冲击亚洲AI驱动的股市涨势",
@@ -906,17 +930,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
-        },
-        {
-          "title": "美债抛售潮恐持续！华尔街齐拉警报 一文读懂背后推手",
-          "url": "https://www.cls.cn/detail/2457199",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时11分"
         },
         {
           "title": "荷兰国际银行：美伊停火协议到期，美债市场“偏空基调”还将延续",
@@ -966,6 +979,18 @@
           "time_info": "[02时48分 ~ 03时33分]"
         },
         {
+          "title": "全球股债齐挫！30年期美债收益率创07年以来新高，美股盘前科技股普跌，闪迪跌约4%，油价上行、金银走弱",
+          "url": "https://wallstreetcn.com/articles/3779677",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时11分 ~ 19时31分]"
+        },
+        {
           "title": "中英日在6月均减持美债",
           "url": "https://flash.jin10.com/detail/20260818041001621800",
           "source": "金十数据",
@@ -976,17 +1001,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时33分 ~ 06时31分]"
-        },
-        {
-          "title": "全球股债齐挫！30年期美债收益率创07年以来新高，美股盘前科技股普跌，闪迪跌约4%，油价上行、金银走弱",
-          "url": "https://wallstreetcn.com/articles/3779677",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时11分"
         },
         {
           "title": "美债抛售中，交易员转向一个冷门套利策略",
@@ -1356,6 +1370,81 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "OpenAI锁定4.25GW数据中心容量",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E9%94%81%E5%AE%9A4.25GW%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E5%AE%B9%E9%87%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时41分 ~ 13时35分]"
+        },
+        {
+          "title": "ChatGPT将变“购物车”？零售商专属信用卡发行商携手OpenAI推进AI内购",
+          "url": "https://www.cls.cn/detail/2456537",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时01分 ~ 12时41分]"
+        },
+        {
+          "title": "OpenAI：还将增加相关提示和控制措施，旨在降低使用环境中的风险，并引导青少年使用有益工具和保护措施。",
+          "url": "https://flash.jin10.com/detail/20260818191028098800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
+          "title": "OpenAI：如果系统估计某人未满18岁，或他们声明年龄在13至17岁之间，他们将自动被放入青少年版ChatGPT。",
+          "url": "https://flash.jin10.com/detail/20260818190848292800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
+          "title": "英伟达绑定OpenAI未来20年算力需求：1050亿美元担保支持8吉瓦AI数据中心",
+          "url": "https://flash.jin10.com/detail/20260818084752556800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时30分"
+        },
+        {
+          "title": "OpenAI：与CodeAI合作，为首批人工智能一代做准备。",
+          "url": "https://flash.jin10.com/detail/20260818190508770800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 4,
       "titles": [
@@ -1445,53 +1534,12 @@
           "source": "百度热搜",
           "ranks": [
             5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时39分 ~ 19时11分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OpenAI锁定4.25GW数据中心容量",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E9%94%81%E5%AE%9A4.25GW%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E5%AE%B9%E9%87%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            23
+            23,
+            22
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时41分 ~ 13时35分]"
-        },
-        {
-          "title": "ChatGPT将变“购物车”？零售商专属信用卡发行商携手OpenAI推进AI内购",
-          "url": "https://www.cls.cn/detail/2456537",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时01分 ~ 12时41分]"
-        },
-        {
-          "title": "英伟达绑定OpenAI未来20年算力需求：1050亿美元担保支持8吉瓦AI数据中心",
-          "url": "https://flash.jin10.com/detail/20260818084752556800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时30分"
+          "time_info": "[17时39分 ~ 19时31分]"
         }
       ]
     },
@@ -1506,9 +1554,9 @@
           "ranks": [
             24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时11分 ~ 19时31分]"
         }
       ]
     },
