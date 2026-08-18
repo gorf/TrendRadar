@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-18T19:31:43.125877+08:00",
-  "total_titles_processed": 1776,
+  "generated_at": "2026-08-18T20:59:03.137135+08:00",
+  "total_titles_processed": 1897,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 71,
+      "match_count": 74,
       "titles": [
         {
           "title": "特朗普最新支持率公布",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时01分 ~ 19时31分]"
+          "appearance_count": 13,
+          "time_info": "[11时01分 ~ 20时59分]"
         },
         {
           "title": "特朗普要求伊朗举白旗投降",
@@ -50,8 +50,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时29分 ~ 19时31分]"
+          "appearance_count": 15,
+          "time_info": "[09时29分 ~ 20时59分]"
         },
         {
           "title": "特朗普向朝韩发出强烈信号，信息量很大",
@@ -128,6 +128,57 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时29分 ~ 09时30分]"
+        },
+        {
+          "title": "罕见公开说“不”！内塔尼亚胡为何硬刚特朗普？",
+          "url": "https://news.ifeng.com/c/8vhArHdu44B",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 20时59分]"
+        },
+        {
+          "title": "特朗普的“相扑手”，会走上白宫讲台吗？",
+          "url": "https://news.ifeng.com/c/8vhELdiMK92",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 20时59分]"
+        },
+        {
+          "title": "特朗普还对人民大会堂念念不忘",
+          "url": "https://www.toutiao.com/trending/7674416539562590254/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            12,
+            6,
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时43分 ~ 20时59分]"
+        },
+        {
+          "title": "特朗普支持率创下其第二任期内新低",
+          "url": "https://www.toutiao.com/trending/7674808450081115711/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            9,
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时43分 ~ 20时59分]"
         },
         {
           "title": "美以盟友关系现裂痕 特朗普称以色列应停止对加沙的袭击",
@@ -268,20 +319,6 @@
           "time_info": "[02时48分 ~ 03时33分]"
         },
         {
-          "title": "特朗普还对人民大会堂念念不忘",
-          "url": "https://www.toutiao.com/trending/7674416539562590254/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            12,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时43分 ~ 19时31分]"
-        },
-        {
           "title": "美国总统特朗普：他们（伊朗）不会达成我认为有必要的协议。 伊朗想要达成协议，但他们不会接受我认为必要的协议。 伊朗不会拥有核武器。 如果韩国不提供协助，我们就无法为其提供保护。",
           "url": "https://wallstreetcn.com/livenews/3150643",
           "source": "华尔街见闻-快讯",
@@ -292,19 +329,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时48分 ~ 03时33分]"
-        },
-        {
-          "title": "特朗普支持率创下其第二任期内新低",
-          "url": "https://www.toutiao.com/trending/7674808450081115711/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            9,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时43分 ~ 19时31分]"
         },
         {
           "title": "特朗普被曝自己也通过邮寄选票投票",
@@ -330,6 +354,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时39分 ~ 19时31分]"
+        },
+        {
+          "title": "特朗普还对人民大会堂念念不忘",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%98%E5%AF%B9%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82%E5%BF%B5%E5%BF%B5%E4%B8%8D%E5%BF%98",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时31分 ~ 20时59分]"
         },
         {
           "title": "特朗普推文揭穿美韩同盟的价码",
@@ -794,6 +830,17 @@
           "time_info": "03时33分"
         },
         {
+          "title": "据Politico：美国第四巡回上诉法院维持下级法院针对特朗普政府某些礼拜场所移民执法政策发布的禁令。",
+          "url": "https://flash.jin10.com/detail/20260818202741293800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
           "title": "特朗普称金正恩回应其对话请求",
           "url": "https://flash.jin10.com/detail/20260818033202217800",
           "source": "金十数据",
@@ -814,17 +861,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
-        },
-        {
-          "title": "特朗普还对人民大会堂念念不忘",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%98%E5%AF%B9%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82%E5%BF%B5%E5%BF%B5%E4%B8%8D%E5%BF%98",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时31分"
         }
       ]
     },
@@ -841,8 +877,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时29分 ~ 19时31分]"
+          "appearance_count": 16,
+          "time_info": "[07时29分 ~ 20时59分]"
         },
         {
           "title": "美债逼近40万亿，美银Hartnett：做多黄金是当下最优解",
@@ -880,8 +916,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时01分 ~ 19时31分]"
+          "appearance_count": 13,
+          "time_info": "[11时01分 ~ 20时59分]"
         },
         {
           "title": "美债抛售潮加剧！30年期美债收益率创2007年以来最高",
@@ -903,11 +939,12 @@
           "url": "https://www.cls.cn/detail/2457199",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时11分 ~ 19时31分]"
+          "appearance_count": 4,
+          "time_info": "[19时11分 ~ 20时59分]"
         },
         {
           "title": "分析师：美债收益率飙升或冲击亚洲AI驱动的股市涨势",
@@ -930,6 +967,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "全球股债齐挫！30年期美债收益率创07年以来新高，美股盘前科技股普跌，闪迪跌约4%，油价上行、金银走弱",
+          "url": "https://wallstreetcn.com/articles/3779677",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时11分 ~ 20时59分]"
         },
         {
           "title": "荷兰国际银行：美伊停火协议到期，美债市场“偏空基调”还将延续",
@@ -977,18 +1027,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时48分 ~ 03时33分]"
-        },
-        {
-          "title": "全球股债齐挫！30年期美债收益率创07年以来新高，美股盘前科技股普跌，闪迪跌约4%，油价上行、金银走弱",
-          "url": "https://wallstreetcn.com/articles/3779677",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时11分 ~ 19时31分]"
         },
         {
           "title": "中英日在6月均减持美债",
@@ -1405,7 +1443,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -1416,7 +1454,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -1438,7 +1476,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         }
@@ -1544,6 +1582,34 @@
       ]
     },
     {
+      "keyword_group": "黄金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【早报】美股AI板块逆势走强；原油、黄金双双上行；一线城市二手房价格连续5个月上涨",
+          "url": "https://www.cls.cn/detail/2456585",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时29分 ~ 15时42分]"
+        },
+        {
+          "title": "技术刘Pro：黄金低位筹码峰震荡蓄势，留意对次密集区的潜在价格测试",
+          "url": "https://flash.jin10.com/detail/20260818203616585800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        }
+      ]
+    },
+    {
       "keyword_group": "招商银行 万华化学 福耀玻璃 旗滨集团 苏农银行 奥浦迈 爱美客 美的集团 潍柴动力 苏泊尔 鱼跃医疗 牧原股份 振邦智能 华兰生物 证监会",
       "match_count": 1,
       "titles": [
@@ -1574,23 +1640,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【早报】美股AI板块逆势走强；原油、黄金双双上行；一线城市二手房价格连续5个月上涨",
-          "url": "https://www.cls.cn/detail/2456585",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时29分 ~ 15时42分]"
         }
       ]
     }
