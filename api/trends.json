@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-18T17:39:41.282245+08:00",
-  "total_titles_processed": 1594,
+  "generated_at": "2026-08-18T19:11:36.471853+08:00",
+  "total_titles_processed": 1727,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 70,
       "titles": [
+        {
+          "title": "特朗普最新支持率公布",
+          "url": "https://news.ifeng.com/c/8vgNsInzDsl",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时01分 ~ 19时11分]"
+        },
         {
           "title": "特朗普要求伊朗举白旗投降",
           "url": "https://news.ifeng.com/c/8vfb7aoIQAb",
@@ -39,19 +50,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时29分 ~ 17时39分]"
-        },
-        {
-          "title": "特朗普最新支持率公布",
-          "url": "https://news.ifeng.com/c/8vgNsInzDsl",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时01分 ~ 17时39分]"
+          "appearance_count": 12,
+          "time_info": "[09时29分 ~ 19时11分]"
         },
         {
           "title": "特朗普向朝韩发出强烈信号，信息量很大",
@@ -74,8 +74,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时29分 ~ 17时39分]"
+          "appearance_count": 12,
+          "time_info": "[09时29分 ~ 19时11分]"
         },
         {
           "title": "阿曼正和伊朗斡旋，却收到特朗普的轰炸威胁，咋回事？",
@@ -85,8 +85,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时52分 ~ 17时39分]"
+          "appearance_count": 5,
+          "time_info": "[14时52分 ~ 19时11分]"
         },
         {
           "title": "特朗普将宣布霍尔木兹为美国领土",
@@ -293,6 +293,31 @@
           "time_info": "[11时54分 ~ 13时35分]"
         },
         {
+          "title": "特朗普支持率创下其第二任期内新低",
+          "url": "https://www.toutiao.com/trending/7674808450081115711/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时43分 ~ 19时11分]"
+        },
+        {
+          "title": "特朗普还对人民大会堂念念不忘",
+          "url": "https://www.toutiao.com/trending/7674416539562590254/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时43分 ~ 19时11分]"
+        },
+        {
           "title": "特朗普推文揭穿美韩同盟的价码",
           "url": "https://www.toutiao.com/trending/7675000036710682154/",
           "source": "今日头条",
@@ -314,17 +339,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时29分 ~ 09时30分]"
-        },
-        {
-          "title": "特朗普支持率创下其第二任期内新低",
-          "url": "https://www.toutiao.com/trending/7674808450081115711/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时43分 ~ 17时39分]"
         },
         {
           "title": "土耳其总统埃尔多安告诉美国总统特朗普，以色列正在加沙袭击巴勒斯坦人，而和平计划第二阶段本应在此时生效。",
@@ -399,6 +413,18 @@
           "time_info": "[06时31分 ~ 07时29分]"
         },
         {
+          "title": "美国金融史上最明目张胆的一次？特朗普家族持股加密公司获批银行牌照",
+          "url": "https://www.cls.cn/detail/2456722",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 19时11分]"
+        },
+        {
           "title": "特朗普称金正恩已回应其“对话”请求",
           "url": "https://wallstreetcn.com/livenews/3150699",
           "source": "华尔街见闻-快讯",
@@ -433,18 +459,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时31分 ~ 07时29分]"
-        },
-        {
-          "title": "特朗普还对人民大会堂念念不忘",
-          "url": "https://www.toutiao.com/trending/7674416539562590254/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时43分 ~ 17时39分]"
         },
         {
           "title": "特朗普：伊朗“不会达成我认为必要的那种协议”",
@@ -591,17 +605,6 @@
           "time_info": "07时29分"
         },
         {
-          "title": "美国金融史上最明目张胆的一次？特朗普家族持股加密公司获批银行牌照",
-          "url": "https://www.cls.cn/detail/2456722",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时39分"
-        },
-        {
           "title": "加拿大总理卡尼：预计将在当地时间8月19日关税截止日期之前与美国总统特朗普进行交谈。",
           "url": "https://flash.jin10.com/detail/20260818011013156800",
           "source": "金十数据",
@@ -630,7 +633,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
         },
@@ -696,7 +699,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
         },
@@ -813,6 +816,236 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 19,
+      "titles": [
+        {
+          "title": "中东风险推高油价，美股美债齐跌，存储芯片、光通信逆势大涨，黄金涨回4400",
+          "url": "https://wallstreetcn.com/articles/3779603",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[07时29分 ~ 19时11分]"
+        },
+        {
+          "title": "美债逼近40万亿，美银Hartnett：做多黄金是当下最优解",
+          "url": "https://wallstreetcn.com/articles/3779560",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时34分 ~ 07时29分]"
+        },
+        {
+          "title": "美股收盘：美债抛售拖累大盘 三大利好推动AI板块逆势走强",
+          "url": "https://www.cls.cn/detail/2456558",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时29分 ~ 14时52分]"
+        },
+        {
+          "title": "30年期美债收益率创2007年以来新高：油价、财政赤字与AI发债共推长端利率上行",
+          "url": "https://wallstreetcn.com/articles/3779638",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时01分 ~ 19时11分]"
+        },
+        {
+          "title": "美债抛售潮加剧！30年期美债收益率创2007年以来最高",
+          "url": "https://www.cls.cn/detail/2456636",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时01分 ~ 17时39分]"
+        },
+        {
+          "title": "分析师：美债收益率飙升或冲击亚洲AI驱动的股市涨势",
+          "url": "https://flash.jin10.com/detail/20260818151904226800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
+          "title": "6月日本大幅减持美债，策略师：料不会再减持",
+          "url": "https://flash.jin10.com/detail/20260818070552627800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时29分"
+        },
+        {
+          "title": "美债抛售潮恐持续！华尔街齐拉警报 一文读懂背后推手",
+          "url": "https://www.cls.cn/detail/2457199",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
+        },
+        {
+          "title": "荷兰国际银行：美伊停火协议到期，美债市场“偏空基调”还将延续",
+          "url": "https://flash.jin10.com/detail/20260818113355527800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时54分"
+        },
+        {
+          "title": "地产ETF、长端美债ETF收跌超0.8%，领跌美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/3150682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时33分 ~ 06时31分]"
+        },
+        {
+          "title": "6月英国、日本和中国所持美债规模环比下降",
+          "url": "https://wallstreetcn.com/livenews/3150679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时33分 ~ 06时31分]"
+        },
+        {
+          "title": "城堡证券：美债收益率飙升反映美联储政策风险，下次利率会议结果难料",
+          "url": "https://wallstreetcn.com/livenews/3150640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时48分 ~ 03时33分]"
+        },
+        {
+          "title": "中英日在6月均减持美债",
+          "url": "https://flash.jin10.com/detail/20260818041001621800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时33分 ~ 06时31分]"
+        },
+        {
+          "title": "全球股债齐挫！30年期美债收益率创07年以来新高，美股盘前科技股普跌，闪迪跌约4%，油价上行、金银走弱",
+          "url": "https://wallstreetcn.com/articles/3779677",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
+        },
+        {
+          "title": "美债抛售中，交易员转向一个冷门套利策略",
+          "url": "https://flash.jin10.com/detail/20260818112706172800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时54分"
+        },
+        {
+          "title": "美债抛售持续，30年期美债收益率创2007年以来最高水平",
+          "url": "https://flash.jin10.com/detail/20260818014629403800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时48分"
+        },
+        {
+          "title": "美伊局势再添变数 30年期美债收益率创19年来新高",
+          "url": "https://flash.jin10.com/detail/20260818023342142800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时33分"
+        },
+        {
+          "title": "美债收益率持续高企，城堡证券：美联储成市场隐忧",
+          "url": "https://flash.jin10.com/detail/20260818004058742800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        },
+        {
+          "title": "汇丰：美联储缩减持仓将使美债只能依赖价格敏感型买家",
+          "url": "https://wallstreetcn.com/livenews/3150581",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时34分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 19,
       "titles": [
@@ -854,17 +1087,6 @@
           "time_info": "06时31分"
         },
         {
-          "title": "李大霄谈美股融资潮",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88%E7%BE%8E%E8%82%A1%E8%9E%8D%E8%B5%84%E6%BD%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时39分"
-        },
-        {
           "title": "美股行业ETF多数收跌，航空业ETF跌超2.2%表现最差，标普能源板块涨约0.9%",
           "url": "https://wallstreetcn.com/livenews/3150681",
           "source": "华尔街见闻-快讯",
@@ -887,6 +1109,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时33分 ~ 06时31分]"
+        },
+        {
+          "title": "李大霄谈美股融资潮",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88%E7%BE%8E%E8%82%A1%E8%9E%8D%E8%B5%84%E6%BD%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 19时11分]"
         },
         {
           "title": "金十图示：2026年08月17日（周一）热门中概股行情一览（美股收盘）",
@@ -964,7 +1198,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
         },
@@ -986,7 +1220,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
         },
@@ -1008,7 +1242,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
         },
@@ -1033,214 +1267,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 17,
-      "titles": [
-        {
-          "title": "中东风险推高油价，美股美债齐跌，存储芯片、光通信逆势大涨，黄金涨回4400",
-          "url": "https://wallstreetcn.com/articles/3779603",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时29分 ~ 17时39分]"
-        },
-        {
-          "title": "美债逼近40万亿，美银Hartnett：做多黄金是当下最优解",
-          "url": "https://wallstreetcn.com/articles/3779560",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 07时29分]"
-        },
-        {
-          "title": "美股收盘：美债抛售拖累大盘 三大利好推动AI板块逆势走强",
-          "url": "https://www.cls.cn/detail/2456558",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时29分 ~ 14时52分]"
-        },
-        {
-          "title": "30年期美债收益率创2007年以来新高：油价、财政赤字与AI发债共推长端利率上行",
-          "url": "https://wallstreetcn.com/articles/3779638",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时01分 ~ 17时39分]"
-        },
-        {
-          "title": "美债抛售潮加剧！30年期美债收益率创2007年以来最高",
-          "url": "https://www.cls.cn/detail/2456636",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时01分 ~ 17时39分]"
-        },
-        {
-          "title": "分析师：美债收益率飙升或冲击亚洲AI驱动的股市涨势",
-          "url": "https://flash.jin10.com/detail/20260818151904226800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "6月日本大幅减持美债，策略师：料不会再减持",
-          "url": "https://flash.jin10.com/detail/20260818070552627800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
-          "title": "荷兰国际银行：美伊停火协议到期，美债市场“偏空基调”还将延续",
-          "url": "https://flash.jin10.com/detail/20260818113355527800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时54分"
-        },
-        {
-          "title": "地产ETF、长端美债ETF收跌超0.8%，领跌美股大类资产类ETF",
-          "url": "https://wallstreetcn.com/livenews/3150682",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时33分 ~ 06时31分]"
-        },
-        {
-          "title": "6月英国、日本和中国所持美债规模环比下降",
-          "url": "https://wallstreetcn.com/livenews/3150679",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时33分 ~ 06时31分]"
-        },
-        {
-          "title": "城堡证券：美债收益率飙升反映美联储政策风险，下次利率会议结果难料",
-          "url": "https://wallstreetcn.com/livenews/3150640",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时48分 ~ 03时33分]"
-        },
-        {
-          "title": "中英日在6月均减持美债",
-          "url": "https://flash.jin10.com/detail/20260818041001621800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时33分 ~ 06时31分]"
-        },
-        {
-          "title": "美债抛售中，交易员转向一个冷门套利策略",
-          "url": "https://flash.jin10.com/detail/20260818112706172800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时54分"
-        },
-        {
-          "title": "美债抛售持续，30年期美债收益率创2007年以来最高水平",
-          "url": "https://flash.jin10.com/detail/20260818014629403800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时48分"
-        },
-        {
-          "title": "美伊局势再添变数 30年期美债收益率创19年来新高",
-          "url": "https://flash.jin10.com/detail/20260818023342142800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时33分"
-        },
-        {
-          "title": "美债收益率持续高企，城堡证券：美联储成市场隐忧",
-          "url": "https://flash.jin10.com/detail/20260818004058742800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时33分"
-        },
-        {
-          "title": "汇丰：美联储缩减持仓将使美债只能依赖价格敏感型买家",
-          "url": "https://wallstreetcn.com/livenews/3150581",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
         }
       ]
     },
@@ -1402,17 +1428,6 @@
           "time_info": "[00时34分 ~ 11时54分]"
         },
         {
-          "title": "DeepSeek招聘土木人才释放一个信号",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%8B%9B%E8%81%98%E5%9C%9F%E6%9C%A8%E4%BA%BA%E6%89%8D%E9%87%8A%E6%94%BE%E4%B8%80%E4%B8%AA%E4%BF%A1%E5%8F%B7",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时39分"
-        },
-        {
           "title": "DeepSeek Harness满血版解锁",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E6%BB%A1%E8%A1%80%E7%89%88",
           "source": "bilibili 热搜",
@@ -1423,6 +1438,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时42分 ~ 16时43分]"
+        },
+        {
+          "title": "DeepSeek招聘土木人才释放一个信号",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%8B%9B%E8%81%98%E5%9C%9F%E6%9C%A8%E4%BA%BA%E6%89%8D%E9%87%8A%E6%94%BE%E4%B8%80%E4%B8%AA%E4%BF%A1%E5%8F%B7",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 19时11分]"
         }
       ]
     },
@@ -1465,6 +1492,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "招商银行 万华化学 福耀玻璃 旗滨集团 苏农银行 奥浦迈 爱美客 美的集团 潍柴动力 苏泊尔 鱼跃医疗 牧原股份 振邦智能 华兰生物 证监会",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "证监会：准予国泰海通中国建筑租赁住房封闭式基础设施证券投资基金注册",
+          "url": "https://wallstreetcn.com/livenews/3151048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
         }
       ]
     },
