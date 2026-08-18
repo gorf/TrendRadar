@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-19T06:29:46.728978+08:00",
-  "total_titles_processed": 545,
+  "generated_at": "2026-08-19T07:27:32.913635+08:00",
+  "total_titles_processed": 610,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "特朗普发布地图，将霍尔木兹海峡划为“美国新领土”",
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时36分 ~ 06时29分]"
+          "appearance_count": 10,
+          "time_info": "[01时36分 ~ 07时27分]"
         },
         {
           "title": "特朗普：不着急结束伊朗战争，若阿曼阻碍谈判、将“狠狠轰炸”，伊朗警告转向全面进攻",
           "url": "https://wallstreetcn.com/articles/3779635",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时36分 ~ 06时29分]"
+          "appearance_count": 10,
+          "time_info": "[01时36分 ~ 07时27分]"
         },
         {
           "title": "罕见公开说“不”！内塔尼亚胡为何硬刚特朗普？",
@@ -37,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时36分 ~ 06时29分]"
+          "appearance_count": 10,
+          "time_info": "[01时36分 ~ 07时27分]"
         },
         {
           "title": "特朗普的“相扑手”，会走上白宫讲台吗？",
@@ -48,8 +49,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时36分 ~ 06时29分]"
+          "appearance_count": 10,
+          "time_info": "[01时36分 ~ 07时27分]"
         },
         {
           "title": "特朗普反复要求CNN记者别吵：“假新闻，你闭嘴”",
@@ -78,17 +79,6 @@
           "time_info": "[01时36分 ~ 05时30分]"
         },
         {
-          "title": "加拿大总理办公室：总理卡尼周二下午与美国总统特朗普通电话，讨论贸易磋商事宜。",
-          "url": "https://wallstreetcn.com/livenews/3151345",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
           "title": "据Politico：美国总统特朗普正在权衡是否暂缓对加拿大征收关税。",
           "url": "https://flash.jin10.com/detail/20260819031554825800",
           "source": "金十数据",
@@ -111,6 +101,17 @@
           "time_info": "04时31分"
         },
         {
+          "title": "应特朗普要求 韩美联合军演提前结束 训练日程缩短约一半",
+          "url": "https://flash.jin10.com/detail/20260819071141356800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
           "title": "知情人士透露，美国据称降低对周二达成美加贸易协议的预期。美国总统特朗普和加拿大总理卡尼预计将于当地时间周二再次通话。",
           "url": "https://flash.jin10.com/detail/20260819024204722800",
           "source": "金十数据",
@@ -121,6 +122,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时58分 ~ 03时32分]"
+        },
+        {
+          "title": "加拿大总理办公室：总理卡尼周二下午与美国总统特朗普通电话，讨论贸易磋商事宜。",
+          "url": "https://wallstreetcn.com/livenews/3151345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时27分]"
         },
         {
           "title": "特朗普还对人民大会堂念念不忘",
@@ -136,6 +149,18 @@
           "time_info": "[01时36分 ~ 06时29分]"
         },
         {
+          "title": "特朗普声称目前和未来不会与伊朗会谈，秀地图标注霍尔木兹为“美国新领土”",
+          "url": "https://wallstreetcn.com/articles/3779720",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时27分]"
+        },
+        {
           "title": "预测市场的老板们不会参加美国总统特朗普的白宫会议。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3151255",
           "source": "华尔街见闻-快讯",
@@ -146,6 +171,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时37分 ~ 02时58分]"
+        },
+        {
+          "title": "美官员：特朗普要求谈判团队暂停与伊朗接触",
+          "url": "https://wallstreetcn.com/livenews/3151364",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
         },
         {
           "title": "地区官员透露特朗普不满霍尔木兹海峡协议 以至于威胁阿曼",
@@ -159,24 +195,13 @@
           "time_info": "03时32分"
         },
         {
-          "title": "特朗普声称目前和未来不会与伊朗会谈，秀地图标注霍尔木兹为“美国新领土”",
-          "url": "https://wallstreetcn.com/articles/3779720",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
           "title": "加拿大总理卡尼办公室：加拿大总理卡尼和美国总统特朗普今天下午再次就正在进行的谈判进行了通话。",
           "url": "https://flash.jin10.com/detail/20260819052539025800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -228,7 +253,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股",
@@ -241,8 +266,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时36分 ~ 06时29分]"
+          "appearance_count": 10,
+          "time_info": "[01时36分 ~ 07时27分]"
+        },
+        {
+          "title": "AI债务化担忧发酵，美股指三连跌，芯片指数重挫5%，美长债走V",
+          "url": "https://wallstreetcn.com/articles/3779677",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
         },
         {
           "title": "美股存储芯片指数初步收跌7.5%，费城半导体指数跌5.1%。 标普500指数初步收跌0.6%，科技板块跌2%，工业板块跌1.4%，能源板块涨1.7%。 纳斯达克100指数初步收跌1.6%，成分股中，CoreWeave初步收跌11.8%，Lumentum跌10%，泰瑞达跌9.8%，闪迪跌9.7%，迈威尔科技、希捷科技、Nebius Group NV、西部数据至少跌6.7%，吉利德科学涨3.3%，Adobe涨3.6%，财季Intuit涨4.3%。",
@@ -316,6 +352,17 @@
           "time_info": "[01时37分 ~ 02时58分]"
         },
         {
+          "title": "美股收盘：AI牛股集体重挫 医药、红利、软件板块轮动走强",
+          "url": "https://www.cls.cn/detail/2457697",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
           "title": "金十图示：2026年08月18日（周二）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260819040601296800",
           "source": "金十数据",
@@ -374,7 +421,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "OpenAI在Hugging Face数据泄露事件后调整人工智能安全机制。",
@@ -411,6 +458,17 @@
           "time_info": "02时58分"
         },
         {
+          "title": "据悉OpenAI营收环比增长18%，但亏损扩大",
+          "url": "https://flash.jin10.com/detail/20260819063706290800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
           "title": "OpenAI：最大规模计划中的前沿强化学习训练仍处于暂停状态，等待完成安全验证。",
           "url": "https://flash.jin10.com/detail/20260819021358227800",
           "source": "金十数据",
@@ -420,6 +478,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        },
+        {
+          "title": "据华尔街日报：OpenAI表示，截至6月的三个月内，其营收增长至67亿美元。",
+          "url": "https://flash.jin10.com/detail/20260819063142487800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
         },
         {
           "title": "OpenAI：暂时放缓规模扩张步伐，包括暂停对最新部署模型进行强化学习训练，为期两周。",
@@ -461,20 +530,20 @@
       "match_count": 5,
       "titles": [
         {
-          "title": "全球股债齐挫！美股低开、存储芯片股普跌，30年期美债收益率创07年以来新高，油价上行、金银走弱",
-          "url": "https://wallstreetcn.com/articles/3779677",
-          "source": "华尔街见闻",
+          "title": "美债抛售潮恐持续！华尔街齐拉警报 一文读懂背后推手",
+          "url": "https://www.cls.cn/detail/2457199",
+          "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时36分 ~ 06时29分]"
+          "appearance_count": 10,
+          "time_info": "[01时36分 ~ 07时27分]"
         },
         {
-          "title": "美债抛售潮恐持续！华尔街齐拉警报 一文读懂背后推手",
-          "url": "https://www.cls.cn/detail/2457199",
-          "source": "财联社热门",
+          "title": "全球股债齐挫！美股低开、存储芯片股普跌，30年期美债收益率创07年以来新高，油价上行、金银走弱",
+          "url": "https://wallstreetcn.com/articles/3779677",
+          "source": "华尔街见闻",
           "ranks": [
             1
           ],
@@ -494,23 +563,23 @@
           "time_info": "[01时36分 ~ 06时29分]"
         },
         {
-          "title": "30年期美债收益率创2007年以来新高：油价、财政赤字与AI发债共推长端利率上行",
-          "url": "https://wallstreetcn.com/articles/3779638",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时36分 ~ 06时29分]"
-        },
-        {
           "title": "油价与通胀担忧推升美债收益率 美股三大期指集体走低 芯片股回调 | 今夜看点",
           "url": "https://www.cls.cn/detail/2457477",
           "source": "财联社热门",
           "ranks": [
             11,
             12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时36分 ~ 07时27分]"
+        },
+        {
+          "title": "30年期美债收益率创2007年以来新高：油价、财政赤字与AI发债共推长端利率上行",
+          "url": "https://wallstreetcn.com/articles/3779638",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -566,11 +635,12 @@
           "url": "https://wallstreetcn.com/livenews/3151344",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时27分]"
         },
         {
           "title": "据The Information：谷歌(GOOG.O)称其AI可完成前线部署工程师的部分工作。",
@@ -579,7 +649,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         }
