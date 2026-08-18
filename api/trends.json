@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-18T15:42:54.041806+08:00",
-  "total_titles_processed": 1362,
+  "generated_at": "2026-08-18T16:43:35.103931+08:00",
+  "total_titles_processed": 1476,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 67,
       "titles": [
         {
           "title": "特朗普要求伊朗举白旗投降",
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时29分 ~ 15时42分]"
+          "appearance_count": 10,
+          "time_info": "[09时29分 ~ 16时43分]"
         },
         {
           "title": "特朗普向朝韩发出强烈信号，信息量很大",
@@ -61,8 +61,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时01分 ~ 15时42分]"
+          "appearance_count": 8,
+          "time_info": "[11时01分 ~ 16时43分]"
         },
         {
           "title": "特朗普：金正恩已回应其对话请求",
@@ -74,8 +74,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时29分 ~ 15时42分]"
+          "appearance_count": 10,
+          "time_info": "[09时29分 ~ 16时43分]"
         },
         {
           "title": "特朗普将宣布霍尔木兹为美国领土",
@@ -91,6 +91,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时32分 ~ 07时29分]"
+        },
+        {
+          "title": "阿曼正和伊朗斡旋，却收到特朗普的轰炸威胁，咋回事？",
+          "url": "https://news.ifeng.com/c/8vgfXfy9cpA",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时52分 ~ 16时43分]"
         },
         {
           "title": "美国议员：特朗普把欺骗到底当美德",
@@ -117,17 +128,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时29分 ~ 09时30分]"
-        },
-        {
-          "title": "阿曼正和伊朗斡旋，却收到特朗普的轰炸威胁，咋回事？",
-          "url": "https://news.ifeng.com/c/8vgfXfy9cpA",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时52分 ~ 15时42分]"
         },
         {
           "title": "美以盟友关系现裂痕 特朗普称以色列应停止对加沙的袭击",
@@ -180,7 +180,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         },
@@ -265,6 +265,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时48分 ~ 03时33分]"
+        },
+        {
+          "title": "特朗普还对人民大会堂念念不忘",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%98%E5%AF%B9%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82%E5%BF%B5%E5%BF%B5%E4%B8%8D%E5%BF%98%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 16时43分]"
         },
         {
           "title": "特朗普被曝自己也通过邮寄选票投票",
@@ -445,6 +457,17 @@
           "time_info": "03时33分"
         },
         {
+          "title": "特朗普支持率创下其第二任期内新低",
+          "url": "https://www.toutiao.com/trending/7674808450081115711/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
+        },
+        {
           "title": "美国总统特朗普：我们控制着霍尔木兹海峡。",
           "url": "https://flash.jin10.com/detail/20260818021216451800",
           "source": "金十数据",
@@ -498,6 +521,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时33分"
+        },
+        {
+          "title": "美媒：特朗普政府拟放宽枪支限制",
+          "url": "https://www.toutiao.com/trending/7674469018195607602/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
         },
         {
           "title": "特朗普该如何应对弹药短缺",
@@ -621,6 +655,17 @@
           "time_info": "11时01分"
         },
         {
+          "title": "特朗普还对人民大会堂念念不忘",
+          "url": "https://www.toutiao.com/trending/7674416539562590254/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
+        },
+        {
           "title": "美国总统特朗普：伊朗想达成协议，但他们不会达成我认为必要的那种协议。",
           "url": "https://flash.jin10.com/detail/20260818020455379800",
           "source": "金十数据",
@@ -729,17 +774,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
-        },
-        {
-          "title": "特朗普还对人民大会堂念念不忘",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%98%E5%AF%B9%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82%E5%BF%B5%E5%BF%B5%E4%B8%8D%E5%BF%98%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时42分"
         }
       ]
     },
@@ -756,8 +790,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时29分 ~ 15时42分]"
+          "appearance_count": 11,
+          "time_info": "[07时29分 ~ 16时43分]"
         },
         {
           "title": "美债逼近40万亿，美银Hartnett：做多黄金是当下最优解",
@@ -794,8 +828,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时01分 ~ 15时42分]"
+          "appearance_count": 8,
+          "time_info": "[11时01分 ~ 16时43分]"
         },
         {
           "title": "美债抛售潮加剧！30年期美债收益率创2007年以来最高",
@@ -804,11 +838,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时01分 ~ 15时42分]"
+          "appearance_count": 8,
+          "time_info": "[11时01分 ~ 16时43分]"
         },
         {
           "title": "分析师：美债收益率飙升或冲击亚洲AI驱动的股市涨势",
@@ -817,7 +852,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         },
@@ -950,7 +985,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股期指涨跌不一 芯片股盘前走高 国际油价上涨 | 今夜看点",
@@ -1083,6 +1118,17 @@
           "time_info": "11时01分"
         },
         {
+          "title": "美股盘前，存储芯片股普跌，闪迪跌约4%，西部数据跌约4%，美光科技、SK海力士跌约3%。",
+          "url": "https://wallstreetcn.com/livenews/3150946",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
+        },
+        {
           "title": "美股存储芯片指数收涨将近4.8%，五天反弹超20%",
           "url": "https://wallstreetcn.com/livenews/3150684",
           "source": "华尔街见闻-快讯",
@@ -1119,7 +1165,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "金价压力“暗线”浮现！市场终于担忧长债收益率走高",
@@ -1146,6 +1192,17 @@
           "time_info": "[00时34分 ~ 07时29分]"
         },
         {
+          "title": "金十图示：2026年08月18日（周二）上海金午盘价为953.88元/克，较国际金价(952.17元/克)，高1.71元/克",
+          "url": "https://flash.jin10.com/detail/20260818161036118800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
+        },
+        {
           "title": "国际金价涨0.9%，白银涨1.7%",
           "url": "https://wallstreetcn.com/livenews/3150688",
           "source": "华尔街见闻-快讯",
@@ -1163,9 +1220,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
+        },
+        {
+          "title": "油价上涨及美债收益率走高，令金价承压",
+          "url": "https://flash.jin10.com/detail/20260818160735235800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
         },
         {
           "title": "金十图示：2026年08月18日（周二）上海金早盘价为953.79元/克，较国际金价(953.9元/克)，低0.11元/克",
@@ -1299,11 +1367,12 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E6%BB%A1%E8%A1%80%E7%89%88",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 16时43分]"
         }
       ]
     },
