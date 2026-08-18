@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-19T02:58:29.654838+08:00",
-  "total_titles_processed": 376,
+  "generated_at": "2026-08-19T03:32:54.711736+08:00",
+  "total_titles_processed": 412,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普发布地图，将霍尔木兹海峡划为“美国新领土”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时36分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时36分 ~ 03时32分]"
         },
         {
           "title": "特朗普：不着急结束伊朗战争，若阿曼阻碍谈判、将“狠狠轰炸”，伊朗警告转向全面进攻",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时36分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时36分 ~ 03时32分]"
         },
         {
           "title": "罕见公开说“不”！内塔尼亚胡为何硬刚特朗普？",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时36分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时36分 ~ 03时32分]"
         },
         {
           "title": "特朗普的“相扑手”，会走上白宫讲台吗？",
@@ -48,30 +48,43 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时36分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时36分 ~ 03时32分]"
+        },
+        {
+          "title": "据Politico：美国总统特朗普正在权衡是否暂缓对加拿大征收关税。",
+          "url": "https://flash.jin10.com/detail/20260819031554825800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时32分"
         },
         {
           "title": "知情人士透露，美国据称降低对周二达成美加贸易协议的预期。美国总统特朗普和加拿大总理卡尼预计将于当地时间周二再次通话。",
           "url": "https://flash.jin10.com/detail/20260819024204722800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 03时32分]"
         },
         {
           "title": "特朗普反复要求CNN记者别吵：“假新闻，你闭嘴”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33803619",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时36分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时36分 ~ 03时32分]"
         },
         {
           "title": "特朗普威胁阿曼",
@@ -79,11 +92,24 @@
           "source": "抖音",
           "ranks": [
             29,
-            26
+            26,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时36分 ~ 03时32分]"
+        },
+        {
+          "title": "特朗普还对人民大会堂念念不忘",
+          "url": "https://www.toutiao.com/trending/7674416539562590254/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            18
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时36分 ~ 02时58分]"
+          "time_info": "[01时36分 ~ 03时32分]"
         },
         {
           "title": "预测市场的老板们不会参加美国总统特朗普的白宫会议。（Axios）",
@@ -98,15 +124,26 @@
           "time_info": "[01时37分 ~ 02时58分]"
         },
         {
-          "title": "特朗普还对人民大会堂念念不忘",
-          "url": "https://www.toutiao.com/trending/7674416539562590254/",
-          "source": "今日头条",
+          "title": "地区官员透露特朗普不满霍尔木兹海峡协议 以至于威胁阿曼",
+          "url": "https://flash.jin10.com/detail/20260819031133384800",
+          "source": "金十数据",
           "ranks": [
-            25
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时36分 ~ 01时37分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时32分"
+        },
+        {
+          "title": "据知情人士透露，美国刻意弱化关于周二与加拿大达成贸易协议的希望。 美国总统特朗普与加拿大总理卡尼料将在周二再次对话。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3151279",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时32分"
         },
         {
           "title": "据Axios：据白宫消息人士透露，白宫计划明天与特朗普共同举办一场活动，届时将有多位科技界领袖出席，但预测市场公司并未受邀，也不会参加。",
@@ -126,7 +163,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         }
@@ -134,18 +171,30 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI在Hugging Face数据泄露事件后调整人工智能安全机制。",
           "url": "https://wallstreetcn.com/livenews/3151272",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 03时32分]"
+        },
+        {
+          "title": "OpenAI：我们已暂停部分前沿模型强化学习训练",
+          "url": "https://wallstreetcn.com/livenews/3151282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时58分"
+          "time_info": "03时32分"
         },
         {
           "title": "OpenAI强化AI安全防护，严防模型“失控”",
@@ -154,7 +203,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         },
@@ -165,7 +214,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         },
@@ -176,7 +225,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         },
@@ -187,7 +236,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         },
@@ -198,7 +247,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         }
@@ -216,8 +265,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时36分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时36分 ~ 03时32分]"
         },
         {
           "title": "美债抛售潮恐持续！华尔街齐拉警报 一文读懂背后推手",
@@ -227,8 +276,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时36分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时36分 ~ 03时32分]"
         },
         {
           "title": "中东风险推高油价，美股美债齐跌，存储芯片、光通信逆势大涨，黄金涨回4400",
@@ -238,8 +287,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时36分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时36分 ~ 03时32分]"
         },
         {
           "title": "30年期美债收益率创2007年以来新高：油价、财政赤字与AI发债共推长端利率上行",
@@ -249,8 +298,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时36分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时36分 ~ 03时32分]"
         },
         {
           "title": "油价与通胀担忧推升美债收益率 美股三大期指集体走低 芯片股回调 | 今夜看点",
@@ -260,15 +309,26 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时36分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时36分 ~ 03时32分]"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "周二（8月18日）纽约尾盘，ICE原糖期货涨3.62%、整体呈现出N形走势，ICE白糖期货涨3.44%。 ICE阿拉比卡咖啡期货涨5.53%，咖啡“C”期货涨4.31%、美股开盘以来持续走高。罗布斯塔咖啡期货涨2.14%。 纽约可可期货跌2.39%，报5924美元/吨。伦敦可可期货跌1.83%。 芝加哥WCE双低油菜籽期货跌2.79%，美股开盘之前大致持平、之后持续下挫。 ICE棉花期货跌0.08%。",
+          "url": "https://wallstreetcn.com/livenews/3151285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时32分"
+        },
         {
           "title": "美股",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=14&Refer=top",
@@ -278,8 +338,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时36分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时36分 ~ 03时32分]"
         },
         {
           "title": "周二（8月18日）欧市尾盘，英国10年期国债收益率涨1.5个基点，报5.075%，日内大部分时间高位震荡，美股开盘以来呈现出V形走势。 两年期英债收益率涨0.7个基点，报4.374%。 30年期英债收益率涨1.7个基点，50年期英债收益率涨0.9个基点。 2/10年期英债收益率利差涨0.893个基点，报+70.105个基点。",
