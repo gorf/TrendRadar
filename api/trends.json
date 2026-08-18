@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-19T03:32:54.711736+08:00",
-  "total_titles_processed": 412,
+  "generated_at": "2026-08-19T04:31:16.709918+08:00",
+  "total_titles_processed": 477,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普发布地图，将霍尔木兹海峡划为“美国新领土”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时36分 ~ 03时32分]"
+          "appearance_count": 6,
+          "time_info": "[01时36分 ~ 04时31分]"
         },
         {
           "title": "特朗普：不着急结束伊朗战争，若阿曼阻碍谈判、将“狠狠轰炸”，伊朗警告转向全面进攻",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时36分 ~ 03时32分]"
+          "appearance_count": 6,
+          "time_info": "[01时36分 ~ 04时31分]"
         },
         {
           "title": "罕见公开说“不”！内塔尼亚胡为何硬刚特朗普？",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时36分 ~ 03时32分]"
+          "appearance_count": 6,
+          "time_info": "[01时36分 ~ 04时31分]"
         },
         {
           "title": "特朗普的“相扑手”，会走上白宫讲台吗？",
@@ -48,8 +48,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时36分 ~ 03时32分]"
+          "appearance_count": 6,
+          "time_info": "[01时36分 ~ 04时31分]"
+        },
+        {
+          "title": "特朗普反复要求CNN记者别吵：“假新闻，你闭嘴”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33803619",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时36分 ~ 04时31分]"
         },
         {
           "title": "据Politico：美国总统特朗普正在权衡是否暂缓对加拿大征收关税。",
@@ -58,9 +70,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时32分"
+        },
+        {
+          "title": "知情人士：美加关税豁免方案已提交特朗普待批",
+          "url": "https://flash.jin10.com/detail/20260819041019514800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         },
         {
           "title": "知情人士透露，美国据称降低对周二达成美加贸易协议的预期。美国总统特朗普和加拿大总理卡尼预计将于当地时间周二再次通话。",
@@ -73,18 +96,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时58分 ~ 03时32分]"
-        },
-        {
-          "title": "特朗普反复要求CNN记者别吵：“假新闻，你闭嘴”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33803619",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时36分 ~ 03时32分]"
         },
         {
           "title": "特朗普威胁阿曼",
@@ -130,7 +141,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时32分"
         },
@@ -141,7 +152,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时32分"
         },
@@ -166,6 +177,126 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        },
+        {
+          "title": "据知情人士透露，美国总统特朗普考虑给予加拿大关税豁免。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3151293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "美股存储芯片指数初步收跌7.5%，费城半导体指数跌5.1%。 标普500指数初步收跌0.6%，科技板块跌2%，工业板块跌1.4%，能源板块涨1.7%。 纳斯达克100指数初步收跌1.6%，成分股中，CoreWeave初步收跌11.8%，Lumentum跌10%，泰瑞达跌9.8%，闪迪跌9.7%，迈威尔科技、希捷科技、Nebius Group NV、西部数据至少跌6.7%，吉利德科学涨3.3%，Adobe涨3.6%，财季Intuit涨4.3%。",
+          "url": "https://wallstreetcn.com/livenews/3151321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时36分 ~ 04时31分]"
+        },
+        {
+          "title": "周二（8月18日）纽约尾盘，ICE原糖期货涨3.62%、整体呈现出N形走势，ICE白糖期货涨3.44%。 ICE阿拉比卡咖啡期货涨5.53%，咖啡“C”期货涨4.31%、美股开盘以来持续走高。罗布斯塔咖啡期货涨2.14%。 纽约可可期货跌2.39%，报5924美元/吨。伦敦可可期货跌1.83%。 芝加哥WCE双低油菜籽期货跌2.79%，美股开盘之前大致持平、之后持续下挫。 ICE棉花期货跌0.08%。",
+          "url": "https://wallstreetcn.com/livenews/3151285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时32分 ~ 04时31分]"
+        },
+        {
+          "title": "周二（8月18日）欧市尾盘，英国10年期国债收益率涨1.5个基点，报5.075%，日内大部分时间高位震荡，美股开盘以来呈现出V形走势。 两年期英债收益率涨0.7个基点，报4.374%。 30年期英债收益率涨1.7个基点，50年期英债收益率涨0.9个基点。 2/10年期英债收益率利差涨0.893个基点，报+70.105个基点。",
+          "url": "https://wallstreetcn.com/livenews/3151240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时37分 ~ 02时58分]"
+        },
+        {
+          "title": "金十图示：2026年08月18日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260819040601296800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "金十图示：2026年08月18日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260819040537714800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "美股收盘：三大股指收跌 海力士跌9%",
+          "url": "https://flash.jin10.com/detail/20260819040221143800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "金十图示：2026年08月18日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260819003341030800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
+          "title": "金十图示：2026年08月18日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260819003155415800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时37分"
         }
       ]
     },
@@ -192,7 +323,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时32分"
         },
@@ -265,8 +396,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时36分 ~ 03时32分]"
+          "appearance_count": 6,
+          "time_info": "[01时36分 ~ 04时31分]"
         },
         {
           "title": "美债抛售潮恐持续！华尔街齐拉警报 一文读懂背后推手",
@@ -276,8 +407,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时36分 ~ 03时32分]"
+          "appearance_count": 6,
+          "time_info": "[01时36分 ~ 04时31分]"
         },
         {
           "title": "中东风险推高油价，美股美债齐跌，存储芯片、光通信逆势大涨，黄金涨回4400",
@@ -287,8 +418,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时36分 ~ 03时32分]"
+          "appearance_count": 6,
+          "time_info": "[01时36分 ~ 04时31分]"
         },
         {
           "title": "30年期美债收益率创2007年以来新高：油价、财政赤字与AI发债共推长端利率上行",
@@ -298,8 +429,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时36分 ~ 03时32分]"
+          "appearance_count": 6,
+          "time_info": "[01时36分 ~ 04时31分]"
         },
         {
           "title": "油价与通胀担忧推升美债收益率 美股三大期指集体走低 芯片股回调 | 今夜看点",
@@ -309,78 +440,37 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时36分 ~ 03时32分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "周二（8月18日）纽约尾盘，ICE原糖期货涨3.62%、整体呈现出N形走势，ICE白糖期货涨3.44%。 ICE阿拉比卡咖啡期货涨5.53%，咖啡“C”期货涨4.31%、美股开盘以来持续走高。罗布斯塔咖啡期货涨2.14%。 纽约可可期货跌2.39%，报5924美元/吨。伦敦可可期货跌1.83%。 芝加哥WCE双低油菜籽期货跌2.79%，美股开盘之前大致持平、之后持续下挫。 ICE棉花期货跌0.08%。",
-          "url": "https://wallstreetcn.com/livenews/3151285",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时32分"
-        },
-        {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时36分 ~ 03时32分]"
-        },
-        {
-          "title": "周二（8月18日）欧市尾盘，英国10年期国债收益率涨1.5个基点，报5.075%，日内大部分时间高位震荡，美股开盘以来呈现出V形走势。 两年期英债收益率涨0.7个基点，报4.374%。 30年期英债收益率涨1.7个基点，50年期英债收益率涨0.9个基点。 2/10年期英债收益率利差涨0.893个基点，报+70.105个基点。",
-          "url": "https://wallstreetcn.com/livenews/3151240",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时37分 ~ 02时58分]"
-        },
-        {
-          "title": "金十图示：2026年08月18日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260819003341030800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时37分"
-        },
-        {
-          "title": "金十图示：2026年08月18日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260819003155415800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时37分"
+          "appearance_count": 6,
+          "time_info": "[01时36分 ~ 04时31分]"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "美元指数18日上涨",
+          "url": "https://flash.jin10.com/detail/20260819035212670800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "周二（8月18日）纽约尾盘，ICE美元指数持平，报99.638点，日内交投区间为99.521-99.693点。 彭博美元指数涨0.08%，报1201.24点，日内交投区间为1199.46-1201.60点。",
+          "url": "https://wallstreetcn.com/livenews/3151301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
         {
           "title": "恒天然：8月18日全球乳品贸易（GDT）拍卖价格指数上涨2.3%，奶粉各合同期FAS拍卖均价3,873美元/吨。 批发奶粉价格指数涨3%，报3,591美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3151230",
