@@ -1,1524 +1,299 @@
 {
-  "generated_at": "2026-08-19T22:57:09.593520+08:00",
-  "total_titles_processed": 1961,
+  "generated_at": "2026-08-20T01:33:00.917780+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 44,
-      "titles": [
-        {
-          "title": "债市风暴持续，美股指三连跌，泛欧股指五连跌，美芯片指数重挫5%，原油三连涨",
-          "url": "https://wallstreetcn.com/articles/3779677",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时35分 ~ 22时57分]"
-        },
-        {
-          "title": "【早报】美股存储、光通信板块大幅回落；原油上涨、黄金走低；宇树科技今日上市",
-          "url": "https://www.cls.cn/detail/2457709",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时35分 ~ 14时53分]"
-        },
-        {
-          "title": "美股收盘：AI牛股集体重挫 医药、红利、软件板块轮动走强",
-          "url": "https://www.cls.cn/detail/2457697",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时27分 ~ 14时53分]"
-        },
-        {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14,
-            17,
-            19,
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时36分 ~ 09时36分]"
-        },
-        {
-          "title": "美国财政部出手！美国长债收益率下行，美股高开，存储芯片股、黄金股普涨，美元下跌",
-          "url": "https://wallstreetcn.com/articles/3779750",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时55分 ~ 22时57分]"
-        },
-        {
-          "title": "一款抗癌疫苗引爆美股医药股",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E6%AC%BE%E6%8A%97%E7%99%8C%E7%96%AB%E8%8B%97%E5%BC%95%E7%88%86%E7%BE%8E%E8%82%A1%E5%8C%BB%E8%8D%AF%E8%82%A1",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时56分 ~ 22时57分]"
-        },
-        {
-          "title": "美股三大股指全线收跌",
-          "url": "https://www.douyin.com/hot/2614994",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时35分 ~ 09时36分]"
-        },
-        {
-          "title": "AI债务化担忧发酵，美股指三连跌，芯片指数重挫5%，美长债走V",
-          "url": "https://wallstreetcn.com/articles/3779677",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时27分"
-        },
-        {
-          "title": "美股存储芯片指数初步收跌7.5%，费城半导体指数跌5.1%。 标普500指数初步收跌0.6%，科技板块跌2%，工业板块跌1.4%，能源板块涨1.7%。 纳斯达克100指数初步收跌1.6%，成分股中，CoreWeave初步收跌11.8%，Lumentum跌10%，泰瑞达跌9.8%，闪迪跌9.7%，迈威尔科技、希捷科技、Nebius Group NV、西部数据至少跌6.7%，吉利德科学涨3.3%，Adobe涨3.6%，财季Intuit涨4.3%。",
-          "url": "https://wallstreetcn.com/livenews/3151321",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时31分"
-        },
-        {
-          "title": "Moderna美股盘前涨超80%。",
-          "url": "https://wallstreetcn.com/livenews/3151747",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "李大霄提醒严防美股泡沫爆破冲击",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E6%8F%90%E9%86%92%E4%B8%A5%E9%98%B2%E7%BE%8E%E8%82%A1%E6%B3%A1%E6%B2%AB%E7%88%86%E7%A0%B4%E5%86%B2%E5%87%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时38分 ~ 14时53分]"
-        },
-        {
-          "title": "美股高开：存储芯片股、黄金股普涨，迈威尔科技涨约10%，Moderna涨约86%",
-          "url": "https://wallstreetcn.com/livenews/3151818",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时55分 ~ 22时57分]"
-        },
-        {
-          "title": "周二（8月18日）纽约尾盘，ICE原糖期货涨3.62%、整体呈现出N形走势，ICE白糖期货涨3.44%。 ICE阿拉比卡咖啡期货涨5.53%，咖啡“C”期货涨4.31%、美股开盘以来持续走高。罗布斯塔咖啡期货涨2.14%。 纽约可可期货跌2.39%，报5924美元/吨。伦敦可可期货跌1.83%。 芝加哥WCE双低油菜籽期货跌2.79%，美股开盘之前大致持平、之后持续下挫。 ICE棉花期货跌0.08%。",
-          "url": "https://wallstreetcn.com/livenews/3151285",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时32分 ~ 04时31分]"
-        },
-        {
-          "title": "美股盘前三大股指期货集体翻红",
-          "url": "https://www.douyin.com/hot/2615877",
-          "source": "抖音",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时22分 ~ 21时55分]"
-        },
-        {
-          "title": "美国财政部出手稳定债市 美股期指全线上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2458669",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时55分 ~ 22时57分]"
-        },
-        {
-          "title": "股债市场短暂喘息，美股盘前存储芯片股普涨，SK海力士涨约6%，Moderna涨超80%，油价四连涨",
-          "url": "https://wallstreetcn.com/articles/3779750",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时22分 ~ 20时57分]"
-        },
-        {
-          "title": "中东停火前景黯淡 美股能源板块再度冲向历史高位",
-          "url": "https://www.cls.cn/detail/2457651",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时03分 ~ 13时38分]"
-        },
-        {
-          "title": "美股大类资产类ETF多数收跌，新兴市场ETF跌超2.9%，黄金ETF跌1.7%",
-          "url": "https://wallstreetcn.com/livenews/3151328",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时30分 ~ 06时29分]"
-        },
-        {
-          "title": "美股盘前：疫苗股大涨，Moderna涨102%",
-          "url": "https://wallstreetcn.com/livenews/3151772",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时22分 ~ 20时57分]"
-        },
-        {
-          "title": "周二（8月18日），美股行业ETF多数收跌，半导体ETF跌4.09%，全球科技股指数ETF跌3.08%，科技行业ETF跌2.47%，能源业ETF涨1.76%。",
-          "url": "https://wallstreetcn.com/livenews/3151324",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时30分 ~ 06时29分]"
-        },
-        {
-          "title": "周二（8月18日），彭博电动汽车价格回报指数跌2.50%，报3453.81点。 指数全天处于下跌状态，北京时间10:00前后显著扩大跌幅，美股开盘后迅速扩大跌幅。",
-          "url": "https://wallstreetcn.com/livenews/3151323",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时30分 ~ 06时29分]"
-        },
-        {
-          "title": "周二（8月18日）欧市尾盘，英国10年期国债收益率涨1.5个基点，报5.075%，日内大部分时间高位震荡，美股开盘以来呈现出V形走势。 两年期英债收益率涨0.7个基点，报4.374%。 30年期英债收益率涨1.7个基点，50年期英债收益率涨0.9个基点。 2/10年期英债收益率利差涨0.893个基点，报+70.105个基点。",
-          "url": "https://wallstreetcn.com/livenews/3151240",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时37分 ~ 02时58分]"
-        },
-        {
-          "title": "Moderna美股盘前涨超50%，默沙东前涨近6%，公司与默沙东宣布黑色素瘤皮肤癌疫苗在大型试验中达到目标影响。其他疫苗股跟涨，BioNTech美股盘前涨近19%。",
-          "url": "https://wallstreetcn.com/livenews/3151745",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "金十图示：2026年08月18日（周二）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260819040601296800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时31分"
-        },
-        {
-          "title": "Moderna美股盘前上涨超30%，公司与默沙东宣布黑色素瘤皮肤癌疫苗在大型试验中达到目标影响。",
-          "url": "https://wallstreetcn.com/livenews/3151743",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "金十图示：2026年08月18日（周二）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260819040537714800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时31分"
-        },
-        {
-          "title": "美股收盘：三大股指收跌 海力士跌9%",
-          "url": "https://flash.jin10.com/detail/20260819040221143800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时31分"
-        },
-        {
-          "title": "金十图示：2026年08月19日（周三）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20260819214130853800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
-          "title": "美股三大指数高开 SK海力士涨近5%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80+SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E6%B6%A8%E8%BF%915%25",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
-          "title": "周三美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3151806",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2026-08-19）",
-          "url": "https://flash.jin10.com/detail/20260819203719059800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时57分"
-        },
-        {
-          "title": "微博第二季度净营收4.538亿美元，预估4.411亿美元。 第二季度调整后每股收益0.38美元，预估0.35美元。 第二季度调整后息税折旧及摊销前利润1.332亿美元，预估1.23亿美元。 第二季度月活跃用户5.6亿，预估5.7亿。 第二季度日活跃用户2.5亿，预估2.6亿。 微博美股盘前涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3151649",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时40分"
-        },
-        {
-          "title": "塔吉特第二季度净销售额265.4亿美元，预期261.1亿美元。 第二季度调整后每股收益4.11美元。 第二季度同店销售额增长3.8%，预期增长2.43%。 塔吉特预计全年调整后每股收益为9.90至10.90美元。 塔吉特美股盘前跌近1%。",
-          "url": "https://wallstreetcn.com/livenews/3151729",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "Nebius美股盘前跌超7%，公司拟发行45亿美元可转换优先票据。",
-          "url": "https://wallstreetcn.com/livenews/3151762",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时22分"
-        },
-        {
-          "title": "美国财政部出手！美国长债收益率下行，美股期货应声走高，美元下跌，金银大涨",
-          "url": "https://wallstreetcn.com/livenews/3151800",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
-          "title": "美股期货短线走高，纳斯达克100指数期货涨0.6%，标普500指数期货涨0.6%，道指期货涨0.6%。",
-          "url": "https://wallstreetcn.com/livenews/3151799",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
-          "title": "金十图示：2026年08月18日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260819003341030800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时37分"
-        },
-        {
-          "title": "金十图示：2026年08月18日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260819003155415800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时37分"
-        },
-        {
-          "title": "Nebius美股盘前跌超7%，公司拟发行45亿美元可转换债",
-          "url": "https://wallstreetcn.com/livenews/3151762",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时57分"
-        },
-        {
-          "title": "美股盘初，主要行业ETF涨跌不一，生物科技指数ETF涨超4%，医疗业ETF涨近3%，半导体ETF跌0.6%。",
-          "url": "https://wallstreetcn.com/livenews/3151824",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时57分"
-        },
-        {
-          "title": "高盛TMT交易台：美股波动率降至5年低位，做市商仓位继续压制波动",
-          "url": "https://flash.jin10.com/detail/20260819101112668800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时03分"
-        },
-        {
-          "title": "Moderna美股盘前涨超80%，公司与默沙东宣布黑色素瘤疫苗研究取得成功。",
-          "url": "https://wallstreetcn.com/livenews/3151747",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时22分"
-        },
-        {
-          "title": "Moderna美股盘前涨超50%，默沙东涨近6%，公司与默沙东宣布黑色素瘤疫苗研究取得成功。其他疫苗股跟涨，BioNTech美股盘前涨近19%。",
-          "url": "https://wallstreetcn.com/livenews/3151745",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时22分"
-        },
-        {
-          "title": "Moderna美股盘前涨超30%，公司与默沙东宣布黑色素瘤疫苗研究取得成功",
-          "url": "https://wallstreetcn.com/livenews/3151743",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时22分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "特朗普发布地图，将霍尔木兹海峡划为“美国新领土”",
-          "url": "https://news.ifeng.com/c/8vhHYZ5eOge",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时36分 ~ 11时03分]"
-        },
         {
           "title": "特朗普宣布：推迟3天加征关税",
           "url": "https://news.ifeng.com/c/8viES1IRwn8",
           "source": "凤凰网",
           "ranks": [
-            2,
-            1,
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时38分 ~ 22时57分]"
+          "appearance_count": 2,
+          "time_info": "[01时32分 ~ 01时33分]"
         },
         {
-          "title": "特朗普：不着急结束伊朗战争，若阿曼阻碍谈判、将“狠狠轰炸”，伊朗警告转向全面进攻",
-          "url": "https://wallstreetcn.com/articles/3779635",
-          "source": "华尔街见闻",
+          "title": "特朗普预计今年晚些时候会见金正恩",
+          "url": "https://flash.jin10.com/detail/20260820005852510800",
+          "source": "金十数据",
           "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时36分 ~ 07时27分]"
-        },
-        {
-          "title": "罕见公开说“不”！内塔尼亚胡为何硬刚特朗普？",
-          "url": "https://news.ifeng.com/c/8vhArHdu44B",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时36分 ~ 09时36分]"
-        },
-        {
-          "title": "特朗普寻求今秋与金正恩会晤",
-          "url": "https://news.ifeng.com/c/8vi85c8Rz8H",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时35分 ~ 22时57分]"
-        },
-        {
-          "title": "特朗普的“相扑手”，会走上白宫讲台吗？",
-          "url": "https://news.ifeng.com/c/8vhELdiMK92",
-          "source": "凤凰网",
-          "ranks": [
-            5,
             11
           ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时36分 ~ 09时36分]"
-        },
-        {
-          "title": "特朗普声称目前和未来不会与伊朗会谈，秀地图标注霍尔木兹为“美国新领土”",
-          "url": "https://wallstreetcn.com/articles/3779720",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[06时29分 ~ 21时55分]"
-        },
-        {
-          "title": "特朗普反复要求CNN记者别吵：“假新闻，你闭嘴”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33803619",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时36分 ~ 11时03分]"
-        },
-        {
-          "title": "特朗普威胁阿曼",
-          "url": "https://www.douyin.com/hot/2613763",
-          "source": "抖音",
-          "ranks": [
-            29,
-            26,
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时36分 ~ 05时30分]"
-        },
-        {
-          "title": "施压韩国，示好朝鲜，特朗普到底想干啥？",
-          "url": "https://news.ifeng.com/c/8vi3DZqUo7u",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时50分"
+          "time_info": "01时33分"
         },
         {
-          "title": "美国总统特朗普周三日程一览",
-          "url": "https://flash.jin10.com/detail/20260819092702784800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时36分"
-        },
-        {
-          "title": "据Politico：美国总统特朗普正在权衡是否暂缓对加拿大征收关税。",
-          "url": "https://flash.jin10.com/detail/20260819031554825800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时32分"
-        },
-        {
-          "title": "知情人士：美加关税豁免方案已提交特朗普待批",
-          "url": "https://flash.jin10.com/detail/20260819041019514800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时31分"
-        },
-        {
-          "title": "应特朗普要求 韩美联合军演提前结束 训练日程缩短约一半",
-          "url": "https://flash.jin10.com/detail/20260819071141356800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时27分"
-        },
-        {
-          "title": "知情人士透露，美国据称降低对周二达成美加贸易协议的预期。美国总统特朗普和加拿大总理卡尼预计将于当地时间周二再次通话。",
-          "url": "https://flash.jin10.com/detail/20260819024204722800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时58分 ~ 03时32分]"
-        },
-        {
-          "title": "加拿大总理办公室：总理卡尼周二下午与美国总统特朗普通电话，讨论贸易磋商事宜。",
-          "url": "https://wallstreetcn.com/livenews/3151345",
+          "title": "美国总统特朗普：提名海蒂·奥弗顿博士担任下一任美国食品药品监督管理局（FDA）局长。",
+          "url": "https://wallstreetcn.com/livenews/3151874",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时29分 ~ 07时27分]"
-        },
-        {
-          "title": "据英国金融时报，伊朗军方内部人士透露，如果美国总统特朗普进一步升级美伊战争，伊朗已评估并将目标瞄准位于欧洲的美国及西方军事资产。",
-          "url": "https://wallstreetcn.com/livenews/3151483",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时50分 ~ 13时38分]"
-        },
-        {
-          "title": "特朗普还对人民大会堂念念不忘",
-          "url": "https://www.toutiao.com/trending/7674416539562590254/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            18,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时36分 ~ 06时29分]"
-        },
-        {
-          "title": "预测市场的老板们不会参加美国总统特朗普的白宫会议。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3151255",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时37分 ~ 02时58分]"
-        },
-        {
-          "title": "美官员：特朗普寻求今秋与金正恩会晤",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%AE%98%E5%91%98%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%BB%E6%B1%82%E4%BB%8A%E7%A7%8B%E4%B8%8E%E9%87%91%E6%AD%A3%E6%81%A9%E4%BC%9A%E6%99%A4",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时35分 ~ 09时36分]"
-        },
-        {
-          "title": "特朗普要求谈判团队暂停与伊朗接触",
-          "url": "https://www.toutiao.com/trending/7675509930534637119/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时35分 ~ 09时36分]"
-        },
-        {
-          "title": "美官员：特朗普要求谈判团队暂停与伊朗接触",
-          "url": "https://wallstreetcn.com/livenews/3151364",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时27分"
-        },
-        {
-          "title": "地区官员透露特朗普不满霍尔木兹海峡协议 以至于威胁阿曼",
-          "url": "https://flash.jin10.com/detail/20260819031133384800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时32分"
-        },
-        {
-          "title": "特朗普称美加已达成协议 暂停对加拿大50%关税",
-          "url": "https://flash.jin10.com/detail/20260819102626197800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时03分"
-        },
-        {
-          "title": "加拿大总理卡尼办公室：加拿大总理卡尼和美国总统特朗普今天下午再次就正在进行的谈判进行了通话。",
-          "url": "https://flash.jin10.com/detail/20260819052539025800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "据知情人士透露，美国刻意弱化关于周二与加拿大达成贸易协议的希望。 美国总统特朗普与加拿大总理卡尼料将在周二再次对话。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3151279",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时32分"
-        },
-        {
-          "title": "特朗普：推迟对加拿大加征50%关税三天时间。 加拿大与美国之间已有协议，等待文件最终敲定。 Keystone XL输油管道或将重新运作。",
-          "url": "https://wallstreetcn.com/livenews/3151437",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时03分"
-        },
-        {
-          "title": "据Axios：据白宫消息人士透露，白宫计划明天与特朗普共同举办一场活动，届时将有多位科技界领袖出席，但预测市场公司并未受邀，也不会参加。",
-          "url": "https://flash.jin10.com/detail/20260819004821037800",
-          "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时37分"
+          "time_info": "01时33分"
         },
         {
-          "title": "美元兑加元USD/CAD跌至1.3877，此前特朗普暂停加征关税。",
-          "url": "https://flash.jin10.com/detail/20260819102108062800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时03分"
-        },
-        {
-          "title": "美国总统特朗普：Keystone XL输油管道或将重新运作。",
-          "url": "https://flash.jin10.com/detail/20260819101837158800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时03分"
-        },
-        {
-          "title": "美国总统特朗普：加拿大与美国已达成协议，正待最终文件确认。",
-          "url": "https://flash.jin10.com/detail/20260819101803129800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时03分"
-        },
-        {
-          "title": "特朗普寻求今秋与金正恩会晤",
-          "url": "https://wallstreetcn.com/livenews/3151399",
+          "title": "特朗普：与伊朗谈判或适时进行",
+          "url": "https://wallstreetcn.com/livenews/3151869",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时36分"
+          "time_info": "01时33分"
         },
         {
-          "title": "美国总统特朗普：我已暂停对加拿大加征50%关税，为期三天。",
-          "url": "https://flash.jin10.com/detail/20260819101722060800",
-          "source": "金十数据",
+          "title": "特朗普说及重启伊朗谈判时表示：也许在某个时候。",
+          "url": "https://wallstreetcn.com/livenews/3151866",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时03分"
+          "time_info": "01时33分"
         },
         {
-          "title": "哈马斯：以色列最近在加沙的袭击表明，内塔尼亚胡试图“蓄意破坏谈判并削弱”区域和国际为推进特朗普计划所做的努力。",
-          "url": "https://flash.jin10.com/detail/20260819021122531800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时58分"
-        },
-        {
-          "title": "关税生效前特朗普急刹车，加拿大争取到三天“生死窗口”",
-          "url": "https://flash.jin10.com/detail/20260819115309468800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时50分"
-        },
-        {
-          "title": "据知情人士透露，美国总统特朗普考虑给予加拿大关税豁免。（Politico）",
-          "url": "https://wallstreetcn.com/livenews/3151293",
+          "title": "特朗普：已与加拿大达成协议。 重申与加拿大的协议有待最终敲定。 农民将无需缴纳关税。 昨晚有大量船只通过了霍尔木兹海峡。 伊朗不能拥有核武器，因为他们会使用它。 当这一切结束时，油价会低得多。",
+          "url": "https://wallstreetcn.com/livenews/3151863",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时31分"
+          "time_info": "01时33分"
+        },
+        {
+          "title": "Scotts Miracle-Gro涨超6%，特朗普称Scotts Miracle-Gro公司是一家伟大的公司。Scotts Miracle-Gro公司免费提供了草坪。",
+          "url": "https://wallstreetcn.com/livenews/3151857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时33分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 18,
+      "match_count": 6,
       "titles": [
         {
-          "title": "美债抛售潮恐持续！华尔街齐拉警报 一文读懂背后推手",
-          "url": "https://www.cls.cn/detail/2457199",
+          "title": "美国财政部宣布扩大国债回购规模 美债收益率应声回落",
+          "url": "https://www.cls.cn/detail/2458743",
           "source": "财联社热门",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时36分 ~ 07时27分]"
-        },
-        {
-          "title": "全球股债齐挫！美股低开、存储芯片股普跌，30年期美债收益率创07年以来新高，油价上行、金银走弱",
-          "url": "https://wallstreetcn.com/articles/3779677",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时36分 ~ 06时29分]"
-        },
-        {
-          "title": "中东风险推高油价，美股美债齐跌，存储芯片、光通信逆势大涨，黄金涨回4400",
-          "url": "https://wallstreetcn.com/articles/3779603",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时36分 ~ 06时29分]"
-        },
-        {
-          "title": "全球瞩目！美联储会议纪要今夜来袭 能否抑制“美债风暴”？",
-          "url": "https://www.cls.cn/detail/2458004",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时40分 ~ 20时57分]"
-        },
-        {
-          "title": "油价与通胀担忧推升美债收益率 美股三大期指集体走低 芯片股回调 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2457477",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时36分 ~ 11时03分]"
-        },
-        {
-          "title": "30年期美债收益率创2007年以来新高：油价、财政赤字与AI发债共推长端利率上行",
-          "url": "https://wallstreetcn.com/articles/3779638",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时36分 ~ 06时29分]"
-        },
-        {
-          "title": "就在今晚！美债又将迎“大考”……",
-          "url": "https://www.cls.cn/detail/2457871",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时50分 ~ 19时11分]"
-        },
-        {
-          "title": "美债抛售恐慌开始外溢？AI牛股齐跌 华尔街成惊弓之鸟……",
-          "url": "https://www.cls.cn/detail/2457780",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7,
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时03分 ~ 17时40分]"
+          "appearance_count": 2,
+          "time_info": "[01时32分 ~ 01时33分]"
         },
         {
-          "title": "这是当前美股最大风险？华尔街策略师：一旦美债“破6”……",
-          "url": "https://www.cls.cn/detail/2457916",
-          "source": "财联社热门",
+          "title": "长期美债收益率应声下跌！美财政部将长债回购上限提高至少一倍",
+          "url": "https://wallstreetcn.com/articles/3779819",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            8,
-            4
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时38分 ~ 19时11分]"
+          "appearance_count": 2,
+          "time_info": "[01时32分 ~ 01时33分]"
+        },
+        {
+          "title": "美国财政部20年期国债拍卖得标利率为5.204%，高于前值5.16%；投标倍数降至2.53，前值为2.64。直接得标24.6%，前值16.2%；间接得标62.9%，前值69.1%。 拍卖结束后，20年期美债收益率几乎没有变化。",
+          "url": "https://wallstreetcn.com/livenews/3151884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时33分"
         },
         {
           "title": "美债最敏感时刻：160亿美元长债拍卖+美联储纪要，明日凌晨考验市场",
           "url": "https://wallstreetcn.com/articles/3779782",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时55分 ~ 22时57分]"
-        },
-        {
-          "title": "长期美债收益率应声下跌！美财政部将单次回购长期债务规模上调至至少40亿美元",
-          "url": "https://wallstreetcn.com/articles/3779819",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时56分 ~ 22时57分]"
-        },
-        {
-          "title": "25 年来最贵美债横空出世，美联储没加息，市场却完成一轮「被动加息」，有何影响？美债收益率为何飙升？",
-          "url": "https://www.zhihu.com/question/2072027645802452564",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时35分 ~ 09时36分]"
+          "time_info": "[01时32分 ~ 01时33分]"
         },
         {
           "title": "全球长债遭抛售，30 年期美债收益率升破 5.3%，创 2007 年以来新高，将如何影响全球经济？",
           "url": "https://www.zhihu.com/question/2073187251438227532",
           "source": "知乎",
           "ranks": [
-            19
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时56分 ~ 22时57分]"
+          "time_info": "[01时32分 ~ 01时33分]"
         },
         {
-          "title": "周三160亿美元20年期美债拍卖，收益率会否再创新高？",
-          "url": "https://flash.jin10.com/detail/20260819131552974800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时38分"
-        },
-        {
-          "title": "美国财政部公布回购相关计划后，美债收益率曲线大幅趋平。",
-          "url": "https://flash.jin10.com/detail/20260819203850216800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时57分"
-        },
-        {
-          "title": "美债逼宫，黄金到底要攻还是要守？",
-          "url": "https://flash.jin10.com/detail/20260819120138252800",
-          "source": "金十数据",
+          "title": "欧洲国债追随美债上涨 德债止住连跌",
+          "url": "https://wallstreetcn.com/livenews/3151871",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时50分"
-        },
-        {
-          "title": "长期美债收益率还在高位，利率期权却已转向：降息交易来了",
-          "url": "https://flash.jin10.com/detail/20260819142229372800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时53分"
-        },
-        {
-          "title": "30 年期美债收益率创 07 年来新高，8 月美国投资级债券发行创同期新高，6 月美债遭大幅减持，如何解读？",
-          "url": "https://www.zhihu.com/question/2072970611614393250",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时40分"
+          "time_info": "01时33分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 13,
+      "keyword_group": "美股",
+      "match_count": 6,
       "titles": [
         {
-          "title": "二季度收入仅增18%！OpenAI“暴雷”，远低于Anthropic",
-          "url": "https://wallstreetcn.com/articles/3779748",
+          "title": "美国财政部出手！美国长债收益率下行，美股高开，存储芯片股、黄金股普涨，美元下跌",
+          "url": "https://wallstreetcn.com/articles/3779750",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时35分 ~ 22时57分]"
-        },
-        {
-          "title": "OpenAI在Hugging Face数据泄露事件后调整人工智能安全机制。",
-          "url": "https://wallstreetcn.com/livenews/3151272",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            17
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时58分 ~ 03时32分]"
+          "time_info": "[01时32分 ~ 01时33分]"
         },
         {
-          "title": "OpenAI：我们已暂停部分前沿模型强化学习训练",
-          "url": "https://wallstreetcn.com/livenews/3151282",
-          "source": "华尔街见闻-快讯",
+          "title": "债市风暴持续，美股指三连跌，泛欧股指五连跌，美芯片指数重挫5%，原油三连涨",
+          "url": "https://wallstreetcn.com/articles/3779677",
+          "source": "华尔街见闻",
           "ranks": [
-            8
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时32分"
+          "appearance_count": 2,
+          "time_info": "[01时32分 ~ 01时33分]"
         },
         {
-          "title": "OpenAI强化AI安全防护，严防模型“失控”",
-          "url": "https://flash.jin10.com/detail/20260819022528067800",
-          "source": "金十数据",
+          "title": "美国财政部出手稳定债市 美股期指全线上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2458669",
+          "source": "财联社热门",
           "ranks": [
-            12
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时58分"
+          "appearance_count": 2,
+          "time_info": "[01时32分 ~ 01时33分]"
         },
         {
-          "title": "据悉OpenAI营收环比增长18%，但亏损扩大",
-          "url": "https://flash.jin10.com/detail/20260819063706290800",
-          "source": "金十数据",
+          "title": "一款抗癌疫苗引爆美股医药股",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E6%AC%BE%E6%8A%97%E7%99%8C%E7%96%AB%E8%8B%97%E5%BC%95%E7%88%86%E7%BE%8E%E8%82%A1%E5%8C%BB%E8%8D%AF%E8%82%A1",
+          "source": "百度热搜",
           "ranks": [
-            15
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时27分"
+          "appearance_count": 2,
+          "time_info": "[01时32分 ~ 01时33分]"
         },
         {
-          "title": "Abnormal AI与OpenAI今日宣布建立战略合作伙伴关系，旨在加速企业级AI的安全采用，扩大Abnormal在内部业务及产品开发中对OpenAI的应用，并探索新的安全能力，帮助防御者更有效地调查和应对威胁。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3151834",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时57分"
-        },
-        {
-          "title": "OpenAI：最大规模计划中的前沿强化学习训练仍处于暂停状态，等待完成安全验证。",
-          "url": "https://flash.jin10.com/detail/20260819021358227800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时58分"
-        },
-        {
-          "title": "据华尔街日报：OpenAI表示，截至6月的三个月内，其营收增长至67亿美元。",
-          "url": "https://flash.jin10.com/detail/20260819063142487800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时27分"
-        },
-        {
-          "title": "OpenAI：暂时放缓规模扩张步伐，包括暂停对最新部署模型进行强化学习训练，为期两周。",
-          "url": "https://flash.jin10.com/detail/20260819021328389800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时58分"
-        },
-        {
-          "title": "OpenAI：在Hugging Face事件发生后，我们暂停了研究集群中可能执行代码的前沿模型推理。",
-          "url": "https://flash.jin10.com/detail/20260819021019515800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时58分"
-        },
-        {
-          "title": "OpenAI季度收入远逊Anthropic！因安全考虑暂停新模型训练",
-          "url": "https://flash.jin10.com/detail/20260819101541842800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时03分"
-        },
-        {
-          "title": "OpenAI：下周起，ChatGPT广告将拓展至31个欧洲国家。",
-          "url": "https://flash.jin10.com/detail/20260819130720644800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时38分"
-        },
-        {
-          "title": "据Axios：OpenAI将在Hugging Face事件后正在重写其主要安全文件。",
-          "url": "https://flash.jin10.com/detail/20260819020813455800",
+          "title": "金十图示：2026年08月19日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260820003146991800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时58分"
+          "time_info": "01时33分"
+        },
+        {
+          "title": "金十图示：2026年08月19日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260820003044230800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时33分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
+      "match_count": 3,
       "titles": [
         {
           "title": "DeepSeek Harness 轻松破了 GitHub 记录，它能引发一场什么革命？",
           "url": "https://www.zhihu.com/question/2072997638685864311",
           "source": "知乎",
           "ranks": [
-            17,
-            10,
-            6,
-            3,
-            4
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时40分 ~ 22时57分]"
+          "appearance_count": 2,
+          "time_info": "[01时32分 ~ 01时33分]"
         },
         {
           "title": "梁文锋打新宇树科技浮盈11亿，雷军赚152亿，美团系浮盈333亿，大疆痛失超250亿",
           "url": "https://wallstreetcn.com/articles/3779762",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            7,
-            8
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时53分 ~ 22时57分]"
+          "appearance_count": 2,
+          "time_info": "[01时32分 ~ 01时33分]"
         },
         {
-          "title": "“价格屠夫”梁文锋“收刀”",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BB%B7%E6%A0%BC%E5%B1%A0%E5%A4%AB%E2%80%9D%E6%A2%81%E6%96%87%E9%94%8B%E2%80%9C%E6%94%B6%E5%88%80%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            4,
-            8,
-            12,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时10分 ~ 22时57分]"
-        },
-        {
-          "title": "宇树上市首日造富：天使投资人账面回报超800倍 DeepSeek配售浮盈近7亿元",
-          "url": "https://www.cls.cn/detail/2458007",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时40分 ~ 20时57分]"
-        },
-        {
-          "title": "免费的 deepseek 能比得上 200 美元 / 月的 ChatGPT 吗？",
-          "url": "https://www.zhihu.com/question/14194805205",
+          "title": "四月时，说预计下半年昇腾 950 超节点批量上市后，DeepSeek 的价格会大幅下调，这个预计还算数吗？",
+          "url": "https://www.zhihu.com/question/2071697998657106125",
           "source": "知乎",
           "ranks": [
-            20
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时38分 ~ 14时53分]"
-        },
-        {
-          "title": "梁文锋打新宇树科技浮盈超11亿元",
-          "url": "https://www.toutiao.com/trending/7674808450081328703/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时03分"
+          "time_info": "[01时32分 ~ 01时33分]"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
       "titles": [
         {
-          "title": "谷歌称其AI可承担前沿部署工程师的工作",
-          "url": "https://wallstreetcn.com/livenews/3151344",
-          "source": "华尔街见闻-快讯",
+          "title": "二季度收入仅增18%！OpenAI“暴雷”，远低于Anthropic",
+          "url": "https://wallstreetcn.com/articles/3779748",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
-            23
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时29分 ~ 07时27分]"
+          "time_info": "[01时32分 ~ 01时33分]"
         },
         {
-          "title": "迈威尔科技美股盘前涨近9%，公司向谷歌发行可购买至多5897万股股票的认股权证",
-          "url": "https://wallstreetcn.com/livenews/3151791",
+          "title": "OpenAI宣布将于9月推出面向前沿模型的“私有安全处理”服务，并承诺对客户数据实行“零留存”政策，相关数据不会被保留或用于模型训练。 此举旨在强化企业客户的数据隐私保护，提升其在B端市场的竞争力，同时回应监管与用户对AI数据安全的核心关切。",
+          "url": "https://wallstreetcn.com/livenews/3151886",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            25
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时57分 ~ 21时55分]"
-        },
-        {
-          "title": "据The Information：谷歌(GOOG.O)称其AI可完成前线部署工程师的部分工作。",
-          "url": "https://flash.jin10.com/detail/20260819053144316800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "迈威尔科技(MRVL.O)美股盘前上涨11%，公司与谷歌达成定制芯片协议。",
-          "url": "https://flash.jin10.com/detail/20260819203655065800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时57分"
-        },
-        {
-          "title": "博通(AVGO.O)下跌2%，因迈威尔科技与谷歌达成定制芯片协议。",
-          "url": "https://flash.jin10.com/detail/20260819213151934800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
-          "title": "博通(AVGO.O)盘前下跌3.4%，因迈威尔科技与谷歌达成定制芯片协议。",
-          "url": "https://flash.jin10.com/detail/20260819203123832800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美元指数DXY日内跌超0.50%，现报99.15。欧元兑美元EUR/USD日内涨幅扩大至0.50%，现报1.1632。",
-          "url": "https://flash.jin10.com/detail/20260819204856285800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时57分"
-        },
-        {
-          "title": "美元指数DXY一度跌至11周低点99.155，现报99.23。欧元兑美元EUR/USD上涨至10周高点1.1629。",
-          "url": "https://flash.jin10.com/detail/20260819204341391800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时57分"
-        },
-        {
-          "title": "美元指数18日上涨",
-          "url": "https://flash.jin10.com/detail/20260819035212670800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时31分"
-        },
-        {
-          "title": "周二（8月18日）纽约尾盘，ICE美元指数持平，报99.638点，日内交投区间为99.521-99.693点。 彭博美元指数涨0.08%，报1201.24点，日内交投区间为1199.46-1201.60点。",
-          "url": "https://wallstreetcn.com/livenews/3151301",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时31分"
-        },
-        {
-          "title": "恒天然：8月18日全球乳品贸易（GDT）拍卖价格指数上涨2.3%，奶粉各合同期FAS拍卖均价3,873美元/吨。 批发奶粉价格指数涨3%，报3,591美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3151230",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时37分"
+          "time_info": "01时33分"
         }
       ]
     },
@@ -1527,44 +302,26 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "金十图示：2026年08月19日（周三）上海金早盘价为945.27元/克，较国际金价(945.25元/克)，高0.02元/克",
-          "url": "https://flash.jin10.com/detail/20260819102107532800",
-          "source": "金十数据",
+          "title": "金价彻底反弹了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%BD%BB%E5%BA%95%E5%8F%8D%E5%BC%B9%E4%BA%86%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
           "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时03分"
-        },
-        {
-          "title": "获利了结撞上5.3%长债，金价这轮行情走完了吗？",
-          "url": "https://flash.jin10.com/detail/20260819115156489800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "招商银行 万华化学 福耀玻璃 旗滨集团 苏农银行 奥浦迈 爱美客 美的集团 潍柴动力 苏泊尔 鱼跃医疗 牧原股份 振邦智能 华兰生物 证监会",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【利通电子：拟定增募资不超过50亿元 用于智算中心建设及补充流动资金】利通电子公告，公司拟向不超过35名特定投资者发行A股股票，募集资金总额不超过50亿元（含本数），扣除发行费用后拟用于智算中心建设项目（投资总额590,649.07万元，拟投入募集资金400,000.00万元）及补充流动资金（拟投入募集资金100,000.00万元）。本次发行数量不超过发行前总股本的30%，即不超过1.1亿股（含本数），发行价格不低于定价基准日前20个交易日公司股票交易均价的80%。本次发行尚需公司股东会审议通过、上交所审核通过及中国证监会同意注册。",
-          "url": "https://wallstreetcn.com/livenews/3151782",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            11
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时22分 ~ 20时57分]"
+          "time_info": "[01时32分 ~ 01时33分]"
+        },
+        {
+          "title": "现货黄金价格涨3.72%，报4495.29美元/盎司；现货白银价格涨4.15%，报65.93美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3151873",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时33分"
         }
       ]
     }
