@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-20T01:33:00.917780+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-08-20T03:10:06.809473+08:00",
+  "total_titles_processed": 380,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "特朗普宣布：推迟3天加征关税",
@@ -15,8 +15,20 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时32分 ~ 03时10分]"
+        },
+        {
+          "title": "美国总统特朗普：提名海蒂·奥弗顿博士担任下一任美国食品药品监督管理局（FDA）局长。",
+          "url": "https://wallstreetcn.com/livenews/3151874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            28
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时32分 ~ 01时33分]"
+          "time_info": "[01时33分 ~ 03时10分]"
         },
         {
           "title": "特朗普预计今年晚些时候会见金正恩",
@@ -25,20 +37,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时33分"
         },
         {
-          "title": "美国总统特朗普：提名海蒂·奥弗顿博士担任下一任美国食品药品监督管理局（FDA）局长。",
-          "url": "https://wallstreetcn.com/livenews/3151874",
+          "title": "特朗普称可能在“某个时候”恢复与伊朗谈判",
+          "url": "https://wallstreetcn.com/livenews/3151887",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时33分"
+          "time_info": "03时10分"
         },
         {
           "title": "特朗普：与伊朗谈判或适时进行",
@@ -47,7 +59,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时33分"
         },
@@ -58,7 +70,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时33分"
         },
@@ -69,7 +81,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时33分"
         },
@@ -80,7 +92,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时33分"
         }
@@ -88,7 +100,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美国财政部宣布扩大国债回购规模 美债收益率应声回落",
@@ -98,8 +110,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时32分 ~ 01时33分]"
+          "appearance_count": 4,
+          "time_info": "[01时32分 ~ 03时10分]"
         },
         {
           "title": "长期美债收益率应声下跌！美财政部将长债回购上限提高至少一倍",
@@ -109,8 +121,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时32分 ~ 01时33分]"
+          "appearance_count": 4,
+          "time_info": "[01时32分 ~ 03时10分]"
         },
         {
           "title": "美国财政部20年期国债拍卖得标利率为5.204%，高于前值5.16%；投标倍数降至2.53，前值为2.64。直接得标24.6%，前值16.2%；间接得标62.9%，前值69.1%。 拍卖结束后，20年期美债收益率几乎没有变化。",
@@ -119,7 +131,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时33分"
         },
@@ -128,22 +140,24 @@
           "url": "https://wallstreetcn.com/articles/3779782",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时32分 ~ 01时33分]"
+          "appearance_count": 4,
+          "time_info": "[01时32分 ~ 03时10分]"
         },
         {
           "title": "全球长债遭抛售，30 年期美债收益率升破 5.3%，创 2007 年以来新高，将如何影响全球经济？",
           "url": "https://www.zhihu.com/question/2073187251438227532",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时32分 ~ 01时33分]"
+          "appearance_count": 4,
+          "time_info": "[01时32分 ~ 03时10分]"
         },
         {
           "title": "欧洲国债追随美债上涨 德债止住连跌",
@@ -152,9 +166,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时33分"
+        },
+        {
+          "title": "美国财政部20年期国债拍卖得标利率5.204%，高于前次的5.163%，间接投标者获配比例62.9%，低于前次比例69.1%。 拍卖结束后，20年期美债收益率几乎没有变化。",
+          "url": "https://wallstreetcn.com/livenews/3151884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时10分"
         }
       ]
     },
@@ -170,8 +195,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时32分 ~ 01时33分]"
+          "appearance_count": 4,
+          "time_info": "[01时32分 ~ 03时10分]"
         },
         {
           "title": "债市风暴持续，美股指三连跌，泛欧股指五连跌，美芯片指数重挫5%，原油三连涨",
@@ -181,8 +206,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时32分 ~ 01时33分]"
+          "appearance_count": 4,
+          "time_info": "[01时32分 ~ 03时10分]"
         },
         {
           "title": "美国财政部出手稳定债市 美股期指全线上涨 | 今夜看点",
@@ -192,19 +217,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时32分 ~ 01时33分]"
+          "appearance_count": 4,
+          "time_info": "[01时32分 ~ 03时10分]"
         },
         {
           "title": "一款抗癌疫苗引爆美股医药股",
           "url": "https://www.baidu.com/s?wd=%E4%B8%80%E6%AC%BE%E6%8A%97%E7%99%8C%E7%96%AB%E8%8B%97%E5%BC%95%E7%88%86%E7%BE%8E%E8%82%A1%E5%8C%BB%E8%8D%AF%E8%82%A1",
           "source": "百度热搜",
           "ranks": [
-            30
+            30,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时32分 ~ 01时33分]"
+          "appearance_count": 4,
+          "time_info": "[01时32分 ~ 03时10分]"
         },
         {
           "title": "金十图示：2026年08月19日（周三）美股热门股票行情一览（美股盘中）",
@@ -213,7 +239,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时33分"
         },
@@ -224,7 +250,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时33分"
         }
@@ -242,8 +268,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时32分 ~ 01时33分]"
+          "appearance_count": 4,
+          "time_info": "[01时32分 ~ 03时10分]"
         },
         {
           "title": "梁文锋打新宇树科技浮盈11亿，雷军赚152亿，美团系浮盈333亿，大疆痛失超250亿",
@@ -253,19 +279,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时32分 ~ 01时33分]"
+          "appearance_count": 4,
+          "time_info": "[01时32分 ~ 03时10分]"
         },
         {
           "title": "四月时，说预计下半年昇腾 950 超节点批量上市后，DeepSeek 的价格会大幅下调，这个预计还算数吗？",
           "url": "https://www.zhihu.com/question/2071697998657106125",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时32分 ~ 01时33分]"
+          "appearance_count": 4,
+          "time_info": "[01时32分 ~ 03时10分]"
         }
       ]
     },
@@ -281,19 +308,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时32分 ~ 01时33分]"
+          "appearance_count": 4,
+          "time_info": "[01时32分 ~ 03时10分]"
         },
         {
           "title": "OpenAI宣布将于9月推出面向前沿模型的“私有安全处理”服务，并承诺对客户数据实行“零留存”政策，相关数据不会被保留或用于模型训练。 此举旨在强化企业客户的数据隐私保护，提升其在B端市场的竞争力，同时回应监管与用户对AI数据安全的核心关切。",
           "url": "https://wallstreetcn.com/livenews/3151886",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时33分 ~ 03时10分]"
         }
       ]
     },
@@ -309,19 +337,20 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时32分 ~ 01时33分]"
+          "appearance_count": 4,
+          "time_info": "[01时32分 ~ 03时10分]"
         },
         {
           "title": "现货黄金价格涨3.72%，报4495.29美元/盎司；现货白银价格涨4.15%，报65.93美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3151873",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时33分 ~ 03时10分]"
         }
       ]
     }
