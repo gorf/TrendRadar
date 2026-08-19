@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-19T11:03:49.309441+08:00",
-  "total_titles_processed": 911,
+  "generated_at": "2026-08-19T12:50:23.149080+08:00",
+  "total_titles_processed": 1060,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
         {
           "title": "特朗普发布地图，将霍尔木兹海峡划为“美国新领土”",
@@ -69,6 +69,32 @@
           "time_info": "[01时36分 ~ 11时03分]"
         },
         {
+          "title": "特朗普寻求今秋与金正恩会晤",
+          "url": "https://news.ifeng.com/c/8vi85c8Rz8H",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时35分 ~ 12时50分]"
+        },
+        {
+          "title": "特朗普声称目前和未来不会与伊朗会谈，秀地图标注霍尔木兹为“美国新领土”",
+          "url": "https://wallstreetcn.com/articles/3779720",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时29分 ~ 12时50分]"
+        },
+        {
           "title": "特朗普威胁阿曼",
           "url": "https://www.douyin.com/hot/2613763",
           "source": "抖音",
@@ -83,6 +109,17 @@
           "time_info": "[01时36分 ~ 05时30分]"
         },
         {
+          "title": "施压韩国，示好朝鲜，特朗普到底想干啥？",
+          "url": "https://news.ifeng.com/c/8vi3DZqUo7u",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
+        },
+        {
           "title": "美国总统特朗普周三日程一览",
           "url": "https://flash.jin10.com/detail/20260819092702784800",
           "source": "金十数据",
@@ -92,18 +129,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
-        },
-        {
-          "title": "特朗普寻求今秋与金正恩会晤",
-          "url": "https://news.ifeng.com/c/8vi85c8Rz8H",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时35分 ~ 11时03分]"
         },
         {
           "title": "据Politico：美国总统特朗普正在权衡是否暂缓对加拿大征收关税。",
@@ -139,17 +164,15 @@
           "time_info": "07时27分"
         },
         {
-          "title": "特朗普声称目前和未来不会与伊朗会谈，秀地图标注霍尔木兹为“美国新领土”",
-          "url": "https://wallstreetcn.com/articles/3779720",
-          "source": "华尔街见闻",
+          "title": "据英国金融时报，伊朗军方内部人士透露，如果美国总统特朗普进一步升级美伊战争，伊朗已评估并将目标瞄准位于欧洲的美国及西方军事资产。",
+          "url": "https://wallstreetcn.com/livenews/3151483",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            6,
-            7
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时29分 ~ 11时03分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
         },
         {
           "title": "知情人士透露，美国据称降低对周二达成美加贸易协议的预期。美国总统特朗普和加拿大总理卡尼预计将于当地时间周二再次通话。",
@@ -251,7 +274,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时03分"
         },
@@ -284,7 +307,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时03分"
         },
@@ -306,7 +329,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时03分"
         },
@@ -317,7 +340,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时03分"
         },
@@ -328,7 +351,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时03分"
         },
@@ -350,7 +373,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时03分"
         },
@@ -364,6 +387,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        },
+        {
+          "title": "关税生效前特朗普急刹车，加拿大争取到三天“生死窗口”",
+          "url": "https://flash.jin10.com/detail/20260819115309468800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
         },
         {
           "title": "据知情人士透露，美国总统特朗普考虑给予加拿大关税豁免。（Politico）",
@@ -405,8 +439,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时35分 ~ 11时03分]"
+          "appearance_count": 4,
+          "time_info": "[09时35分 ~ 12时50分]"
         },
         {
           "title": "【早报】美股存储、光通信板块大幅回落；原油上涨、黄金走低；宇树科技今日上市",
@@ -416,8 +450,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时35分 ~ 11时03分]"
+          "appearance_count": 4,
+          "time_info": "[09时35分 ~ 12时50分]"
         },
         {
           "title": "美股收盘：AI牛股集体重挫 医药、红利、软件板块轮动走强",
@@ -429,8 +463,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时27分 ~ 11时03分]"
+          "appearance_count": 5,
+          "time_info": "[07时27分 ~ 12时50分]"
         },
         {
           "title": "美股三大股指全线收跌",
@@ -488,6 +522,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时30分 ~ 06时29分]"
+        },
+        {
+          "title": "中东停火前景黯淡 美股能源板块再度冲向历史高位",
+          "url": "https://www.cls.cn/detail/2457651",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时03分 ~ 12时50分]"
         },
         {
           "title": "周二（8月18日），美股行业ETF多数收跌，半导体ETF跌4.09%，全球科技股指数ETF跌3.08%，科技行业ETF跌2.47%，能源业ETF涨1.76%。",
@@ -559,17 +605,6 @@
           "time_info": "04时31分"
         },
         {
-          "title": "中东停火前景黯淡 美股能源板块再度冲向历史高位",
-          "url": "https://www.cls.cn/detail/2457651",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时03分"
-        },
-        {
           "title": "金十图示：2026年08月18日（周二）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260819003341030800",
           "source": "金十数据",
@@ -598,7 +633,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时03分"
         }
@@ -614,11 +649,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时35分 ~ 11时03分]"
+          "appearance_count": 4,
+          "time_info": "[09时35分 ~ 12时50分]"
         },
         {
           "title": "OpenAI在Hugging Face数据泄露事件后调整人工智能安全机制。",
@@ -716,7 +752,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时03分"
         },
@@ -735,7 +771,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "美债抛售潮恐持续！华尔街齐拉警报 一文读懂背后推手",
@@ -795,6 +831,18 @@
           "time_info": "[01时36分 ~ 06时29分]"
         },
         {
+          "title": "美债抛售恐慌开始外溢？AI牛股齐跌 华尔街成惊弓之鸟……",
+          "url": "https://www.cls.cn/detail/2457780",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时03分 ~ 12时50分]"
+        },
+        {
           "title": "25 年来最贵美债横空出世，美联储没加息，市场却完成一轮「被动加息」，有何影响？美债收益率为何飙升？",
           "url": "https://www.zhihu.com/question/2072027645802452564",
           "source": "知乎",
@@ -806,15 +854,26 @@
           "time_info": "[09时35分 ~ 09时36分]"
         },
         {
-          "title": "美债抛售恐慌开始外溢？AI牛股齐跌 华尔街成惊弓之鸟……",
-          "url": "https://www.cls.cn/detail/2457780",
+          "title": "就在今晚！美债又将迎“大考”……",
+          "url": "https://www.cls.cn/detail/2457871",
           "source": "财联社热门",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时03分"
+          "time_info": "12时50分"
+        },
+        {
+          "title": "美债逼宫，黄金到底要攻还是要守？",
+          "url": "https://flash.jin10.com/detail/20260819120138252800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
         }
       ]
     },
@@ -887,6 +946,34 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2026年08月19日（周三）上海金早盘价为945.27元/克，较国际金价(945.25元/克)，高0.02元/克",
+          "url": "https://flash.jin10.com/detail/20260819102107532800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时03分"
+        },
+        {
+          "title": "获利了结撞上5.3%长债，金价这轮行情走完了吗？",
+          "url": "https://flash.jin10.com/detail/20260819115156489800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -897,24 +984,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2026年08月19日（周三）上海金早盘价为945.27元/克，较国际金价(945.25元/克)，高0.02元/克",
-          "url": "https://flash.jin10.com/detail/20260819102107532800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时03分"
         }
