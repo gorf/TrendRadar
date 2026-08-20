@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-21T02:47:37.995848+08:00",
-  "total_titles_processed": 442,
+  "generated_at": "2026-08-21T03:36:31.295457+08:00",
+  "total_titles_processed": 475,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 02时47分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 03时36分]"
         },
         {
           "title": "特朗普宣布对伊朗采取“史上最严厉经济行动”",
@@ -24,11 +24,12 @@
           "source": "澎湃新闻",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 02时47分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 03时36分]"
         },
         {
           "title": "特朗普威胁对伊朗实施“毁灭性经济行动”，伊外长回应",
@@ -38,8 +39,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 02时47分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 03时36分]"
         },
         {
           "title": "华尔街怎么看美财政部意外出手？变种QT来了，又一次“特朗普看跌期权”，沃什控通胀麻烦了",
@@ -49,8 +50,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 02时47分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 03时36分]"
         },
         {
           "title": "特朗普：金正恩不喜欢奥巴马，不喜欢拜登，只喜欢我",
@@ -60,8 +61,32 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 02时47分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 03时36分]"
+        },
+        {
+          "title": "将给美国带来更大的失败！伊朗多位官员回应特朗普“经济战”言论",
+          "url": "https://www.cls.cn/detail/2459793",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 03时36分]"
+        },
+        {
+          "title": "新闻蒸馏器｜特朗普宣布经济战孤立伊朗，警告任何国家不得提供“生命线”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33815972",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 03时36分]"
         },
         {
           "title": "【美财长：24日举行新闻发布会阐述针对伊朗的行动】8月20日，美国财政部长贝森特表示，他将于24日举行新闻发布会，具体阐述美国针对伊朗的行动计划。贝森特称，“我们掌握非对称信息，我不确定为什么石油问题会成为关注焦点，如果我们施加最大程度的经济压力，那就意味着不太可能爆发大规模的军事冲突。”美国总统特朗普19日警告称，任何向伊朗提供“任何形式生命线”的国家都将面临经济后果。（央视）",
@@ -74,30 +99,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时41分 ~ 01时35分]"
-        },
-        {
-          "title": "将给美国带来更大的失败！伊朗多位官员回应特朗普“经济战”言论",
-          "url": "https://www.cls.cn/detail/2459793",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 02时47分]"
-        },
-        {
-          "title": "新闻蒸馏器｜特朗普宣布经济战孤立伊朗，警告任何国家不得提供“生命线”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33815972",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 02时47分]"
         },
         {
           "title": "特朗普称白宫立法事务主任布雷德将离职",
@@ -136,8 +137,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 02时47分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 03时36分]"
         },
         {
           "title": "股债汇三杀！美股低开，沃尔玛暴跌8.7%，回购提振效应消退，长期美债跌幅扩大，美元指数走弱，油涨金跌",
@@ -148,19 +149,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 02时47分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 03时36分]"
         },
         {
           "title": "以“索罗斯风格”来救美债！从汇率管到利率，贝森特能赢市场吗？",
           "url": "https://wallstreetcn.com/articles/3779843",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 02时47分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 03时36分]"
         },
         {
           "title": "美债冲破40万亿美元 烂摊子谁来收拾",
@@ -168,11 +170,12 @@
           "source": "今日头条",
           "ranks": [
             10,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 02时47分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 03时36分]"
         },
         {
           "title": "贝森特“救美债”就是“放弃美元”，花旗：强烈看多黄金！",
@@ -214,7 +217,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时47分"
         }
@@ -224,6 +227,17 @@
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 3,
       "titles": [
+        {
+          "title": "如何看待 8 月 19 日下午 DeepSeek 被曝再次开始灰度测试，能力超过上次灰测？",
+          "url": "https://www.zhihu.com/question/2073476043097359622",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时35分 ~ 03时36分]"
+        },
         {
           "title": "如何看待8月19日下午DeepSeek被曝再次开始灰度测试，能力超过上次灰测？",
           "url": "https://www.zhihu.com/question/2073476043097359622",
@@ -236,26 +250,16 @@
           "time_info": "[00时40分 ~ 00时41分]"
         },
         {
-          "title": "如何看待 8 月 19 日下午 DeepSeek 被曝再次开始灰度测试，能力超过上次灰测？",
-          "url": "https://www.zhihu.com/question/2073476043097359622",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时35分 ~ 02时47分]"
-        },
-        {
           "title": "Deepseek 涨价了，有哪些便宜的替代方案？",
           "url": "https://www.zhihu.com/question/2072733800774354696",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时47分 ~ 03时36分]"
         }
       ]
     },
@@ -271,8 +275,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 02时47分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 03时36分]"
         },
         {
           "title": "美股年内恐回调10%-20%？资深策略师捕捉到“五大逆风”……",
@@ -282,8 +286,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 02时47分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 03时36分]"
         },
         {
           "title": "美股三大指数进一步下跌，道指数跌超1%，标普500指数跌0.58%，纳指跌0.95%。",
@@ -292,7 +296,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时47分"
         }
@@ -349,9 +353,26 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周四（8月20日）纽约尾盘，ICE美元指数涨0.08%，报98.908点，日内交投区间为98.557-98.934点，整体呈现出V形反转行情、北京时间18:13刷新日低，美国财长贝森特讲话之初短暂下挫。 彭博美元指数涨0.09%，报1193.26点，日内交投区间为1190.11-1193.65点。",
+          "url": "https://wallstreetcn.com/livenews/3152565",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时36分"
         }
       ]
     }
