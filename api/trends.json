@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-20T20:58:55.334351+08:00",
-  "total_titles_processed": 1873,
+  "generated_at": "2026-08-20T21:54:10.698800+08:00",
+  "total_titles_processed": 1974,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时45分 ~ 20时58分]"
+          "appearance_count": 8,
+          "time_info": "[16时45分 ~ 21时54分]"
         },
         {
           "title": "特朗普宣布对伊朗采取“史上最严厉经济行动”",
@@ -44,8 +44,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时01分 ~ 20时58分]"
+          "appearance_count": 16,
+          "time_info": "[11时01分 ~ 21时54分]"
         },
         {
           "title": "特朗普：金正恩不喜欢奥巴马，不喜欢拜登，只喜欢我",
@@ -56,8 +56,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时42分 ~ 20时58分]"
+          "appearance_count": 14,
+          "time_info": "[12时42分 ~ 21时54分]"
         },
         {
           "title": "华尔街怎么看美财政部意外出手？变种QT来了，又一次“特朗普看跌期权”，沃什控通胀麻烦了",
@@ -68,8 +68,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时01分 ~ 20时58分]"
+          "appearance_count": 16,
+          "time_info": "[11时01分 ~ 21时54分]"
         },
         {
           "title": "特朗普宣布对伊朗发起空前经济战",
@@ -134,6 +134,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "新闻蒸馏器｜特朗普宣布经济战孤立伊朗，警告任何国家不得提供“生命线”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33815972",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时36分 ~ 21时54分]"
         },
         {
           "title": "特朗普：宣布对伊朗实施最严厉的经济行动。",
@@ -227,17 +238,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时31分 ~ 06时30分]"
-        },
-        {
-          "title": "新闻蒸馏器｜特朗普宣布经济战孤立伊朗，警告任何国家不得提供“生命线”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33815972",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时36分 ~ 20时58分]"
         },
         {
           "title": "特朗普谈及伊朗：目前海峡处于开放状态，大量船只通行。媒体并未报道这件事。",
@@ -641,7 +641,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 26,
+      "match_count": 34,
       "titles": [
         {
           "title": "美国财政部出手救长债！美股终结三连跌，Moderna暴涨177%，黄金、加密货币大涨",
@@ -651,8 +651,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时29分 ~ 20时58分]"
+          "appearance_count": 17,
+          "time_info": "[09时29分 ~ 21时54分]"
         },
         {
           "title": "美国财政部出手！美国长债收益率下行，美股高开，存储芯片股、黄金股普涨，美元下跌",
@@ -780,6 +780,28 @@
           "time_info": "[04时31分 ~ 07时27分]"
         },
         {
+          "title": "美股存储板块盘初逆势上扬，SK海力士(SKHY.O)涨超6%，闪迪(SNDK.O)涨超3%，美光科技(MU.O)、希捷科技(STX.O)涨近2%。",
+          "url": "https://flash.jin10.com/detail/20260820214401061800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
+          "title": "美股盘初走低：道指跌0.6%，阿里巴巴跌约5%，沃尔玛跌约7%",
+          "url": "https://wallstreetcn.com/livenews/3152425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
           "title": "阿里巴巴(BABA.N)美股盘前扭转跌势，上涨0.5%。",
           "url": "https://flash.jin10.com/detail/20260820181333082800",
           "source": "金十数据",
@@ -789,6 +811,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
+        },
+        {
+          "title": "金十图示：2026年08月20日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260820214138595800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
         },
         {
           "title": "金十图示：2026年08月19日（周三）美股热门股票行情一览（美股收盘）",
@@ -840,6 +873,39 @@
           "time_info": "[04时31分 ~ 04时43分]"
         },
         {
+          "title": "美股年内恐回调10%-20%？资深策略师捕捉到“五大逆风”……",
+          "url": "https://www.cls.cn/detail/2459378",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时53分 ~ 21时54分]"
+        },
+        {
+          "title": "美股三大指数低开 Moderna跌超13%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E4%BD%8E%E5%BC%80+Moderna%E8%B7%8C%E8%B6%8513%25",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时53分 ~ 21时54分]"
+        },
+        {
+          "title": "超微电脑美股盘前涨超2%，公司完成对董事会成员的独立调查。",
+          "url": "https://wallstreetcn.com/livenews/3152418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
           "title": "高盛：短期赢家和长期赢家正在分家，美股领导权开始切换",
           "url": "https://flash.jin10.com/detail/20260820103424340800",
           "source": "金十数据",
@@ -849,6 +915,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "美股开盘，道指跌0.6%，标普500指数跌0.3%，纳指跌0.5%。美光科技(MU.O)上涨0.4%，公司加码美国内存研发，计划十年投资100亿美元。沃尔玛(WMT.N)下跌7%，Q2同店销售增速创六年新低，全年盈利指引低于预期。SK海力士(SKHY.O)上涨4%，劳资达成初步薪资协议。阿里巴巴(BABA.N)绩后跌4.7%，网易(NTES.O)绩后跌0.5%。",
+          "url": "https://flash.jin10.com/detail/20260820213032651800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
         },
         {
           "title": "美股盘前，存储芯片股普涨，SK海力士涨约5%，闪迪涨约3%，西部数据涨约2%，美光科技涨约2%，希捷科技涨约2%。",
@@ -882,6 +959,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3152410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
         },
         {
           "title": "美股三大指数集体收涨",
@@ -953,7 +1041,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "美国财政部宣布扩大国债回购规模 美债收益率应声回落",
@@ -1004,8 +1092,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时42分 ~ 20时58分]"
+          "appearance_count": 14,
+          "time_info": "[12时42分 ~ 21时54分]"
         },
         {
           "title": "全球长债遭抛售，30 年期美债收益率升破 5.3%，创 2007 年以来新高，将如何影响全球经济？",
@@ -1020,6 +1108,29 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[01时32分 ~ 09时29分]"
+        },
+        {
+          "title": "贝森特“救美债”就是“放弃美元”，花旗：强烈看多黄金！",
+          "url": "https://wallstreetcn.com/articles/3779856",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时40分 ~ 21时54分]"
+        },
+        {
+          "title": "美财政部回购效应消退 美债收益率回升 美股期指走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2459896",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时53分 ~ 21时54分]"
         },
         {
           "title": "李大霄解读美债背后的逻辑",
@@ -1055,16 +1166,15 @@
           "time_info": "01时33分"
         },
         {
-          "title": "贝森特“救美债”就是“放弃美元”，花旗：强烈看多黄金！",
-          "url": "https://wallstreetcn.com/articles/3779856",
-          "source": "华尔街见闻",
+          "title": "翻倍回购也难挡抛售潮！美债收益率收复昨日跌幅",
+          "url": "https://flash.jin10.com/detail/20260820214029933800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            9
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时40分 ~ 20时58分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
         },
         {
           "title": "破40万亿 狂飙美债对全球意味什么",
@@ -1104,6 +1214,17 @@
           "time_info": "[11时01分 ~ 12时43分]"
         },
         {
+          "title": "美债回购提振效应消退，长期美债扩大跌幅，纳指期货下跌，现货黄金日内跌1%，油价上涨",
+          "url": "https://wallstreetcn.com/articles/3779853",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时58分 ~ 21时54分]"
+        },
+        {
           "title": "当“索罗斯门徒”铁了心稳美债：贝森特正化身美国首席债券交易员？",
           "url": "https://www.cls.cn/detail/2459142",
           "source": "财联社热门",
@@ -1114,17 +1235,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时45分 ~ 17时40分]"
-        },
-        {
-          "title": "美债回购提振效应消退，长期美债扩大跌幅，纳指期货下跌，现货黄金日内跌1%，油价上涨",
-          "url": "https://wallstreetcn.com/articles/3779853",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
         },
         {
           "title": "美国“救美债”注入“强心针”，周四亚洲股市有望反弹",
@@ -1232,7 +1342,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         }
@@ -1294,6 +1404,18 @@
           "time_info": "[05时45分 ~ 09时29分]"
         },
         {
+          "title": "如何看待 8 月 19 日下午 DeepSeek 被曝再次开始灰度测试，能力超过上次灰测？",
+          "url": "https://www.zhihu.com/question/2073476043097359622",
+          "source": "知乎",
+          "ranks": [
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时58分 ~ 21时54分]"
+        },
+        {
           "title": "DeepSeek Harness更新多模态",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E6%9B%B4%E6%96%B0",
           "source": "bilibili 热搜",
@@ -1303,17 +1425,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
-        },
-        {
-          "title": "如何看待 8 月 19 日下午 DeepSeek 被曝再次开始灰度测试，能力超过上次灰测？",
-          "url": "https://www.zhihu.com/question/2073476043097359622",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
         }
       ]
     },
@@ -1469,11 +1580,12 @@
           "url": "https://wallstreetcn.com/livenews/3152392",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 21时54分]"
         },
         {
           "title": "牧原股份：上半年净亏损60.8亿元，同比转亏",
