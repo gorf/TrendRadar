@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-20T13:37:05.341002+08:00",
-  "total_titles_processed": 1089,
+  "generated_at": "2026-08-20T14:55:27.152064+08:00",
+  "total_titles_processed": 1193,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 48,
       "titles": [
         {
           "title": "特朗普宣布：推迟3天加征关税",
@@ -25,11 +25,12 @@
           "ranks": [
             2,
             8,
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时29分 ~ 13时37分]"
+          "appearance_count": 8,
+          "time_info": "[09时29分 ~ 14时55分]"
         },
         {
           "title": "警报拉响！美国联邦政府债务首破40万亿美元 特朗普淡化担忧",
@@ -42,8 +43,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时29分 ~ 13时37分]"
+          "appearance_count": 8,
+          "time_info": "[09时29分 ~ 14时55分]"
         },
         {
           "title": "华尔街怎么看美财政部意外出手？变种QT来了，又一次“特朗普看跌期权”，沃什控通胀麻烦了",
@@ -53,8 +54,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时01分 ~ 13时37分]"
+          "appearance_count": 7,
+          "time_info": "[11时01分 ~ 14时55分]"
+        },
+        {
+          "title": "特朗普宣布对伊朗采取“史上最严厉经济行动”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33815315",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时01分 ~ 14时55分]"
         },
         {
           "title": "特朗普宣布对伊朗采取史上最严厉的经济制裁措施",
@@ -79,19 +93,6 @@
           "time_info": "07时27分"
         },
         {
-          "title": "特朗普宣布对伊朗采取“史上最严厉经济行动”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33815315",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时01分 ~ 13时37分]"
-        },
-        {
           "title": "特朗普：宣布对伊朗实施最严厉的经济行动。",
           "url": "https://wallstreetcn.com/livenews/3151959",
           "source": "华尔街见闻-快讯",
@@ -114,6 +115,17 @@
           "time_info": "07时27分"
         },
         {
+          "title": "特朗普：金正恩不喜欢奥巴马，不喜欢拜登，只喜欢我",
+          "url": "https://v.ifeng.com/c/8vjvzoGPbiN",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时42分 ~ 14时55分]"
+        },
+        {
           "title": "日程空白但实际联系，美参议员要求沃什披露与特朗普的谈话",
           "url": "https://flash.jin10.com/detail/20260820065218665800",
           "source": "金十数据",
@@ -125,15 +137,16 @@
           "time_info": "07时27分"
         },
         {
-          "title": "特朗普：金正恩不喜欢奥巴马，不喜欢拜登，只喜欢我",
-          "url": "https://v.ifeng.com/c/8vjvzoGPbiN",
-          "source": "凤凰网",
+          "title": "特朗普宣布：对伊朗采取“史上最严厉经济行动”！",
+          "url": "https://www.cls.cn/detail/2458955",
+          "source": "财联社热门",
           "ranks": [
-            7
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时42分 ~ 13时37分]"
+          "appearance_count": 5,
+          "time_info": "[11时01分 ~ 14时55分]"
         },
         {
           "title": "特朗普称掌握可严厉制裁伊朗措施",
@@ -158,18 +171,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时30分 ~ 07时27分]"
-        },
-        {
-          "title": "特朗普宣布：对伊朗采取“史上最严厉经济行动”！",
-          "url": "https://www.cls.cn/detail/2458955",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时01分 ~ 12时43分]"
         },
         {
           "title": "特朗普谈及债券市场：美国人无需担忧市场波动。",
@@ -473,6 +474,17 @@
           "time_info": "[04时31分 ~ 04时43分]"
         },
         {
+          "title": "伊朗最高国家安全委员会秘书雷扎伊：面对特朗普的经济施压，伊朗应退出《不扩散核武器条约》。",
+          "url": "https://flash.jin10.com/detail/20260820143743810800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        },
+        {
           "title": "特朗普预计今年晚些时候会见金正恩",
           "url": "https://flash.jin10.com/detail/20260820005852510800",
           "source": "金十数据",
@@ -482,6 +494,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时33分"
+        },
+        {
+          "title": "特朗普：预计年内会见金正恩，时间可能选在11月",
+          "url": "https://wallstreetcn.com/livenews/3152133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
         },
         {
           "title": "特朗普称可能在“某个时候”恢复与伊朗谈判",
@@ -587,8 +610,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时29分 ~ 13时37分]"
+          "appearance_count": 8,
+          "time_info": "[09时29分 ~ 14时55分]"
         },
         {
           "title": "美股收盘：贝森特“救市”止住连跌 癌症疫苗引爆医药板块行情",
@@ -600,8 +623,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时27分 ~ 13时37分]"
+          "appearance_count": 9,
+          "time_info": "[07时27分 ~ 14时55分]"
         },
         {
           "title": "【早报】美国出手稳债市，美元大幅跳水；美股存储、光通信板块下挫；原油收涨、黄金飙升；",
@@ -612,8 +635,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时27分 ~ 13时37分]"
+          "appearance_count": 9,
+          "time_info": "[07时27分 ~ 14时55分]"
         },
         {
           "title": "一款抗癌疫苗引爆美股医药股",
@@ -640,8 +663,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时29分 ~ 13时37分]"
+          "appearance_count": 8,
+          "time_info": "[09时29分 ~ 14时55分]"
         },
         {
           "title": "美国财政部出手救长债！美股终结三连跌，Moderna暴涨177%，美元跌破99，黄金、加密货币大涨",
@@ -777,7 +800,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "美国财政部宣布扩大国债回购规模 美债收益率应声回落",
@@ -801,8 +824,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时32分 ~ 13时37分]"
+          "appearance_count": 19,
+          "time_info": "[01时32分 ~ 14时55分]"
         },
         {
           "title": "美债最敏感时刻：160亿美元长债拍卖+美联储纪要，明日凌晨考验市场",
@@ -814,8 +837,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时32分 ~ 13时37分]"
+          "appearance_count": 19,
+          "time_info": "[01时32分 ~ 14时55分]"
         },
         {
           "title": "全球长债遭抛售，30 年期美债收益率升破 5.3%，创 2007 年以来新高，将如何影响全球经济？",
@@ -832,6 +855,17 @@
           "time_info": "[01时32分 ~ 09时29分]"
         },
         {
+          "title": "李大霄解读美债背后的逻辑",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E5%80%BA%E8%83%8C%E5%90%8E%E7%9A%84%E9%80%BB%E8%BE%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        },
+        {
           "title": "美债突破40万亿，“厄运循环”启动了吗？",
           "url": "https://flash.jin10.com/detail/20260820091654425800",
           "source": "金十数据",
@@ -841,6 +875,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
+        },
+        {
+          "title": "摩根大通警告美国增加美债回购治标不治本 或反推升期限溢价与收益率",
+          "url": "https://wallstreetcn.com/livenews/3152145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
         },
         {
           "title": "美国财政部20年期国债拍卖得标利率为5.204%，高于前值5.16%；投标倍数降至2.53，前值为2.64。直接得标24.6%，前值16.2%；间接得标62.9%，前值69.1%。 拍卖结束后，20年期美债收益率几乎没有变化。",
@@ -861,8 +906,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时42分 ~ 13时37分]"
+          "appearance_count": 5,
+          "time_info": "[12时42分 ~ 14时55分]"
         },
         {
           "title": "美债风暴来袭 全球资产面临重新定价",
@@ -881,11 +926,12 @@
           "url": "https://www.baidu.com/s?wd=%E7%A0%B440%E4%B8%87%E4%BA%BF+%E7%8B%82%E9%A3%99%E7%BE%8E%E5%80%BA%E5%AF%B9%E5%85%A8%E7%90%83%E6%84%8F%E5%91%B3%E4%BB%80%E4%B9%88",
           "source": "百度热搜",
           "ranks": [
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时36分 ~ 13时37分]"
+          "appearance_count": 3,
+          "time_info": "[13时36分 ~ 14时55分]"
         },
         {
           "title": "美国“救美债”注入“强心针”，周四亚洲股市有望反弹",
@@ -927,7 +973,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
