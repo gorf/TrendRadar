@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-20T16:45:59.164965+08:00",
-  "total_titles_processed": 1414,
+  "generated_at": "2026-08-20T17:40:20.640265+08:00",
+  "total_titles_processed": 1519,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,18 @@
           "time_info": "[01时32分 ~ 11时02分]"
         },
         {
+          "title": "华尔街怎么看美财政部意外出手？变种QT来了，又一次“特朗普看跌期权”，沃什控通胀麻烦了",
+          "url": "https://wallstreetcn.com/articles/3779827",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时01分 ~ 17时40分]"
+        },
+        {
           "title": "特朗普宣布对伊朗发起空前经济战",
           "url": "https://www.toutiao.com/trending/7675885516922818089/",
           "source": "今日头条",
@@ -34,16 +46,20 @@
           "time_info": "[09时29分 ~ 15时46分]"
         },
         {
-          "title": "华尔街怎么看美财政部意外出手？变种QT来了，又一次“特朗普看跌期权”，沃什控通胀麻烦了",
-          "url": "https://wallstreetcn.com/articles/3779827",
-          "source": "华尔街见闻",
+          "title": "特朗普宣布对伊朗采取“史上最严厉经济行动”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33815315",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            8
+            18,
+            15,
+            17,
+            13,
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时01分 ~ 16时45分]"
+          "appearance_count": 10,
+          "time_info": "[11时01分 ~ 17时40分]"
         },
         {
           "title": "警报拉响！美国联邦政府债务首破40万亿美元 特朗普淡化担忧",
@@ -60,30 +76,16 @@
           "time_info": "[09时29分 ~ 15时46分]"
         },
         {
-          "title": "特朗普宣布对伊朗采取“史上最严厉经济行动”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33815315",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            15,
-            17,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时01分 ~ 16时45分]"
-        },
-        {
           "title": "特朗普：金正恩不喜欢奥巴马，不喜欢拜登，只喜欢我",
           "url": "https://v.ifeng.com/c/8vjvzoGPbiN",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时42分 ~ 16时45分]"
+          "appearance_count": 8,
+          "time_info": "[12时42分 ~ 17时40分]"
         },
         {
           "title": "特朗普宣布：对伊朗采取“史上最严厉经济行动”！",
@@ -97,6 +99,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时01分 ~ 16时45分]"
+        },
+        {
+          "title": "特朗普称将于11月同金正恩会晤，外交部回应",
+          "url": "https://news.ifeng.com/c/8vkEJXjR9MI",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时45分 ~ 17时40分]"
         },
         {
           "title": "特朗普宣布对伊朗采取史上最严厉的经济制裁措施",
@@ -119,17 +132,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
-        },
-        {
-          "title": "特朗普称将于11月同金正恩会晤，外交部回应",
-          "url": "https://news.ifeng.com/c/8vkEJXjR9MI",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时45分"
         },
         {
           "title": "特朗普：宣布对伊朗实施最严厉的经济行动。",
@@ -501,6 +503,17 @@
           "time_info": "[04时31分 ~ 04时43分]"
         },
         {
+          "title": "中方回应“特朗普称将同金正恩会晤”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E5%90%8C%E9%87%91%E6%AD%A3%E6%81%A9%E4%BC%9A%E6%99%A4%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时45分 ~ 17时40分]"
+        },
+        {
           "title": "伊朗最高国家安全委员会秘书雷扎伊：面对特朗普的经济施压，伊朗应退出《不扩散核武器条约》。",
           "url": "https://flash.jin10.com/detail/20260820143743810800",
           "source": "金十数据",
@@ -578,17 +591,6 @@
           "time_info": "01时33分"
         },
         {
-          "title": "中方回应“特朗普称将同金正恩会晤”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E5%90%8C%E9%87%91%E6%AD%A3%E6%81%A9%E4%BC%9A%E6%99%A4%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时45分"
-        },
-        {
           "title": "Scotts Miracle-Gro涨超6%，特朗普称Scotts Miracle-Gro公司是一家伟大的公司。Scotts Miracle-Gro公司免费提供了草坪。",
           "url": "https://wallstreetcn.com/livenews/3151857",
           "source": "华尔街见闻-快讯",
@@ -602,8 +604,287 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 23,
+      "titles": [
+        {
+          "title": "美国财政部出手救长债！美股终结三连跌，Moderna暴涨177%，黄金、加密货币大涨",
+          "url": "https://wallstreetcn.com/articles/3779750",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时29分 ~ 17时40分]"
+        },
+        {
+          "title": "美国财政部出手！美国长债收益率下行，美股高开，存储芯片股、黄金股普涨，美元下跌",
+          "url": "https://wallstreetcn.com/articles/3779750",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时32分 ~ 06时30分]"
+        },
+        {
+          "title": "债市风暴持续，美股指三连跌，泛欧股指五连跌，美芯片指数重挫5%，原油三连涨",
+          "url": "https://wallstreetcn.com/articles/3779677",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时32分 ~ 06时30分]"
+        },
+        {
+          "title": "美股收盘：贝森特“救市”止住连跌 癌症疫苗引爆医药板块行情",
+          "url": "https://www.cls.cn/detail/2458911",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时27分 ~ 15时46分]"
+        },
+        {
+          "title": "美国财政部出手稳定债市 美股期指全线上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2458669",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时32分 ~ 09时29分]"
+        },
+        {
+          "title": "【早报】美国出手稳债市，美元大幅跳水；美股存储、光通信板块下挫；原油收涨、黄金飙升；",
+          "url": "https://www.cls.cn/detail/2458921",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时27分 ~ 15时46分]"
+        },
+        {
+          "title": "一款抗癌疫苗引爆美股医药股",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E6%AC%BE%E6%8A%97%E7%99%8C%E7%96%AB%E8%8B%97%E5%BC%95%E7%88%86%E7%BE%8E%E8%82%A1%E5%8C%BB%E8%8D%AF%E8%82%A1",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            21,
+            16,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时32分 ~ 07时27分]"
+        },
+        {
+          "title": "8月20日投资避雷针：美股存储、光通信板块继续下挫 闪迪跌3.5%",
+          "url": "https://www.cls.cn/detail/2458966",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时29分 ~ 15时46分]"
+        },
+        {
+          "title": "美国财政部出手救长债！美股终结三连跌，Moderna暴涨177%，美元跌破99，黄金、加密货币大涨",
+          "url": "https://wallstreetcn.com/articles/3779750",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
+          "title": "阿里巴巴美股盘前跌约3%。",
+          "url": "https://wallstreetcn.com/livenews/3152256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
+          "title": "美股存储、光通信板块下挫，希捷科技跌超7%，西部数据跌超6%，闪迪跌3.5%。Lumentum跌超5%，Coherent跌超6%，康宁跌超5%。",
+          "url": "https://wallstreetcn.com/livenews/3151930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            6,
+            15,
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时31分 ~ 07时27分]"
+        },
+        {
+          "title": "金十图示：2026年08月19日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260820040557657800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时31分 ~ 05时45分]"
+        },
+        {
+          "title": "美股收盘：三大股指集体收涨",
+          "url": "https://wallstreetcn.com/livenews/3151928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            8,
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时31分 ~ 06时30分]"
+        },
+        {
+          "title": "金十图示：2026年08月19日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260820040531939800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时31分 ~ 05时45分]"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 Moderna大涨176%",
+          "url": "https://flash.jin10.com/detail/20260820040446410800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时31分 ~ 04时43分]"
+        },
+        {
+          "title": "高盛：短期赢家和长期赢家正在分家，美股领导权开始切换",
+          "url": "https://flash.jin10.com/detail/20260820103424340800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时02分"
+        },
+        {
+          "title": "美股盘前，存储芯片股普涨，SK海力士涨约5%，闪迪涨约3%，西部数据涨约2%，美光科技涨约2%，希捷科技涨约2%。",
+          "url": "https://wallstreetcn.com/livenews/3152199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时45分"
+        },
+        {
+          "title": "网易有道(DAO.N)美股盘前上涨3.3%。",
+          "url": "https://flash.jin10.com/detail/20260820171727597800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
+          "title": "网易第二季度营收301亿元人民币，同比增加 7.9%，预估294.5亿元人民币。 第二季度经调整每股ADS持续经营净收益12.02元人民币，预估15.59元人民币。 第二季度归属于公司股东的净利润为人民币70亿元（10亿美元），上一季度和去年同期分别为人民币107亿元及人民币86亿元。 第二季度毛利212.2亿元人民币，预估197.5亿元人民币。 第二季度网络游戏服务毛利润190.5亿元人民币，预估175.5亿元人民币。 第二季度在线游戏服务净收入250.2亿元人民币，预估242.8亿元人民币。 第二季度创新及其他业务净收入16.4亿元人民币，预估16.4亿元人民币。 网易美股盘前跌超6%。",
+          "url": "https://wallstreetcn.com/livenews/3152233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
+          "title": "美股三大指数集体收涨",
+          "url": "https://www.toutiao.com/trending/7675736727633723401/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时29分"
+        },
+        {
+          "title": "金十图示：2026年08月19日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260820003146991800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        },
+        {
+          "title": "金十图示：2026年08月19日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260820003044230800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        },
+        {
+          "title": "A股创新药概念开盘大涨，三元基因、键凯科技、沃森生物、莱美药业、康希诺、悦康药业、双鹭药业、百克生物等一字涨停，智飞生物、石药创新、康泰生物等涨超10%，消息面上，默沙东与莫德纳周三宣布，双方合作的 mRNA 个性化癌症疫苗 intismeran autogene 首个 III 期临床试验取得初步阳性结果，隔夜美股莫德纳股价大涨近180%。",
+          "url": "https://wallstreetcn.com/livenews/3152015",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "美国财政部宣布扩大国债回购规模 美债收益率应声回落",
@@ -627,8 +908,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[01时32分 ~ 16时45分]"
+          "appearance_count": 22,
+          "time_info": "[01时32分 ~ 17时40分]"
         },
         {
           "title": "美债最敏感时刻：160亿美元长债拍卖+美联储纪要，明日凌晨考验市场",
@@ -667,8 +948,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时42分 ~ 16时45分]"
+          "appearance_count": 8,
+          "time_info": "[12时42分 ~ 17时40分]"
         },
         {
           "title": "李大霄解读美债背后的逻辑",
@@ -745,11 +1026,23 @@
           "url": "https://www.cls.cn/detail/2459142",
           "source": "财联社热门",
           "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时45分 ~ 17时40分]"
+        },
+        {
+          "title": "贝森特“救美债”就是“放弃美元”，花旗：强烈看多黄金！",
+          "url": "https://wallstreetcn.com/articles/3779856",
+          "source": "华尔街见闻",
+          "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时45分"
+          "time_info": "17时40分"
         },
         {
           "title": "美国“救美债”注入“强心针”，周四亚洲股市有望反弹",
@@ -849,252 +1142,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 20,
-      "titles": [
-        {
-          "title": "美国财政部出手！美国长债收益率下行，美股高开，存储芯片股、黄金股普涨，美元下跌",
-          "url": "https://wallstreetcn.com/articles/3779750",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时32分 ~ 06时30分]"
-        },
-        {
-          "title": "美国财政部出手救长债！美股终结三连跌，Moderna暴涨177%，黄金、加密货币大涨",
-          "url": "https://wallstreetcn.com/articles/3779750",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时29分 ~ 16时45分]"
-        },
-        {
-          "title": "债市风暴持续，美股指三连跌，泛欧股指五连跌，美芯片指数重挫5%，原油三连涨",
-          "url": "https://wallstreetcn.com/articles/3779677",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时32分 ~ 06时30分]"
-        },
-        {
-          "title": "美股收盘：贝森特“救市”止住连跌 癌症疫苗引爆医药板块行情",
-          "url": "https://www.cls.cn/detail/2458911",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时27分 ~ 15时46分]"
-        },
-        {
-          "title": "美国财政部出手稳定债市 美股期指全线上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2458669",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时32分 ~ 09时29分]"
-        },
-        {
-          "title": "【早报】美国出手稳债市，美元大幅跳水；美股存储、光通信板块下挫；原油收涨、黄金飙升；",
-          "url": "https://www.cls.cn/detail/2458921",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时27分 ~ 15时46分]"
-        },
-        {
-          "title": "一款抗癌疫苗引爆美股医药股",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E6%AC%BE%E6%8A%97%E7%99%8C%E7%96%AB%E8%8B%97%E5%BC%95%E7%88%86%E7%BE%8E%E8%82%A1%E5%8C%BB%E8%8D%AF%E8%82%A1",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            21,
-            16,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时32分 ~ 07时27分]"
-        },
-        {
-          "title": "8月20日投资避雷针：美股存储、光通信板块继续下挫 闪迪跌3.5%",
-          "url": "https://www.cls.cn/detail/2458966",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时29分 ~ 15时46分]"
-        },
-        {
-          "title": "美国财政部出手救长债！美股终结三连跌，Moderna暴涨177%，美元跌破99，黄金、加密货币大涨",
-          "url": "https://wallstreetcn.com/articles/3779750",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时27分"
-        },
-        {
-          "title": "美股存储、光通信板块下挫，希捷科技跌超7%，西部数据跌超6%，闪迪跌3.5%。Lumentum跌超5%，Coherent跌超6%，康宁跌超5%。",
-          "url": "https://wallstreetcn.com/livenews/3151930",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            6,
-            15,
-            20,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时31分 ~ 07时27分]"
-        },
-        {
-          "title": "金十图示：2026年08月19日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260820040557657800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时31分 ~ 05时45分]"
-        },
-        {
-          "title": "美股收盘：三大股指集体收涨",
-          "url": "https://wallstreetcn.com/livenews/3151928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            8,
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时31分 ~ 06时30分]"
-        },
-        {
-          "title": "金十图示：2026年08月19日（周三）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260820040531939800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时31分 ~ 05时45分]"
-        },
-        {
-          "title": "美股收盘：三大股指收涨 Moderna大涨176%",
-          "url": "https://flash.jin10.com/detail/20260820040446410800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时31分 ~ 04时43分]"
-        },
-        {
-          "title": "高盛：短期赢家和长期赢家正在分家，美股领导权开始切换",
-          "url": "https://flash.jin10.com/detail/20260820103424340800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时02分"
-        },
-        {
-          "title": "美股盘前，存储芯片股普涨，SK海力士涨约5%，闪迪涨约3%，西部数据涨约2%，美光科技涨约2%，希捷科技涨约2%。",
-          "url": "https://wallstreetcn.com/livenews/3152199",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时45分"
-        },
-        {
-          "title": "美股三大指数集体收涨",
-          "url": "https://www.toutiao.com/trending/7675736727633723401/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时29分"
-        },
-        {
-          "title": "金十图示：2026年08月19日（周三）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260820003146991800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时33分"
-        },
-        {
-          "title": "金十图示：2026年08月19日（周三）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260820003044230800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时33分"
-        },
-        {
-          "title": "A股创新药概念开盘大涨，三元基因、键凯科技、沃森生物、莱美药业、康希诺、悦康药业、双鹭药业、百克生物等一字涨停，智飞生物、石药创新、康泰生物等涨超10%，消息面上，默沙东与莫德纳周三宣布，双方合作的 mRNA 个性化癌症疫苗 intismeran autogene 首个 III 期临床试验取得初步阳性结果，隔夜美股莫德纳股价大涨近180%。",
-          "url": "https://wallstreetcn.com/livenews/3152015",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时02分"
         }
       ]
     },
