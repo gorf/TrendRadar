@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-20T18:36:34.180621+08:00",
-  "total_titles_processed": 1632,
+  "generated_at": "2026-08-20T19:32:14.542527+08:00",
+  "total_titles_processed": 1742,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 54,
       "titles": [
         {
           "title": "特朗普宣布：推迟3天加征关税",
@@ -19,6 +19,18 @@
           "time_info": "[01时32分 ~ 11时02分]"
         },
         {
+          "title": "特朗普：金正恩不喜欢奥巴马，不喜欢拜登，只喜欢我",
+          "url": "https://v.ifeng.com/c/8vjvzoGPbiN",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时42分 ~ 19时32分]"
+        },
+        {
           "title": "华尔街怎么看美财政部意外出手？变种QT来了，又一次“特朗普看跌期权”，沃什控通胀麻烦了",
           "url": "https://wallstreetcn.com/articles/3779827",
           "source": "华尔街见闻",
@@ -27,8 +39,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时01分 ~ 18时36分]"
+          "appearance_count": 13,
+          "time_info": "[11时01分 ~ 19时32分]"
         },
         {
           "title": "特朗普宣布对伊朗采取“史上最严厉经济行动”",
@@ -44,8 +56,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时01分 ~ 18时36分]"
+          "appearance_count": 13,
+          "time_info": "[11时01分 ~ 19时32分]"
         },
         {
           "title": "特朗普宣布对伊朗发起空前经济战",
@@ -63,16 +75,15 @@
           "time_info": "[09时29分 ~ 15时46分]"
         },
         {
-          "title": "特朗普：金正恩不喜欢奥巴马，不喜欢拜登，只喜欢我",
-          "url": "https://v.ifeng.com/c/8vjvzoGPbiN",
+          "title": "特朗普称将于11月同金正恩会晤，外交部回应",
+          "url": "https://news.ifeng.com/c/8vkEJXjR9MI",
           "source": "凤凰网",
           "ranks": [
-            7,
-            8
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时42分 ~ 18时36分]"
+          "appearance_count": 5,
+          "time_info": "[16时45分 ~ 19时32分]"
         },
         {
           "title": "警报拉响！美国联邦政府债务首破40万亿美元 特朗普淡化担忧",
@@ -87,17 +98,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[09时29分 ~ 15时46分]"
-        },
-        {
-          "title": "特朗普称将于11月同金正恩会晤，外交部回应",
-          "url": "https://news.ifeng.com/c/8vkEJXjR9MI",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时45分 ~ 18时36分]"
         },
         {
           "title": "特朗普宣布：对伊朗采取“史上最严厉经济行动”！",
@@ -179,6 +179,17 @@
           "time_info": "15时46分"
         },
         {
+          "title": "特朗普试图扩大对伊朗“经济围剿”，专家称实施难度很大",
+          "url": "https://flash.jin10.com/detail/20260820191217290800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
           "title": "特朗普称掌握可严厉制裁伊朗措施",
           "url": "https://wallstreetcn.com/livenews/3151948",
           "source": "华尔街见闻-快讯",
@@ -228,6 +239,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时31分 ~ 05时45分]"
+        },
+        {
+          "title": "新闻蒸馏器｜特朗普宣布经济战孤立伊朗，警告任何国家不得提供“生命线”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33815972",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时36分 ~ 19时32分]"
         },
         {
           "title": "特朗普：美国已就储备 “大规模” 比特币及其他加密货币的相关计划展开讨论。",
@@ -471,6 +493,17 @@
           "time_info": "[04时31分 ~ 04时43分]"
         },
         {
+          "title": "特朗普为何打起“朝鲜牌”",
+          "url": "https://www.toutiao.com/trending/7676045082549554726/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时31分 ~ 19时32分]"
+        },
+        {
           "title": "美国总统特朗普：我们可能会继续封锁（霍尔木兹海峡）。",
           "url": "https://flash.jin10.com/detail/20260820033552327800",
           "source": "金十数据",
@@ -560,17 +593,6 @@
           "time_info": "03时10分"
         },
         {
-          "title": "新闻蒸馏器｜特朗普宣布经济战孤立伊朗，警告任何国家不得提供“生命线”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33815972",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时36分"
-        },
-        {
           "title": "特朗普：与伊朗谈判或适时进行",
           "url": "https://wallstreetcn.com/livenews/3151869",
           "source": "华尔街见闻-快讯",
@@ -618,7 +640,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "美国财政部出手救长债！美股终结三连跌，Moderna暴涨177%，黄金、加密货币大涨",
@@ -628,8 +650,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时29分 ~ 18时36分]"
+          "appearance_count": 14,
+          "time_info": "[09时29分 ~ 19时32分]"
         },
         {
           "title": "美国财政部出手！美国长债收益率下行，美股高开，存储芯片股、黄金股普涨，美元下跌",
@@ -763,7 +785,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
         },
@@ -872,6 +894,17 @@
           "time_info": "09时29分"
         },
         {
+          "title": "Meta Platforms(META.O)和微软(MSFT.O)美股盘前一度上涨1.6%。",
+          "url": "https://flash.jin10.com/detail/20260820190315675800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
           "title": "金十图示：2026年08月19日（周三）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260820003146991800",
           "source": "金十数据",
@@ -911,7 +944,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
         }
@@ -943,8 +976,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[01时32分 ~ 18时36分]"
+          "appearance_count": 25,
+          "time_info": "[01时32分 ~ 19时32分]"
         },
         {
           "title": "美债最敏感时刻：160亿美元长债拍卖+美联储纪要，明日凌晨考验市场",
@@ -960,6 +993,19 @@
           "time_info": "[01时32分 ~ 15时46分]"
         },
         {
+          "title": "以“索罗斯风格”来救美债！从汇率管到利率，贝森特能赢市场吗？",
+          "url": "https://wallstreetcn.com/articles/3779843",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时42分 ~ 19时32分]"
+        },
+        {
           "title": "全球长债遭抛售，30 年期美债收益率升破 5.3%，创 2007 年以来新高，将如何影响全球经济？",
           "url": "https://www.zhihu.com/question/2073187251438227532",
           "source": "知乎",
@@ -972,19 +1018,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[01时32分 ~ 09时29分]"
-        },
-        {
-          "title": "以“索罗斯风格”来救美债！从汇率管到利率，贝森特能赢市场吗？",
-          "url": "https://wallstreetcn.com/articles/3779843",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时42分 ~ 18时36分]"
         },
         {
           "title": "李大霄解读美债背后的逻辑",
@@ -1045,6 +1078,18 @@
           "time_info": "[14时55分 ~ 15时46分]"
         },
         {
+          "title": "贝森特“救美债”就是“放弃美元”，花旗：强烈看多黄金！",
+          "url": "https://wallstreetcn.com/articles/3779856",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时40分 ~ 19时32分]"
+        },
+        {
           "title": "美债风暴来袭 全球资产面临重新定价",
           "url": "https://www.toutiao.com/trending/7675905967950663177/",
           "source": "今日头条",
@@ -1067,18 +1112,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时45分 ~ 17时40分]"
-        },
-        {
-          "title": "贝森特“救美债”就是“放弃美元”，花旗：强烈看多黄金！",
-          "url": "https://wallstreetcn.com/articles/3779856",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 18时36分]"
         },
         {
           "title": "美国“救美债”注入“强心针”，周四亚洲股市有望反弹",
@@ -1321,7 +1354,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
         }
@@ -1449,7 +1482,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
         },
@@ -1460,7 +1493,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
         }
