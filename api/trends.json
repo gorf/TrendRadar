@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-20T21:54:10.698800+08:00",
-  "total_titles_processed": 1974,
+  "generated_at": "2026-08-20T22:41:48.488825+08:00",
+  "total_titles_processed": 2070,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 56,
       "titles": [
         {
           "title": "特朗普宣布：推迟3天加征关税",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时45分 ~ 21时54分]"
+          "appearance_count": 9,
+          "time_info": "[16时45分 ~ 22时41分]"
         },
         {
           "title": "特朗普宣布对伊朗采取“史上最严厉经济行动”",
@@ -41,11 +41,12 @@
             11,
             10,
             7,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时01分 ~ 21时54分]"
+          "appearance_count": 17,
+          "time_info": "[11时01分 ~ 22时41分]"
         },
         {
           "title": "特朗普：金正恩不喜欢奥巴马，不喜欢拜登，只喜欢我",
@@ -56,8 +57,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时42分 ~ 21时54分]"
+          "appearance_count": 15,
+          "time_info": "[12时42分 ~ 22时41分]"
         },
         {
           "title": "华尔街怎么看美财政部意外出手？变种QT来了，又一次“特朗普看跌期权”，沃什控通胀麻烦了",
@@ -68,8 +69,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时01分 ~ 21时54分]"
+          "appearance_count": 17,
+          "time_info": "[11时01分 ~ 22时41分]"
         },
         {
           "title": "特朗普宣布对伊朗发起空前经济战",
@@ -114,6 +115,18 @@
           "time_info": "[11时01分 ~ 16时45分]"
         },
         {
+          "title": "新闻蒸馏器｜特朗普宣布经济战孤立伊朗，警告任何国家不得提供“生命线”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33815972",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时36分 ~ 22时41分]"
+        },
+        {
           "title": "特朗普宣布对伊朗采取史上最严厉的经济制裁措施",
           "url": "https://flash.jin10.com/detail/20260820070635390800",
           "source": "金十数据",
@@ -136,17 +149,6 @@
           "time_info": "07时27分"
         },
         {
-          "title": "新闻蒸馏器｜特朗普宣布经济战孤立伊朗，警告任何国家不得提供“生命线”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33815972",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时36分 ~ 21时54分]"
-        },
-        {
           "title": "特朗普：宣布对伊朗实施最严厉的经济行动。",
           "url": "https://wallstreetcn.com/livenews/3151959",
           "source": "华尔街见闻-快讯",
@@ -158,6 +160,17 @@
           "time_info": "07时27分"
         },
         {
+          "title": "美国财政部禁止特朗普账户持有ESG基金。（福克斯商业新闻）",
+          "url": "https://wallstreetcn.com/livenews/3152457",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
           "title": "美国总统特朗普：宣布对伊朗采取史上最严厉的经济制裁措施，这将是前所未有的经济战争和孤立。",
           "url": "https://flash.jin10.com/detail/20260820070150023800",
           "source": "金十数据",
@@ -167,6 +180,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "特朗普威胁对伊朗实施“毁灭性经济行动”，伊外长回应",
+          "url": "https://news.ifeng.com/c/8vkaNEUn4sR",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
         },
         {
           "title": "日程空白但实际联系，美参议员要求沃什披露与特朗普的谈话",
@@ -641,7 +665,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "美国财政部出手救长债！美股终结三连跌，Moderna暴涨177%，黄金、加密货币大涨",
@@ -651,8 +675,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时29分 ~ 21时54分]"
+          "appearance_count": 18,
+          "time_info": "[09时29分 ~ 22时41分]"
         },
         {
           "title": "美国财政部出手！美国长债收益率下行，美股高开，存储芯片股、黄金股普涨，美元下跌",
@@ -786,18 +810,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时54分"
-        },
-        {
-          "title": "美股盘初走低：道指跌0.6%，阿里巴巴跌约5%，沃尔玛跌约7%",
-          "url": "https://wallstreetcn.com/livenews/3152425",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时54分"
         },
@@ -819,7 +832,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时54分"
         },
@@ -834,6 +847,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时31分 ~ 05时45分]"
+        },
+        {
+          "title": "美股盘初走低：道指跌0.6%，阿里巴巴跌约5%，沃尔玛跌约7%",
+          "url": "https://wallstreetcn.com/livenews/3152425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时54分 ~ 22时41分]"
         },
         {
           "title": "美股收盘：三大股指集体收涨",
@@ -862,6 +887,18 @@
           "time_info": "[04时31分 ~ 05时45分]"
         },
         {
+          "title": "美股年内恐回调10%-20%？资深策略师捕捉到“五大逆风”……",
+          "url": "https://www.cls.cn/detail/2459378",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时53分 ~ 22时41分]"
+        },
+        {
           "title": "美股收盘：三大股指收涨 Moderna大涨176%",
           "url": "https://flash.jin10.com/detail/20260820040446410800",
           "source": "金十数据",
@@ -871,17 +908,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时31分 ~ 04时43分]"
-        },
-        {
-          "title": "美股年内恐回调10%-20%？资深策略师捕捉到“五大逆风”……",
-          "url": "https://www.cls.cn/detail/2459378",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时53分 ~ 21时54分]"
         },
         {
           "title": "美股三大指数低开 Moderna跌超13%",
@@ -901,7 +927,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时54分"
         },
@@ -923,7 +949,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时54分"
         },
@@ -967,7 +993,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时54分"
         },
@@ -1016,6 +1042,17 @@
           "time_info": "01时33分"
         },
         {
+          "title": "美股存储板块逆势上扬，SK海力士ADR涨超6％，闪迪涨超3％，美光科技涨近2％。",
+          "url": "https://wallstreetcn.com/livenews/3152430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
           "title": "A股创新药概念开盘大涨，三元基因、键凯科技、沃森生物、莱美药业、康希诺、悦康药业、双鹭药业、百克生物等一字涨停，智飞生物、石药创新、康泰生物等涨超10%，消息面上，默沙东与莫德纳周三宣布，双方合作的 mRNA 个性化癌症疫苗 intismeran autogene 首个 III 期临床试验取得初步阳性结果，隔夜美股莫德纳股价大涨近180%。",
           "url": "https://wallstreetcn.com/livenews/3152015",
           "source": "华尔街见闻-快讯",
@@ -1041,7 +1078,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "美国财政部宣布扩大国债回购规模 美债收益率应声回落",
@@ -1092,8 +1129,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时42分 ~ 21时54分]"
+          "appearance_count": 15,
+          "time_info": "[12时42分 ~ 22时41分]"
         },
         {
           "title": "全球长债遭抛售，30 年期美债收益率升破 5.3%，创 2007 年以来新高，将如何影响全球经济？",
@@ -1118,8 +1155,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时40分 ~ 21时54分]"
+          "appearance_count": 8,
+          "time_info": "[17时40分 ~ 22时41分]"
         },
         {
           "title": "美财政部回购效应消退 美债收益率回升 美股期指走低 | 今夜看点",
@@ -1129,8 +1166,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时53分 ~ 21时54分]"
+          "appearance_count": 3,
+          "time_info": "[21时53分 ~ 22时41分]"
         },
         {
           "title": "李大霄解读美债背后的逻辑",
@@ -1166,13 +1203,24 @@
           "time_info": "01时33分"
         },
         {
+          "title": "股债汇三杀！美股低开，沃尔玛暴跌8.7%，回购提振效应消退，长期美债跌幅扩大，美元指数走弱，油涨金跌",
+          "url": "https://wallstreetcn.com/articles/3779853",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
           "title": "翻倍回购也难挡抛售潮！美债收益率收复昨日跌幅",
           "url": "https://flash.jin10.com/detail/20260820214029933800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时54分"
         },
@@ -1412,8 +1460,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时58分 ~ 21时54分]"
+          "appearance_count": 4,
+          "time_info": "[20时58分 ~ 22时41分]"
         },
         {
           "title": "DeepSeek Harness更新多模态",
@@ -1572,48 +1620,8 @@
       ]
     },
     {
-      "keyword_group": "招商银行 万华化学 福耀玻璃 旗滨集团 苏农银行 奥浦迈 爱美客 美的集团 潍柴动力 苏泊尔 鱼跃医疗 牧原股份 振邦智能 华兰生物 证监会",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "爱美客：2026年上半年净利润5.93亿元，同比下降24.84%",
-          "url": "https://wallstreetcn.com/livenews/3152392",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时58分 ~ 21时54分]"
-        },
-        {
-          "title": "牧原股份：上半年净亏损60.8亿元，同比转亏",
-          "url": "https://wallstreetcn.com/livenews/3152286",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时36分"
-        },
-        {
-          "title": "牧原股份：上半年净亏损60.78亿元 同比转亏",
-          "url": "https://flash.jin10.com/detail/20260820180424525800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时36分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "科技七巨头中特斯拉收涨4.23%，亚马逊涨2.46%，苹果涨2.12%，微软涨0.55%，Meta Platforms涨0.46%，谷歌涨0.11%，英伟达跌1.08%。",
@@ -1654,6 +1662,57 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时31分 ~ 06时30分]"
+        },
+        {
+          "title": "谷歌旗下Waymo为其无人出租车自研定制芯片，已经量产",
+          "url": "https://wallstreetcn.com/livenews/3152437",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "招商银行 万华化学 福耀玻璃 旗滨集团 苏农银行 奥浦迈 爱美客 美的集团 潍柴动力 苏泊尔 鱼跃医疗 牧原股份 振邦智能 华兰生物 证监会",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "爱美客：2026年上半年净利润5.93亿元，同比下降24.84%",
+          "url": "https://wallstreetcn.com/livenews/3152392",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 21时54分]"
+        },
+        {
+          "title": "牧原股份：上半年净亏损60.8亿元，同比转亏",
+          "url": "https://wallstreetcn.com/livenews/3152286",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时36分"
+        },
+        {
+          "title": "牧原股份：上半年净亏损60.78亿元 同比转亏",
+          "url": "https://flash.jin10.com/detail/20260820180424525800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时36分"
         }
       ]
     },
