@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-21T18:35:54.244334+08:00",
-  "total_titles_processed": 1754,
+  "generated_at": "2026-08-21T19:32:54.219489+08:00",
+  "total_titles_processed": 1878,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普称将于11月同金正恩会晤，外交部回应",
@@ -208,6 +208,17 @@
           "time_info": "[00时41分 ~ 01时35分]"
         },
         {
+          "title": "特朗普允许对部分进口牛绞肉给予关税宽减",
+          "url": "https://wallstreetcn.com/livenews/3153009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
           "title": "特朗普签署备忘录以促进美航天发射 探索商业机器人登陆火星",
           "url": "https://flash.jin10.com/detail/20260821065808538800",
           "source": "金十数据",
@@ -239,6 +250,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
+        },
+        {
+          "title": "特朗普：将在未来90天免额外关税进口最多30万吨牛肉",
+          "url": "https://flash.jin10.com/detail/20260821185934026800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         },
         {
           "title": "美国总统特朗普：经济从未像现在这般强劲。 倘若我再度参选，我将以25个百分点的优势获胜。",
@@ -296,13 +318,35 @@
           "time_info": "11时09分"
         },
         {
+          "title": "美国总统特朗普：未来90天，美国将允许最多30万吨用于生产碎牛肉的产品进口，且无需缴纳配额外关税。已作出承诺，这批牛肉的售价将比当前市场价格低25%。",
+          "url": "https://flash.jin10.com/detail/20260821185438833800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
+          "title": "美国总统特朗普：已达成协议，牛肉价格大幅降低。",
+          "url": "https://flash.jin10.com/detail/20260821185353417800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-21）",
           "url": "https://flash.jin10.com/detail/20260821180616784800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         }
@@ -320,8 +364,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时40分 ~ 18时35分]"
+          "appearance_count": 13,
+          "time_info": "[09时40分 ~ 19时32分]"
         },
         {
           "title": "美财政部回购效应消退 美债收益率回升 美股期指走低 | 今夜看点",
@@ -348,8 +392,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时40分 ~ 18时35分]"
+          "appearance_count": 13,
+          "time_info": "[09时40分 ~ 19时32分]"
         },
         {
           "title": "股债汇三杀！美股低开，沃尔玛暴跌8.7%，回购提振效应消退，长期美债跌幅扩大，美元指数走弱，油涨金跌",
@@ -387,8 +431,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时08分 ~ 18时35分]"
+          "appearance_count": 12,
+          "time_info": "[11时08分 ~ 19时32分]"
         },
         {
           "title": "贝森特“救美债”就是“放弃美元”，花旗：强烈看多黄金！",
@@ -649,11 +693,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            5
+            5,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时56分 ~ 18时35分]"
+          "appearance_count": 7,
+          "time_info": "[14时56分 ~ 19时32分]"
         },
         {
           "title": "美股年内恐回调10%-20%？资深策略师捕捉到“五大逆风”……",
@@ -763,7 +808,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         }
@@ -771,7 +816,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "如何看待 8 月 19 日下午 DeepSeek 被曝再次开始灰度测试，能力超过上次灰测？",
@@ -802,6 +847,29 @@
           "time_info": "[02时47分 ~ 07时31分]"
         },
         {
+          "title": "怎么评价 DeepSeek-V4-Flash-Vision-Exp 发布，多模态能力表现如何？",
+          "url": "https://www.zhihu.com/question/2074181821978376015",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
+          "title": "DeepSeekV4视觉模型上线",
+          "url": "https://www.baidu.com/s?wd=DeepSeekV4%E8%A7%86%E8%A7%89%E6%A8%A1%E5%9E%8B%E4%B8%8A%E7%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 19时32分]"
+        },
+        {
           "title": "如何看待8月19日下午DeepSeek被曝再次开始灰度测试，能力超过上次灰测？",
           "url": "https://www.zhihu.com/question/2073476043097359622",
           "source": "知乎",
@@ -819,18 +887,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时35分"
-        },
-        {
-          "title": "DeepSeekV4视觉模型上线",
-          "url": "https://www.baidu.com/s?wd=DeepSeekV4%E8%A7%86%E8%A7%89%E6%A8%A1%E5%9E%8B%E4%B8%8A%E7%BA%BF",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -841,7 +898,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         }
@@ -849,7 +906,7 @@
     },
     {
       "keyword_group": "招商银行 万华化学 福耀玻璃 旗滨集团 苏农银行 奥浦迈 爱美客 美的集团 潍柴动力 苏泊尔 鱼跃医疗 牧原股份 振邦智能 华兰生物 证监会",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "恒生指数公司：恒生指数成份股数目将由93只增加至95只，加入华虹宏力、潍柴动力",
@@ -858,7 +915,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -894,6 +951,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
+        },
+        {
+          "title": "香港证监会行政总裁梁凤仪会晤印尼金融监管及证券交易所代表团",
+          "url": "https://wallstreetcn.com/livenews/3152999",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         },
         {
           "title": "牧原股份：计划在9月底将能繁母猪降至300万头以下",
@@ -1023,8 +1091,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时42分 ~ 18时35分]"
+          "appearance_count": 3,
+          "time_info": "[17时42分 ~ 19时32分]"
         },
         {
           "title": "OpenAI：计算机网页现已在欧元区、英国和瑞士对Mac上的ChatGPT Pro、Business和Enterprise用户开放。 ChatGPT可以记住用户在应用和网站上的活动，因此未来的对话会感觉更个性化，并且需要更少的上下文。",
@@ -1049,11 +1117,12 @@
           "source": "抖音",
           "ranks": [
             7,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时42分 ~ 18时35分]"
+          "appearance_count": 3,
+          "time_info": "[17时42分 ~ 19时32分]"
         },
         {
           "title": "长债一松一紧，金价4500后还要等信号！",
