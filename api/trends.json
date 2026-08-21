@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-21T14:56:27.390263+08:00",
-  "total_titles_processed": 1317,
+  "generated_at": "2026-08-21T15:49:21.154087+08:00",
+  "total_titles_processed": 1420,
   "failed_sources": [],
   "trends": [
     {
@@ -80,6 +80,22 @@
           "time_info": "[00时40分 ~ 07时31分]"
         },
         {
+          "title": "特朗普签备忘录：探索商业机器人登陆火星 2030年实现每年超千次发射与再入任务",
+          "url": "https://www.cls.cn/detail/2460167",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            11,
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时40分 ~ 15时49分]"
+        },
+        {
           "title": "华尔街怎么看美财政部意外出手？变种QT来了，又一次“特朗普看跌期权”，沃什控通胀麻烦了",
           "url": "https://wallstreetcn.com/articles/3779827",
           "source": "华尔街见闻",
@@ -91,21 +107,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时40分 ~ 05时34分]"
-        },
-        {
-          "title": "特朗普签备忘录：探索商业机器人登陆火星 2030年实现每年超千次发射与再入任务",
-          "url": "https://www.cls.cn/detail/2460167",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            11,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时40分 ~ 14时56分]"
         },
         {
           "title": "特朗普签署备忘录以促进美航天发射，探索商业机器人登陆火星",
@@ -309,8 +310,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时40分 ~ 14时56分]"
+          "appearance_count": 8,
+          "time_info": "[09时40分 ~ 15时49分]"
         },
         {
           "title": "股债汇三杀！美股低开，沃尔玛暴跌8.7%，回购提振效应消退，长期美债跌幅扩大，美元指数走弱，油涨金跌",
@@ -354,6 +355,20 @@
           "time_info": "[00时40分 ~ 11时09分]"
         },
         {
+          "title": "回购美债影响力只有24小时？贝森特：我们有很多工具，拭目以待",
+          "url": "https://wallstreetcn.com/articles/3779933",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时40分 ~ 15时49分]"
+        },
+        {
           "title": "美债冲破40万亿美元 烂摊子谁来收拾",
           "url": "https://www.toutiao.com/trending/7676088298137194011/",
           "source": "今日头条",
@@ -371,17 +386,17 @@
           "time_info": "[00时40分 ~ 07时31分]"
         },
         {
-          "title": "回购美债影响力只有24小时？贝森特：我们有很多工具，拭目以待",
-          "url": "https://wallstreetcn.com/articles/3779933",
+          "title": "回购提振效果仅维持一日，美债30年期收益率重回5.26%",
+          "url": "https://wallstreetcn.com/articles/3779920",
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8,
-            6
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[09时40分 ~ 14时56分]"
+          "time_info": "[11时08分 ~ 15时49分]"
         },
         {
           "title": "贝森特干预影响消退，美债美股齐跌，沃尔玛暴跌9%，数字货币再猛涨",
@@ -418,19 +433,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时08分 ~ 11时09分]"
-        },
-        {
-          "title": "回购提振效果仅维持一日，美债30年期收益率重回5.26%",
-          "url": "https://wallstreetcn.com/articles/3779920",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时08分 ~ 14时56分]"
         },
         {
           "title": "美债重返跌势 周五亚股料低开",
@@ -495,7 +497,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
         },
@@ -600,11 +602,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E6%8F%90%E9%86%92%E7%BE%8E%E8%82%A1%E6%B3%A1%E6%B2%AB%E6%88%96%E5%B7%B2%E7%88%86%E7%A0%B4",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时56分 ~ 15时49分]"
         },
         {
           "title": "美股大类资产类ETF多数收跌，小盘股指ETF、道指ETF跌约1.3%",
@@ -637,7 +640,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
         },
@@ -805,7 +808,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
         }
