@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-21T20:57:59.037797+08:00",
-  "total_titles_processed": 2019,
+  "generated_at": "2026-08-21T21:52:12.239516+08:00",
+  "total_titles_processed": 2106,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普称将于11月同金正恩会晤，外交部回应",
@@ -110,6 +110,17 @@
           "time_info": "[00时40分 ~ 05时34分]"
         },
         {
+          "title": "特朗普称打击伊朗贸易伙伴，美媒问如何制裁中国，美财长答非所问",
+          "url": "https://v.ifeng.com/c/8vlFqYJqoVW",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时51分 ~ 21时52分]"
+        },
+        {
           "title": "特朗普签署备忘录以促进美航天发射，探索商业机器人登陆火星",
           "url": "https://wallstreetcn.com/livenews/3152632",
           "source": "华尔街见闻-快讯",
@@ -119,6 +130,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "特朗普如何靠经济施压逼伊朗低头？",
+          "url": "https://v.ifeng.com/c/8vm757az9xy",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时57分 ~ 21时52分]"
         },
         {
           "title": "特朗普前律师Michael Cohen确认，特朗普将出现在其美东时间周四晚上6点主持的播客节目中。",
@@ -208,15 +231,15 @@
           "time_info": "[00时41分 ~ 01时35分]"
         },
         {
-          "title": "特朗普如何靠经济施压逼伊朗低头？",
-          "url": "https://v.ifeng.com/c/8vm757az9xy",
-          "source": "凤凰网",
+          "title": "VIP·特朗普发言追踪上线！",
+          "url": "https://flash.jin10.com/detail/20260821213239462800",
+          "source": "金十数据",
           "ranks": [
-            7
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时57分"
+          "time_info": "21时52分"
         },
         {
           "title": "特朗普允许对部分进口牛绞肉给予关税宽减",
@@ -365,7 +388,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "贝森特干预影响消退，美债美股齐跌，沃尔玛暴跌9%，黄金突破200日均线，数字货币再猛涨",
@@ -375,8 +398,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时40分 ~ 20时57分]"
+          "appearance_count": 16,
+          "time_info": "[09时40分 ~ 21时52分]"
         },
         {
           "title": "美财政部回购效应消退 美债收益率回升 美股期指走低 | 今夜看点",
@@ -403,8 +426,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时40分 ~ 20时57分]"
+          "appearance_count": 16,
+          "time_info": "[09时40分 ~ 21时52分]"
         },
         {
           "title": "股债汇三杀！美股低开，沃尔玛暴跌8.7%，回购提振效应消退，长期美债跌幅扩大，美元指数走弱，油涨金跌",
@@ -544,9 +567,31 @@
           "ranks": [
             9
           ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时57分 ~ 21时52分]"
+        },
+        {
+          "title": "美股期指反弹 美债收益率仍居高位 比特币走强逼近8万美元 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2461060",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时51分 ~ 21时52分]"
+        },
+        {
+          "title": "贝森特扩大美债回购被指“玩火” 美国或重演日本式货币贬值",
+          "url": "https://wallstreetcn.com/livenews/3153086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时57分"
+          "time_info": "21时52分"
         },
         {
           "title": "“只有贝森特恐慌，美债才会停止恐慌”！贝森特要当“美债总司令”？",
@@ -580,6 +625,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "一周热榜精选：回购计划救不了美债？经济绞杀将成美伊新战场",
+          "url": "https://flash.jin10.com/detail/20260821212440041800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         },
         {
           "title": "高盛称要想降低美债收益率 通胀降温才是最佳药方",
@@ -673,7 +729,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美国财政部出手救长债！美股终结三连跌，Moderna暴涨177%，黄金、加密货币大涨",
@@ -739,11 +795,12 @@
           "url": "https://wallstreetcn.com/livenews/3153076",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时57分 ~ 21时52分]"
         },
         {
           "title": "美股大类资产类ETF多数收跌，小盘股指ETF、道指ETF跌约1.3%",
@@ -792,6 +849,17 @@
           "time_info": "04时34分"
         },
         {
+          "title": "美股开盘，道指涨0.5%，标普500指数涨0.4%，纳指涨0.4%。美光科技(MU.O)涨1%，公司CEO称目前客户需求超出公司供给约50%。博通(AVGO.O)涨1.6%，公司寻求逾600亿美元债务融资，为AI企业提供芯片基础设施。热门中概股多数上扬，贝壳(BEKE.N)绩后上涨4.9%，网易(NTES.O)涨4.4%。",
+          "url": "https://flash.jin10.com/detail/20260821213031108800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
           "title": "金十图示：2026年08月20日（周四）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260821040545672800",
           "source": "金十数据",
@@ -831,7 +899,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
         },
@@ -864,6 +932,31 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "怎么评价 DeepSeek-V4-Flash-Vision-Exp 发布，多模态能力表现如何？",
+          "url": "https://www.zhihu.com/question/2074181821978376015",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时32分 ~ 21时52分]"
+        },
+        {
+          "title": "DeepSeek多模态模型来了",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A8%A1%E5%9E%8B%E6%9D%A5%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时57分 ~ 21时52分]"
+        },
+        {
           "title": "如何看待 8 月 19 日下午 DeepSeek 被曝再次开始灰度测试，能力超过上次灰测？",
           "url": "https://www.zhihu.com/question/2073476043097359622",
           "source": "知乎",
@@ -874,18 +967,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时35分 ~ 07时31分]"
-        },
-        {
-          "title": "怎么评价 DeepSeek-V4-Flash-Vision-Exp 发布，多模态能力表现如何？",
-          "url": "https://www.zhihu.com/question/2074181821978376015",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时32分 ~ 20时57分]"
         },
         {
           "title": "Deepseek 涨价了，有哪些便宜的替代方案？",
@@ -904,17 +985,6 @@
           "time_info": "[02时47分 ~ 07时31分]"
         },
         {
-          "title": "DeepSeek多模态模型来了",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A8%A1%E5%9E%8B%E6%9D%A5%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时57分"
-        },
-        {
           "title": "DeepSeekV4视觉模型上线",
           "url": "https://www.baidu.com/s?wd=DeepSeekV4%E8%A7%86%E8%A7%89%E6%A8%A1%E5%9E%8B%E4%B8%8A%E7%BA%BF",
           "source": "百度热搜",
@@ -924,8 +994,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时35分 ~ 20时57分]"
+          "appearance_count": 5,
+          "time_info": "[18时35分 ~ 21时52分]"
         },
         {
           "title": "如何看待8月19日下午DeepSeek被曝再次开始灰度测试，能力超过上次灰测？",
@@ -1130,7 +1200,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
         }
@@ -1141,17 +1211,6 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "OpenAI：Mac桌面应用中的“电脑历史记录”功能现已向欧洲经济区、英国和瑞士的Pro、Business及Enterprise用户开放。",
-          "url": "https://flash.jin10.com/detail/20260821012025516800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时35分"
-        },
-        {
           "title": "大手笔！OpenAI全面开源Codex Harness",
           "url": "https://wallstreetcn.com/articles/3779961",
           "source": "华尔街见闻",
@@ -1161,8 +1220,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时42分 ~ 20时57分]"
+          "appearance_count": 6,
+          "time_info": "[17时42分 ~ 21时52分]"
+        },
+        {
+          "title": "OpenAI：Mac桌面应用中的“电脑历史记录”功能现已向欧洲经济区、英国和瑞士的Pro、Business及Enterprise用户开放。",
+          "url": "https://flash.jin10.com/detail/20260821012025516800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时35分"
         },
         {
           "title": "OpenAI：计算机网页现已在欧元区、英国和瑞士对Mac上的ChatGPT Pro、Business和Enterprise用户开放。 ChatGPT可以记住用户在应用和网站上的活动，因此未来的对话会感觉更个性化，并且需要更少的上下文。",
@@ -1201,7 +1271,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
         },
@@ -1233,8 +1303,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时42分 ~ 20时57分]"
+          "appearance_count": 6,
+          "time_info": "[17时42分 ~ 21时52分]"
         },
         {
           "title": "长债一松一紧，金价4500后还要等信号！",
