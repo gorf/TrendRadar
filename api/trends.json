@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-21T09:40:35.303836+08:00",
-  "total_titles_processed": 837,
+  "generated_at": "2026-08-21T11:09:11.548673+08:00",
+  "total_titles_processed": 983,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "特朗普称将于11月同金正恩会晤，外交部回应",
@@ -52,8 +52,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 09时40分]"
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 11时09分]"
         },
         {
           "title": "特朗普：金正恩不喜欢奥巴马，不喜欢拜登，只喜欢我",
@@ -115,6 +115,19 @@
           "time_info": "06时33分"
         },
         {
+          "title": "特朗普展示白宫施工项目：我非常擅长搞建设 没有人比我做得更好",
+          "url": "https://www.cls.cn/detail/2460003",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时31分 ~ 11时09分]"
+        },
+        {
           "title": "【美财长：24日举行新闻发布会阐述针对伊朗的行动】8月20日，美国财政部长贝森特表示，他将于24日举行新闻发布会，具体阐述美国针对伊朗的行动计划。贝森特称，“我们掌握非对称信息，我不确定为什么石油问题会成为关注焦点，如果我们施加最大程度的经济压力，那就意味着不太可能爆发大规模的军事冲突。”美国总统特朗普19日警告称，任何向伊朗提供“任何形式生命线”的国家都将面临经济后果。（央视）",
           "url": "https://wallstreetcn.com/livenews/3152510",
           "source": "华尔街见闻-快讯",
@@ -141,6 +154,18 @@
           "time_info": "[04时34分 ~ 07时31分]"
         },
         {
+          "title": "特朗普签备忘录：探索商业机器人登陆火星 2030年实现每年超千次发射与再入任务",
+          "url": "https://www.cls.cn/detail/2460167",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时40分 ~ 11时09分]"
+        },
+        {
           "title": "特朗普砸30亿美元能复兴美国矿产业吗",
           "url": "https://www.toutiao.com/trending/7676091719460326921/",
           "source": "今日头条",
@@ -151,18 +176,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时34分 ~ 05时34分]"
-        },
-        {
-          "title": "特朗普展示白宫施工项目：我非常擅长搞建设 没有人比我做得更好",
-          "url": "https://www.cls.cn/detail/2460003",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时31分 ~ 09时40分]"
         },
         {
           "title": "白宫：美国总统特朗普签署备忘录以促进美国航天发射。",
@@ -198,17 +211,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
-        },
-        {
-          "title": "特朗普签备忘录：探索商业机器人登陆火星 2030年实现每年超千次发射与再入任务",
-          "url": "https://www.cls.cn/detail/2460167",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时40分"
         },
         {
           "title": "美国总统特朗普：经济从未像现在这般强劲。 倘若我再度参选，我将以25个百分点的优势获胜。",
@@ -253,12 +255,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "特朗普宣布对伊朗采取“史上最严厉经济行动”，贝森特爆回购上限或超40亿，Anthropic预计IPO规模将追平或超过SpaceX的纪录……当前现货金银卖出信号强烈，美油空头占比上升，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260821103621155800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时09分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "美财政部回购效应消退 美债收益率回升 美股期指走低 | 今夜看点",
@@ -300,6 +313,21 @@
           "time_info": "[00时40分 ~ 07时31分]"
         },
         {
+          "title": "贝森特“救美债”就是“放弃美元”，花旗：强烈看多黄金！",
+          "url": "https://wallstreetcn.com/articles/3779856",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时40分 ~ 11时09分]"
+        },
+        {
           "title": "美债冲破40万亿美元 烂摊子谁来收拾",
           "url": "https://www.toutiao.com/trending/7676088298137194011/",
           "source": "今日头条",
@@ -317,19 +345,15 @@
           "time_info": "[00时40分 ~ 07时31分]"
         },
         {
-          "title": "贝森特“救美债”就是“放弃美元”，花旗：强烈看多黄金！",
-          "url": "https://wallstreetcn.com/articles/3779856",
+          "title": "贝森特干预影响消退，美债美股齐跌，沃尔玛暴跌9%，黄金突破200日均线，数字货币再猛涨",
+          "url": "https://wallstreetcn.com/articles/3779853",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9,
-            8,
-            7,
-            6
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 09时40分]"
+          "appearance_count": 3,
+          "time_info": "[09时40分 ~ 11时09分]"
         },
         {
           "title": "贝森特干预影响消退，美债美股齐跌，沃尔玛暴跌9%，数字货币再猛涨",
@@ -344,15 +368,15 @@
           "time_info": "[06时33分 ~ 07时31分]"
         },
         {
-          "title": "贝森特干预影响消退，美债美股齐跌，沃尔玛暴跌9%，黄金突破200日均线，数字货币再猛涨",
-          "url": "https://wallstreetcn.com/articles/3779853",
-          "source": "华尔街见闻",
+          "title": "各国如何应对40万亿美债",
+          "url": "https://search.bilibili.com/all?keyword=%E5%90%84%E5%9B%BD%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B940%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%80%BA",
+          "source": "bilibili 热搜",
           "ranks": [
-            1
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时08分 ~ 11时09分]"
         },
         {
           "title": "美债重返跌势 周五亚股料低开",
@@ -382,11 +406,35 @@
           "url": "https://www.cls.cn/detail/2460072",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时40分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时40分 ~ 11时09分]"
+        },
+        {
+          "title": "回购美债影响力只有24小时？贝森特：我们有很多工具，拭目以待",
+          "url": "https://wallstreetcn.com/articles/3779933",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时40分 ~ 11时09分]"
+        },
+        {
+          "title": "回购提振效果仅维持一日，美债30年期收益率重回5.26%",
+          "url": "https://wallstreetcn.com/articles/3779920",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时08分 ~ 11时09分]"
         },
         {
           "title": "“只有贝森特恐慌，美债才会停止恐慌”！贝森特要当“美债总司令”？",
@@ -398,17 +446,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
-        },
-        {
-          "title": "回购美债影响力只有24小时？贝森特：我们有很多工具，拭目以待",
-          "url": "https://wallstreetcn.com/articles/3779933",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时40分"
         },
         {
           "title": "贝森特放话：美债回购规模或超40亿美元，还有“大型工具箱”稳定市场",
@@ -439,7 +476,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
         },
@@ -500,9 +537,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时40分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时40分 ~ 11时09分]"
         },
         {
           "title": "美股收盘：贝森特“救市”有效期仅持续一天 阿里巴巴绩后低开高走",
@@ -514,8 +551,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时33分 ~ 09时40分]"
+          "appearance_count": 5,
+          "time_info": "[06时33分 ~ 11时09分]"
         },
         {
           "title": "美股大类资产类ETF多数收跌，小盘股指ETF、道指ETF跌约1.3%",
@@ -570,7 +607,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
         },
