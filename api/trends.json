@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-21T15:49:21.154087+08:00",
-  "total_titles_processed": 1420,
+  "generated_at": "2026-08-21T16:48:15.044835+08:00",
+  "total_titles_processed": 1528,
   "failed_sources": [],
   "trends": [
     {
@@ -43,6 +43,23 @@
           "time_info": "[00时40分 ~ 07时31分]"
         },
         {
+          "title": "特朗普签备忘录：探索商业机器人登陆火星 2030年实现每年超千次发射与再入任务",
+          "url": "https://www.cls.cn/detail/2460167",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            11,
+            10,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时40分 ~ 16时48分]"
+        },
+        {
           "title": "新闻蒸馏器｜特朗普宣布经济战孤立伊朗，警告任何国家不得提供“生命线”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33815972",
           "source": "澎湃新闻",
@@ -78,22 +95,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时40分 ~ 07时31分]"
-        },
-        {
-          "title": "特朗普签备忘录：探索商业机器人登陆火星 2030年实现每年超千次发射与再入任务",
-          "url": "https://www.cls.cn/detail/2460167",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            11,
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时40分 ~ 15时49分]"
         },
         {
           "title": "华尔街怎么看美财政部意外出手？变种QT来了，又一次“特朗普看跌期权”，沃什控通胀麻烦了",
@@ -287,8 +288,19 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "贝森特干预影响消退，美债美股齐跌，沃尔玛暴跌9%，黄金突破200日均线，数字货币再猛涨",
+          "url": "https://wallstreetcn.com/articles/3779853",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时40分 ~ 16时48分]"
+        },
         {
           "title": "美财政部回购效应消退 美债收益率回升 美股期指走低 | 今夜看点",
           "url": "https://www.cls.cn/detail/2459896",
@@ -301,17 +313,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时40分 ~ 09时40分]"
-        },
-        {
-          "title": "贝森特干预影响消退，美债美股齐跌，沃尔玛暴跌9%，黄金突破200日均线，数字货币再猛涨",
-          "url": "https://wallstreetcn.com/articles/3779853",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时40分 ~ 15时49分]"
         },
         {
           "title": "股债汇三杀！美股低开，沃尔玛暴跌8.7%，回购提振效应消退，长期美债跌幅扩大，美元指数走弱，油涨金跌",
@@ -340,6 +341,20 @@
           "time_info": "[00时40分 ~ 07时31分]"
         },
         {
+          "title": "回购美债影响力只有24小时？贝森特：我们有很多工具，拭目以待",
+          "url": "https://wallstreetcn.com/articles/3779933",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时40分 ~ 16时48分]"
+        },
+        {
           "title": "贝森特“救美债”就是“放弃美元”，花旗：强烈看多黄金！",
           "url": "https://wallstreetcn.com/articles/3779856",
           "source": "华尔街见闻",
@@ -355,18 +370,17 @@
           "time_info": "[00时40分 ~ 11时09分]"
         },
         {
-          "title": "回购美债影响力只有24小时？贝森特：我们有很多工具，拭目以待",
-          "url": "https://wallstreetcn.com/articles/3779933",
+          "title": "回购提振效果仅维持一日，美债30年期收益率重回5.26%",
+          "url": "https://wallstreetcn.com/articles/3779920",
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8,
-            6,
-            5
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时40分 ~ 15时49分]"
+          "appearance_count": 9,
+          "time_info": "[11时08分 ~ 16时48分]"
         },
         {
           "title": "美债冲破40万亿美元 烂摊子谁来收拾",
@@ -384,19 +398,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时40分 ~ 07时31分]"
-        },
-        {
-          "title": "回购提振效果仅维持一日，美债30年期收益率重回5.26%",
-          "url": "https://wallstreetcn.com/articles/3779920",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时08分 ~ 15时49分]"
         },
         {
           "title": "贝森特干预影响消退，美债美股齐跌，沃尔玛暴跌9%，数字货币再猛涨",
@@ -478,6 +479,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "高盛称要想降低美债收益率 通胀降温才是最佳药方",
+          "url": "https://wallstreetcn.com/livenews/3152865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
         },
         {
           "title": "美债干预效果为何“一日游”？阿里巴巴净利润大跌",
@@ -606,8 +618,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时56分 ~ 15时49分]"
+          "appearance_count": 4,
+          "time_info": "[14时56分 ~ 16时48分]"
         },
         {
           "title": "美股大类资产类ETF多数收跌，小盘股指ETF、道指ETF跌约1.3%",
