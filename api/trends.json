@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-21T21:52:12.239516+08:00",
-  "total_titles_processed": 2106,
+  "generated_at": "2026-08-21T22:41:22.332249+08:00",
+  "total_titles_processed": 2202,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 37,
       "titles": [
         {
           "title": "特朗普称将于11月同金正恩会晤，外交部回应",
@@ -97,6 +97,17 @@
           "time_info": "[00时40分 ~ 07时31分]"
         },
         {
+          "title": "特朗普称打击伊朗贸易伙伴，美媒问如何制裁中国，美财长答非所问",
+          "url": "https://v.ifeng.com/c/8vlFqYJqoVW",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时51分 ~ 22时41分]"
+        },
+        {
           "title": "华尔街怎么看美财政部意外出手？变种QT来了，又一次“特朗普看跌期权”，沃什控通胀麻烦了",
           "url": "https://wallstreetcn.com/articles/3779827",
           "source": "华尔街见闻",
@@ -110,15 +121,16 @@
           "time_info": "[00时40分 ~ 05时34分]"
         },
         {
-          "title": "特朗普称打击伊朗贸易伙伴，美媒问如何制裁中国，美财长答非所问",
-          "url": "https://v.ifeng.com/c/8vlFqYJqoVW",
+          "title": "特朗普如何靠经济施压逼伊朗低头？",
+          "url": "https://v.ifeng.com/c/8vm757az9xy",
           "source": "凤凰网",
           "ranks": [
-            2
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时51分 ~ 21时52分]"
+          "appearance_count": 4,
+          "time_info": "[20时57分 ~ 22时41分]"
         },
         {
           "title": "特朗普签署备忘录以促进美航天发射，探索商业机器人登陆火星",
@@ -130,18 +142,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
-        },
-        {
-          "title": "特朗普如何靠经济施压逼伊朗低头？",
-          "url": "https://v.ifeng.com/c/8vm757az9xy",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时57分 ~ 21时52分]"
         },
         {
           "title": "特朗普前律师Michael Cohen确认，特朗普将出现在其美东时间周四晚上6点主持的播客节目中。",
@@ -231,13 +231,46 @@
           "time_info": "[00时41分 ~ 01时35分]"
         },
         {
+          "title": "据报道，阿曼官员表示，他们并不认真对待特朗普的威胁。",
+          "url": "https://flash.jin10.com/detail/20260821221427911800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
+          "title": "卡塔尔智库研究员：特朗普“经济D日”威胁剑指伊朗，美国市场却先承压",
+          "url": "https://flash.jin10.com/detail/20260821221353215800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
+          "title": "特朗普宣布暂时豁免碎牛肉进口关税",
+          "url": "https://wallstreetcn.com/livenews/3153107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
           "title": "VIP·特朗普发言追踪上线！",
           "url": "https://flash.jin10.com/detail/20260821213239462800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
         },
@@ -295,6 +328,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时32分"
+        },
+        {
+          "title": "美媒：油价已在逐渐忽略特朗普发帖的影响",
+          "url": "https://flash.jin10.com/detail/20260821220855277800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
         },
         {
           "title": "美国总统特朗普：经济从未像现在这般强劲。 倘若我再度参选，我将以25个百分点的优势获胜。",
@@ -374,6 +418,17 @@
           "time_info": "19时32分"
         },
         {
+          "title": "据CNBC：特朗普政府任命前摩根大通高管马特·扎梅斯担任社会保障局顾问。",
+          "url": "https://flash.jin10.com/detail/20260821215507852800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-21）",
           "url": "https://flash.jin10.com/detail/20260821180616784800",
           "source": "金十数据",
@@ -388,7 +443,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "贝森特干预影响消退，美债美股齐跌，沃尔玛暴跌9%，黄金突破200日均线，数字货币再猛涨",
@@ -398,8 +453,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时40分 ~ 21时52分]"
+          "appearance_count": 17,
+          "time_info": "[09时40分 ~ 22时41分]"
         },
         {
           "title": "美财政部回购效应消退 美债收益率回升 美股期指走低 | 今夜看点",
@@ -426,8 +481,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时40分 ~ 21时52分]"
+          "appearance_count": 17,
+          "time_info": "[09时40分 ~ 22时41分]"
         },
         {
           "title": "股债汇三杀！美股低开，沃尔玛暴跌8.7%，回购提振效应消退，长期美债跌幅扩大，美元指数走弱，油涨金跌",
@@ -549,6 +604,18 @@
           "time_info": "06时33分"
         },
         {
+          "title": "美股期指反弹 美债收益率仍居高位 比特币走强逼近8万美元 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2461060",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时51分 ~ 22时41分]"
+        },
+        {
           "title": "中长期美债收益率涨约4个基点",
           "url": "https://wallstreetcn.com/livenews/3152571",
           "source": "华尔街见闻-快讯",
@@ -572,26 +639,16 @@
           "time_info": "[20时57分 ~ 21时52分]"
         },
         {
-          "title": "美股期指反弹 美债收益率仍居高位 比特币走强逼近8万美元 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2461060",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时51分 ~ 21时52分]"
-        },
-        {
           "title": "贝森特扩大美债回购被指“玩火” 美国或重演日本式货币贬值",
           "url": "https://wallstreetcn.com/livenews/3153086",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时52分 ~ 22时41分]"
         },
         {
           "title": "“只有贝森特恐慌，美债才会停止恐慌”！贝森特要当“美债总司令”？",
@@ -603,6 +660,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "贝森特回购难消市场疑虑，30年期美债升至5.26%，美股高开，区块链概念股普涨，金油齐涨",
+          "url": "https://wallstreetcn.com/articles/3779986",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
         },
         {
           "title": "美财政部欲砸钱救美债，摩根大通怒批饮鸩止渴，高盛开出“药方”",
@@ -633,7 +701,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
         },
@@ -729,7 +797,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "美国财政部出手救长债！美股终结三连跌，Moderna暴涨177%，黄金、加密货币大涨",
@@ -827,6 +895,28 @@
           "time_info": "[05时34分 ~ 06时33分]"
         },
         {
+          "title": "美股三大指数高开 SK海力士涨超2%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80+SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E6%B6%A8%E8%B6%852%25",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
+          "title": "美股区块链概念股大涨，嘉楠科技涨超26%，第九城市涨超11%，MARA Holdings涨近10%，Coinbase Global涨超9%。",
+          "url": "https://wallstreetcn.com/livenews/3153104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
           "title": "前美联储“三把手”：美股泡沫或明年底前破裂，最难的是“提前下车”",
           "url": "https://flash.jin10.com/detail/20260821143255327800",
           "source": "金十数据",
@@ -855,7 +945,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
         },
@@ -904,6 +994,28 @@
           "time_info": "20时57分"
         },
         {
+          "title": "美股盘初，主要行业ETF普涨，全球航空业ETF涨超1%，区域银行业ETF、半导体ETF涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/3153096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
+          "title": "美股盘初：纳指涨0.5%，区块链概念股多数上涨",
+          "url": "https://wallstreetcn.com/livenews/3153094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
           "title": "美股三大指数进一步下跌，道指数跌超1%，标普500指数跌0.58%，纳指跌0.95%。",
           "url": "https://flash.jin10.com/detail/20260821013832888800",
           "source": "金十数据",
@@ -938,11 +1050,12 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时32分 ~ 21时52分]"
+          "appearance_count": 5,
+          "time_info": "[19时32分 ~ 22时41分]"
         },
         {
           "title": "DeepSeek多模态模型来了",
@@ -953,8 +1066,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时57分 ~ 21时52分]"
+          "appearance_count": 4,
+          "time_info": "[20时57分 ~ 22时41分]"
         },
         {
           "title": "如何看待 8 月 19 日下午 DeepSeek 被曝再次开始灰度测试，能力超过上次灰测？",
@@ -994,8 +1107,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时35分 ~ 21时52分]"
+          "appearance_count": 6,
+          "time_info": "[18时35分 ~ 22时41分]"
         },
         {
           "title": "如何看待8月19日下午DeepSeek被曝再次开始灰度测试，能力超过上次灰测？",
@@ -1220,8 +1333,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时42分 ~ 21时52分]"
+          "appearance_count": 7,
+          "time_info": "[17时42分 ~ 22时41分]"
         },
         {
           "title": "OpenAI：Mac桌面应用中的“电脑历史记录”功能现已向欧洲经济区、英国和瑞士的Pro、Business及Enterprise用户开放。",
@@ -1244,6 +1357,48 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "国际金价重回4600美元",
+          "url": "https://www.douyin.com/hot/2617802",
+          "source": "抖音",
+          "ranks": [
+            7,
+            9,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时42分 ~ 22时41分]"
+        },
+        {
+          "title": "长债一松一紧，金价4500后还要等信号！",
+          "url": "https://flash.jin10.com/detail/20260821115544413800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "金价涨嗨了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%B6%A8%E5%97%A8%E4%BA%86%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
         }
       ]
     },
@@ -1285,37 +1440,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "国际金价重回4600美元",
-          "url": "https://www.douyin.com/hot/2617802",
-          "source": "抖音",
-          "ranks": [
-            7,
-            9,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时42分 ~ 21时52分]"
-        },
-        {
-          "title": "长债一松一紧，金价4500后还要等信号！",
-          "url": "https://flash.jin10.com/detail/20260821115544413800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时44分"
         }
       ]
     }
