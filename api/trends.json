@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-21T07:31:24.150129+08:00",
-  "total_titles_processed": 662,
+  "generated_at": "2026-08-21T09:40:35.303836+08:00",
+  "total_titles_processed": 837,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "特朗普称将于11月同金正恩会晤，外交部回应",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 07时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 09时40分]"
         },
         {
           "title": "特朗普宣布对伊朗采取“史上最严厉经济行动”",
@@ -43,6 +43,19 @@
           "time_info": "[00时40分 ~ 07时31分]"
         },
         {
+          "title": "新闻蒸馏器｜特朗普宣布经济战孤立伊朗，警告任何国家不得提供“生命线”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33815972",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 09时40分]"
+        },
+        {
           "title": "特朗普：金正恩不喜欢奥巴马，不喜欢拜登，只喜欢我",
           "url": "https://v.ifeng.com/c/8vjvzoGPbiN",
           "source": "凤凰网",
@@ -61,18 +74,6 @@
             12,
             11,
             13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 07时31分]"
-        },
-        {
-          "title": "新闻蒸馏器｜特朗普宣布经济战孤立伊朗，警告任何国家不得提供“生命线”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33815972",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -98,7 +99,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -152,6 +153,18 @@
           "time_info": "[04时34分 ~ 05时34分]"
         },
         {
+          "title": "特朗普展示白宫施工项目：我非常擅长搞建设 没有人比我做得更好",
+          "url": "https://www.cls.cn/detail/2460003",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时31分 ~ 09时40分]"
+        },
+        {
           "title": "白宫：美国总统特朗普签署备忘录以促进美国航天发射。",
           "url": "https://flash.jin10.com/detail/20260821050109075800",
           "source": "金十数据",
@@ -182,20 +195,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
         {
-          "title": "特朗普展示白宫施工项目：我非常擅长搞建设 没有人比我做得更好",
-          "url": "https://www.cls.cn/detail/2460003",
+          "title": "特朗普签备忘录：探索商业机器人登陆火星 2030年实现每年超千次发射与再入任务",
+          "url": "https://www.cls.cn/detail/2460167",
           "source": "财联社热门",
           "ranks": [
-            12
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时31分"
+          "time_info": "09时40分"
         },
         {
           "title": "美国总统特朗普：经济从未像现在这般强劲。 倘若我再度参选，我将以25个百分点的优势获胜。",
@@ -204,7 +217,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -215,7 +228,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -237,7 +250,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         }
@@ -245,7 +258,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "美财政部回购效应消退 美债收益率回升 美股期指走低 | 今夜看点",
@@ -253,11 +266,12 @@
           "source": "财联社热门",
           "ranks": [
             2,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 07时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 09时40分]"
         },
         {
           "title": "股债汇三杀！美股低开，沃尔玛暴跌8.7%，回购提振效应消退，长期美债跌幅扩大，美元指数走弱，油涨金跌",
@@ -303,6 +317,21 @@
           "time_info": "[00时40分 ~ 07时31分]"
         },
         {
+          "title": "贝森特“救美债”就是“放弃美元”，花旗：强烈看多黄金！",
+          "url": "https://wallstreetcn.com/articles/3779856",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时40分 ~ 09时40分]"
+        },
+        {
           "title": "贝森特干预影响消退，美债美股齐跌，沃尔玛暴跌9%，数字货币再猛涨",
           "url": "https://wallstreetcn.com/articles/3779853",
           "source": "华尔街见闻",
@@ -315,18 +344,15 @@
           "time_info": "[06时33分 ~ 07时31分]"
         },
         {
-          "title": "贝森特“救美债”就是“放弃美元”，花旗：强烈看多黄金！",
-          "url": "https://wallstreetcn.com/articles/3779856",
+          "title": "贝森特干预影响消退，美债美股齐跌，沃尔玛暴跌9%，黄金突破200日均线，数字货币再猛涨",
+          "url": "https://wallstreetcn.com/articles/3779853",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9,
-            8,
-            7
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时40分 ~ 07时31分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
         },
         {
           "title": "美债重返跌势 周五亚股料低开",
@@ -352,15 +378,37 @@
           "time_info": "[04时34分 ~ 05时34分]"
         },
         {
+          "title": "美债、伊朗两头忙！贝森特放话：回购还能加码 制裁下周披露",
+          "url": "https://www.cls.cn/detail/2460072",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
           "title": "“只有贝森特恐慌，美债才会停止恐慌”！贝森特要当“美债总司令”？",
           "url": "https://wallstreetcn.com/articles/3779842",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "回购美债影响力只有24小时？贝森特：我们有很多工具，拭目以待",
+          "url": "https://wallstreetcn.com/articles/3779933",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
         },
         {
           "title": "贝森特放话：美债回购规模或超40亿美元，还有“大型工具箱”稳定市场",
@@ -369,7 +417,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -383,6 +431,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "狂飙美债对全球意味着什么",
+          "url": "https://www.toutiao.com/trending/7676018598879432235/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
         },
         {
           "title": "美国财长贝森特回应美债回购的规模能有多大，称：将视条件而定。 24小时内的任何波动都是噪音而已。 试图让疲软的市场恢复平衡。",
@@ -410,7 +469,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "美国财政部出手救长债！美股终结三连跌，Moderna暴涨177%，黄金、加密货币大涨",
@@ -435,16 +494,28 @@
           "time_info": "[00时40分 ~ 07时31分]"
         },
         {
+          "title": "【早报】美股存储、光通信板块走强；医药牛股莫德纳暴跌23%；原油大涨、黄金微跌；泡泡玛特、阿里巴巴、中信证券最新业绩公布",
+          "url": "https://www.cls.cn/detail/2460127",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
           "title": "美股收盘：贝森特“救市”有效期仅持续一天 阿里巴巴绩后低开高走",
           "url": "https://www.cls.cn/detail/2460111",
           "source": "财联社热门",
           "ranks": [
             11,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时33分 ~ 07时31分]"
+          "appearance_count": 3,
+          "time_info": "[06时33分 ~ 09时40分]"
         },
         {
           "title": "美股大类资产类ETF多数收跌，小盘股指ETF、道指ETF跌约1.3%",
@@ -491,6 +562,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
+        },
+        {
+          "title": "美股三大指数全线收跌",
+          "url": "https://www.douyin.com/hot/2617626",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
         },
         {
           "title": "美股收盘：三大股指收跌 Moderna跌23.5%",
