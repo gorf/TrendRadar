@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-22T22:27:12.867481+08:00",
-  "total_titles_processed": 1726,
+  "generated_at": "2026-08-22T23:27:33.517813+08:00",
+  "total_titles_processed": 1783,
   "failed_sources": [],
   "trends": [
     {
@@ -74,11 +74,12 @@
             18,
             22,
             2,
-            8
+            8,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时28分 ~ 22时27分]"
+          "appearance_count": 7,
+          "time_info": "[09时28分 ~ 23时27分]"
         },
         {
           "title": "“这次对华让步，特朗普该羞得没脸见人”",
@@ -88,8 +89,34 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时26分 ~ 22时27分]"
+          "appearance_count": 3,
+          "time_info": "[22时26分 ~ 23时27分]"
+        },
+        {
+          "title": "人均“十万加”，特朗普考虑出兵干预",
+          "url": "https://news.ifeng.com/c/8vnnjMt8Nty",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时26分 ~ 23时27分]"
+        },
+        {
+          "title": "特朗普：可出动美军干预债市",
+          "url": "https://www.cls.cn/detail/2461395",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时29分 ~ 23时27分]"
         },
         {
           "title": "特朗普称对伊转向“经济战”不意味着美军事选项受限",
@@ -103,17 +130,6 @@
           "time_info": "[06时31分 ~ 07时29分]"
         },
         {
-          "title": "人均“十万加”，特朗普考虑出兵干预",
-          "url": "https://news.ifeng.com/c/8vnnjMt8Nty",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时26分 ~ 22时27分]"
-        },
-        {
           "title": "特朗普敲打韩国，李在明为何反而叫好？",
           "url": "https://news.ifeng.com/c/8vmzjiDBcUz",
           "source": "凤凰网",
@@ -123,20 +139,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时28分 ~ 10时59分]"
-        },
-        {
-          "title": "特朗普：可出动美军干预债市",
-          "url": "https://www.cls.cn/detail/2461395",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时29分 ~ 22时27分]"
         },
         {
           "title": "美国总统特朗普声称：霍尔木兹海峡是美国的领土。",
@@ -185,15 +187,15 @@
           "time_info": "00时40分"
         },
         {
-          "title": "分析师：特朗普的经济孤立计划可能招致伊朗在波斯湾各地发动打击",
-          "url": "https://flash.jin10.com/detail/20260822213559990800",
-          "source": "金十数据",
+          "title": "特朗普：未指示贝森特干预美国债市，经济增长将自行化解债务问题",
+          "url": "https://wallstreetcn.com/articles/3780037",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时49分 ~ 23时27分]"
         },
         {
           "title": "特朗普谈伊朗：我们正在观察事态发展。 他们（伊朗）没有钱。 他们没有海军。他们没有空军。 他们没有支付士兵薪水。他们没有支付警察薪水。 他们有350%的通货膨胀。",
@@ -307,17 +309,6 @@
           "time_info": "[06时31分 ~ 07时29分]"
         },
         {
-          "title": "特朗普：未指示贝森特干预美国债市，经济增长将自行化解债务问题",
-          "url": "https://wallstreetcn.com/articles/3780037",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时49分 ~ 22时27分]"
-        },
-        {
           "title": "据Axios：美国国务院发言人就E1地区建设计划回应称，正如美国总统特朗普明确指出的，美国不支持以色列吞并西岸。西岸的稳定有助于以色列安全，也符合美国政府推动该地区实现和平的目标。",
           "url": "https://flash.jin10.com/detail/20260822022922508800",
           "source": "金十数据",
@@ -328,6 +319,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时43分 ~ 03时30分]"
+        },
+        {
+          "title": "分析师：特朗普的经济孤立计划可能招致伊朗在波斯湾各地发动打击",
+          "url": "https://flash.jin10.com/detail/20260822213559990800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 23时27分]"
+        },
+        {
+          "title": "梅洛尼谈特朗普：错付了",
+          "url": "https://news.ifeng.com/c/8vntoGTfOZC",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时26分 ~ 23时27分]"
         },
         {
           "title": "美国总统特朗普表示对伊朗转向经济战并不意味着美国军事选项受限。",
@@ -466,15 +480,16 @@
           "time_info": "[17时32分 ~ 19时26分]"
         },
         {
-          "title": "梅洛尼谈特朗普：错付了",
-          "url": "https://news.ifeng.com/c/8vntoGTfOZC",
-          "source": "凤凰网",
+          "title": "释疑｜一天只过几艘船，特朗普却说海峡畅通，哪个是霍尔木兹的“真相”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33825790",
+          "source": "澎湃新闻",
           "ranks": [
-            6
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时26分 ~ 22时27分]"
+          "appearance_count": 3,
+          "time_info": "[22时26分 ~ 23时27分]"
         },
         {
           "title": "美国最高法院暂缓停工令，特朗普可继续建宴会厅",
@@ -568,17 +583,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时31分 ~ 07时29分]"
-        },
-        {
-          "title": "释疑｜一天只过几艘船，特朗普却说海峡畅通，哪个是霍尔木兹的“真相”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33825790",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时26分 ~ 22时27分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-22）",
@@ -743,8 +747,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时59分 ~ 22时27分]"
+          "appearance_count": 16,
+          "time_info": "[10时59分 ~ 23时27分]"
         },
         {
           "title": "30年美债收益率再次逼近5.3% 贝森特大举干市只管用两天？",
@@ -758,8 +762,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时59分 ~ 22时27分]"
+          "appearance_count": 16,
+          "time_info": "[10时59分 ~ 23时27分]"
         },
         {
           "title": "贝森特扩大美债回购是做“玩火”！布鲁金斯学会：美国或重演日本式货币贬值",
@@ -773,8 +777,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时38分 ~ 22时27分]"
+          "appearance_count": 14,
+          "time_info": "[12时38分 ~ 23时27分]"
         },
         {
           "title": "贝森特回购难消市场疑虑，30年期美债升至5.26%，美股高开，区块链概念股普涨，金油齐涨",
@@ -831,8 +835,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时29分 ~ 22时27分]"
+          "appearance_count": 18,
+          "time_info": "[07时29分 ~ 23时27分]"
         },
         {
           "title": "18年翻了4倍！不到一代人的时间，美国40万亿美债是如何炼成的？",
@@ -864,11 +868,24 @@
           "source": "金十数据",
           "ranks": [
             2,
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时36分 ~ 22时27分]"
+          "appearance_count": 3,
+          "time_info": "[21时36分 ~ 23时27分]"
+        },
+        {
+          "title": "大V：美债致命死局暴露",
+          "url": "https://www.toutiao.com/trending/7676813234803838491/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时26分 ~ 23时27分]"
         },
         {
           "title": "美国CFTC：资产管理公司在贝森特意外回购宣布前增持美债敞口",
@@ -918,17 +935,6 @@
           "time_info": "[10时59分 ~ 11时50分]"
         },
         {
-          "title": "大V：美债致命死局暴露",
-          "url": "https://www.toutiao.com/trending/7676813234803838491/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时26分 ~ 22时27分]"
-        },
-        {
           "title": "达利欧称美债危机或三年内爆发",
           "url": "https://www.douyin.com/hot/2619353",
           "source": "抖音",
@@ -965,8 +971,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时29分 ~ 22时27分]"
+          "appearance_count": 18,
+          "time_info": "[07时29分 ~ 23时27分]"
         },
         {
           "title": "美股收盘：三大指数周线齐跌 有色板块上演普涨浪潮",
@@ -978,8 +984,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时29分 ~ 22时27分]"
+          "appearance_count": 18,
+          "time_info": "[07时29分 ~ 23时27分]"
         },
         {
           "title": "美股止跌反弹，道指涨近1%，区块链概念股普涨，金油齐涨",
@@ -1133,11 +1139,12 @@
             18,
             19,
             15,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时29分 ~ 22时27分]"
+          "appearance_count": 7,
+          "time_info": "[18时29分 ~ 23时27分]"
         },
         {
           "title": "OpenAI：未来三个月将把GPT-5.6Sol API及积分价格下调超过20%",
@@ -1383,6 +1390,20 @@
           "time_info": "[00时40分 ~ 05时31分]"
         },
         {
+          "title": "怎么看 OpenCode 找了很多供应商，都找不到 DeepSeek 涨价前原厂的价格？",
+          "url": "https://www.zhihu.com/question/2074077084964733784",
+          "source": "知乎",
+          "ranks": [
+            15,
+            13,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时26分 ~ 23时27分]"
+        },
+        {
           "title": "DeepSeek多模态模型来了",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A8%A1%E5%9E%8B%E6%9D%A5%E4%BA%86",
           "source": "bilibili 热搜",
@@ -1395,19 +1416,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时34分 ~ 06时31分]"
-        },
-        {
-          "title": "怎么看 OpenCode 找了很多供应商，都找不到 DeepSeek 涨价前原厂的价格？",
-          "url": "https://www.zhihu.com/question/2074077084964733784",
-          "source": "知乎",
-          "ranks": [
-            15,
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时26分 ~ 22时27分]"
         },
         {
           "title": "为什么有 DeepSeek 娘但是没有人制作 GLM 娘？",
