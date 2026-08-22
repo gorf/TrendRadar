@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-22T16:36:37.813925+08:00",
-  "total_titles_processed": 1322,
+  "generated_at": "2026-08-22T17:32:21.202108+08:00",
+  "total_titles_processed": 1380,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 50,
       "titles": [
         {
           "title": "特朗普称打击伊朗贸易伙伴，美媒问如何制裁中国，美财长答非所问",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时40分 ~ 07时29分]"
+        },
+        {
+          "title": "特朗普，打光了弹药？",
+          "url": "https://news.ifeng.com/c/8vmO4NLET3C",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时28分 ~ 17时32分]"
         },
         {
           "title": "伊朗谋划反攻，精准打击特朗普“软肋”",
@@ -31,15 +42,15 @@
           "time_info": "[00时40分 ~ 07时29分]"
         },
         {
-          "title": "特朗普，打光了弹药？",
-          "url": "https://news.ifeng.com/c/8vmO4NLET3C",
+          "title": "顶不住了？特朗普宣布暂时豁免碎牛肉进口关税",
+          "url": "https://news.ifeng.com/c/8vmz8HPxLdH",
           "source": "凤凰网",
           "ranks": [
-            2
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时28分 ~ 16时36分]"
+          "appearance_count": 10,
+          "time_info": "[09时28分 ~ 17时32分]"
         },
         {
           "title": "新闻蒸馏器｜特朗普“守门人”惹争议：了解机密却未办理安全许可，已工作一年",
@@ -53,17 +64,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[02时43分 ~ 13时32分]"
-        },
-        {
-          "title": "顶不住了？特朗普宣布暂时豁免碎牛肉进口关税",
-          "url": "https://news.ifeng.com/c/8vmz8HPxLdH",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时28分 ~ 16时36分]"
         },
         {
           "title": "特朗普称对伊转向“经济战”不意味着美军事选项受限",
@@ -540,6 +540,17 @@
           "time_info": "09时28分"
         },
         {
+          "title": "特朗普：如果需要将出动美军干预债市",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%A6%82%E6%9E%9C%E9%9C%80%E8%A6%81%E5%B0%86%E5%87%BA%E5%8A%A8%E7%BE%8E%E5%86%9B%E5%B9%B2%E9%A2%84%E5%80%BA%E5%B8%82",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
           "title": "王冰汝：特朗普与科恩世纪和解",
           "url": "https://www.toutiao.com/trending/7676655309384846902/",
           "source": "今日头条",
@@ -613,6 +624,35 @@
           "time_info": "[00时40分 ~ 07时29分]"
         },
         {
+          "title": "贝森特没救成美债却点燃“美元贬值交易”！黄金创三个月新高，比特币单周暴涨超25%",
+          "url": "https://wallstreetcn.com/articles/3780041",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时59分 ~ 17时32分]"
+        },
+        {
+          "title": "30年美债收益率再次逼近5.3% 贝森特大举干市只管用两天？",
+          "url": "https://www.cls.cn/detail/2461311",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时59分 ~ 17时32分]"
+        },
+        {
           "title": "贝森特回购难消市场疑虑，30年期美债升至5.26%，美股高开，区块链概念股普涨，金油齐涨",
           "url": "https://wallstreetcn.com/articles/3779986",
           "source": "华尔街见闻",
@@ -635,22 +675,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时29分 ~ 16时36分]"
-        },
-        {
-          "title": "贝森特没救成美债却点燃“美元贬值交易”！黄金创三个月新高，比特币单周暴涨超25%",
-          "url": "https://wallstreetcn.com/articles/3780041",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时59分 ~ 16时36分]"
+          "appearance_count": 11,
+          "time_info": "[07时29分 ~ 17时32分]"
         },
         {
           "title": "美股期指反弹 美债收益率仍居高位 比特币走强逼近8万美元 | 今夜看点",
@@ -664,8 +690,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时40分 ~ 16时36分]"
+          "appearance_count": 21,
+          "time_info": "[00时40分 ~ 17时32分]"
         },
         {
           "title": "达利欧又双叒叕警告：美债危机临近 囤点黄金和比特币吧",
@@ -678,22 +704,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时29分 ~ 16时36分]"
-        },
-        {
-          "title": "30年美债收益率再次逼近5.3% 贝森特大举干市只管用两天？",
-          "url": "https://www.cls.cn/detail/2461311",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时59分 ~ 16时36分]"
+          "appearance_count": 11,
+          "time_info": "[07时29分 ~ 17时32分]"
         },
         {
           "title": "18年翻了4倍！不到一代人的时间，美国40万亿美债是如何炼成的？",
@@ -714,11 +726,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时38分 ~ 16时36分]"
+          "appearance_count": 7,
+          "time_info": "[12时38分 ~ 17时32分]"
         },
         {
           "title": "美债回购叠加政策利好 比特币本周飙升近25% 重返8万美元附近",
@@ -783,8 +796,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时29分 ~ 16时36分]"
+          "appearance_count": 11,
+          "time_info": "[07时29分 ~ 17时32分]"
         },
         {
           "title": "美股收盘：三大指数周线齐跌 有色板块上演普涨浪潮",
@@ -796,8 +809,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时29分 ~ 16时36分]"
+          "appearance_count": 11,
+          "time_info": "[07时29分 ~ 17时32分]"
         },
         {
           "title": "美股止跌反弹，道指涨近1%，区块链概念股普涨，金油齐涨",
@@ -947,6 +960,19 @@
           "time_info": "[00时40分 ~ 09时28分]"
         },
         {
+          "title": "金价银价油价集体上涨",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%B2%B9%E4%BB%B7%E9%9B%86%E4%BD%93%E4%B8%8A%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            21,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时49分 ~ 17时32分]"
+        },
+        {
           "title": "国际金价涨约2%，与白银突破200日均线",
           "url": "https://wallstreetcn.com/livenews/3153225",
           "source": "华尔街见闻-快讯",
@@ -984,19 +1010,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时28分 ~ 11时50分]"
-        },
-        {
-          "title": "金价银价油价集体上涨",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%B2%B9%E4%BB%B7%E9%9B%86%E4%BD%93%E4%B8%8A%E6%B6%A8",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            21,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时49分 ~ 16时36分]"
         },
         {
           "title": "市场博弈加剧，金价长短周期走势或分化",
@@ -1171,7 +1184,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "怎么评价 DeepSeek-V4-Flash-Vision-Exp 发布，多模态能力表现如何？",
@@ -1211,6 +1224,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时28分 ~ 12时39分]"
+        },
+        {
+          "title": "如何评价 0821 发布的 deepseek-v4-flash-vision-exp？",
+          "url": "https://www.zhihu.com/question/2074187767911925314",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
         }
       ]
     },
