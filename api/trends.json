@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-22T19:26:18.356475+08:00",
-  "total_titles_processed": 1480,
+  "generated_at": "2026-08-22T20:49:42.320995+08:00",
+  "total_titles_processed": 1594,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 54,
       "titles": [
         {
           "title": "特朗普，打光了弹药？",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时28分 ~ 19时26分]"
+          "appearance_count": 13,
+          "time_info": "[09时28分 ~ 20时49分]"
         },
         {
           "title": "特朗普称打击伊朗贸易伙伴，美媒问如何制裁中国，美财长答非所问",
@@ -49,8 +49,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时28分 ~ 19时26分]"
+          "appearance_count": 13,
+          "time_info": "[09时28分 ~ 20时49分]"
         },
         {
           "title": "新闻蒸馏器｜特朗普“守门人”惹争议：了解机密却未办理安全许可，已工作一年",
@@ -75,6 +75,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时31分 ~ 07时29分]"
+        },
+        {
+          "title": "VIP・9折看懂特朗普信号！",
+          "url": "https://flash.jin10.com/detail/20260822090617214800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            18,
+            22,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时28分 ~ 20时49分]"
         },
         {
           "title": "特朗普敲打韩国，李在明为何反而叫好？",
@@ -158,19 +172,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时59分 ~ 12时39分]"
-        },
-        {
-          "title": "VIP・9折看懂特朗普信号！",
-          "url": "https://flash.jin10.com/detail/20260822090617214800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            18,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时28分 ~ 11时50分]"
         },
         {
           "title": "卢拉与特朗普通话，反对美国对巴商品加征关税",
@@ -307,6 +308,19 @@
           "time_info": "[10时59分 ~ 12时39分]"
         },
         {
+          "title": "特朗普：可出动美军干预债市",
+          "url": "https://www.cls.cn/detail/2461395",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时29分 ~ 20时49分]"
+        },
+        {
           "title": "美国总统特朗普：我们应该能够与加拿大达成协议。",
           "url": "https://flash.jin10.com/detail/20260822045829111800",
           "source": "金十数据",
@@ -441,18 +455,6 @@
           "time_info": "[06时31分 ~ 07时29分]"
         },
         {
-          "title": "特朗普：可出动美军干预债市",
-          "url": "https://www.cls.cn/detail/2461395",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时29分 ~ 19时26分]"
-        },
-        {
           "title": "特朗普力挺AI数据中心 称将创造大量就业和税收",
           "url": "https://flash.jin10.com/detail/20260822021607120800",
           "source": "金十数据",
@@ -510,6 +512,28 @@
           "time_info": "[12时38分 ~ 12时39分]"
         },
         {
+          "title": "特朗普：未指示贝森特干预美国债市，经济增长将自行化解债务问题",
+          "url": "https://wallstreetcn.com/articles/3780037",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
+        },
+        {
+          "title": "巴勒斯坦副总统：哈马斯不会以其名义参加选举，并且不会成为政府的一部分，这就是它在美国总统特朗普计划中签署的内容。",
+          "url": "https://flash.jin10.com/detail/20260822192220953800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
+        },
+        {
           "title": "特朗普盯上格陵兰稀土，美企矿山项目冲刺投产",
           "url": "https://flash.jin10.com/detail/20260822005306229800",
           "source": "金十数据",
@@ -565,6 +589,17 @@
           "time_info": "09时28分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-22）",
+          "url": "https://flash.jin10.com/detail/20260822185310302800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
+        },
+        {
           "title": "王冰汝：特朗普与科恩世纪和解",
           "url": "https://www.toutiao.com/trending/7676655309384846902/",
           "source": "今日头条",
@@ -612,7 +647,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "贝森特干预影响消退，美债美股齐跌，沃尔玛暴跌9%，黄金突破200日均线，数字货币再猛涨",
@@ -645,11 +680,12 @@
             9,
             8,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时59分 ~ 19时26分]"
+          "appearance_count": 12,
+          "time_info": "[10时59分 ~ 20时49分]"
         },
         {
           "title": "30年美债收益率再次逼近5.3% 贝森特大举干市只管用两天？",
@@ -663,8 +699,23 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时59分 ~ 19时26分]"
+          "appearance_count": 12,
+          "time_info": "[10时59分 ~ 20时49分]"
+        },
+        {
+          "title": "贝森特扩大美债回购是做“玩火”！布鲁金斯学会：美国或重演日本式货币贬值",
+          "url": "https://wallstreetcn.com/articles/3780021",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时38分 ~ 20时49分]"
         },
         {
           "title": "贝森特回购难消市场疑虑，30年期美债升至5.26%，美股高开，区块链概念股普涨，金油齐涨",
@@ -704,8 +755,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时29分 ~ 19时26分]"
+          "appearance_count": 14,
+          "time_info": "[07时29分 ~ 20时49分]"
         },
         {
           "title": "美股期指反弹 美债收益率仍居高位 比特币走强逼近8万美元 | 今夜看点",
@@ -722,20 +773,6 @@
           "is_new": false,
           "appearance_count": 23,
           "time_info": "[00时40分 ~ 19时26分]"
-        },
-        {
-          "title": "贝森特扩大美债回购是做“玩火”！布鲁金斯学会：美国或重演日本式货币贬值",
-          "url": "https://wallstreetcn.com/articles/3780021",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时38分 ~ 19时26分]"
         },
         {
           "title": "18年翻了4倍！不到一代人的时间，美国40万亿美债是如何炼成的？",
@@ -798,13 +835,24 @@
           "time_info": "[10时59分 ~ 11时50分]"
         },
         {
+          "title": "达利欧称美债危机或三年内爆发",
+          "url": "https://www.douyin.com/hot/2619353",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
+        },
+        {
           "title": "美政府如何应对40万亿美元美债",
           "url": "https://www.toutiao.com/trending/7676791158093123113/",
           "source": "今日头条",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
         }
@@ -823,8 +871,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时29分 ~ 19时26分]"
+          "appearance_count": 14,
+          "time_info": "[07时29分 ~ 20时49分]"
         },
         {
           "title": "美股收盘：三大指数周线齐跌 有色板块上演普涨浪潮",
@@ -836,8 +884,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时29分 ~ 19时26分]"
+          "appearance_count": 14,
+          "time_info": "[07时29分 ~ 20时49分]"
         },
         {
           "title": "美股止跌反弹，道指涨近1%，区块链概念股普涨，金油齐涨",
@@ -984,6 +1032,19 @@
           "time_info": "[00时40分 ~ 09时28分]"
         },
         {
+          "title": "观察丨具身智能还在等待“ChatGPT时刻”，产业链与生态成竞争关键",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33825848",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时29分 ~ 20时49分]"
+        },
+        {
           "title": "OpenAI：未来三个月将把GPT-5.6Sol API及积分价格下调超过20%",
           "url": "https://wallstreetcn.com/livenews/3153197",
           "source": "华尔街见闻-快讯",
@@ -994,18 +1055,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时32分 ~ 05时31分]"
-        },
-        {
-          "title": "观察丨具身智能还在等待“ChatGPT时刻”，产业链与生态成竞争关键",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33825848",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时29分 ~ 19时26分]"
         },
         {
           "title": "OpenAI：GPT-5.6 Sol已上线API，并将向符合条件的ChatGPT Work和Codex积分计划开放，Pro、Plus及Business订阅使用不受影响。",
@@ -1271,22 +1320,24 @@
           "ranks": [
             18,
             12,
-            8
+            8,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时32分 ~ 19时26分]"
+          "appearance_count": 4,
+          "time_info": "[17时32分 ~ 20时49分]"
         },
         {
           "title": "怎么看 OpenCode 找了很多供应商，都找不到 DeepSeek 涨价前原厂的价格？",
           "url": "https://www.zhihu.com/question/2074077084964733784",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时26分 ~ 20时49分]"
         }
       ]
     },
@@ -1296,22 +1347,23 @@
       "titles": [
         {
           "title": "牧原股份与华为签署战略合作协议",
-          "url": "https://flash.jin10.com/detail/20260822173638801800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时29分 ~ 19时26分]"
-        },
-        {
-          "title": "牧原股份与华为签署战略合作协议",
           "url": "https://wallstreetcn.com/livenews/3153364",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时29分 ~ 20时49分]"
+        },
+        {
+          "title": "牧原股份与华为签署战略合作协议",
+          "url": "https://flash.jin10.com/detail/20260822173638801800",
+          "source": "金十数据",
+          "ranks": [
+            6,
             8
           ],
           "is_new": false,
