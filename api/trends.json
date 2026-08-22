@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-23T01:26:25.050050+08:00",
-  "total_titles_processed": 349,
+  "generated_at": "2026-08-23T02:38:21.306778+08:00",
+  "total_titles_processed": 374,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "“这次对华让步，特朗普该羞得没脸见人”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时38分]"
         },
         {
           "title": "人均“十万加”，特朗普考虑出兵干预",
@@ -26,8 +26,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时38分]"
+        },
+        {
+          "title": "特朗普6月调整投资组合，抛售Meta等股票、买入伯克希尔·哈撒韦",
+          "url": "https://flash.jin10.com/detail/20260823015208413800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时38分"
         },
         {
           "title": "梅洛尼谈特朗普：错付了",
@@ -37,8 +48,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时38分]"
         },
         {
           "title": "特朗普：可出动美军干预债市",
@@ -49,19 +60,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时38分]"
         },
         {
           "title": "特朗普：未指示贝森特干预美国债市，经济增长将自行化解债务问题",
           "url": "https://wallstreetcn.com/articles/3780037",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时38分]"
         },
         {
           "title": "释疑｜一天只过几艘船，特朗普却说海峡畅通，哪个是霍尔木兹的“真相”？",
@@ -71,8 +83,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时38分]"
         },
         {
           "title": "分析师：特朗普的经济孤立计划可能招致伊朗在波斯湾各地发动打击",
@@ -96,11 +108,12 @@
           "url": "https://wallstreetcn.com/articles/3780041",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时38分]"
         },
         {
           "title": "30年美债收益率再次逼近5.3% 贝森特大举干市只管用两天？",
@@ -110,8 +123,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时38分]"
         },
         {
           "title": "达利欧又双叒叕警告：美债危机临近 囤点黄金和比特币吧",
@@ -121,8 +134,38 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时38分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "怎么看 DeepSeek 8 月 22 日再调整定价，周末全天统一按低谷价收费？",
+          "url": "https://www.zhihu.com/question/2074601403142649584",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时38分"
+        },
+        {
+          "title": "怎么看 OpenCode 找了很多供应商，都找不到 DeepSeek 涨价前原厂的价格？",
+          "url": "https://www.zhihu.com/question/2074077084964733784",
+          "source": "知乎",
+          "ranks": [
+            7,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时38分]"
         }
       ]
     },
@@ -135,11 +178,12 @@
           "url": "https://wallstreetcn.com/articles/3779986",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时38分]"
         },
         {
           "title": "美股收盘：三大指数周线齐跌 有色板块上演普涨浪潮",
@@ -149,26 +193,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时26分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "怎么看 OpenCode 找了很多供应商，都找不到 DeepSeek 涨价前原厂的价格？",
-          "url": "https://www.zhihu.com/question/2074077084964733784",
-          "source": "知乎",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时38分]"
         }
       ]
     },
@@ -184,8 +210,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时38分]"
         }
       ]
     }
