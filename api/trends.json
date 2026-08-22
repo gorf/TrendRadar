@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-23T04:29:06.096200+08:00",
-  "total_titles_processed": 420,
+  "generated_at": "2026-08-23T05:27:51.945243+08:00",
+  "total_titles_processed": 437,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "“这次对华让步，特朗普该羞得没脸见人”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 04时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时27分]"
         },
         {
           "title": "人均“十万加”，特朗普考虑出兵干预",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 04时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时27分]"
         },
         {
           "title": "梅洛尼谈特朗普：错付了",
@@ -37,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 04时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时27分]"
         },
         {
           "title": "特朗普：可出动美军干预债市",
@@ -49,19 +49,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 04时29分]"
-        },
-        {
-          "title": "特朗普减肥药“低价计划”遇冷：多数州医疗补助项目拒绝买单",
-          "url": "https://flash.jin10.com/detail/20260823041421837800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时29分"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时27分]"
         },
         {
           "title": "特朗普：未指示贝森特干预美国债市，经济增长将自行化解债务问题",
@@ -72,8 +61,31 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 04时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时27分]"
+        },
+        {
+          "title": "特朗普与加拿大的贸易战可能刺痛美国经济",
+          "url": "https://flash.jin10.com/detail/20260823044205401800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        },
+        {
+          "title": "特朗普减肥药“低价计划”遇冷：多数州医疗补助项目拒绝买单",
+          "url": "https://flash.jin10.com/detail/20260823041421837800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时29分 ~ 05时27分]"
         },
         {
           "title": "特朗普6月调整投资组合，抛售Meta等股票、买入伯克希尔·哈撒韦",
@@ -105,11 +117,12 @@
           "url": "https://flash.jin10.com/detail/20260823032509722800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时29分 ~ 05时27分]"
         },
         {
           "title": "分析师：特朗普的经济孤立计划可能招致伊朗在波斯湾各地发动打击",
@@ -121,6 +134,49 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "怎么看 DeepSeek 8 月 22 日再调整定价，周末全天统一按低谷价收费？",
+          "url": "https://www.zhihu.com/question/2074601403142649584",
+          "source": "知乎",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时38分 ~ 05时27分]"
+        },
+        {
+          "title": "怎么看 OpenCode 找了很多供应商，都找不到 DeepSeek 涨价前原厂的价格？",
+          "url": "https://www.zhihu.com/question/2074077084964733784",
+          "source": "知乎",
+          "ranks": [
+            7,
+            9,
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 03时27分]"
+        },
+        {
+          "title": "DeepSeek周末“打折”？API平台计费再调整 新规8月23日起执行",
+          "url": "https://www.cls.cn/detail/2461482",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
         }
       ]
     },
@@ -138,8 +194,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 04时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时27分]"
         },
         {
           "title": "30年美债收益率再次逼近5.3% 贝森特大举干市只管用两天？",
@@ -149,8 +205,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 04时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时27分]"
         },
         {
           "title": "达利欧又双叒叕警告：美债危机临近 囤点黄金和比特币吧",
@@ -160,40 +216,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 04时29分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "怎么看 DeepSeek 8 月 22 日再调整定价，周末全天统一按低谷价收费？",
-          "url": "https://www.zhihu.com/question/2074601403142649584",
-          "source": "知乎",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时38分 ~ 04时29分]"
-        },
-        {
-          "title": "怎么看 OpenCode 找了很多供应商，都找不到 DeepSeek 涨价前原厂的价格？",
-          "url": "https://www.zhihu.com/question/2074077084964733784",
-          "source": "知乎",
-          "ranks": [
-            7,
-            9,
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时27分]"
         }
       ]
     },
@@ -211,8 +235,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 04时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时27分]"
         },
         {
           "title": "美股收盘：三大指数周线齐跌 有色板块上演普涨浪潮",
@@ -222,8 +246,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 04时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时27分]"
         }
       ]
     },
@@ -239,8 +263,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 04时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时27分]"
         }
       ]
     }
