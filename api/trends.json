@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23T00:31:39.077064+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-08-23T01:26:25.050050+08:00",
+  "total_titles_processed": 349,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时26分]"
         },
         {
           "title": "人均“十万加”，特朗普考虑出兵干预",
@@ -26,19 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        },
-        {
-          "title": "特朗普：可出动美军干预债市",
-          "url": "https://www.cls.cn/detail/2461395",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时26分]"
         },
         {
           "title": "梅洛尼谈特朗普：错付了",
@@ -48,8 +37,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时26分]"
+        },
+        {
+          "title": "特朗普：可出动美军干预债市",
+          "url": "https://www.cls.cn/detail/2461395",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时26分]"
         },
         {
           "title": "特朗普：未指示贝森特干预美国债市，经济增长将自行化解债务问题",
@@ -59,8 +60,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时26分]"
         },
         {
           "title": "释疑｜一天只过几艘船，特朗普却说海峡畅通，哪个是霍尔木兹的“真相”？",
@@ -70,8 +71,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时26分]"
         },
         {
           "title": "分析师：特朗普的经济孤立计划可能招致伊朗在波斯湾各地发动打击",
@@ -98,8 +99,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时26分]"
         },
         {
           "title": "30年美债收益率再次逼近5.3% 贝森特大举干市只管用两天？",
@@ -109,8 +110,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时26分]"
         },
         {
           "title": "达利欧又双叒叕警告：美债危机临近 囤点黄金和比特币吧",
@@ -120,8 +121,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时26分]"
         }
       ]
     },
@@ -137,8 +138,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时26分]"
         },
         {
           "title": "美股收盘：三大指数周线齐跌 有色板块上演普涨浪潮",
@@ -148,8 +149,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时26分]"
         }
       ]
     },
@@ -162,11 +163,12 @@
           "url": "https://www.zhihu.com/question/2074077084964733784",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时26分]"
         }
       ]
     },
@@ -182,8 +184,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时26分]"
         }
       ]
     }
