@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-22T20:49:42.320995+08:00",
-  "total_titles_processed": 1594,
+  "generated_at": "2026-08-22T21:36:37.004547+08:00",
+  "total_titles_processed": 1650,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时28分 ~ 20时49分]"
+          "appearance_count": 14,
+          "time_info": "[09时28分 ~ 21时36分]"
         },
         {
           "title": "特朗普称打击伊朗贸易伙伴，美媒问如何制裁中国，美财长答非所问",
@@ -49,8 +49,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时28分 ~ 20时49分]"
+          "appearance_count": 14,
+          "time_info": "[09时28分 ~ 21时36分]"
         },
         {
           "title": "新闻蒸馏器｜特朗普“守门人”惹争议：了解机密却未办理安全许可，已工作一年",
@@ -84,11 +84,12 @@
             3,
             18,
             22,
-            2
+            2,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时28分 ~ 20时49分]"
+          "appearance_count": 5,
+          "time_info": "[09时28分 ~ 21时36分]"
         },
         {
           "title": "特朗普敲打韩国，李在明为何反而叫好？",
@@ -259,6 +260,19 @@
           "time_info": "[06时31分 ~ 07时29分]"
         },
         {
+          "title": "特朗普：可出动美军干预债市",
+          "url": "https://www.cls.cn/detail/2461395",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时29分 ~ 21时36分]"
+        },
+        {
           "title": "据Axios：美国国务院发言人就E1地区建设计划回应称，正如美国总统特朗普明确指出的，美国不支持以色列吞并西岸。西岸的稳定有助于以色列安全，也符合美国政府推动该地区实现和平的目标。",
           "url": "https://flash.jin10.com/detail/20260822022922508800",
           "source": "金十数据",
@@ -306,19 +320,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时59分 ~ 12时39分]"
-        },
-        {
-          "title": "特朗普：可出动美军干预债市",
-          "url": "https://www.cls.cn/detail/2461395",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时29分 ~ 20时49分]"
         },
         {
           "title": "美国总统特朗普：我们应该能够与加拿大达成协议。",
@@ -444,6 +445,17 @@
           "time_info": "[10时59分 ~ 11时50分]"
         },
         {
+          "title": "特朗普：未指示贝森特干预美国债市，经济增长将自行化解债务问题",
+          "url": "https://wallstreetcn.com/articles/3780037",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时49分 ~ 21时36分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗没钱，没有海军，没有空军，不给士兵发工资，不给警察发工资，通货膨胀率高达350%。",
           "url": "https://flash.jin10.com/detail/20260822051732491800",
           "source": "金十数据",
@@ -479,6 +491,18 @@
           "time_info": "[02时43分 ~ 03时30分]"
         },
         {
+          "title": "巴勒斯坦副总统：哈马斯不会以其名义参加选举，并且不会成为政府的一部分，这就是它在美国总统特朗普计划中签署的内容。",
+          "url": "https://flash.jin10.com/detail/20260822192220953800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时49分 ~ 21时36分]"
+        },
+        {
           "title": "美媒称美军考虑将一在建航母改以特朗普命名",
           "url": "https://m.thepaper.cn/newsDetail_forward_33824405",
           "source": "澎湃新闻",
@@ -501,6 +525,18 @@
           "time_info": "[06时31分 ~ 07时29分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-22）",
+          "url": "https://flash.jin10.com/detail/20260822185310302800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时49分 ~ 21时36分]"
+        },
+        {
           "title": "美军考虑以特朗普命名在建航母",
           "url": "https://www.toutiao.com/trending/7676318015873286683/",
           "source": "今日头条",
@@ -510,28 +546,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时38分 ~ 12时39分]"
-        },
-        {
-          "title": "特朗普：未指示贝森特干预美国债市，经济增长将自行化解债务问题",
-          "url": "https://wallstreetcn.com/articles/3780037",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时49分"
-        },
-        {
-          "title": "巴勒斯坦副总统：哈马斯不会以其名义参加选举，并且不会成为政府的一部分，这就是它在美国总统特朗普计划中签署的内容。",
-          "url": "https://flash.jin10.com/detail/20260822192220953800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时49分"
         },
         {
           "title": "特朗普盯上格陵兰稀土，美企矿山项目冲刺投产",
@@ -589,17 +603,6 @@
           "time_info": "09时28分"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-22）",
-          "url": "https://flash.jin10.com/detail/20260822185310302800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时49分"
-        },
-        {
           "title": "王冰汝：特朗普与科恩世纪和解",
           "url": "https://www.toutiao.com/trending/7676655309384846902/",
           "source": "今日头条",
@@ -647,7 +650,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "贝森特干预影响消退，美债美股齐跌，沃尔玛暴跌9%，黄金突破200日均线，数字货币再猛涨",
@@ -684,8 +687,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时59分 ~ 20时49分]"
+          "appearance_count": 13,
+          "time_info": "[10时59分 ~ 21时36分]"
         },
         {
           "title": "30年美债收益率再次逼近5.3% 贝森特大举干市只管用两天？",
@@ -699,8 +702,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时59分 ~ 20时49分]"
+          "appearance_count": 13,
+          "time_info": "[10时59分 ~ 21时36分]"
         },
         {
           "title": "贝森特扩大美债回购是做“玩火”！布鲁金斯学会：美国或重演日本式货币贬值",
@@ -714,8 +717,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时38分 ~ 20时49分]"
+          "appearance_count": 11,
+          "time_info": "[12时38分 ~ 21时36分]"
         },
         {
           "title": "贝森特回购难消市场疑虑，30年期美债升至5.26%，美股高开，区块链概念股普涨，金油齐涨",
@@ -745,20 +748,6 @@
           "time_info": "[07时29分 ~ 19时26分]"
         },
         {
-          "title": "达利欧又双叒叕警告：美债危机临近 囤点黄金和比特币吧",
-          "url": "https://www.cls.cn/detail/2461262",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时29分 ~ 20时49分]"
-        },
-        {
           "title": "美股期指反弹 美债收益率仍居高位 比特币走强逼近8万美元 | 今夜看点",
           "url": "https://www.cls.cn/detail/2461060",
           "source": "财联社热门",
@@ -773,6 +762,21 @@
           "is_new": false,
           "appearance_count": 23,
           "time_info": "[00时40分 ~ 19时26分]"
+        },
+        {
+          "title": "达利欧又双叒叕警告：美债危机临近 囤点黄金和比特币吧",
+          "url": "https://www.cls.cn/detail/2461262",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7,
+            9,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[07时29分 ~ 21时36分]"
         },
         {
           "title": "18年翻了4倍！不到一代人的时间，美国40万亿美债是如何炼成的？",
@@ -797,6 +801,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时31分 ~ 06时31分]"
+        },
+        {
+          "title": "美债抛售撞上高利率，黄金到底要攻还是守？",
+          "url": "https://flash.jin10.com/detail/20260822210503393800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "美国CFTC：资产管理公司在贝森特意外回购宣布前增持美债敞口",
@@ -841,7 +856,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时49分"
         },
@@ -855,6 +870,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
+        },
+        {
+          "title": "40万亿美债泡沫若崩盘对中国影响如何",
+          "url": "https://s.weibo.com/weibo?q=40%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%80%BA%E6%B3%A1%E6%B2%AB%E8%8B%A5%E5%B4%A9%E7%9B%98%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%BD%B1%E5%93%8D%E5%A6%82%E4%BD%95&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         }
       ]
     },
@@ -871,8 +897,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时29分 ~ 20时49分]"
+          "appearance_count": 15,
+          "time_info": "[07时29分 ~ 21时36分]"
         },
         {
           "title": "美股收盘：三大指数周线齐跌 有色板块上演普涨浪潮",
@@ -884,8 +910,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时29分 ~ 20时49分]"
+          "appearance_count": 15,
+          "time_info": "[07时29分 ~ 21时36分]"
         },
         {
           "title": "美股止跌反弹，道指涨近1%，区块链概念股普涨，金油齐涨",
@@ -1041,8 +1067,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时29分 ~ 20时49分]"
+          "appearance_count": 4,
+          "time_info": "[18时29分 ~ 21时36分]"
         },
         {
           "title": "OpenAI：未来三个月将把GPT-5.6Sol API及积分价格下调超过20%",
@@ -1333,11 +1359,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时26分 ~ 20时49分]"
+          "appearance_count": 3,
+          "time_info": "[19时26分 ~ 21时36分]"
         }
       ]
     },
