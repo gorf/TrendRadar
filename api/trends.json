@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-22T18:29:41.633399+08:00",
-  "total_titles_processed": 1443,
+  "generated_at": "2026-08-22T19:26:18.356475+08:00",
+  "total_titles_processed": 1480,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 51,
       "titles": [
+        {
+          "title": "特朗普，打光了弹药？",
+          "url": "https://news.ifeng.com/c/8vmO4NLET3C",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[09时28分 ~ 19时26分]"
+        },
         {
           "title": "特朗普称打击伊朗贸易伙伴，美媒问如何制裁中国，美财长答非所问",
           "url": "https://v.ifeng.com/c/8vlFqYJqoVW",
@@ -17,17 +28,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时40分 ~ 07时29分]"
-        },
-        {
-          "title": "特朗普，打光了弹药？",
-          "url": "https://news.ifeng.com/c/8vmO4NLET3C",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时28分 ~ 18时29分]"
         },
         {
           "title": "伊朗谋划反攻，精准打击特朗普“软肋”",
@@ -49,8 +49,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时28分 ~ 18时29分]"
+          "appearance_count": 12,
+          "time_info": "[09时28分 ~ 19时26分]"
         },
         {
           "title": "新闻蒸馏器｜特朗普“守门人”惹争议：了解机密却未办理安全许可，已工作一年",
@@ -393,6 +393,19 @@
           "time_info": "[05时31分 ~ 07时29分]"
         },
         {
+          "title": "特朗普：如果需要将出动美军干预债市",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%A6%82%E6%9E%9C%E9%9C%80%E8%A6%81%E5%B0%86%E5%87%BA%E5%8A%A8%E7%BE%8E%E5%86%9B%E5%B9%B2%E9%A2%84%E5%80%BA%E5%B8%82",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 19时26分]"
+        },
+        {
           "title": "美国最高法院暂缓停工令，特朗普可继续建宴会厅",
           "url": "https://flash.jin10.com/detail/20260822022746707800",
           "source": "金十数据",
@@ -426,6 +439,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时31分 ~ 07时29分]"
+        },
+        {
+          "title": "特朗普：可出动美军干预债市",
+          "url": "https://www.cls.cn/detail/2461395",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 19时26分]"
         },
         {
           "title": "特朗普力挺AI数据中心 称将创造大量就业和税收",
@@ -474,18 +499,6 @@
           "time_info": "[06时31分 ~ 07时29分]"
         },
         {
-          "title": "特朗普：如果需要将出动美军干预债市",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%A6%82%E6%9E%9C%E9%9C%80%E8%A6%81%E5%B0%86%E5%87%BA%E5%8A%A8%E7%BE%8E%E5%86%9B%E5%B9%B2%E9%A2%84%E5%80%BA%E5%B8%82",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 18时29分]"
-        },
-        {
           "title": "美军考虑以特朗普命名在建航母",
           "url": "https://www.toutiao.com/trending/7676318015873286683/",
           "source": "今日头条",
@@ -495,17 +508,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时38分 ~ 12时39分]"
-        },
-        {
-          "title": "特朗普：可出动美军干预债市",
-          "url": "https://www.cls.cn/detail/2461395",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时29分"
         },
         {
           "title": "特朗普盯上格陵兰稀土，美企矿山项目冲刺投产",
@@ -610,7 +612,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "贝森特干预影响消退，美债美股齐跌，沃尔玛暴跌9%，黄金突破200日均线，数字货币再猛涨",
@@ -646,8 +648,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时59分 ~ 18时29分]"
+          "appearance_count": 11,
+          "time_info": "[10时59分 ~ 19时26分]"
         },
         {
           "title": "30年美债收益率再次逼近5.3% 贝森特大举干市只管用两天？",
@@ -661,8 +663,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时59分 ~ 18时29分]"
+          "appearance_count": 11,
+          "time_info": "[10时59分 ~ 19时26分]"
         },
         {
           "title": "贝森特回购难消市场疑虑，30年期美债升至5.26%，美股高开，区块链概念股普涨，金油齐涨",
@@ -684,11 +686,12 @@
             10,
             8,
             7,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时29分 ~ 18时29分]"
+          "appearance_count": 13,
+          "time_info": "[07时29分 ~ 19时26分]"
         },
         {
           "title": "达利欧又双叒叕警告：美债危机临近 囤点黄金和比特币吧",
@@ -701,8 +704,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时29分 ~ 18时29分]"
+          "appearance_count": 13,
+          "time_info": "[07时29分 ~ 19时26分]"
         },
         {
           "title": "美股期指反弹 美债收益率仍居高位 比特币走强逼近8万美元 | 今夜看点",
@@ -717,8 +720,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时40分 ~ 18时29分]"
+          "appearance_count": 23,
+          "time_info": "[00时40分 ~ 19时26分]"
         },
         {
           "title": "贝森特扩大美债回购是做“玩火”！布鲁金斯学会：美国或重演日本式货币贬值",
@@ -731,8 +734,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时38分 ~ 18时29分]"
+          "appearance_count": 9,
+          "time_info": "[12时38分 ~ 19时26分]"
         },
         {
           "title": "18年翻了4倍！不到一代人的时间，美国40万亿美债是如何炼成的？",
@@ -793,6 +796,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时59分 ~ 11时50分]"
+        },
+        {
+          "title": "美政府如何应对40万亿美元美债",
+          "url": "https://www.toutiao.com/trending/7676791158093123113/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
         }
       ]
     },
@@ -809,8 +823,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时29分 ~ 18时29分]"
+          "appearance_count": 13,
+          "time_info": "[07时29分 ~ 19时26分]"
         },
         {
           "title": "美股收盘：三大指数周线齐跌 有色板块上演普涨浪潮",
@@ -822,8 +836,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时29分 ~ 18时29分]"
+          "appearance_count": 13,
+          "time_info": "[07时29分 ~ 19时26分]"
         },
         {
           "title": "美股止跌反弹，道指涨近1%，区块链概念股普涨，金油齐涨",
@@ -986,11 +1000,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33825848",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 19时26分]"
         },
         {
           "title": "OpenAI：GPT-5.6 Sol已上线API，并将向符合条件的ChatGPT Work和Codex积分计划开放，Pro、Plus及Business订阅使用不受影响。",
@@ -1208,7 +1223,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "怎么评价 DeepSeek-V4-Flash-Vision-Exp 发布，多模态能力表现如何？",
@@ -1255,11 +1270,23 @@
           "source": "知乎",
           "ranks": [
             18,
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 18时29分]"
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 19时26分]"
+        },
+        {
+          "title": "怎么看 OpenCode 找了很多供应商，都找不到 DeepSeek 涨价前原厂的价格？",
+          "url": "https://www.zhihu.com/question/2074077084964733784",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
         }
       ]
     },
@@ -1272,22 +1299,24 @@
           "url": "https://flash.jin10.com/detail/20260822173638801800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 19时26分]"
         },
         {
           "title": "牧原股份与华为签署战略合作协议",
           "url": "https://wallstreetcn.com/livenews/3153364",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 19时26分]"
         }
       ]
     },
