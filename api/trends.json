@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-22T11:50:46.346341+08:00",
-  "total_titles_processed": 928,
+  "generated_at": "2026-08-22T12:39:14.293927+08:00",
+  "total_titles_processed": 1026,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 47,
       "titles": [
         {
           "title": "特朗普称打击伊朗贸易伙伴，美媒问如何制裁中国，美财长答非所问",
@@ -40,8 +40,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时43分 ~ 11时50分]"
+          "appearance_count": 14,
+          "time_info": "[02时43分 ~ 12时39分]"
         },
         {
           "title": "特朗普，打光了弹药？",
@@ -51,8 +51,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时28分 ~ 11时50分]"
+          "appearance_count": 5,
+          "time_info": "[09时28分 ~ 12时39分]"
         },
         {
           "title": "特朗普称对伊转向“经济战”不意味着美军事选项受限",
@@ -99,17 +99,6 @@
           "time_info": "07时29分"
         },
         {
-          "title": "特朗普吐槽伊朗：总统都没人愿意当 我到底该找谁谈？",
-          "url": "https://flash.jin10.com/detail/20260822112456871800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时50分"
-        },
-        {
           "title": "据巴西政府声明：巴西总统卢拉与美国总统特朗普于当地时间周五进行了电话会谈。",
           "url": "https://flash.jin10.com/detail/20260822000809584800",
           "source": "金十数据",
@@ -119,6 +108,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时40分"
+        },
+        {
+          "title": "顶不住了？特朗普宣布暂时豁免碎牛肉进口关税",
+          "url": "https://news.ifeng.com/c/8vmz8HPxLdH",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时28分 ~ 12时39分]"
         },
         {
           "title": "特朗普谈伊朗：我们正在观察事态发展。 他们（伊朗）没有钱。 他们没有海军。他们没有空军。 他们没有支付士兵薪水。他们没有支付警察薪水。 他们有350%的通货膨胀。",
@@ -132,6 +132,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时31分 ~ 07时29分]"
+        },
+        {
+          "title": "特朗普：美国40年没有新建汽车工厂 最喜欢的词是关税",
+          "url": "https://flash.jin10.com/detail/20260822103023428800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时59分 ~ 12时39分]"
         },
         {
           "title": "VIP・9折看懂特朗普信号！",
@@ -184,16 +197,16 @@
           "time_info": "[06时31分 ~ 07时29分]"
         },
         {
-          "title": "特朗普：美国40年没有新建汽车工厂 最喜欢的词是关税",
-          "url": "https://flash.jin10.com/detail/20260822103023428800",
+          "title": "特朗普吐槽伊朗：总统都没人愿意当 我到底该找谁谈？",
+          "url": "https://flash.jin10.com/detail/20260822112456871800",
           "source": "金十数据",
           "ranks": [
-            4,
-            8
+            3,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时50分]"
+          "time_info": "[11时50分 ~ 12时39分]"
         },
         {
           "title": "有理儿有面：特朗普经济诺曼底搁浅了",
@@ -244,17 +257,6 @@
           "time_info": "[05时31分 ~ 07时29分]"
         },
         {
-          "title": "顶不住了？特朗普宣布暂时豁免碎牛肉进口关税",
-          "url": "https://news.ifeng.com/c/8vmz8HPxLdH",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时28分 ~ 11时50分]"
-        },
-        {
           "title": "美国总统特朗普：（关于伊朗）我们完全控制了整个地区。",
           "url": "https://flash.jin10.com/detail/20260822045853060800",
           "source": "金十数据",
@@ -265,6 +267,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时31分 ~ 07时29分]"
+        },
+        {
+          "title": "美国总统特朗普：我们永远不会让美国人落后，因为我们是美国优先。",
+          "url": "https://flash.jin10.com/detail/20260822101749124800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时59分 ~ 12时39分]"
         },
         {
           "title": "美国总统特朗普：我们应该能够与加拿大达成协议。",
@@ -302,6 +317,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时31分 ~ 07时29分]"
+        },
+        {
+          "title": "美法官推翻特朗普政府暂停向75国发放移民签证的政策",
+          "url": "https://wallstreetcn.com/livenews/3153298",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时59分 ~ 12时39分]"
         },
         {
           "title": "美国总统特朗普：（关于伊朗）他们很想达成协议，但还没有准备好达成正确的协议。",
@@ -352,18 +380,6 @@
           "time_info": "[02时43分 ~ 03时30分]"
         },
         {
-          "title": "美国总统特朗普：我们永远不会让美国人落后，因为我们是美国优先。",
-          "url": "https://flash.jin10.com/detail/20260822101749124800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时50分]"
-        },
-        {
           "title": "美法官推翻特朗普政府暂停向75国发放移民签证的政策",
           "url": "https://flash.jin10.com/detail/20260822100948753800",
           "source": "金十数据",
@@ -399,18 +415,6 @@
           "time_info": "[02时43分 ~ 03时30分]"
         },
         {
-          "title": "美法官推翻特朗普政府暂停向75国发放移民签证的政策",
-          "url": "https://wallstreetcn.com/livenews/3153298",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时50分]"
-        },
-        {
           "title": "美国最高法院允许特朗普政府暂时继续在白宫建设舞厅。",
           "url": "https://flash.jin10.com/detail/20260822020641246800",
           "source": "金十数据",
@@ -432,6 +436,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时31分 ~ 07时29分]"
+        },
+        {
+          "title": "特朗普敲打韩国却被李在明反将一军",
+          "url": "https://www.toutiao.com/trending/7676039913854418950/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时38分 ~ 12时39分]"
+        },
+        {
+          "title": "美军考虑以特朗普命名在建航母",
+          "url": "https://www.toutiao.com/trending/7676318015873286683/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时38分 ~ 12时39分]"
         },
         {
           "title": "特朗普盯上格陵兰稀土，美企矿山项目冲刺投产",
@@ -536,7 +562,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "贝森特干预影响消退，美债美股齐跌，沃尔玛暴跌9%，黄金突破200日均线，数字货币再猛涨",
@@ -585,8 +611,34 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时40分 ~ 11时50分]"
+          "appearance_count": 16,
+          "time_info": "[00时40分 ~ 12时39分]"
+        },
+        {
+          "title": "美银Hartnett：贝森特正通过“变相QE”，守住5%的30年期美债收益率“马奇诺防线\"",
+          "url": "https://wallstreetcn.com/articles/3780012",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时29分 ~ 12时39分]"
+        },
+        {
+          "title": "达利欧又双叒叕警告：美债危机临近 囤点黄金和比特币吧",
+          "url": "https://www.cls.cn/detail/2461262",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时29分 ~ 12时39分]"
         },
         {
           "title": "美债回购叠加政策利好 比特币本周飙升近25% 重返8万美元附近",
@@ -601,29 +653,17 @@
           "time_info": "[04时31分 ~ 06时31分]"
         },
         {
-          "title": "美银Hartnett：贝森特正通过“变相QE”，守住5%的30年期美债收益率“马奇诺防线\"",
-          "url": "https://wallstreetcn.com/articles/3780012",
+          "title": "贝森特没救成美债却点燃“美元贬值交易”！黄金创三个月新高，比特币单周暴涨超25%",
+          "url": "https://wallstreetcn.com/articles/3780041",
           "source": "华尔街见闻",
           "ranks": [
-            10,
+            9,
             8,
-            7
+            5
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[07时29分 ~ 11时50分]"
-        },
-        {
-          "title": "达利欧又双叒叕警告：美债危机临近 囤点黄金和比特币吧",
-          "url": "https://www.cls.cn/detail/2461262",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时29分 ~ 11时50分]"
+          "time_info": "[10时59分 ~ 12时39分]"
         },
         {
           "title": "18年翻了4倍！不到一代人的时间，美国40万亿美债是如何炼成的？",
@@ -634,8 +674,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时28分 ~ 11时50分]"
+          "appearance_count": 5,
+          "time_info": "[09时28分 ~ 12时39分]"
+        },
+        {
+          "title": "30年美债收益率再次逼近5.3% 贝森特大举干市只管用两天？",
+          "url": "https://www.cls.cn/detail/2461311",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时59分 ~ 12时39分]"
         },
         {
           "title": "美国CFTC：资产管理公司在贝森特意外回购宣布前增持美债敞口",
@@ -662,28 +714,15 @@
           "time_info": "[06时31分 ~ 07时29分]"
         },
         {
-          "title": "贝森特没救成美债却点燃“美元贬值交易”！黄金创三个月新高，比特币单周暴涨超25%",
-          "url": "https://wallstreetcn.com/articles/3780041",
+          "title": "贝森特扩大美债回购是做“玩火”！布鲁金斯学会：美国或重演日本式货币贬值",
+          "url": "https://wallstreetcn.com/articles/3780021",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时50分]"
-        },
-        {
-          "title": "30年美债收益率再次逼近5.3% 贝森特大举干市只管用两天？",
-          "url": "https://www.cls.cn/detail/2461311",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时50分]"
+          "time_info": "[12时38分 ~ 12时39分]"
         },
         {
           "title": "一周热榜精选：回购计划救不了美债？经济绞杀将成美伊新战场",
@@ -712,8 +751,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时29分 ~ 11时50分]"
+          "appearance_count": 6,
+          "time_info": "[07时29分 ~ 12时39分]"
+        },
+        {
+          "title": "美股收盘：三大指数周线齐跌 有色板块上演普涨浪潮",
+          "url": "https://www.cls.cn/detail/2461289",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时29分 ~ 12时39分]"
         },
         {
           "title": "美股止跌反弹，道指涨近1%，区块链概念股普涨，金油齐涨",
@@ -725,18 +776,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时30分 ~ 06时31分]"
-        },
-        {
-          "title": "美股收盘：三大指数周线齐跌 有色板块上演普涨浪潮",
-          "url": "https://www.cls.cn/detail/2461289",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时29分 ~ 11时50分]"
         },
         {
           "title": "美股大类资产类ETF多数收涨，黄金ETF涨超1.9%领跑",
@@ -849,7 +888,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
         }
@@ -1124,8 +1163,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时28分 ~ 11时50分]"
+          "appearance_count": 5,
+          "time_info": "[09时28分 ~ 12时39分]"
         }
       ]
     },
