@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-22T17:32:21.202108+08:00",
-  "total_titles_processed": 1380,
+  "generated_at": "2026-08-22T18:29:41.633399+08:00",
+  "total_titles_processed": 1443,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 51,
       "titles": [
         {
           "title": "特朗普称打击伊朗贸易伙伴，美媒问如何制裁中国，美财长答非所问",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时28分 ~ 17时32分]"
+          "appearance_count": 11,
+          "time_info": "[09时28分 ~ 18时29分]"
         },
         {
           "title": "伊朗谋划反攻，精准打击特朗普“软肋”",
@@ -49,8 +49,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时28分 ~ 17时32分]"
+          "appearance_count": 11,
+          "time_info": "[09时28分 ~ 18时29分]"
         },
         {
           "title": "新闻蒸馏器｜特朗普“守门人”惹争议：了解机密却未办理安全许可，已工作一年",
@@ -474,6 +474,18 @@
           "time_info": "[06时31分 ~ 07时29分]"
         },
         {
+          "title": "特朗普：如果需要将出动美军干预债市",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%A6%82%E6%9E%9C%E9%9C%80%E8%A6%81%E5%B0%86%E5%87%BA%E5%8A%A8%E7%BE%8E%E5%86%9B%E5%B9%B2%E9%A2%84%E5%80%BA%E5%B8%82",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时32分 ~ 18时29分]"
+        },
+        {
           "title": "美军考虑以特朗普命名在建航母",
           "url": "https://www.toutiao.com/trending/7676318015873286683/",
           "source": "今日头条",
@@ -483,6 +495,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时38分 ~ 12时39分]"
+        },
+        {
+          "title": "特朗普：可出动美军干预债市",
+          "url": "https://www.cls.cn/detail/2461395",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "特朗普盯上格陵兰稀土，美企矿山项目冲刺投产",
@@ -538,17 +561,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
-        },
-        {
-          "title": "特朗普：如果需要将出动美军干预债市",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%A6%82%E6%9E%9C%E9%9C%80%E8%A6%81%E5%B0%86%E5%87%BA%E5%8A%A8%E7%BE%8E%E5%86%9B%E5%B9%B2%E9%A2%84%E5%80%BA%E5%B8%82",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时32分"
         },
         {
           "title": "王冰汝：特朗普与科恩世纪和解",
@@ -634,8 +646,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时59分 ~ 17时32分]"
+          "appearance_count": 10,
+          "time_info": "[10时59分 ~ 18时29分]"
         },
         {
           "title": "30年美债收益率再次逼近5.3% 贝森特大举干市只管用两天？",
@@ -649,8 +661,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时59分 ~ 17时32分]"
+          "appearance_count": 10,
+          "time_info": "[10时59分 ~ 18时29分]"
         },
         {
           "title": "贝森特回购难消市场疑虑，30年期美债升至5.26%，美股高开，区块链概念股普涨，金油齐涨",
@@ -675,23 +687,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时29分 ~ 17时32分]"
-        },
-        {
-          "title": "美股期指反弹 美债收益率仍居高位 比特币走强逼近8万美元 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2461060",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            9,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时40分 ~ 17时32分]"
+          "appearance_count": 12,
+          "time_info": "[07时29分 ~ 18时29分]"
         },
         {
           "title": "达利欧又双叒叕警告：美债危机临近 囤点黄金和比特币吧",
@@ -704,20 +701,24 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时29分 ~ 17时32分]"
+          "appearance_count": 12,
+          "time_info": "[07时29分 ~ 18时29分]"
         },
         {
-          "title": "18年翻了4倍！不到一代人的时间，美国40万亿美债是如何炼成的？",
-          "url": "https://wallstreetcn.com/articles/3779987",
-          "source": "华尔街见闻",
+          "title": "美股期指反弹 美债收益率仍居高位 比特币走强逼近8万美元 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2461060",
+          "source": "财联社热门",
           "ranks": [
+            7,
+            6,
             9,
-            8
+            10,
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时28分 ~ 15时36分]"
+          "appearance_count": 22,
+          "time_info": "[00时40分 ~ 18时29分]"
         },
         {
           "title": "贝森特扩大美债回购是做“玩火”！布鲁金斯学会：美国或重演日本式货币贬值",
@@ -730,8 +731,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时38分 ~ 17时32分]"
+          "appearance_count": 8,
+          "time_info": "[12时38分 ~ 18时29分]"
+        },
+        {
+          "title": "18年翻了4倍！不到一代人的时间，美国40万亿美债是如何炼成的？",
+          "url": "https://wallstreetcn.com/articles/3779987",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时28分 ~ 15时36分]"
         },
         {
           "title": "美债回购叠加政策利好 比特币本周飙升近25% 重返8万美元附近",
@@ -796,8 +809,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时29分 ~ 17时32分]"
+          "appearance_count": 12,
+          "time_info": "[07时29分 ~ 18时29分]"
         },
         {
           "title": "美股收盘：三大指数周线齐跌 有色板块上演普涨浪潮",
@@ -809,8 +822,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时29分 ~ 17时32分]"
+          "appearance_count": 12,
+          "time_info": "[07时29分 ~ 18时29分]"
         },
         {
           "title": "美股止跌反弹，道指涨近1%，区块链概念股普涨，金油齐涨",
@@ -941,6 +954,91 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "大手笔！OpenAI全面开源Codex Harness",
+          "url": "https://wallstreetcn.com/articles/3779961",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 09时28分]"
+        },
+        {
+          "title": "OpenAI：未来三个月将把GPT-5.6Sol API及积分价格下调超过20%",
+          "url": "https://wallstreetcn.com/livenews/3153197",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时32分 ~ 05时31分]"
+        },
+        {
+          "title": "观察丨具身智能还在等待“ChatGPT时刻”，产业链与生态成竞争关键",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33825848",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
+          "title": "OpenAI：GPT-5.6 Sol已上线API，并将向符合条件的ChatGPT Work和Codex积分计划开放，Pro、Plus及Business订阅使用不受影响。",
+          "url": "https://flash.jin10.com/detail/20260822034409844800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时32分"
+        },
+        {
+          "title": "OpenAI：未来三个月将把GPT-5.6Sol API及积分价格下调超过20%。",
+          "url": "https://flash.jin10.com/detail/20260822033944152800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时32分"
+        },
+        {
+          "title": "OpenAI关键销售高管凯琳·沃斯辞职。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3153190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时32分"
+        },
+        {
+          "title": "据The Information：OpenAI关键销售高管凯琳·沃斯辞职。",
+          "url": "https://flash.jin10.com/detail/20260822032233474800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 7,
       "titles": [
@@ -969,8 +1067,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时49分 ~ 17时32分]"
+          "appearance_count": 5,
+          "time_info": "[14时49分 ~ 18时29分]"
         },
         {
           "title": "国际金价涨约2%，与白银突破200日均线",
@@ -1109,80 +1207,6 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "大手笔！OpenAI全面开源Codex Harness",
-          "url": "https://wallstreetcn.com/articles/3779961",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 09时28分]"
-        },
-        {
-          "title": "OpenAI：未来三个月将把GPT-5.6Sol API及积分价格下调超过20%",
-          "url": "https://wallstreetcn.com/livenews/3153197",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时32分 ~ 05时31分]"
-        },
-        {
-          "title": "OpenAI：GPT-5.6 Sol已上线API，并将向符合条件的ChatGPT Work和Codex积分计划开放，Pro、Plus及Business订阅使用不受影响。",
-          "url": "https://flash.jin10.com/detail/20260822034409844800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时32分"
-        },
-        {
-          "title": "OpenAI：未来三个月将把GPT-5.6Sol API及积分价格下调超过20%。",
-          "url": "https://flash.jin10.com/detail/20260822033944152800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时32分"
-        },
-        {
-          "title": "OpenAI关键销售高管凯琳·沃斯辞职。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3153190",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时32分"
-        },
-        {
-          "title": "据The Information：OpenAI关键销售高管凯琳·沃斯辞职。",
-          "url": "https://flash.jin10.com/detail/20260822032233474800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时32分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 4,
       "titles": [
@@ -1230,11 +1254,40 @@
           "url": "https://www.zhihu.com/question/2074187767911925314",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时32分 ~ 18时29分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "招商银行 万华化学 福耀玻璃 旗滨集团 苏农银行 奥浦迈 爱美客 美的集团 潍柴动力 苏泊尔 鱼跃医疗 牧原股份 振邦智能 华兰生物 证监会",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "牧原股份与华为签署战略合作协议",
+          "url": "https://flash.jin10.com/detail/20260822173638801800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时32分"
+          "time_info": "18时29分"
+        },
+        {
+          "title": "牧原股份与华为签署战略合作协议",
+          "url": "https://wallstreetcn.com/livenews/3153364",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         }
       ]
     },
