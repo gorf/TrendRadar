@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-23T18:29:46.836899+08:00",
-  "total_titles_processed": 1106,
+  "generated_at": "2026-08-23T19:25:43.910821+08:00",
+  "total_titles_processed": 1166,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "“这次对华让步，特朗普该羞得没脸见人”",
@@ -31,8 +31,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时31分 ~ 18时29分]"
+          "appearance_count": 20,
+          "time_info": "[00时31分 ~ 19时25分]"
+        },
+        {
+          "title": "特朗普的“大麻烦”：40万亿美元债务，6.5%按揭利率与5美元柴油价格",
+          "url": "https://wallstreetcn.com/articles/3780067",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时42分 ~ 19时25分]"
         },
         {
           "title": "梅洛尼谈特朗普：错付了",
@@ -47,6 +60,22 @@
           "time_info": "[00时31分 ~ 13时34分]"
         },
         {
+          "title": "特朗普披露6月投资组合“大换血”：减持Meta 买入伯克希尔等股票",
+          "url": "https://www.cls.cn/detail/2461516",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时42分 ~ 19时25分]"
+        },
+        {
           "title": "特朗普：可出动美军干预债市",
           "url": "https://www.cls.cn/detail/2461395",
           "source": "财联社热门",
@@ -57,36 +86,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时31分 ~ 18时29分]"
-        },
-        {
-          "title": "特朗普的“大麻烦”：40万亿美元债务，6.5%按揭利率与5美元柴油价格",
-          "url": "https://wallstreetcn.com/articles/3780067",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时42分 ~ 18时29分]"
-        },
-        {
-          "title": "特朗普披露6月投资组合“大换血”：减持Meta 买入伯克希尔等股票",
-          "url": "https://www.cls.cn/detail/2461516",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时42分 ~ 18时29分]"
+          "appearance_count": 20,
+          "time_info": "[00时31分 ~ 19时25分]"
         },
         {
           "title": "披露文件显示特朗普6月进行了逾1000笔证券交易",
@@ -98,11 +99,12 @@
             7,
             9,
             10,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时34分 ~ 18时29分]"
+          "appearance_count": 7,
+          "time_info": "[13时34分 ~ 19时25分]"
         },
         {
           "title": "特朗普：未指示贝森特干预美国债市，经济增长将自行化解债务问题",
@@ -115,6 +117,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时31分 ~ 05时27分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-23）",
+          "url": "https://flash.jin10.com/detail/20260823184420774800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
         },
         {
           "title": "特朗普减肥药“低价计划”遇冷：多数州医疗补助项目拒绝买单",
@@ -208,6 +221,19 @@
           "time_info": "[02时38分 ~ 04时29分]"
         },
         {
+          "title": "UP主锐评特朗普海军新政",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E7%89%B9%E6%9C%97%E6%99%AE%E6%B5%B7%E5%86%9B%E6%96%B0%E6%94%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时37分 ~ 19时25分]"
+        },
+        {
           "title": "释疑｜一天只过几艘船，特朗普却说海峡畅通，哪个是霍尔木兹的“真相”？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33825790",
           "source": "澎湃新闻",
@@ -231,18 +257,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时42分 ~ 14时50分]"
-        },
-        {
-          "title": "UP主锐评特朗普海军新政",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E7%89%B9%E6%9C%97%E6%99%AE%E6%B5%B7%E5%86%9B%E6%96%B0%E6%94%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时37分 ~ 18时29分]"
         },
         {
           "title": "伊朗安全高官员：特朗普的鲁莽行为促使各国渴望拥有核武器",
@@ -451,8 +465,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[05时27分 ~ 18时29分]"
+          "appearance_count": 11,
+          "time_info": "[05时27分 ~ 19时25分]"
         },
         {
           "title": "如何看待最近的两个 harness 开源，deepseek 和 openai 都开源了各自的 harness？",
@@ -556,8 +570,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时33分 ~ 18时29分]"
+          "appearance_count": 3,
+          "time_info": "[17时33分 ~ 19时25分]"
         },
         {
           "title": "矿业大佬喊出金价5万美元",
@@ -568,8 +582,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时33分 ~ 18时29分]"
+          "appearance_count": 3,
+          "time_info": "[17时33分 ~ 19时25分]"
         }
       ]
     },
