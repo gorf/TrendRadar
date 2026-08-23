@@ -1,720 +1,94 @@
 {
-  "generated_at": "2026-08-23T23:28:27.198355+08:00",
-  "total_titles_processed": 1465,
+  "generated_at": "2026-08-24T00:32:57.110347+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 5,
       "titles": [
         {
-          "title": "“这次对华让步，特朗普该羞得没脸见人”",
-          "url": "https://news.ifeng.com/c/8vnQpWNT85e",
-          "source": "凤凰网",
+          "title": "特朗普披露6月投资组合“大换血”：减持Meta 买入伯克希尔等股票",
+          "url": "https://www.cls.cn/detail/2461516",
+          "source": "财联社热门",
           "ranks": [
-            1,
-            2,
-            3,
-            4
+            2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 16时37分]"
-        },
-        {
-          "title": "人均“十万加”，特朗普考虑出兵干预",
-          "url": "https://news.ifeng.com/c/8vnnjMt8Nty",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时31分 ~ 21时37分]"
+          "appearance_count": 1,
+          "time_info": "00时32分"
         },
         {
           "title": "特朗普的“大麻烦”：40万亿美元债务，6.5%按揭利率与5美元柴油价格",
           "url": "https://wallstreetcn.com/articles/3780067",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            5,
-            4
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时42分 ~ 23时28分]"
-        },
-        {
-          "title": "特朗普披露6月投资组合“大换血”：减持Meta 买入伯克希尔等股票",
-          "url": "https://www.cls.cn/detail/2461516",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            6,
-            5,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时42分 ~ 23时28分]"
-        },
-        {
-          "title": "梅洛尼谈特朗普：错付了",
-          "url": "https://news.ifeng.com/c/8vntoGTfOZC",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 13时34分]"
+          "appearance_count": 1,
+          "time_info": "00时32分"
         },
         {
           "title": "特朗普：可出动美军干预债市",
           "url": "https://www.cls.cn/detail/2461395",
           "source": "财联社热门",
           "ranks": [
-            6,
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时31分 ~ 23时28分]"
-        },
-        {
-          "title": "披露文件显示特朗普6月进行了逾1000笔证券交易",
-          "url": "https://wallstreetcn.com/livenews/3153431",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            3,
-            7,
-            9,
-            10,
-            11,
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时34分 ~ 20时50分]"
-        },
-        {
-          "title": "UP主锐评特朗普海军新政",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E7%89%B9%E6%9C%97%E6%99%AE%E6%B5%B7%E5%86%9B%E6%96%B0%E6%94%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            15,
-            24,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时37分 ~ 23时28分]"
-        },
-        {
-          "title": "特朗普：未指示贝森特干预美国债市，经济增长将自行化解债务问题",
-          "url": "https://wallstreetcn.com/articles/3780037",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时27分]"
-        },
-        {
-          "title": "VIP・9折看懂特朗普信号！",
-          "url": "https://flash.jin10.com/detail/20260823090257820800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            13,
-            24,
-            6,
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时47分 ~ 23时28分]"
-        },
-        {
-          "title": "特朗普减肥药“低价计划”遇冷：多数州医疗补助项目拒绝买单",
-          "url": "https://flash.jin10.com/detail/20260823041421837800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时29分 ~ 07时26分]"
-        },
-        {
-          "title": "特朗普与加拿大的贸易战可能刺痛美国经济",
-          "url": "https://flash.jin10.com/detail/20260823044205401800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时27分 ~ 09时47分]"
-        },
-        {
-          "title": "美国总统特朗普在社交平台上发布了一张霍尔木兹海峡的地图，并配文称：“美国的新领土。”",
-          "url": "https://flash.jin10.com/detail/20260823054653520800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            17,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时28分 ~ 11时08分]"
-        },
-        {
-          "title": "特朗普：加拿大“想当州却不入州” 还对我们收高关税",
-          "url": "https://flash.jin10.com/detail/20260823131131804800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时34分 ~ 15时38分]"
-        },
-        {
-          "title": "美国总统特朗普：加拿大多年来也对我们的农民征收了大量关税。",
-          "url": "https://flash.jin10.com/detail/20260823130908590800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时34分 ~ 15时38分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-23）",
-          "url": "https://flash.jin10.com/detail/20260823184420774800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时25分 ~ 21时37分]"
+          "appearance_count": 1,
+          "time_info": "00时32分"
         },
         {
           "title": "美国交通部长Duffy：加拿大认为能在关税战中打败总统特朗普的想法是愚蠢的。 预计加拿大总理卡尼将迅速（与美方）对话。 贸易战正摧毁加拿大。（福克斯新闻）",
           "url": "https://wallstreetcn.com/livenews/3153488",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            8,
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时37分 ~ 23时28分]"
+          "appearance_count": 1,
+          "time_info": "00时32分"
         },
         {
-          "title": "特朗普6月调整投资组合，抛售Meta等股票、买入伯克希尔·哈撒韦",
-          "url": "https://flash.jin10.com/detail/20260823015208413800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时38分 ~ 04时29分]"
-        },
-        {
-          "title": "释疑｜一天只过几艘船，特朗普却说海峡畅通，哪个是霍尔木兹的“真相”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33825790",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时27分]"
-        },
-        {
-          "title": "美国前外交官乔伊·胡德：我不相信特朗普关于美国控制霍尔木兹海峡的说法，目前各国正在采取“不同的措施”来应对那里的混乱局面。",
-          "url": "https://flash.jin10.com/detail/20260823111758268800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时42分 ~ 14时50分]"
-        },
-        {
-          "title": "伊朗安全高官员：特朗普的鲁莽行为促使各国渴望拥有核武器",
-          "url": "https://flash.jin10.com/detail/20260823032509722800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时29分 ~ 05时27分]"
-        },
-        {
-          "title": "加拿大总理卡尼：特朗普“误判形势”，升级关税攻势，导致加拿大与美国在贸易问题上“处于战争状态”。",
-          "url": "https://flash.jin10.com/detail/20260823135718143800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时50分 ~ 15时38分]"
-        },
-        {
-          "title": "伊朗总统佩泽希齐扬：特朗普称要对伊朗实施最严厉制裁，我们将坚守立场，并努力应对这场不对称战争。",
-          "url": "https://flash.jin10.com/detail/20260823133556142800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时50分 ~ 15时38分]"
-        },
-        {
-          "title": "特朗普助理是什么来头",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8A%A9%E7%90%86%E6%98%AF%E4%BB%80%E4%B9%88%E6%9D%A5%E5%A4%B4",
+          "title": "UP主锐评特朗普海军新政",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E7%89%B9%E6%9C%97%E6%99%AE%E6%B5%B7%E5%86%9B%E6%96%B0%E6%94%BF",
           "source": "bilibili 热搜",
           "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时37分"
-        },
-        {
-          "title": "美在建航母或改名特朗普",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9C%A8%E5%BB%BA%E8%88%AA%E6%AF%8D%E6%88%96%E6%94%B9%E5%90%8D%E7%89%B9%E6%9C%97%E6%99%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时34分"
-        },
-        {
-          "title": "特朗普出新招欲让美国儿童少打疫苗",
-          "url": "https://www.toutiao.com/trending/7676765143464181801/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时38分"
-        },
-        {
-          "title": "分析师：特朗普的经济孤立计划可能招致伊朗在波斯湾各地发动打击",
-          "url": "https://flash.jin10.com/detail/20260822213559990800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "贝森特没救成美债却点燃“美元贬值交易”！黄金创三个月新高，比特币单周暴涨超25%",
-          "url": "https://wallstreetcn.com/articles/3780041",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 07时26分]"
-        },
-        {
-          "title": "30年美债收益率再次逼近5.3% 贝森特大举干市只管用两天？",
-          "url": "https://www.cls.cn/detail/2461311",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时31分 ~ 18时29分]"
-        },
-        {
-          "title": "达利欧又双叒叕警告：美债危机临近 囤点黄金和比特币吧",
-          "url": "https://www.cls.cn/detail/2461262",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 09时47分]"
-        },
-        {
-          "title": "美债抛售撞上高利率高，黄金到底要攻还是守？",
-          "url": "https://flash.jin10.com/detail/20260823120503727800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            10,
-            21,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时42分 ~ 15时38分]"
-        },
-        {
-          "title": "达利欧称美债危机或三年内爆发",
-          "url": "https://www.douyin.com/hot/2619353",
-          "source": "抖音",
-          "ranks": [
-            29,
-            21,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时26分 ~ 11时08分]"
-        },
-        {
-          "title": "美债收益率高企如何转防御",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%80%BA%E6%94%B6%E7%9B%8A%E7%8E%87%E9%AB%98%E4%BC%81%E5%A6%82%E4%BD%95%E8%BD%AC%E9%98%B2%E5%BE%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时50分 ~ 15时38分]"
-        },
-        {
-          "title": "美债破40万亿美元黄金配置机会来了吗",
-          "url": "https://www.toutiao.com/trending/7677055722424634934/",
-          "source": "今日头条",
-          "ranks": [
-            28,
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时42分 ~ 13时34分]"
-        },
-        {
-          "title": "美债违约的可能性有多大",
-          "url": "https://www.toutiao.com/trending/7677033751519432233/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "怎么看 DeepSeek 8 月 22 日再调整定价，周末全天统一按低谷价收费？",
-          "url": "https://www.zhihu.com/question/2074601403142649584",
-          "source": "知乎",
-          "ranks": [
-            5,
-            2,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时38分 ~ 14时50分]"
-        },
-        {
-          "title": "DeepSeek周末“打折”？API平台计费再调整 新规8月23日起执行",
-          "url": "https://www.cls.cn/detail/2461482",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[05时27分 ~ 21时37分]"
-        },
-        {
-          "title": "如何看待最近的两个 harness 开源，deepseek 和 openai 都开源了各自的 harness？",
-          "url": "https://www.zhihu.com/question/2074080130218120715",
-          "source": "知乎",
-          "ranks": [
-            19,
-            17,
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时47分 ~ 17时33分]"
-        },
-        {
-          "title": "DeepSeek再次调价",
-          "url": "https://wallstreetcn.com/livenews/3153405",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            20,
-            22,
-            24,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时47分 ~ 16时37分]"
-        },
-        {
-          "title": "DeepSeek再度调价",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%86%8D%E5%BA%A6%E8%B0%83%E4%BB%B7",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            13,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时47分 ~ 13时34分]"
-        },
-        {
-          "title": "怎么看 OpenCode 找了很多供应商，都找不到 DeepSeek 涨价前原厂的价格？",
-          "url": "https://www.zhihu.com/question/2074077084964733784",
-          "source": "知乎",
-          "ranks": [
-            7,
-            9,
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时27分]"
-        },
-        {
-          "title": "DeepSeek计费再调整",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E8%AE%A1%E8%B4%B9%E5%86%8D%E8%B0%83%E6%95%B4",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时28分"
+          "time_info": "00时32分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "德黑兰市场黄金价格创纪录",
-          "url": "https://flash.jin10.com/detail/20260823215017623800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时29分 ~ 23时28分]"
-        },
-        {
-          "title": "金价反弹重要原因",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%8F%8D%E5%BC%B9%E9%87%8D%E8%A6%81%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            28,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时33分 ~ 20时50分]"
-        },
-        {
-          "title": "矿业大佬喊出金价5万美元",
-          "url": "https://www.toutiao.com/trending/7677127001466998308/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时33分 ~ 19时25分]"
-        },
         {
           "title": "国际金价连涨三周，反弹还是反转？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33835809",
           "source": "澎湃新闻",
           "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美股止跌反弹，道指涨近1%，数字货币再猛涨，黄金升破4600",
-          "url": "https://wallstreetcn.com/articles/3779986",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 07时26分]"
-        },
-        {
-          "title": "美股收盘：三大指数周线齐跌 有色板块上演普涨浪潮",
-          "url": "https://www.cls.cn/detail/2461289",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 16时37分]"
-        },
-        {
-          "title": "美股再现超级IPO",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E5%86%8D%E7%8E%B0%E8%B6%85%E7%BA%A7IPO",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "观察丨具身智能还在等待“ChatGPT时刻”，产业链与生态成竞争关键",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33825848",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 07时26分]"
+          "time_info": "00时32分"
         },
         {
-          "title": "人形机器人的“ChatGPT时刻”何时来",
-          "url": "https://www.toutiao.com/trending/7676771650368441865/",
-          "source": "今日头条",
+          "title": "德黑兰市场黄金价格创纪录",
+          "url": "https://flash.jin10.com/detail/20260823215017623800",
+          "source": "金十数据",
           "ranks": [
-            27,
-            16
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时50分 ~ 15时38分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌AI研究科学家来B站了",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E7%A0%94%E7%A9%B6%E7%A7%91%E5%AD%A6%E5%AE%B6%E6%9D%A5B%E7%AB%99%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时50分 ~ 18时29分]"
+          "appearance_count": 1,
+          "time_info": "00时32分"
         }
       ]
     }
