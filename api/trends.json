@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-23T07:26:34.077557+08:00",
-  "total_titles_processed": 478,
+  "generated_at": "2026-08-23T09:47:25.962065+08:00",
+  "total_titles_processed": 600,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "“这次对华让步，特朗普该羞得没脸见人”",
@@ -13,11 +13,12 @@
           "source": "凤凰网",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 07时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 09时47分]"
         },
         {
           "title": "人均“十万加”，特朗普考虑出兵干预",
@@ -28,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 07时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 09时47分]"
         },
         {
           "title": "特朗普：可出动美军干预债市",
@@ -40,8 +41,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 07时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 09时47分]"
         },
         {
           "title": "梅洛尼谈特朗普：错付了",
@@ -52,8 +53,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 07时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 09时47分]"
         },
         {
           "title": "特朗普：未指示贝森特干预美国债市，经济增长将自行化解债务问题",
@@ -68,15 +69,15 @@
           "time_info": "[00时31分 ~ 05时27分]"
         },
         {
-          "title": "美国总统特朗普在社交平台上发布了一张霍尔木兹海峡的地图，并配文称：“美国的新领土。”",
-          "url": "https://flash.jin10.com/detail/20260823054653520800",
+          "title": "VIP・9折看懂特朗普信号！",
+          "url": "https://flash.jin10.com/detail/20260823090257820800",
           "source": "金十数据",
           "ranks": [
-            4
+            2
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时26分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         },
         {
           "title": "特朗普减肥药“低价计划”遇冷：多数州医疗补助项目拒绝买单",
@@ -97,11 +98,24 @@
           "source": "金十数据",
           "ranks": [
             4,
-            13
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时27分 ~ 09时47分]"
+        },
+        {
+          "title": "美国总统特朗普在社交平台上发布了一张霍尔木兹海峡的地图，并配文称：“美国的新领土。”",
+          "url": "https://flash.jin10.com/detail/20260823054653520800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            17
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[05时27分 ~ 07时26分]"
+          "time_info": "[06时28分 ~ 09时47分]"
         },
         {
           "title": "特朗普6月调整投资组合，抛售Meta等股票、买入伯克希尔·哈撒韦",
@@ -154,6 +168,85 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "怎么看 DeepSeek 8 月 22 日再调整定价，周末全天统一按低谷价收费？",
+          "url": "https://www.zhihu.com/question/2074601403142649584",
+          "source": "知乎",
+          "ranks": [
+            5,
+            2,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时38分 ~ 09时47分]"
+        },
+        {
+          "title": "DeepSeek周末“打折”？API平台计费再调整 新规8月23日起执行",
+          "url": "https://www.cls.cn/detail/2461482",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时27分 ~ 09时47分]"
+        },
+        {
+          "title": "怎么看 OpenCode 找了很多供应商，都找不到 DeepSeek 涨价前原厂的价格？",
+          "url": "https://www.zhihu.com/question/2074077084964733784",
+          "source": "知乎",
+          "ranks": [
+            7,
+            9,
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 03时27分]"
+        },
+        {
+          "title": "DeepSeek再度调价",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%86%8D%E5%BA%A6%E8%B0%83%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "DeepSeek再次调价",
+          "url": "https://wallstreetcn.com/livenews/3153405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "如何看待最近的两个 harness 开源，deepseek 和 openai 都开源了各自的 harness？",
+          "url": "https://www.zhihu.com/question/2074080130218120715",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 4,
       "titles": [
@@ -176,11 +269,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 07时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 09时47分]"
         },
         {
           "title": "达利欧又双叒叕警告：美债危机临近 囤点黄金和比特币吧",
@@ -192,64 +286,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 07时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 09时47分]"
         },
         {
           "title": "达利欧称美债危机或三年内爆发",
           "url": "https://www.douyin.com/hot/2619353",
           "source": "抖音",
           "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "怎么看 DeepSeek 8 月 22 日再调整定价，周末全天统一按低谷价收费？",
-          "url": "https://www.zhihu.com/question/2074601403142649584",
-          "source": "知乎",
-          "ranks": [
-            5,
-            2,
-            3
+            29,
+            21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时38分 ~ 07时26分]"
-        },
-        {
-          "title": "怎么看 OpenCode 找了很多供应商，都找不到 DeepSeek 涨价前原厂的价格？",
-          "url": "https://www.zhihu.com/question/2074077084964733784",
-          "source": "知乎",
-          "ranks": [
-            7,
-            9,
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时27分]"
-        },
-        {
-          "title": "DeepSeek周末“打折”？API平台计费再调整 新规8月23日起执行",
-          "url": "https://www.cls.cn/detail/2461482",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时27分 ~ 07时26分]"
+          "appearance_count": 2,
+          "time_info": "[07时26分 ~ 09时47分]"
         }
       ]
     },
@@ -275,11 +325,12 @@
           "url": "https://www.cls.cn/detail/2461289",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 07时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 09时47分]"
         }
       ]
     },
