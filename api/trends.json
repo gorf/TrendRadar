@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23T21:37:19.727552+08:00",
-  "total_titles_processed": 1334,
+  "generated_at": "2026-08-23T22:29:20.093500+08:00",
+  "total_titles_processed": 1403,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时42分 ~ 21时37分]"
+          "appearance_count": 11,
+          "time_info": "[12时42分 ~ 22时29分]"
         },
         {
           "title": "特朗普披露6月投资组合“大换血”：减持Meta 买入伯克希尔等股票",
@@ -57,11 +57,12 @@
             6,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时42分 ~ 21时37分]"
+          "appearance_count": 11,
+          "time_info": "[12时42分 ~ 22时29分]"
         },
         {
           "title": "梅洛尼谈特朗普：错付了",
@@ -86,8 +87,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时31分 ~ 21时37分]"
+          "appearance_count": 23,
+          "time_info": "[00时31分 ~ 22时29分]"
         },
         {
           "title": "披露文件显示特朗普6月进行了逾1000笔证券交易",
@@ -130,8 +131,23 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时37分 ~ 21时37分]"
+          "appearance_count": 7,
+          "time_info": "[16时37分 ~ 22时29分]"
+        },
+        {
+          "title": "VIP・9折看懂特朗普信号！",
+          "url": "https://flash.jin10.com/detail/20260823090257820800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            13,
+            24,
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时47分 ~ 22时29分]"
         },
         {
           "title": "特朗普减肥药“低价计划”遇冷：多数州医疗补助项目拒绝买单",
@@ -171,31 +187,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时28分 ~ 11时08分]"
-        },
-        {
-          "title": "VIP・9折看懂特朗普信号！",
-          "url": "https://flash.jin10.com/detail/20260823090257820800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            13,
-            24,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时47分 ~ 21时37分]"
-        },
-        {
-          "title": "美国交通部长Duffy：加拿大认为能在关税战中打败总统特朗普的想法是愚蠢的。 预计加拿大总理卡尼将迅速（与美方）对话。 贸易战正摧毁加拿大。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3153488",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时37分"
         },
         {
           "title": "特朗普：加拿大“想当州却不入州” 还对我们收高关税",
@@ -248,6 +239,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时38分 ~ 04时29分]"
+        },
+        {
+          "title": "美国交通部长Duffy：加拿大认为能在关税战中打败总统特朗普的想法是愚蠢的。 预计加拿大总理卡尼将迅速（与美方）对话。 贸易战正摧毁加拿大。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3153488",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时37分 ~ 22时29分]"
         },
         {
           "title": "释疑｜一天只过几艘船，特朗普却说海峡畅通，哪个是霍尔木兹的“真相”？",
@@ -317,7 +320,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         },
@@ -555,39 +558,20 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "观察丨具身智能还在等待“ChatGPT时刻”，产业链与生态成竞争关键",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33825848",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 07时26分]"
-        },
-        {
-          "title": "人形机器人的“ChatGPT时刻”何时来",
-          "url": "https://www.toutiao.com/trending/7676771650368441865/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时50分 ~ 15时38分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "德黑兰市场黄金价格创纪录",
+          "url": "https://flash.jin10.com/detail/20260823215017623800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
+        },
         {
           "title": "金价反弹重要原因",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%8F%8D%E5%BC%B9%E9%87%8D%E8%A6%81%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=20&Refer=top",
@@ -617,7 +601,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股止跌反弹，道指涨近1%，数字货币再猛涨，黄金升破4600",
@@ -645,6 +629,47 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时31分 ~ 16时37分]"
+        },
+        {
+          "title": "美股再现超级IPO",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E5%86%8D%E7%8E%B0%E8%B6%85%E7%BA%A7IPO",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "观察丨具身智能还在等待“ChatGPT时刻”，产业链与生态成竞争关键",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33825848",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 07时26分]"
+        },
+        {
+          "title": "人形机器人的“ChatGPT时刻”何时来",
+          "url": "https://www.toutiao.com/trending/7676771650368441865/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时50分 ~ 15时38分]"
         }
       ]
     },
