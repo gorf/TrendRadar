@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23T19:25:43.910821+08:00",
-  "total_titles_processed": 1166,
+  "generated_at": "2026-08-23T20:50:25.231553+08:00",
+  "total_titles_processed": 1276,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时31分 ~ 19时25分]"
+          "appearance_count": 21,
+          "time_info": "[00时31分 ~ 20时50分]"
         },
         {
           "title": "特朗普的“大麻烦”：40万亿美元债务，6.5%按揭利率与5美元柴油价格",
@@ -44,20 +44,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时42分 ~ 19时25分]"
-        },
-        {
-          "title": "梅洛尼谈特朗普：错付了",
-          "url": "https://news.ifeng.com/c/8vntoGTfOZC",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 13时34分]"
+          "appearance_count": 9,
+          "time_info": "[12时42分 ~ 20时50分]"
         },
         {
           "title": "特朗普披露6月投资组合“大换血”：减持Meta 买入伯克希尔等股票",
@@ -72,8 +60,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时42分 ~ 19时25分]"
+          "appearance_count": 9,
+          "time_info": "[12时42分 ~ 20时50分]"
+        },
+        {
+          "title": "梅洛尼谈特朗普：错付了",
+          "url": "https://news.ifeng.com/c/8vntoGTfOZC",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 13时34分]"
         },
         {
           "title": "特朗普：可出动美军干预债市",
@@ -86,8 +86,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时31分 ~ 19时25分]"
+          "appearance_count": 21,
+          "time_info": "[00时31分 ~ 20时50分]"
         },
         {
           "title": "披露文件显示特朗普6月进行了逾1000笔证券交易",
@@ -100,11 +100,12 @@
             9,
             10,
             11,
-            13
+            13,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时34分 ~ 19时25分]"
+          "appearance_count": 8,
+          "time_info": "[13时34分 ~ 20时50分]"
         },
         {
           "title": "特朗普：未指示贝森特干预美国债市，经济增长将自行化解债务问题",
@@ -117,17 +118,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时31分 ~ 05时27分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-23）",
-          "url": "https://flash.jin10.com/detail/20260823184420774800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时25分"
         },
         {
           "title": "特朗普减肥药“低价计划”遇冷：多数州医疗补助项目拒绝买单",
@@ -167,6 +157,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时28分 ~ 11时08分]"
+        },
+        {
+          "title": "UP主锐评特朗普海军新政",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E7%89%B9%E6%9C%97%E6%99%AE%E6%B5%B7%E5%86%9B%E6%96%B0%E6%94%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时37分 ~ 20时50分]"
         },
         {
           "title": "特朗普：加拿大“想当州却不入州” 还对我们收高关税",
@@ -221,17 +224,16 @@
           "time_info": "[02时38分 ~ 04时29分]"
         },
         {
-          "title": "UP主锐评特朗普海军新政",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E7%89%B9%E6%9C%97%E6%99%AE%E6%B5%B7%E5%86%9B%E6%96%B0%E6%94%BF",
-          "source": "bilibili 热搜",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-23）",
+          "url": "https://flash.jin10.com/detail/20260823184420774800",
+          "source": "金十数据",
           "ranks": [
-            16,
-            15,
-            24
+            3,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时37分 ~ 19时25分]"
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 20时50分]"
         },
         {
           "title": "释疑｜一天只过几艘船，特朗普却说海峡畅通，哪个是霍尔木兹的“真相”？",
@@ -567,11 +569,12 @@
           "source": "微博",
           "ranks": [
             20,
-            28
+            28,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时33分 ~ 19时25分]"
+          "appearance_count": 4,
+          "time_info": "[17时33分 ~ 20时50分]"
         },
         {
           "title": "矿业大佬喊出金价5万美元",
