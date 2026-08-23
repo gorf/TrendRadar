@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-24T05:27:15.185993+08:00",
-  "total_titles_processed": 460,
+  "generated_at": "2026-08-24T06:27:54.846138+08:00",
+  "total_titles_processed": 480,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "特朗普披露6月投资组合“大换血”：减持Meta 买入伯克希尔等股票",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 05时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 06时27分]"
         },
         {
           "title": "特朗普的“大麻烦”：40万亿美元债务，6.5%按揭利率与5美元柴油价格",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 05时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 06时27分]"
         },
         {
           "title": "特朗普：可出动美军干预债市",
@@ -39,8 +39,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 05时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 06时27分]"
         },
         {
           "title": "UP主锐评特朗普海军新政",
@@ -51,11 +51,12 @@
             23,
             22,
             18,
-            21
+            21,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 05时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 06时27分]"
         },
         {
           "title": "美国交通部长Duffy：加拿大认为能在关税战中打败总统特朗普的想法是愚蠢的。 预计加拿大总理卡尼将迅速（与美方）对话。 贸易战正摧毁加拿大。（福克斯新闻）",
@@ -63,33 +64,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             12,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 05时27分]"
-        },
-        {
-          "title": "特朗普计划于下月访问爱尔兰并观看高尔夫球赛",
-          "url": "https://flash.jin10.com/detail/20260824050302135800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时27分"
-        },
-        {
-          "title": "市场消息：美国总统特朗普将于9月12日、13日到访爱尔兰。",
-          "url": "https://flash.jin10.com/detail/20260824045011251800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时27分"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 06时27分]"
         },
         {
           "title": "特朗普最新调仓披露",
@@ -98,11 +78,47 @@
           "ranks": [
             19,
             9,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时26分 ~ 05时27分]"
+          "appearance_count": 5,
+          "time_info": "[03时26分 ~ 06时27分]"
+        },
+        {
+          "title": "特朗普计划于下月访问爱尔兰并观看高尔夫球赛",
+          "url": "https://flash.jin10.com/detail/20260824050302135800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 06时27分]"
+        },
+        {
+          "title": "市场消息：美国总统特朗普将于9月12日、13日到访爱尔兰。",
+          "url": "https://flash.jin10.com/detail/20260824045011251800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 06时27分]"
+        },
+        {
+          "title": "美国总统特朗普：不肯规划建设数据中心的社区是在犯错误。数据中心提供了大量的就业机会和资金。",
+          "url": "https://flash.jin10.com/detail/20260824054714681800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
         }
       ]
     },
@@ -120,8 +136,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 05时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 06时27分]"
         },
         {
           "title": "德黑兰市场黄金价格创纪录",
@@ -133,6 +149,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股三大股指期货周一开盘微跌。",
+          "url": "https://flash.jin10.com/detail/20260824060125013800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
         }
       ]
     }
