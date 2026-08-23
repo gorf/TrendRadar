@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-23T12:42:47.268868+08:00",
-  "total_titles_processed": 766,
+  "generated_at": "2026-08-23T13:34:29.280116+08:00",
+  "total_titles_processed": 811,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "“这次对华让步，特朗普该羞得没脸见人”",
@@ -18,8 +18,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 12时42分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 13时34分]"
         },
         {
           "title": "人均“十万加”，特朗普考虑出兵干预",
@@ -31,20 +31,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 12时42分]"
-        },
-        {
-          "title": "特朗普：可出动美军干预债市",
-          "url": "https://www.cls.cn/detail/2461395",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 12时42分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 13时34分]"
         },
         {
           "title": "梅洛尼谈特朗普：错付了",
@@ -55,8 +43,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 12时42分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 13时34分]"
+        },
+        {
+          "title": "特朗普：可出动美军干预债市",
+          "url": "https://www.cls.cn/detail/2461395",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 13时34分]"
         },
         {
           "title": "特朗普：未指示贝森特干预美国债市，经济增长将自行化解债务问题",
@@ -69,6 +70,39 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时31分 ~ 05时27分]"
+        },
+        {
+          "title": "特朗普：加拿大“想当州却不入州” 还对我们收高关税",
+          "url": "https://flash.jin10.com/detail/20260823131131804800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
+          "title": "披露文件显示特朗普6月进行了逾1000笔证券交易",
+          "url": "https://wallstreetcn.com/livenews/3153431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
+          "title": "美国总统特朗普：加拿大多年来也对我们的农民征收了大量关税。",
+          "url": "https://flash.jin10.com/detail/20260823130908590800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
         },
         {
           "title": "特朗普减肥药“低价计划”遇冷：多数州医疗补助项目拒绝买单",
@@ -148,6 +182,28 @@
           "time_info": "[00时31分 ~ 03时27分]"
         },
         {
+          "title": "特朗普的“大麻烦”：40万亿美元债务，6.5%按揭利率与5美元柴油价格",
+          "url": "https://wallstreetcn.com/articles/3780067",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 13时34分]"
+        },
+        {
+          "title": "特朗普披露6月投资组合“大换血”：减持Meta 买入伯克希尔等股票",
+          "url": "https://www.cls.cn/detail/2461516",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 13时34分]"
+        },
+        {
           "title": "伊朗安全高官员：特朗普的鲁莽行为促使各国渴望拥有核武器",
           "url": "https://flash.jin10.com/detail/20260823032509722800",
           "source": "金十数据",
@@ -160,37 +216,27 @@
           "time_info": "[04时29分 ~ 05时27分]"
         },
         {
-          "title": "特朗普的“大麻烦”：40万亿美元债务，6.5%按揭利率与5美元柴油价格",
-          "url": "https://wallstreetcn.com/articles/3780067",
-          "source": "华尔街见闻",
+          "title": "美国前外交官乔伊·胡德：我不相信特朗普关于美国控制霍尔木兹海峡的说法，目前各国正在采取“不同的措施”来应对那里的混乱局面。",
+          "url": "https://flash.jin10.com/detail/20260823111758268800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 13时34分]"
+        },
+        {
+          "title": "美在建航母或改名特朗普",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9C%A8%E5%BB%BA%E8%88%AA%E6%AF%8D%E6%88%96%E6%94%B9%E5%90%8D%E7%89%B9%E6%9C%97%E6%99%AE",
+          "source": "bilibili 热搜",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
-          "title": "特朗普披露6月投资组合“大换血”：减持Meta 买入伯克希尔等股票",
-          "url": "https://www.cls.cn/detail/2461516",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
-          "title": "美国前外交官乔伊·胡德：我不相信特朗普关于美国控制霍尔木兹海峡的说法，目前各国正在采取“不同的措施”来应对那里的混乱局面。",
-          "url": "https://flash.jin10.com/detail/20260823111758268800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
+          "time_info": "13时34分"
         },
         {
           "title": "分析师：特朗普的经济孤立计划可能招致伊朗在波斯湾各地发动打击",
@@ -232,8 +278,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 12时42分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 13时34分]"
         },
         {
           "title": "达利欧又双叒叕警告：美债危机临近 囤点黄金和比特币吧",
@@ -253,11 +299,12 @@
           "url": "https://flash.jin10.com/detail/20260823120503727800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 13时34分]"
         },
         {
           "title": "达利欧称美债危机或三年内爆发",
@@ -273,6 +320,18 @@
           "time_info": "[07时26分 ~ 11时08分]"
         },
         {
+          "title": "美债破40万亿美元黄金配置机会来了吗",
+          "url": "https://www.toutiao.com/trending/7677055722424634934/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 13时34分]"
+        },
+        {
           "title": "美债违约的可能性有多大",
           "url": "https://www.toutiao.com/trending/7677033751519432233/",
           "source": "今日头条",
@@ -282,17 +341,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时08分"
-        },
-        {
-          "title": "美债破40万亿美元黄金配置机会来了吗",
-          "url": "https://www.toutiao.com/trending/7677055722424634934/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
         }
       ]
     },
@@ -311,8 +359,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时38分 ~ 12时42分]"
+          "appearance_count": 12,
+          "time_info": "[02时38分 ~ 13时34分]"
         },
         {
           "title": "DeepSeek周末“打折”？API平台计费再调整 新规8月23日起执行",
@@ -324,8 +372,21 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时27分 ~ 12时42分]"
+          "appearance_count": 8,
+          "time_info": "[05时27分 ~ 13时34分]"
+        },
+        {
+          "title": "DeepSeek再度调价",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%86%8D%E5%BA%A6%E8%B0%83%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            13,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时47分 ~ 13时34分]"
         },
         {
           "title": "怎么看 OpenCode 找了很多供应商，都找不到 DeepSeek 涨价前原厂的价格？",
@@ -342,18 +403,6 @@
           "time_info": "[00时31分 ~ 03时27分]"
         },
         {
-          "title": "DeepSeek再度调价",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%86%8D%E5%BA%A6%E8%B0%83%E4%BB%B7",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时47分 ~ 12时42分]"
-        },
-        {
           "title": "如何看待最近的两个 harness 开源，deepseek 和 openai 都开源了各自的 harness？",
           "url": "https://www.zhihu.com/question/2074080130218120715",
           "source": "知乎",
@@ -363,8 +412,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时47分 ~ 12时42分]"
+          "appearance_count": 4,
+          "time_info": "[09时47分 ~ 13时34分]"
         },
         {
           "title": "DeepSeek再次调价",
@@ -372,11 +421,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             17,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时47分 ~ 12时42分]"
+          "appearance_count": 4,
+          "time_info": "[09时47分 ~ 13时34分]"
         }
       ]
     },
@@ -407,8 +457,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 12时42分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 13时34分]"
         }
       ]
     },
