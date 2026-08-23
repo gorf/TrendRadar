@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23T17:33:49.338754+08:00",
-  "total_titles_processed": 1063,
+  "generated_at": "2026-08-23T18:29:46.836899+08:00",
+  "total_titles_processed": 1106,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时31分 ~ 17时33分]"
+          "appearance_count": 19,
+          "time_info": "[00时31分 ~ 18时29分]"
         },
         {
           "title": "梅洛尼谈特朗普：错付了",
@@ -57,8 +57,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时31分 ~ 17时33分]"
+          "appearance_count": 19,
+          "time_info": "[00时31分 ~ 18时29分]"
         },
         {
           "title": "特朗普的“大麻烦”：40万亿美元债务，6.5%按揭利率与5美元柴油价格",
@@ -70,8 +70,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时42分 ~ 17时33分]"
+          "appearance_count": 7,
+          "time_info": "[12时42分 ~ 18时29分]"
         },
         {
           "title": "特朗普披露6月投资组合“大换血”：减持Meta 买入伯克希尔等股票",
@@ -85,8 +85,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时42分 ~ 17时33分]"
+          "appearance_count": 7,
+          "time_info": "[12时42分 ~ 18时29分]"
         },
         {
           "title": "披露文件显示特朗普6月进行了逾1000笔证券交易",
@@ -97,11 +97,12 @@
             3,
             7,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时34分 ~ 17时33分]"
+          "appearance_count": 6,
+          "time_info": "[13时34分 ~ 18时29分]"
         },
         {
           "title": "特朗普：未指示贝森特干预美国债市，经济增长将自行化解债务问题",
@@ -232,6 +233,18 @@
           "time_info": "[12时42分 ~ 14时50分]"
         },
         {
+          "title": "UP主锐评特朗普海军新政",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E7%89%B9%E6%9C%97%E6%99%AE%E6%B5%B7%E5%86%9B%E6%96%B0%E6%94%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时37分 ~ 18时29分]"
+        },
+        {
           "title": "伊朗安全高官员：特朗普的鲁莽行为促使各国渴望拥有核武器",
           "url": "https://flash.jin10.com/detail/20260823032509722800",
           "source": "金十数据",
@@ -266,18 +279,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时50分 ~ 15时38分]"
-        },
-        {
-          "title": "UP主锐评特朗普海军新政",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E7%89%B9%E6%9C%97%E6%99%AE%E6%B5%B7%E5%86%9B%E6%96%B0%E6%94%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时37分 ~ 17时33分]"
         },
         {
           "title": "美在建航母或改名特朗普",
@@ -342,8 +343,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时31分 ~ 17时33分]"
+          "appearance_count": 19,
+          "time_info": "[00时31分 ~ 18时29分]"
         },
         {
           "title": "达利欧又双叒叕警告：美债危机临近 囤点黄金和比特币吧",
@@ -450,8 +451,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[05时27分 ~ 17时33分]"
+          "appearance_count": 10,
+          "time_info": "[05时27分 ~ 18时29分]"
         },
         {
           "title": "如何看待最近的两个 harness 开源，deepseek 和 openai 都开源了各自的 harness？",
@@ -551,22 +552,24 @@
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%8F%8D%E5%BC%B9%E9%87%8D%E8%A6%81%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
           "ranks": [
-            20
+            20,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时33分 ~ 18时29分]"
         },
         {
           "title": "矿业大佬喊出金价5万美元",
           "url": "https://www.toutiao.com/trending/7677127001466998308/",
           "source": "今日头条",
           "ranks": [
-            22
+            22,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时33分 ~ 18时29分]"
         }
       ]
     },
@@ -617,8 +620,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时50分 ~ 17时33分]"
+          "appearance_count": 5,
+          "time_info": "[14时50分 ~ 18时29分]"
         }
       ]
     }
