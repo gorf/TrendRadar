@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-25T04:36:59.375183+08:00",
-  "total_titles_processed": 533,
+  "generated_at": "2026-08-25T05:35:30.463743+08:00",
+  "total_titles_processed": 584,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "“特朗普正就制裁伊朗致电各国领导人”",
@@ -15,8 +15,34 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时49分 ~ 04时36分]"
+          "appearance_count": 4,
+          "time_info": "[02时49分 ~ 05时35分]"
+        },
+        {
+          "title": "特朗普称朝鲜有57枚核弹",
+          "url": "https://www.toutiao.com/trending/7676758000966598683/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            5,
+            9,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 05时35分]"
+        },
+        {
+          "title": "金与正，没接特朗普的话",
+          "url": "https://news.ifeng.com/c/8vqw7NCqQ1S",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 05时35分]"
         },
         {
           "title": "美加贸易为何谈崩了？专家：特朗普想吞并加拿大",
@@ -30,31 +56,6 @@
           "time_info": "[00时44分 ~ 01时36分]"
         },
         {
-          "title": "特朗普称朝鲜有57枚核弹",
-          "url": "https://www.toutiao.com/trending/7676758000966598683/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            5,
-            9,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 04时36分]"
-        },
-        {
-          "title": "金与正，没接特朗普的话",
-          "url": "https://news.ifeng.com/c/8vqw7NCqQ1S",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 04时36分]"
-        },
-        {
           "title": "伊朗官员：特朗普“说太多”",
           "url": "https://news.ifeng.com/c/8vqKE38LhPQ",
           "source": "凤凰网",
@@ -62,8 +63,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 04时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 05时35分]"
+        },
+        {
+          "title": "美国最高法允许特朗普推行限制邮寄投票的措施",
+          "url": "https://flash.jin10.com/detail/20260825051541615800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
         },
         {
           "title": "美国财长：特朗普正就停止与伊朗往来致电多方领导人",
@@ -103,6 +115,18 @@
           "time_info": "[02时49分 ~ 03时36分]"
         },
         {
+          "title": "新闻蒸馏器｜美加谈崩，特朗普关税施压首次被盟友正面顶回，意味什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33838251",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时49分 ~ 05时35分]"
+        },
+        {
           "title": "加拿大总理卡尼：加方在能源领域对特朗普政府拥有报复选项。",
           "url": "https://wallstreetcn.com/livenews/3154114",
           "source": "华尔街见闻-快讯",
@@ -129,16 +153,16 @@
           "time_info": "[01时36分 ~ 03时36分]"
         },
         {
-          "title": "新闻蒸馏器｜美加谈崩，特朗普关税施压首次被盟友正面顶回，意味什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33838251",
-          "source": "澎湃新闻",
+          "title": "美民众对伊战争支持率仅31% 特朗普支持率仍处历史低位",
+          "url": "https://flash.jin10.com/detail/20260825041400861800",
+          "source": "金十数据",
           "ranks": [
-            20,
-            19
+            6,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时49分 ~ 04时36分]"
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时35分]"
         },
         {
           "title": "路透社与益普索联合开展的民调显示，美国民众对伊朗战争的支持率已降至31%，为冲突爆发初期以来的最低水平。 特朗普支持率维持在33%，持平其总统任期最低水平。",
@@ -174,17 +198,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
-        },
-        {
-          "title": "美民众对伊战争支持率仅31% 特朗普支持率仍处历史低位",
-          "url": "https://flash.jin10.com/detail/20260825041400861800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时36分"
         },
         {
           "title": "美国总统特朗普称加拿大安大略省省长福特言论“哗众取宠”，指责加拿大长期依赖美国，并警告若不改变政策将面临更严重后果。",
@@ -242,6 +255,17 @@
           "time_info": "01时36分"
         },
         {
+          "title": "美国最高法院推翻了此前在23个州和华盛顿特区阻止特朗普限制邮寄选票行政命令的司法裁决。",
+          "url": "https://flash.jin10.com/detail/20260825044253424800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
           "title": "德国财长：债券收益率飙升应归咎于特朗普",
           "url": "https://flash.jin10.com/detail/20260824235543060800",
           "source": "金十数据",
@@ -251,6 +275,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
+        },
+        {
+          "title": "大V：特朗普想打经济战发现没人跟风",
+          "url": "https://www.toutiao.com/trending/7677517230615039526/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
         },
         {
           "title": "特朗普据报希望巴基斯坦促美伊复谈",
@@ -321,8 +356,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 04时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 05时35分]"
         },
         {
           "title": "美国财政部“救市”新消息！近万亿美元现金储备可能出手买美债",
@@ -332,8 +367,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 04时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 05时35分]"
         },
         {
           "title": "美债延续涨势！报道：贝森特或动用近万亿美元国库账户，为债券回购提供资金",
@@ -343,8 +378,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 04时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 05时35分]"
         },
         {
           "title": "油价回落缓解美债压力 美股期指下跌 市场聚焦贝森特发布会 | 今夜看点",
@@ -355,8 +390,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 04时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 05时35分]"
         },
         {
           "title": "华尔街高管：特朗普准备将10年期美债收益率推向5%",
@@ -370,6 +405,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时44分 ~ 02时49分]"
+        },
+        {
+          "title": "中长期美债收益率显著走低",
+          "url": "https://wallstreetcn.com/livenews/3154142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时35分]"
+        },
+        {
+          "title": "40万亿美债压顶 美会拿日本开刀吗",
+          "url": "https://www.toutiao.com/trending/7677540711566151218/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时44分 ~ 05时35分]"
         },
         {
           "title": "贝森特拟“震慑”债券空头 考虑回购及调整美债发行结构",
@@ -394,28 +453,6 @@
           "time_info": "03时36分"
         },
         {
-          "title": "中长期美债收益率显著走低",
-          "url": "https://wallstreetcn.com/livenews/3154142",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
-          "title": "40万亿美债压顶 美会拿日本开刀吗",
-          "url": "https://www.toutiao.com/trending/7677540711566151218/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
-        },
-        {
           "title": "城堡证券：财政部回购美债类似金融抑制，压力可能传导至美元和通胀",
           "url": "https://wallstreetcn.com/livenews/3154067",
           "source": "华尔街见闻-快讯",
@@ -430,7 +467,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "科技股拖累全球股市，美股开盘涨跌互现，纳指跌0.4%，存储芯片、光通信股下挫，金涨油跌",
@@ -440,19 +477,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 04时36分]"
-        },
-        {
-          "title": "美股大类资产类ETF涨跌各异，布油基金跌1.9%，黄金ETF涨 约0.8%",
-          "url": "https://wallstreetcn.com/livenews/3154159",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时36分"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 05时35分]"
         },
         {
           "title": "美银：如果共和党中选输掉参议院，美股将跌超10%，德州选战决定“AI政策”",
@@ -462,41 +488,56 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 04时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 05时35分]"
+        },
+        {
+          "title": "美股大类资产类ETF涨跌各异，布油基金跌1.9%，黄金ETF涨 约0.8%",
+          "url": "https://wallstreetcn.com/livenews/3154159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时35分]"
         },
         {
           "title": "金十图示：2026年08月24日（周一）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260825040655666800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时35分]"
         },
         {
           "title": "金十图示：2026年08月24日（周一）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260825040555979800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时35分]"
         },
         {
           "title": "周一（8月24日），美股行业ETF涨跌各异，半导体ETF收跌2.43%，全球科技股指数ETF、科技行业ETF至多跌1.94%，能源业ETF跌0.83%。",
           "url": "https://wallstreetcn.com/livenews/3154153",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时35分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 存储概念走弱",
@@ -505,7 +546,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
         },
@@ -516,9 +557,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周一（8月24日），美国科技股七巨头（Magnificent 7）指数跌0.26%，报220.78点，低开之后冲高回落。成分股中，英伟达连跌七天，创2022年以来最长连跌天数。 “超大”市值科技股指数跌0.82%，报433.74点，整体处于下跌状态。",
+          "url": "https://wallstreetcn.com/livenews/3154150",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
         }
       ]
     },
@@ -567,11 +619,12 @@
           "url": "https://wallstreetcn.com/livenews/3154156",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时35分]"
         }
       ]
     },
@@ -611,7 +664,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "OpenAI：GPT‑5.6模型系列现已在软件开发平台KIRO上线。",
@@ -623,6 +676,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时36分"
+        },
+        {
+          "title": "OpenAI修复消耗过快问题",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E4%BF%AE%E5%A4%8D%E6%B6%88%E8%80%97%E8%BF%87%E5%BF%AB%E9%97%AE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
         }
       ]
     },
@@ -641,8 +705,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 04时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 05时35分]"
         }
       ]
     }
