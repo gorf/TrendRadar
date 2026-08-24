@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-24T11:09:45.942372+08:00",
-  "total_titles_processed": 819,
+  "generated_at": "2026-08-24T12:52:09.138999+08:00",
+  "total_titles_processed": 966,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普披露6月投资组合“大换血”：减持Meta 买入伯克希尔等股票",
@@ -32,6 +32,17 @@
           "time_info": "[00时32分 ~ 09时41分]"
         },
         {
+          "title": "特朗普凌晨发飙，向加拿大“开炮”",
+          "url": "https://news.ifeng.com/c/8vqJG7PifU9",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时40分 ~ 12时52分]"
+        },
+        {
           "title": "特朗普：可出动美军干预债市",
           "url": "https://www.cls.cn/detail/2461395",
           "source": "财联社热门",
@@ -55,22 +66,12 @@
             21,
             11,
             15,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时32分 ~ 11时09分]"
-        },
-        {
-          "title": "特朗普凌晨发飙，向加拿大“开炮”",
-          "url": "https://news.ifeng.com/c/8vqJG7PifU9",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时40分 ~ 11时09分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 12时52分]"
         },
         {
           "title": "美加贸易谈判破裂，美媒：特朗普的霸凌正在失败",
@@ -80,8 +81,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时40分 ~ 11时09分]"
+          "appearance_count": 5,
+          "time_info": "[09时40分 ~ 12时52分]"
         },
         {
           "title": "特朗普最新调仓披露",
@@ -112,6 +113,17 @@
           "time_info": "[00时32分 ~ 06时27分]"
         },
         {
+          "title": "特朗普75国签证禁令案幕后：拜登埋的雷炸了",
+          "url": "https://news.ifeng.com/c/8vqa82dukEb",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时51分 ~ 12时52分]"
+        },
+        {
           "title": "美国总统特朗普周一日程一览",
           "url": "https://flash.jin10.com/detail/20260824092545998800",
           "source": "金十数据",
@@ -121,6 +133,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
+        },
+        {
+          "title": "伊朗官员：特朗普“说太多”",
+          "url": "https://news.ifeng.com/c/8vqKE38LhPQ",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时40分 ~ 12时52分]"
         },
         {
           "title": "特朗普计划于下月访问爱尔兰并观看高尔夫球赛",
@@ -147,17 +170,6 @@
           "time_info": "[05时27分 ~ 06时27分]"
         },
         {
-          "title": "伊朗官员：特朗普“说太多”",
-          "url": "https://news.ifeng.com/c/8vqKE38LhPQ",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时40分 ~ 11时09分]"
-        },
-        {
           "title": "美国总统特朗普：不肯规划建设数据中心的社区是在犯错误。数据中心提供了大量的就业机会和资金。",
           "url": "https://flash.jin10.com/detail/20260824054714681800",
           "source": "金十数据",
@@ -176,7 +188,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时09分"
         },
@@ -209,8 +221,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时32分 ~ 11时09分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 12时52分]"
         },
         {
           "title": "国内金价重回千元 多家银行积存金克价涨破1000元",
@@ -219,7 +231,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时09分"
         },
@@ -264,9 +276,49 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI修复消耗过快问题",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E4%BF%AE%E5%A4%8D%E6%B6%88%E8%80%97%E8%BF%87%E5%BF%AB%E9%97%AE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时09分"
+        },
+        {
+          "title": "Anthropic 的 ARR 不及预期，OpenAI 比 A 社还差，AI 热潮要阶段性见顶了吗？",
+          "url": "https://www.zhihu.com/question/2073353873687671056",
+          "source": "知乎",
+          "ranks": [
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时09分 ~ 12时52分]"
+        },
+        {
+          "title": "OpenAI前员工Luke Metz已加入Meta Platforms的超级智能实验室。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3153624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
         }
       ]
     },
@@ -286,6 +338,18 @@
           "time_info": "07时26分"
         },
         {
+          "title": "“拯救美债”接力棒：贝森特上周搞砸了，本周看沃什了",
+          "url": "https://wallstreetcn.com/articles/3780106",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时09分 ~ 12时52分]"
+        },
+        {
           "title": "美债风暴席卷全球",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%80%BA%E9%A3%8E%E6%9A%B4%E5%B8%AD%E5%8D%B7%E5%85%A8%E7%90%83&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -295,45 +359,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时40分 ~ 09时41分]"
-        },
-        {
-          "title": "“拯救美债”接力棒：贝森特上周搞砸了，本周看沃什了",
-          "url": "https://wallstreetcn.com/articles/3780106",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI修复消耗过快问题",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E4%BF%AE%E5%A4%8D%E6%B6%88%E8%80%97%E8%BF%87%E5%BF%AB%E9%97%AE%E9%A2%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时09分"
-        },
-        {
-          "title": "Anthropic 的 ARR 不及预期，OpenAI 比 A 社还差，AI 热潮要阶段性见顶了吗？",
-          "url": "https://www.zhihu.com/question/2073353873687671056",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时09分"
         }
       ]
     },
@@ -377,7 +402,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时09分"
         }
@@ -394,7 +419,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时09分"
         }
@@ -411,7 +436,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时09分"
         }
