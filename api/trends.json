@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-25T06:32:28.178127+08:00",
-  "total_titles_processed": 610,
+  "generated_at": "2026-08-25T07:27:28.633734+08:00",
+  "total_titles_processed": 656,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 35,
       "titles": [
         {
           "title": "“特朗普正就制裁伊朗致电各国领导人”",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时49分 ~ 06时32分]"
+          "appearance_count": 6,
+          "time_info": "[02时49分 ~ 07时27分]"
         },
         {
           "title": "金与正，没接特朗普的话",
@@ -27,8 +27,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 07时27分]"
+        },
+        {
+          "title": "伊朗官员：特朗普“说太多”",
+          "url": "https://news.ifeng.com/c/8vqKE38LhPQ",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 07时27分]"
         },
         {
           "title": "特朗普称朝鲜有57枚核弹",
@@ -47,17 +58,6 @@
           "time_info": "[00时44分 ~ 06时32分]"
         },
         {
-          "title": "伊朗官员：特朗普“说太多”",
-          "url": "https://news.ifeng.com/c/8vqKE38LhPQ",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 06时32分]"
-        },
-        {
           "title": "美加贸易为何谈崩了？专家：特朗普想吞并加拿大",
           "url": "https://news.ifeng.com/c/8vqjNemVtmr",
           "source": "凤凰网",
@@ -69,15 +69,15 @@
           "time_info": "[00时44分 ~ 01时36分]"
         },
         {
-          "title": "周一（8月24日），“特朗普关税输家”指数涨0.50%，报116.45点，整体呈现出V形走势。",
-          "url": "https://wallstreetcn.com/livenews/3154183",
+          "title": "英国首相伯纳姆计划下个月访问美国，就援助乌克兰问题游说特朗普。 伯纳姆称，乌克兰拦截弹库存不足的问题“可以解决”；欧洲领导人或将在联合国大会期间会晤，讨论乌克兰问题。",
+          "url": "https://wallstreetcn.com/livenews/3154203",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时32分"
+          "time_info": "07时27分"
         },
         {
           "title": "新闻蒸馏器｜美加谈崩，特朗普关税施压首次被盟友正面顶回，意味什么？",
@@ -89,8 +89,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时49分 ~ 06时32分]"
+          "appearance_count": 6,
+          "time_info": "[02时49分 ~ 07时27分]"
         },
         {
           "title": "美国财长：特朗普正就停止与伊朗往来致电多方领导人",
@@ -106,6 +106,19 @@
           "time_info": "[02时49分 ~ 04时36分]"
         },
         {
+          "title": "美国最高法允许特朗普推行限制邮寄投票的措施",
+          "url": "https://flash.jin10.com/detail/20260825051541615800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时35分 ~ 07时27分]"
+        },
+        {
           "title": "美国总统特朗普：加拿大应该“服从”，负责将面临更严重的后果。 美国永远将比加拿大更大、更富、更强。 没有美国，加拿大无法生存。",
           "url": "https://wallstreetcn.com/livenews/3154123",
           "source": "华尔街见闻-快讯",
@@ -118,6 +131,18 @@
           "time_info": "[02时49分 ~ 03时36分]"
         },
         {
+          "title": "周一（8月24日），“特朗普关税输家”指数涨0.50%，报116.45点，整体呈现出V形走势。",
+          "url": "https://wallstreetcn.com/livenews/3154183",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时27分]"
+        },
+        {
           "title": "伊朗称特朗普经济施压计划是“心理战”",
           "url": "https://flash.jin10.com/detail/20260825021117066800",
           "source": "金十数据",
@@ -128,18 +153,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时49分 ~ 03时36分]"
-        },
-        {
-          "title": "美国最高法允许特朗普推行限制邮寄投票的措施",
-          "url": "https://flash.jin10.com/detail/20260825051541615800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时35分 ~ 06时32分]"
         },
         {
           "title": "加拿大总理卡尼：加方在能源领域对特朗普政府拥有报复选项。",
@@ -190,6 +203,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时36分 ~ 04时36分]"
+        },
+        {
+          "title": "美加贸易战进一步升级！特朗普：明年将加拿大汽车、钢铁等品类关税提高至50%",
+          "url": "https://www.cls.cn/detail/2462902",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时27分]"
         },
         {
           "title": "美国最高法院推翻了此前在23个州和华盛顿特区阻止特朗普限制邮寄选票行政命令的司法裁决。",
@@ -260,15 +284,15 @@
           "time_info": "00时44分"
         },
         {
-          "title": "美加贸易战进一步升级！特朗普：明年将加拿大汽车、钢铁等品类关税提高至50%",
-          "url": "https://www.cls.cn/detail/2462902",
+          "title": "特朗普政府启动“经济孤立行动” 公布多项针对伊朗的经济制裁举措",
+          "url": "https://www.cls.cn/detail/2462949",
           "source": "财联社热门",
           "ranks": [
-            12
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时32分"
+          "time_info": "07时27分"
         },
         {
           "title": "美国总统特朗普9月份将前往爱尔兰。（纽约邮报）",
@@ -291,6 +315,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时36分"
+        },
+        {
+          "title": "美国总统特朗普：我们迫切需要铝。 我们急需铝，主要从加拿大获取铝。 我的确想要压低牛肉价格。",
+          "url": "https://wallstreetcn.com/livenews/3154189",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
         },
         {
           "title": "德国财长：债券收益率飙升应归咎于特朗普",
@@ -368,6 +403,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
+        },
+        {
+          "title": "UP主锐评特朗普海军新政",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E7%89%B9%E6%9C%97%E6%99%AE%E6%B5%B7%E5%86%9B%E6%96%B0%E6%94%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
         }
       ]
     },
@@ -394,19 +440,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 07时27分]"
         },
         {
           "title": "美股收盘：科技股承压纳指跌0.76% 多重重磅变量将接踵而至",
           "url": "https://www.cls.cn/detail/2462965",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时27分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异，布油基金跌1.9%，黄金ETF涨 约0.8%",
@@ -433,6 +480,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时36分 ~ 06时32分]"
+        },
+        {
+          "title": "周一（8月24日），美股存储芯片与硬件供应链指数跌4.60%，报192.39点，跳空低开之后持续低位窄幅震荡。 成分股权限下挫，希捷科技收跌6.51%，闪迪跌6.45%，美光、西部数据至少跌5.24%，SK海力士ADR、Rambus至少跌4.57%，泰瑞达、应用材料、拉姆研究至少跌1.22%。",
+          "url": "https://wallstreetcn.com/livenews/3154177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时27分]"
         },
         {
           "title": "金十图示：2026年08月24日（周一）美股热门股票行情一览（美股收盘）",
@@ -471,17 +530,6 @@
           "time_info": "[05时35分 ~ 06时32分]"
         },
         {
-          "title": "周一（8月24日），美股存储芯片与硬件供应链指数跌4.60%，报192.39点，跳空低开之后持续低位窄幅震荡。 成分股权限下挫，希捷科技收跌6.51%，闪迪跌6.45%，美光、西部数据至少跌5.24%，SK海力士ADR、Rambus至少跌4.57%，泰瑞达、应用材料、拉姆研究至少跌1.22%。",
-          "url": "https://wallstreetcn.com/livenews/3154177",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
           "title": "美股收盘：三大股指涨跌不一 存储概念走弱",
           "url": "https://flash.jin10.com/detail/20260825040150769800",
           "source": "金十数据",
@@ -517,8 +565,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 07时27分]"
         },
         {
           "title": "美国财政部“救市”新消息！近万亿美元现金储备可能出手买美债",
@@ -528,19 +576,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 07时27分]"
         },
         {
           "title": "美债延续涨势！报道：贝森特或动用近万亿美元国库账户，为债券回购提供资金",
           "url": "https://wallstreetcn.com/articles/3780164",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 07时27分]"
         },
         {
           "title": "油价回落缓解美债压力 美股期指下跌 市场聚焦贝森特发布会 | 今夜看点",
@@ -551,8 +600,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 07时27分]"
         },
         {
           "title": "华尔街高管：特朗普准备将10年期美债收益率推向5%",
@@ -694,11 +743,12 @@
             21,
             16,
             19,
-            27
+            27,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 04时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 07时27分]"
         },
         {
           "title": "DeepSeek视觉寄生体首测",
@@ -707,11 +757,12 @@
           "ranks": [
             11,
             17,
-            28
+            28,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 04时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 07时27分]"
         }
       ]
     },
@@ -752,11 +803,12 @@
           "url": "https://wallstreetcn.com/livenews/3154178",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时27分]"
         }
       ]
     },
@@ -773,11 +825,12 @@
             22,
             17,
             12,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 07时27分]"
         }
       ]
     }
