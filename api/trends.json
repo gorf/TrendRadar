@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-24T19:34:39.961606+08:00",
-  "total_titles_processed": 1633,
+  "generated_at": "2026-08-24T21:00:53.858372+08:00",
+  "total_titles_processed": 1761,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普披露6月投资组合“大换血”：减持Meta 买入伯克希尔等股票",
@@ -54,6 +54,17 @@
           "time_info": "[09时40分 ~ 13时43分]"
         },
         {
+          "title": "美加贸易为何谈崩了？专家：特朗普想吞并加拿大",
+          "url": "https://news.ifeng.com/c/8vqjNemVtmr",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时08分 ~ 21时00分]"
+        },
+        {
           "title": "特朗普75国签证禁令案幕后：拜登埋的雷炸了",
           "url": "https://news.ifeng.com/c/8vqa82dukEb",
           "source": "凤凰网",
@@ -63,8 +74,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时51分 ~ 19时34分]"
+          "appearance_count": 11,
+          "time_info": "[12时51分 ~ 21时00分]"
         },
         {
           "title": "伊朗官员：特朗普“说太多”",
@@ -74,8 +85,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时40分 ~ 19时34分]"
+          "appearance_count": 14,
+          "time_info": "[09时40分 ~ 21时00分]"
         },
         {
           "title": "特朗普：可出动美军干预债市",
@@ -110,15 +121,15 @@
           "time_info": "[00时32分 ~ 15时08分]"
         },
         {
-          "title": "美加贸易为何谈崩了？专家：特朗普想吞并加拿大",
-          "url": "https://news.ifeng.com/c/8vqjNemVtmr",
+          "title": "胖了快21斤！特朗普体重构成重大健康风险",
+          "url": "https://news.ifeng.com/c/8vqlYDQQI2y",
           "source": "凤凰网",
           "ranks": [
-            2
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时08分 ~ 19时34分]"
+          "appearance_count": 7,
+          "time_info": "[15时08分 ~ 21时00分]"
         },
         {
           "title": "特朗普最新调仓披露",
@@ -155,7 +166,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         },
@@ -171,15 +182,15 @@
           "time_info": "09时41分"
         },
         {
-          "title": "胖了快21斤！特朗普体重构成重大健康风险",
-          "url": "https://news.ifeng.com/c/8vqlYDQQI2y",
+          "title": "金与正，没接特朗普的话",
+          "url": "https://news.ifeng.com/c/8vqw7NCqQ1S",
           "source": "凤凰网",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时08分 ~ 19时34分]"
+          "appearance_count": 4,
+          "time_info": "[18时42分 ~ 21时00分]"
         },
         {
           "title": "特朗普计划于下月访问爱尔兰并观看高尔夫球赛",
@@ -206,15 +217,16 @@
           "time_info": "[05时27分 ~ 06时27分]"
         },
         {
-          "title": "金与正，没接特朗普的话",
-          "url": "https://news.ifeng.com/c/8vqw7NCqQ1S",
-          "source": "凤凰网",
+          "title": "大V：特朗普想打经济战发现没人跟风",
+          "url": "https://www.toutiao.com/trending/7677517230615039526/",
+          "source": "今日头条",
           "ranks": [
-            6
+            22,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时42分 ~ 19时34分]"
+          "appearance_count": 3,
+          "time_info": "[19时34分 ~ 21时00分]"
         },
         {
           "title": "美国总统特朗普：不肯规划建设数据中心的社区是在犯错误。数据中心提供了大量的就业机会和资金。",
@@ -238,6 +250,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时42分"
+        },
+        {
+          "title": "特朗普一个电话，巴基斯坦陆军参谋长飞到伊朗：赶在美国动手同日",
+          "url": "https://flash.jin10.com/detail/20260824202648224800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时00分"
         },
         {
           "title": "特朗普在伊朗问题上总是“给点阳光就灿烂”，极限施压只会使美伊滑向新一轮战争",
@@ -271,17 +294,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
-        },
-        {
-          "title": "大V：特朗普想打经济战发现没人跟风",
-          "url": "https://www.toutiao.com/trending/7677517230615039526/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时34分"
         },
         {
           "title": "报道：巴基斯坦陆军参谋长上周与特朗普通话",
@@ -407,81 +419,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "美股三大股指期货周一开盘微跌。",
-          "url": "https://flash.jin10.com/detail/20260824060125013800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时27分 ~ 07时26分]"
-        },
-        {
-          "title": "不认同阿里新股配售？美股“大空头”重大调仓：清仓阿里、押注京东！",
-          "url": "https://www.cls.cn/detail/2461979",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时54分 ~ 18时42分]"
-        },
-        {
-          "title": "拼多多美股盘前走低后迅速拉升，现涨超3%，此前一度跌近5%。",
-          "url": "https://wallstreetcn.com/livenews/3153897",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "拼多多美股盘前跌近5%，公司第二季度营收不及预期。 小鹏汽车美股盘前跌超6%，公司第二季度营收不及预期。",
-          "url": "https://wallstreetcn.com/livenews/3153895",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "美股再现超级IPO",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E5%86%8D%E7%8E%B0%E8%B6%85%E7%BA%A7IPO",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "美股盘前，存储芯片概念股集体下挫，闪迪跌超4%，西部数据跌超2%，美光科技、SK海力士均跌超3%；光通信板块下跌，Lumentum跌超4%，康宁跌超3%；中概股多数下跌，理想汽车、网易跌3%，阿里巴巴跌4%。",
-          "url": "https://wallstreetcn.com/livenews/3153747",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时54分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "“拯救美债”接力棒：贝森特上周搞砸了，本周看沃什了",
@@ -494,8 +433,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时09分 ~ 19时34分]"
+          "appearance_count": 12,
+          "time_info": "[11时09分 ~ 21时00分]"
         },
         {
           "title": "美债扰动不改A股中期运行逻辑，券商建议锚定盈利修复主线",
@@ -507,6 +446,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "绕开美联储！贝森特或动用万亿“应急资金”扫货美债",
+          "url": "https://flash.jin10.com/detail/20260824203241421800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时00分"
         },
         {
           "title": "全球央行年会本周召开！贝森特救不动的美债 沃什能救吗？",
@@ -532,11 +482,106 @@
           "time_info": "[09时40分 ~ 09时41分]"
         },
         {
+          "title": "40万亿美债压顶 美会拿日本开刀吗",
+          "url": "https://www.toutiao.com/trending/7677540711566151218/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时59分 ~ 21时00分]"
+        },
+        {
           "title": "美债收益率压不住，日本又要来“补刀”？",
           "url": "https://flash.jin10.com/detail/20260824162514834800",
           "source": "金十数据",
           "ranks": [
             29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "美股三大股指期货周一开盘微跌。",
+          "url": "https://flash.jin10.com/detail/20260824060125013800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时27分 ~ 07时26分]"
+        },
+        {
+          "title": "美银：如果共和党中选输掉参议院，美股将跌超10%，德州选战决定“AI政策”",
+          "url": "https://wallstreetcn.com/articles/3780117",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时59分 ~ 21时00分]"
+        },
+        {
+          "title": "不认同阿里新股配售？美股“大空头”重大调仓：清仓阿里、押注京东！",
+          "url": "https://www.cls.cn/detail/2461979",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时54分 ~ 18时42分]"
+        },
+        {
+          "title": "拼多多美股盘前走低后迅速拉升，现涨超3%，此前一度跌近5%。",
+          "url": "https://wallstreetcn.com/livenews/3153897",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时34分"
+        },
+        {
+          "title": "拼多多美股盘前跌近5%，公司第二季度营收不及预期。 小鹏汽车美股盘前跌超6%，公司第二季度营收不及预期。",
+          "url": "https://wallstreetcn.com/livenews/3153895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时34分"
+        },
+        {
+          "title": "美股再现超级IPO",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E5%86%8D%E7%8E%B0%E8%B6%85%E7%BA%A7IPO",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "美股盘前，存储芯片概念股集体下挫，闪迪跌超4%，西部数据跌超2%，美光科技、SK海力士均跌超3%；光通信板块下跌，Lumentum跌超4%，康宁跌超3%；中概股多数下跌，理想汽车、网易跌3%，阿里巴巴跌4%。",
+          "url": "https://wallstreetcn.com/livenews/3153747",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -680,7 +725,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         }
