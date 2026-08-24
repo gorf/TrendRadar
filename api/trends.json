@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-25T01:36:30.121830+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2026-08-25T02:49:40.915944+08:00",
+  "total_titles_processed": 436,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 23,
       "titles": [
         {
           "title": "美加贸易为何谈崩了？专家：特朗普想吞并加拿大",
@@ -19,16 +19,61 @@
           "time_info": "[00时44分 ~ 01时36分]"
         },
         {
+          "title": "美国财长：特朗普正就停止与伊朗往来致电多方领导人",
+          "url": "https://wallstreetcn.com/livenews/3154125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时49分"
+        },
+        {
+          "title": "“特朗普正就制裁伊朗致电各国领导人”",
+          "url": "https://news.ifeng.com/c/8vrWJFkKrTc",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时49分"
+        },
+        {
+          "title": "美国总统特朗普：加拿大应该“服从”，负责将面临更严重的后果。 美国永远将比加拿大更大、更富、更强。 没有美国，加拿大无法生存。",
+          "url": "https://wallstreetcn.com/livenews/3154123",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时49分"
+        },
+        {
+          "title": "伊朗称特朗普经济施压计划是“心理战”",
+          "url": "https://flash.jin10.com/detail/20260825021117066800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时49分"
+        },
+        {
           "title": "特朗普称朝鲜有57枚核弹",
           "url": "https://www.toutiao.com/trending/7676758000966598683/",
           "source": "今日头条",
           "ranks": [
             10,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时49分]"
         },
         {
           "title": "金与正，没接特朗普的话",
@@ -38,8 +83,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时49分]"
         },
         {
           "title": "伊朗官员：特朗普“说太多”",
@@ -49,19 +94,66 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时49分]"
         },
         {
           "title": "加拿大总理卡尼：加方在能源领域对特朗普政府拥有报复选项。",
           "url": "https://wallstreetcn.com/livenews/3154114",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时36分 ~ 02时49分]"
+        },
+        {
+          "title": "美国财长贝森特：在总统特朗普任期内，我们正结束伊朗威胁。 伊朗有两条路，要么恢复正常、要么被彻底孤立。",
+          "url": "https://wallstreetcn.com/livenews/3154109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时36分 ~ 02时49分]"
+        },
+        {
+          "title": "伊朗议会媒体中心：这位谎话连篇的美国总统，据称其虚假言论多达 32000 条，如今又企图借助编造的新闻以及卑劣的媒体手段，掩盖军事失利，修复自己在美国民众与世界公众面前的形象。 特朗普刻意在个人社交账号发布假借伊朗议会议长名义的虚假信息，意在继续大肆撒谎，同时逃避由他一手制造的危机。 此前，特朗普就曾凭借同样站不住脚的虚假新闻，配合内塔尼亚胡的算计，将美国外交政策拖入危机，让本国民众付出沉重代价，近期的燃油危机、前所未有的通胀皆属此列。 伊朗议会议长卡利巴夫视频已对外公开，其讲话真实内容和虚假新闻媒体编造的标题存在明显出入，这也成为美国总统虚假信息宣传行动的又一桩丑闻。",
+          "url": "https://wallstreetcn.com/livenews/3154106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时36分 ~ 02时49分]"
+        },
+        {
+          "title": "特朗普抨击加拿大领导层 称“不再允许加拿大占美国便宜”",
+          "url": "https://flash.jin10.com/detail/20260825021027172800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时49分"
+        },
+        {
+          "title": "美国总统特朗普称加拿大安大略省省长福特言论“哗众取宠”，指责加拿大长期依赖美国，并警告若不改变政策将面临更严重后果。",
+          "url": "https://flash.jin10.com/detail/20260825020451154800",
+          "source": "金十数据",
+          "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时36分"
+          "time_info": "02时49分"
         },
         {
           "title": "据福克斯商业新闻：华尔街高管表示，美国财长贝森特准备采取激进措施，将10年期美国国债收益率推向5%左右。预计特朗普政府不会推行财政紧缩政策，而是旨在通过增加税收来摆脱债务。",
@@ -86,35 +178,13 @@
           "time_info": "00时44分"
         },
         {
-          "title": "美国财长贝森特：在总统特朗普任期内，我们正结束伊朗威胁。 伊朗有两条路，要么恢复正常、要么被彻底孤立。",
-          "url": "https://wallstreetcn.com/livenews/3154109",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时36分"
-        },
-        {
           "title": "美国财长贝森特：美国总统特朗普希望加拿大能够坐下来真诚谈判。",
           "url": "https://flash.jin10.com/detail/20260825011838883800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时36分"
-        },
-        {
-          "title": "伊朗议会媒体中心：这位谎话连篇的美国总统，据称其虚假言论多达 32000 条，如今又企图借助编造的新闻以及卑劣的媒体手段，掩盖军事失利，修复自己在美国民众与世界公众面前的形象。 特朗普刻意在个人社交账号发布假借伊朗议会议长名义的虚假信息，意在继续大肆撒谎，同时逃避由他一手制造的危机。 此前，特朗普就曾凭借同样站不住脚的虚假新闻，配合内塔尼亚胡的算计，将美国外交政策拖入危机，让本国民众付出沉重代价，近期的燃油危机、前所未有的通胀皆属此列。 伊朗议会议长卡利巴夫视频已对外公开，其讲话真实内容和虚假新闻媒体编造的标题存在明显出入，这也成为美国总统虚假信息宣传行动的又一桩丑闻。",
-          "url": "https://wallstreetcn.com/livenews/3154106",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时36分"
         },
@@ -141,13 +211,24 @@
           "time_info": "00时44分"
         },
         {
+          "title": "新闻蒸馏器｜美加谈崩，特朗普关税施压首次被盟友正面顶回，意味什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33838251",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时49分"
+        },
+        {
           "title": "加拿大总理卡尼：（关于特朗普最新的关税威胁）美国采取某种形式的报复并不令人意外。",
           "url": "https://flash.jin10.com/detail/20260825011154003800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时36分"
         },
@@ -158,7 +239,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时36分"
         },
@@ -169,7 +250,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时36分"
         },
@@ -198,8 +279,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时49分]"
         },
         {
           "title": "美国财政部“救市”新消息！近万亿美元现金储备可能出手买美债",
@@ -209,8 +290,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时49分]"
         },
         {
           "title": "美债延续涨势！报道：贝森特或动用近万亿美元国库账户，为债券回购提供资金",
@@ -220,19 +301,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时49分]"
         },
         {
           "title": "油价回落缓解美债压力 美股期指下跌 市场聚焦贝森特发布会 | 今夜看点",
           "url": "https://www.cls.cn/detail/2462745",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时49分]"
         },
         {
           "title": "华尔街高管：特朗普准备将10年期美债收益率推向5%",
@@ -240,11 +322,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时49分]"
         },
         {
           "title": "贝森特拟“震慑”债券空头 考虑回购及调整美债发行结构",
@@ -286,24 +369,25 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "为什么宇树需要DeepSeek",
+          "url": "https://www.toutiao.com/trending/7677584890149211711/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            21,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时49分]"
+        },
+        {
           "title": "DeepSeek视觉寄生体首测",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%A7%86%E8%A7%89%E5%AF%84%E7%94%9F%E4%BD%93%E9%A6%96%E6%B5%8B",
           "source": "bilibili 热搜",
           "ranks": [
             11,
             17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时36分]"
-        },
-        {
-          "title": "为什么宇树需要DeepSeek",
-          "url": "https://www.toutiao.com/trending/7677584890149211711/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            21
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -323,8 +407,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时49分]"
         },
         {
           "title": "美银：如果共和党中选输掉参议院，美股将跌超10%，德州选战决定“AI政策”",
@@ -334,8 +418,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时49分]"
         }
       ]
     },
@@ -348,11 +432,12 @@
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%A4%A7%E6%B6%A8+%E6%B7%B1%E5%9C%B3%E6%B0%B4%E8%B4%9D%E5%8F%88%E8%A2%AB%E6%8C%A4%E7%88%86",
           "source": "百度热搜",
           "ranks": [
-            25
+            25,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时49分]"
         }
       ]
     },
@@ -365,11 +450,12 @@
           "url": "https://wallstreetcn.com/livenews/3154110",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时36分 ~ 02时49分]"
         }
       ]
     }
