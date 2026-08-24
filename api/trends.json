@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-24T17:54:54.790445+08:00",
-  "total_titles_processed": 1429,
+  "generated_at": "2026-08-24T18:42:30.447285+08:00",
+  "total_titles_processed": 1535,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普披露6月投资组合“大换血”：减持Meta 买入伯克希尔等股票",
@@ -61,8 +61,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时40分 ~ 17时54分]"
+          "appearance_count": 11,
+          "time_info": "[09时40分 ~ 18时42分]"
+        },
+        {
+          "title": "特朗普75国签证禁令案幕后：拜登埋的雷炸了",
+          "url": "https://news.ifeng.com/c/8vqa82dukEb",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时51分 ~ 18时42分]"
         },
         {
           "title": "特朗普：可出动美军干预债市",
@@ -97,18 +109,6 @@
           "time_info": "[00时32分 ~ 15时08分]"
         },
         {
-          "title": "特朗普75国签证禁令案幕后：拜登埋的雷炸了",
-          "url": "https://news.ifeng.com/c/8vqa82dukEb",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时51分 ~ 17时54分]"
-        },
-        {
           "title": "美加贸易为何谈崩了？专家：特朗普想吞并加拿大",
           "url": "https://news.ifeng.com/c/8vqjNemVtmr",
           "source": "凤凰网",
@@ -116,8 +116,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时08分 ~ 17时54分]"
+          "appearance_count": 4,
+          "time_info": "[15时08分 ~ 18时42分]"
         },
         {
           "title": "特朗普最新调仓披露",
@@ -159,6 +159,17 @@
           "time_info": "09时41分"
         },
         {
+          "title": "胖了快21斤！特朗普体重构成重大健康风险",
+          "url": "https://news.ifeng.com/c/8vqlYDQQI2y",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时08分 ~ 18时42分]"
+        },
+        {
           "title": "特朗普计划于下月访问爱尔兰并观看高尔夫球赛",
           "url": "https://flash.jin10.com/detail/20260824050302135800",
           "source": "金十数据",
@@ -183,17 +194,6 @@
           "time_info": "[05时27分 ~ 06时27分]"
         },
         {
-          "title": "胖了快21斤！特朗普体重构成重大健康风险",
-          "url": "https://news.ifeng.com/c/8vqlYDQQI2y",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时08分 ~ 17时54分]"
-        },
-        {
           "title": "美国总统特朗普：不肯规划建设数据中心的社区是在犯错误。数据中心提供了大量的就业机会和资金。",
           "url": "https://flash.jin10.com/detail/20260824054714681800",
           "source": "金十数据",
@@ -204,6 +204,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时27分 ~ 07时26分]"
+        },
+        {
+          "title": "金与正，没接特朗普的话",
+          "url": "https://news.ifeng.com/c/8vqw7NCqQ1S",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-24）",
+          "url": "https://flash.jin10.com/detail/20260824180559593800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         },
         {
           "title": "特朗普在伊朗问题上总是“给点阳光就灿烂”，极限施压只会使美伊滑向新一轮战争",
@@ -223,7 +245,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
         },
@@ -245,7 +267,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
         },
@@ -256,9 +278,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
+        },
+        {
+          "title": "伊朗货币贬值为特朗普“经济大决战”创造条件",
+          "url": "https://flash.jin10.com/detail/20260824175538075800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         }
       ]
     },
@@ -361,11 +394,12 @@
           "ranks": [
             8,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时09分 ~ 17时54分]"
+          "appearance_count": 9,
+          "time_info": "[11时09分 ~ 18时42分]"
         },
         {
           "title": "美债扰动不改A股中期运行逻辑，券商建议锚定盈利修复主线",
@@ -437,9 +471,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时54分 ~ 18时42分]"
         },
         {
           "title": "美股再现超级IPO",
@@ -498,7 +532,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
         }
@@ -547,7 +581,7 @@
     },
     {
       "keyword_group": "招商银行 万华化学 福耀玻璃 旗滨集团 苏农银行 奥浦迈 爱美客 美的集团 潍柴动力 苏泊尔 鱼跃医疗 牧原股份 振邦智能 华兰生物 证监会",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "A股CRO概念持续走弱，海特生物跌超11%，泰格医药跌9.42%，义翘神州跌8.17%，近岸蛋白、奥浦迈、博腾股份跌超6%。",
@@ -559,6 +593,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时09分"
+        },
+        {
+          "title": "【万华化学：2026年上半年净利润100.63亿元，同比增长64.35%】万华化学公告，2026年上半年营业收入1193.16亿元，同比增长31.26%；归属于上市公司股东的净利润100.63亿元，同比增长64.35%，2025年上半年为61.23亿元；扣非净利润96.76亿元，同比增长54.96%。公司拟每10股派发现金红利8.1元（含税），合计25.36亿元（含税）。",
+          "url": "https://wallstreetcn.com/livenews/3153831",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "银行消保 金融监管 人民银行",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "8月25日，中国人民银行将以固定数量、利率招标、多重价位中标方式开展5000亿元MLF操作，期限为1年期。",
+          "url": "https://wallstreetcn.com/livenews/3153829",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         }
       ]
     },
