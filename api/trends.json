@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24T15:08:49.260530+08:00",
-  "total_titles_processed": 1170,
+  "generated_at": "2026-08-24T16:54:49.864831+08:00",
+  "total_titles_processed": 1312,
   "failed_sources": [],
   "trends": [
     {
@@ -93,8 +93,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时40分 ~ 15时08分]"
+          "appearance_count": 9,
+          "time_info": "[09时40分 ~ 16时54分]"
         },
         {
           "title": "特朗普75国签证禁令案幕后：拜登埋的雷炸了",
@@ -105,8 +105,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时51分 ~ 15时08分]"
+          "appearance_count": 6,
+          "time_info": "[12时51分 ~ 16时54分]"
         },
         {
           "title": "特朗普最新调仓披露",
@@ -143,9 +143,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时08分 ~ 16时54分]"
         },
         {
           "title": "美国总统特朗普周一日程一览",
@@ -183,6 +183,17 @@
           "time_info": "[05时27分 ~ 06时27分]"
         },
         {
+          "title": "胖了快21斤！特朗普体重构成重大健康风险",
+          "url": "https://news.ifeng.com/c/8vqlYDQQI2y",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时08分 ~ 16时54分]"
+        },
+        {
           "title": "美国总统特朗普：不肯规划建设数据中心的社区是在犯错误。数据中心提供了大量的就业机会和资金。",
           "url": "https://flash.jin10.com/detail/20260824054714681800",
           "source": "金十数据",
@@ -193,17 +204,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时27分 ~ 07时26分]"
-        },
-        {
-          "title": "胖了快21斤！特朗普体重构成重大健康风险",
-          "url": "https://news.ifeng.com/c/8vqlYDQQI2y",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时08分"
         },
         {
           "title": "特朗普在伊朗问题上总是“给点阳光就灿烂”，极限施压只会使美伊滑向新一轮战争",
@@ -231,7 +231,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "国际金价连涨三周，反弹还是反转？",
@@ -283,6 +283,17 @@
           "time_info": "[09时40分 ~ 09时41分]"
         },
         {
+          "title": "金价连破三道关口 水贝金条销量大涨",
+          "url": "https://wallstreetcn.com/livenews/3153775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
           "title": "德黑兰市场黄金价格创纪录",
           "url": "https://flash.jin10.com/detail/20260823215017623800",
           "source": "金十数据",
@@ -303,6 +314,69 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "“拯救美债”接力棒：贝森特上周搞砸了，本周看沃什了",
+          "url": "https://wallstreetcn.com/articles/3780106",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时09分 ~ 16时54分]"
+        },
+        {
+          "title": "美债扰动不改A股中期运行逻辑，券商建议锚定盈利修复主线",
+          "url": "https://wallstreetcn.com/livenews/3153531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "美债风暴席卷全球",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%80%BA%E9%A3%8E%E6%9A%B4%E5%B8%AD%E5%8D%B7%E5%85%A8%E7%90%83&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时40分 ~ 09时41分]"
+        },
+        {
+          "title": "全球央行年会本周召开！贝森特救不动的美债 沃什能救吗？",
+          "url": "https://www.cls.cn/detail/2461879",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
+          "title": "美债收益率压不住，日本又要来“补刀”？",
+          "url": "https://flash.jin10.com/detail/20260824162514834800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
         }
       ]
     },
@@ -348,43 +422,42 @@
       ]
     },
     {
-      "keyword_group": "美债",
+      "keyword_group": "美股",
       "match_count": 3,
       "titles": [
         {
-          "title": "“拯救美债”接力棒：贝森特上周搞砸了，本周看沃什了",
-          "url": "https://wallstreetcn.com/articles/3780106",
-          "source": "华尔街见闻",
+          "title": "美股三大股指期货周一开盘微跌。",
+          "url": "https://flash.jin10.com/detail/20260824060125013800",
+          "source": "金十数据",
           "ranks": [
-            8,
-            5,
-            3
+            1,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时09分 ~ 15时08分]"
+          "appearance_count": 2,
+          "time_info": "[06时27分 ~ 07时26分]"
         },
         {
-          "title": "美债扰动不改A股中期运行逻辑，券商建议锚定盈利修复主线",
-          "url": "https://wallstreetcn.com/livenews/3153531",
-          "source": "华尔街见闻-快讯",
+          "title": "美股再现超级IPO",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E5%86%8D%E7%8E%B0%E8%B6%85%E7%BA%A7IPO",
+          "source": "bilibili 热搜",
           "ranks": [
-            1
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
         {
-          "title": "美债风暴席卷全球",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%80%BA%E9%A3%8E%E6%9A%B4%E5%B8%AD%E5%8D%B7%E5%85%A8%E7%90%83&t=31&band_rank=15&Refer=top",
-          "source": "微博",
+          "title": "美股盘前，存储芯片概念股集体下挫，闪迪跌超4%，西部数据跌超2%，美光科技、SK海力士均跌超3%；光通信板块下跌，Lumentum跌超4%，康宁跌超3%；中概股多数下跌，理想汽车、网易跌3%，阿里巴巴跌4%。",
+          "url": "https://wallstreetcn.com/livenews/3153747",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            30
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时40分 ~ 09时41分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
         }
       ]
     },
@@ -410,38 +483,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美股三大股指期货周一开盘微跌。",
-          "url": "https://flash.jin10.com/detail/20260824060125013800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时27分 ~ 07时26分]"
-        },
-        {
-          "title": "美股再现超级IPO",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E5%86%8D%E7%8E%B0%E8%B6%85%E7%BA%A7IPO",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
         }
       ]
     },
