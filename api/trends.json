@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-25T14:57:31.439117+08:00",
-  "total_titles_processed": 1250,
+  "generated_at": "2026-08-25T15:51:25.959816+08:00",
+  "total_titles_processed": 1358,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "“特朗普正就制裁伊朗致电各国领导人”",
@@ -90,11 +90,12 @@
           "url": "https://news.ifeng.com/c/8vsFDQjkw57",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时37分 ~ 14时57分]"
+          "appearance_count": 3,
+          "time_info": "[13时37分 ~ 15时51分]"
         },
         {
           "title": "美加贸易为何谈崩了？专家：特朗普想吞并加拿大",
@@ -244,6 +245,18 @@
           "time_info": "[03时36分 ~ 04时36分]"
         },
         {
+          "title": "特朗普接连晒三张与金正恩合照",
+          "url": "https://www.toutiao.com/trending/7677781806263796262/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时57分 ~ 15时51分]"
+        },
+        {
           "title": "美国最高法院推翻了此前在23个州和华盛顿特区阻止特朗普限制邮寄选票行政命令的司法裁决。",
           "url": "https://flash.jin10.com/detail/20260825044253424800",
           "source": "金十数据",
@@ -301,6 +314,17 @@
           "time_info": "03时36分"
         },
         {
+          "title": "特朗普最新披露：6月股票交易超千笔 曾买入马斯克SpaceX股份",
+          "url": "https://www.cls.cn/detail/2463013",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时51分"
+        },
+        {
           "title": "据福克斯商业新闻：华尔街高管表示，美国财长贝森特准备采取激进措施，将10年期美国国债收益率推向5%左右。预计特朗普政府不会推行财政紧缩政策，而是旨在通过增加税收来摆脱债务。",
           "url": "https://flash.jin10.com/detail/20260825000907001800",
           "source": "金十数据",
@@ -340,7 +364,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时57分"
         },
@@ -455,17 +479,6 @@
           "time_info": "00时44分"
         },
         {
-          "title": "特朗普接连晒三张与金正恩合照",
-          "url": "https://www.toutiao.com/trending/7677781806263796262/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时57分"
-        },
-        {
           "title": "加拿大将于周二公布应对特朗普关税的措施",
           "url": "https://flash.jin10.com/detail/20260825085537249800",
           "source": "金十数据",
@@ -503,8 +516,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时44分 ~ 14时57分]"
+          "appearance_count": 15,
+          "time_info": "[00时44分 ~ 15时51分]"
         },
         {
           "title": "“拯救美债”接力棒：贝森特上周搞砸了，本周看沃什了",
@@ -553,6 +566,17 @@
           "time_info": "[09时35分 ~ 13时37分]"
         },
         {
+          "title": "华尔街给美财政部泼冷水：即便动用万亿国库账户，美债回购也难压低长债收益率",
+          "url": "https://wallstreetcn.com/articles/3780187",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时44分 ~ 15时51分]"
+        },
+        {
           "title": "华尔街高管：特朗普准备将10年期美债收益率推向5%",
           "url": "https://wallstreetcn.com/livenews/3154092",
           "source": "华尔街见闻-快讯",
@@ -564,17 +588,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时44分 ~ 02时49分]"
-        },
-        {
-          "title": "华尔街给美财政部泼冷水：即便动用万亿国库账户，美债回购也难压低长债收益率",
-          "url": "https://wallstreetcn.com/articles/3780187",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时44分 ~ 14时57分]"
         },
         {
           "title": "中长期美债收益率显著走低",
@@ -785,6 +798,61 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "【早报】美股存储、光通信板块重挫；金价触及逾3个月高位；伦铜创新高；美公布多项针对伊朗经济制裁",
+          "url": "https://www.cls.cn/detail/2462989",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时35分 ~ 14时57分]"
+        },
+        {
+          "title": "金价大涨 深圳水贝又被挤爆",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%A4%A7%E6%B6%A8+%E6%B7%B1%E5%9C%B3%E6%B0%B4%E8%B4%9D%E5%8F%88%E8%A2%AB%E6%8C%A4%E7%88%86",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            22,
+            17,
+            12,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 07时27分]"
+        },
+        {
+          "title": "机构：美元和美债收益率走强 金价亚洲午后回落",
+          "url": "https://flash.jin10.com/detail/20260825151528332800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时51分"
+        },
+        {
+          "title": "花旗称金价料仍有进一步上涨空间 上调三个月目标价至4800美元",
+          "url": "https://wallstreetcn.com/livenews/3154231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时36分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 4,
       "titles": [
@@ -869,8 +937,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时04分 ~ 14时57分]"
+          "appearance_count": 5,
+          "time_info": "[11时04分 ~ 15时51分]"
         },
         {
           "title": "DeepSeek视觉寄生体首测",
@@ -885,50 +953,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时44分 ~ 07时27分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "【早报】美股存储、光通信板块重挫；金价触及逾3个月高位；伦铜创新高；美公布多项针对伊朗经济制裁",
-          "url": "https://www.cls.cn/detail/2462989",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时35分 ~ 14时57分]"
-        },
-        {
-          "title": "金价大涨 深圳水贝又被挤爆",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%A4%A7%E6%B6%A8+%E6%B7%B1%E5%9C%B3%E6%B0%B4%E8%B4%9D%E5%8F%88%E8%A2%AB%E6%8C%A4%E7%88%86",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            22,
-            17,
-            12,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 07时27分]"
-        },
-        {
-          "title": "花旗称金价料仍有进一步上涨空间 上调三个月目标价至4800美元",
-          "url": "https://wallstreetcn.com/livenews/3154231",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时36分"
         }
       ]
     },
