@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-25T18:38:49.720125+08:00",
-  "total_titles_processed": 1697,
+  "generated_at": "2026-08-25T19:34:09.460601+08:00",
+  "total_titles_processed": 1800,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 54,
       "titles": [
         {
           "title": "“特朗普正就制裁伊朗致电各国领导人”",
@@ -82,6 +82,33 @@
           "time_info": "[00时44分 ~ 07时27分]"
         },
         {
+          "title": "特朗普接连晒三张与金正恩合照",
+          "url": "https://www.toutiao.com/trending/7677781806263796262/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            12,
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时57分 ~ 19时34分]"
+        },
+        {
+          "title": "特朗普：明年起将加拿大汽车、零部件和钢铁关税提高至50%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33841628",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时50分 ~ 19时34分]"
+        },
+        {
           "title": "特朗普称朝鲜有57枚核弹",
           "url": "https://www.toutiao.com/trending/7676758000966598683/",
           "source": "今日头条",
@@ -133,30 +160,15 @@
           "time_info": "[06时32分 ~ 12时44分]"
         },
         {
-          "title": "特朗普接连晒三张与金正恩合照",
-          "url": "https://www.toutiao.com/trending/7677781806263796262/",
-          "source": "今日头条",
+          "title": "美国总统特朗普：伊朗没有向大批军方人员支付薪资。",
+          "url": "https://flash.jin10.com/detail/20260825191246527800",
+          "source": "金十数据",
           "ranks": [
-            27,
-            12,
-            13
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时57分 ~ 18时38分]"
-        },
-        {
-          "title": "特朗普：明年起将加拿大汽车、零部件和钢铁关税提高至50%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33841628",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时50分 ~ 18时38分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
         },
         {
           "title": "特朗普贴身助理的权力有多大",
@@ -170,13 +182,24 @@
           "time_info": "16时50分"
         },
         {
+          "title": "美国总统特朗普：伊朗人道主义危机必须立即停止。",
+          "url": "https://flash.jin10.com/detail/20260825191221962800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-25）",
           "url": "https://flash.jin10.com/detail/20260825181356780800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         },
@@ -255,6 +278,17 @@
           "time_info": "[16时50分 ~ 18时38分]"
         },
         {
+          "title": "特朗普三线极限施压，同时对准中国、加拿大、伊朗",
+          "url": "https://news.ifeng.com/c/8vsiBkqEpPV",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时38分 ~ 19时34分]"
+        },
+        {
           "title": "加拿大总理卡尼：加方在能源领域对特朗普政府拥有报复选项。",
           "url": "https://wallstreetcn.com/livenews/3154114",
           "source": "华尔街见闻-快讯",
@@ -329,17 +363,6 @@
           "time_info": "[01时36分 ~ 02时49分]"
         },
         {
-          "title": "特朗普三线极限施压，同时对准中国、加拿大、伊朗",
-          "url": "https://news.ifeng.com/c/8vsiBkqEpPV",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时38分"
-        },
-        {
           "title": "特朗普抨击加拿大领导层 称“不再允许加拿大占美国便宜”",
           "url": "https://flash.jin10.com/detail/20260825021027172800",
           "source": "金十数据",
@@ -368,7 +391,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         },
@@ -461,6 +484,17 @@
           "time_info": "00时44分"
         },
         {
+          "title": "特朗普：考虑将安大略湖更名为“美国湖”。 别指望再和安大略省做多少生意了。",
+          "url": "https://wallstreetcn.com/livenews/3154602",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
+        },
+        {
           "title": "墨西哥捡漏机会来了！特朗普跟加拿大撕破脸，给了它新的筹码",
           "url": "https://flash.jin10.com/detail/20260825120653400800",
           "source": "金十数据",
@@ -472,6 +506,17 @@
           "time_info": "12时44分"
         },
         {
+          "title": "特朗普施压加拿大，提出将安大略湖更名为“美国湖”",
+          "url": "https://flash.jin10.com/detail/20260825190248181800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
+        },
+        {
           "title": "大V：特朗普想打经济战发现没人跟风",
           "url": "https://www.toutiao.com/trending/7677517230615039526/",
           "source": "今日头条",
@@ -481,6 +526,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
+        },
+        {
+          "title": "“不再与安大略做生意” 特朗普称安大略湖或改名“美国湖”",
+          "url": "https://flash.jin10.com/detail/20260825190012389800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
         },
         {
           "title": "特朗普据报希望巴基斯坦促美伊复谈",
@@ -555,7 +611,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         },
@@ -597,8 +653,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时44分 ~ 18时38分]"
+          "appearance_count": 21,
+          "time_info": "[00时44分 ~ 19时34分]"
         },
         {
           "title": "“拯救美债”接力棒：贝森特上周搞砸了，本周看沃什了",
@@ -639,22 +695,12 @@
           "url": "https://wallstreetcn.com/articles/3780187",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时44分 ~ 18时38分]"
-        },
-        {
-          "title": "特朗普如何应对美债破40万亿",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E7%BE%8E%E5%80%BA%E7%A0%B440%E4%B8%87%E4%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时38分"
+          "appearance_count": 9,
+          "time_info": "[12时44分 ~ 19时34分]"
         },
         {
           "title": "“贝森特的老师”强烈反对贝森特：回购美债是消耗“用两个世纪积累的资产”--美债公信力",
@@ -663,11 +709,24 @@
           "ranks": [
             9,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时50分 ~ 18时38分]"
+          "appearance_count": 6,
+          "time_info": "[16时50分 ~ 19时34分]"
+        },
+        {
+          "title": "特朗普如何应对美债破40万亿",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E7%BE%8E%E5%80%BA%E7%A0%B440%E4%B8%87%E4%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时38分 ~ 19时34分]"
         },
         {
           "title": "40万亿美债压顶，特朗普摊牌了：终极干预手段是美军",
@@ -777,7 +836,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股收盘：科技股承压纳指跌0.76% 多重重磅变量将接踵而至",
@@ -816,27 +875,28 @@
           "time_info": "[00时44分 ~ 11时04分]"
         },
         {
+          "title": "美股延长交易时间有何影响",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E5%BB%B6%E9%95%BF%E4%BA%A4%E6%98%93%E6%97%B6%E9%97%B4%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时40分 ~ 19时34分]"
+        },
+        {
           "title": "美股期货走高 存储概念盘前反弹",
           "url": "https://flash.jin10.com/detail/20260825181625073800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
-        },
-        {
-          "title": "美股延长交易时间有何影响",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E5%BB%B6%E9%95%BF%E4%BA%A4%E6%98%93%E6%97%B6%E9%97%B4%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时40分 ~ 18时38分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异，布油基金跌1.9%，黄金ETF涨 约0.8%",
@@ -952,9 +1012,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
+        },
+        {
+          "title": "阿里巴巴美股盘前拉升，现涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3154596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
         }
       ]
     },
@@ -990,6 +1061,18 @@
           "time_info": "[00时44分 ~ 07时27分]"
         },
         {
+          "title": "金价飞涨原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%A3%9E%E6%B6%A8%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时38分 ~ 19时34分]"
+        },
+        {
           "title": "机构：美元和美债收益率走强 金价亚洲午后回落",
           "url": "https://flash.jin10.com/detail/20260825151528332800",
           "source": "金十数据",
@@ -1010,17 +1093,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
-        },
-        {
-          "title": "金价飞涨原因",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%A3%9E%E6%B6%A8%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时38分"
         }
       ]
     },
@@ -1095,8 +1167,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时04分 ~ 18时38分]"
+          "appearance_count": 11,
+          "time_info": "[11时04分 ~ 19时34分]"
         },
         {
           "title": "为什么宇树需要DeepSeek",
@@ -1131,6 +1203,35 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "周一（8月24日），美股超大规模云服务商（Hyperscalers）涨0.72%，报95.83点，美股早盘持续走高、随后高位窄幅震荡。 成分股中，Meta、亚马逊至少收涨1.33%，谷歌A、微软至少涨0.84%，甲骨文则跌2.74%。",
+          "url": "https://wallstreetcn.com/livenews/3154178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时27分]"
+        },
+        {
+          "title": "谷歌下单3200辆中国新能源",
+          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E4%B8%8B%E5%8D%953200%E8%BE%86%E4%B8%AD%E5%9B%BD%E6%96%B0%E8%83%BD%E6%BA%90",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时33分 ~ 19时34分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
@@ -1155,24 +1256,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周一（8月24日），美股超大规模云服务商（Hyperscalers）涨0.72%，报95.83点，美股早盘持续走高、随后高位窄幅震荡。 成分股中，Meta、亚马逊至少收涨1.33%，谷歌A、微软至少涨0.84%，甲骨文则跌2.74%。",
-          "url": "https://wallstreetcn.com/livenews/3154178",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时32分 ~ 07时27分]"
         }
       ]
     }
