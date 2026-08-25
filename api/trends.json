@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-25T15:51:25.959816+08:00",
-  "total_titles_processed": 1358,
+  "generated_at": "2026-08-25T16:50:39.084408+08:00",
+  "total_titles_processed": 1471,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 45,
       "titles": [
         {
           "title": "“特朗普正就制裁伊朗致电各国领导人”",
@@ -59,6 +59,18 @@
           "time_info": "[00时44分 ~ 07时27分]"
         },
         {
+          "title": "“伊朗悬赏1000万美金暗杀特朗普的小儿子”，美特勤局回应",
+          "url": "https://news.ifeng.com/c/8vsFDQjkw57",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时37分 ~ 16时50分]"
+        },
+        {
           "title": "伊朗官员：特朗普“说太多”",
           "url": "https://news.ifeng.com/c/8vqKE38LhPQ",
           "source": "凤凰网",
@@ -84,18 +96,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时44分 ~ 06时32分]"
-        },
-        {
-          "title": "“伊朗悬赏1000万美金暗杀特朗普的小儿子”，美特勤局回应",
-          "url": "https://news.ifeng.com/c/8vsFDQjkw57",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时37分 ~ 15时51分]"
         },
         {
           "title": "美加贸易为何谈崩了？专家：特朗普想吞并加拿大",
@@ -131,6 +131,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[06时32分 ~ 12时44分]"
+        },
+        {
+          "title": "特朗普贴身助理的权力有多大",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%B4%B4%E8%BA%AB%E5%8A%A9%E7%90%86%E7%9A%84%E6%9D%83%E5%8A%9B%E6%9C%89%E5%A4%9A%E5%A4%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
         },
         {
           "title": "美国财长：特朗普正就停止与伊朗往来致电多方领导人",
@@ -208,6 +219,18 @@
           "time_info": "[01时36分 ~ 03时36分]"
         },
         {
+          "title": "特朗普接连晒三张与金正恩合照",
+          "url": "https://www.toutiao.com/trending/7677781806263796262/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时57分 ~ 16时50分]"
+        },
+        {
           "title": "美国财长贝森特：在总统特朗普任期内，我们正结束伊朗威胁。 伊朗有两条路，要么恢复正常、要么被彻底孤立。",
           "url": "https://wallstreetcn.com/livenews/3154109",
           "source": "华尔街见闻-快讯",
@@ -245,18 +268,6 @@
           "time_info": "[03时36分 ~ 04时36分]"
         },
         {
-          "title": "特朗普接连晒三张与金正恩合照",
-          "url": "https://www.toutiao.com/trending/7677781806263796262/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时57分 ~ 15时51分]"
-        },
-        {
           "title": "美国最高法院推翻了此前在23个州和华盛顿特区阻止特朗普限制邮寄选票行政命令的司法裁决。",
           "url": "https://flash.jin10.com/detail/20260825044253424800",
           "source": "金十数据",
@@ -292,6 +303,17 @@
           "time_info": "02时49分"
         },
         {
+          "title": "特朗普：明年起将加拿大汽车、零部件和钢铁关税提高至50%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33841628",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        },
+        {
           "title": "美国总统特朗普称加拿大安大略省省长福特言论“哗众取宠”，指责加拿大长期依赖美国，并警告若不改变政策将面临更严重后果。",
           "url": "https://flash.jin10.com/detail/20260825020451154800",
           "source": "金十数据",
@@ -320,7 +342,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时51分"
         },
@@ -479,6 +501,17 @@
           "time_info": "00时44分"
         },
         {
+          "title": "特朗普对人民大会堂情有独钟",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82%E6%83%85%E6%9C%89%E7%8B%AC%E9%92%9F",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        },
+        {
           "title": "加拿大将于周二公布应对特朗普关税的措施",
           "url": "https://flash.jin10.com/detail/20260825085537249800",
           "source": "金十数据",
@@ -504,7 +537,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "美债延续涨势！报道：贝森特或动用近万亿美元国库账户，为债券回购提供资金",
@@ -516,8 +549,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时44分 ~ 15时51分]"
+          "appearance_count": 16,
+          "time_info": "[00时44分 ~ 16时50分]"
         },
         {
           "title": "“拯救美债”接力棒：贝森特上周搞砸了，本周看沃什了",
@@ -625,6 +658,17 @@
           "time_info": "00时44分"
         },
         {
+          "title": "“贝森特的老师”强烈反对贝森特：回购美债是消耗“用两个世纪积累的资产”--美债公信力",
+          "url": "https://wallstreetcn.com/articles/3780224",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        },
+        {
           "title": "贝森特称美债回购尚未启动，市场质疑政策信号反复",
           "url": "https://flash.jin10.com/detail/20260825025817613800",
           "source": "金十数据",
@@ -634,6 +678,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时36分"
+        },
+        {
+          "title": "日债收益率走高对日元和美债等的影响",
+          "url": "https://flash.jin10.com/detail/20260825161906402800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
         },
         {
           "title": "美国威胁以次级制裁扩大对伊朗的全球经济围堵，但制裁效果仍存疑；市场等待美债回购更多细节，贝森特却未释放更多信号……当前黄金略微呈现卖出信号，美油多头情绪回升，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -661,7 +716,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美股收盘：科技股承压纳指跌0.76% 多重重磅变量将接踵而至",
@@ -794,6 +849,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
+        },
+        {
+          "title": "美股盘前，存储芯片股小幅走高，SK海力士涨2％，美光科技涨1％。",
+          "url": "https://wallstreetcn.com/livenews/3154447",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
         }
       ]
     },
@@ -835,7 +901,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时51分"
         },
@@ -912,6 +978,20 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "英伟达震撼首测Vera Rubin，DeepSeek吞吐暴涨30倍！",
+          "url": "https://wallstreetcn.com/articles/3780194",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时04分 ~ 16时50分]"
+        },
+        {
           "title": "为什么宇树需要DeepSeek",
           "url": "https://www.toutiao.com/trending/7677584890149211711/",
           "source": "今日头条",
@@ -926,19 +1006,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时44分 ~ 07时27分]"
-        },
-        {
-          "title": "英伟达震撼首测Vera Rubin，DeepSeek吞吐暴涨30倍！",
-          "url": "https://wallstreetcn.com/articles/3780194",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时04分 ~ 15时51分]"
         },
         {
           "title": "DeepSeek视觉寄生体首测",
