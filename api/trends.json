@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25T16:50:39.084408+08:00",
-  "total_titles_processed": 1471,
+  "generated_at": "2026-08-25T17:41:14.194117+08:00",
+  "total_titles_processed": 1566,
   "failed_sources": [],
   "trends": [
     {
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[02时49分 ~ 12时44分]"
+        },
+        {
+          "title": "“伊朗悬赏1000万美金暗杀特朗普的小儿子”，美特勤局回应",
+          "url": "https://news.ifeng.com/c/8vsFDQjkw57",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时37分 ~ 17时41分]"
         },
         {
           "title": "特朗普政府启动“经济孤立行动” 公布多项针对伊朗的经济制裁举措",
@@ -57,18 +69,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时44分 ~ 07时27分]"
-        },
-        {
-          "title": "“伊朗悬赏1000万美金暗杀特朗普的小儿子”，美特勤局回应",
-          "url": "https://news.ifeng.com/c/8vsFDQjkw57",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时37分 ~ 16时50分]"
         },
         {
           "title": "伊朗官员：特朗普“说太多”",
@@ -139,9 +139,22 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
+        },
+        {
+          "title": "特朗普接连晒三张与金正恩合照",
+          "url": "https://www.toutiao.com/trending/7677781806263796262/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时57分 ~ 17时41分]"
         },
         {
           "title": "美国财长：特朗普正就停止与伊朗往来致电多方领导人",
@@ -206,6 +219,18 @@
           "time_info": "[02时49分 ~ 03时36分]"
         },
         {
+          "title": "特朗普：明年起将加拿大汽车、零部件和钢铁关税提高至50%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33841628",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时50分 ~ 17时41分]"
+        },
+        {
           "title": "加拿大总理卡尼：加方在能源领域对特朗普政府拥有报复选项。",
           "url": "https://wallstreetcn.com/livenews/3154114",
           "source": "华尔街见闻-快讯",
@@ -219,18 +244,6 @@
           "time_info": "[01时36分 ~ 03时36分]"
         },
         {
-          "title": "特朗普接连晒三张与金正恩合照",
-          "url": "https://www.toutiao.com/trending/7677781806263796262/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时57分 ~ 16时50分]"
-        },
-        {
           "title": "美国财长贝森特：在总统特朗普任期内，我们正结束伊朗威胁。 伊朗有两条路，要么恢复正常、要么被彻底孤立。",
           "url": "https://wallstreetcn.com/livenews/3154109",
           "source": "华尔街见闻-快讯",
@@ -242,6 +255,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时36分 ~ 03时36分]"
+        },
+        {
+          "title": "特朗普对人民大会堂情有独钟",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82%E6%83%85%E6%9C%89%E7%8B%AC%E9%92%9F",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时50分 ~ 17时41分]"
         },
         {
           "title": "美民众对伊战争支持率仅31% 特朗普支持率仍处历史低位",
@@ -301,17 +326,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
-        },
-        {
-          "title": "特朗普：明年起将加拿大汽车、零部件和钢铁关税提高至50%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33841628",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时50分"
         },
         {
           "title": "美国总统特朗普称加拿大安大略省省长福特言论“哗众取宠”，指责加拿大长期依赖美国，并警告若不改变政策将面临更严重后果。",
@@ -501,17 +515,6 @@
           "time_info": "00时44分"
         },
         {
-          "title": "特朗普对人民大会堂情有独钟",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82%E6%83%85%E6%9C%89%E7%8B%AC%E9%92%9F",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时50分"
-        },
-        {
           "title": "加拿大将于周二公布应对特朗普关税的措施",
           "url": "https://flash.jin10.com/detail/20260825085537249800",
           "source": "金十数据",
@@ -549,8 +552,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时44分 ~ 16时50分]"
+          "appearance_count": 18,
+          "time_info": "[00时44分 ~ 17时41分]"
         },
         {
           "title": "“拯救美债”接力棒：贝森特上周搞砸了，本周看沃什了",
@@ -587,6 +590,17 @@
           "time_info": "[00时44分 ~ 09时36分]"
         },
         {
+          "title": "华尔街给美财政部泼冷水：即便动用万亿国库账户，美债回购也难压低长债收益率",
+          "url": "https://wallstreetcn.com/articles/3780187",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时44分 ~ 17时41分]"
+        },
+        {
           "title": "40万亿美债压顶，特朗普摊牌了：终极干预手段是美军",
           "url": "https://v.ifeng.com/c/8vpa1Rig1fD",
           "source": "凤凰网",
@@ -599,15 +613,16 @@
           "time_info": "[09时35分 ~ 13时37分]"
         },
         {
-          "title": "华尔街给美财政部泼冷水：即便动用万亿国库账户，美债回购也难压低长债收益率",
-          "url": "https://wallstreetcn.com/articles/3780187",
+          "title": "“贝森特的老师”强烈反对贝森特：回购美债是消耗“用两个世纪积累的资产”--美债公信力",
+          "url": "https://wallstreetcn.com/articles/3780224",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时44分 ~ 15时51分]"
+          "appearance_count": 3,
+          "time_info": "[16时50分 ~ 17时41分]"
         },
         {
           "title": "华尔街高管：特朗普准备将10年期美债收益率推向5%",
@@ -658,17 +673,6 @@
           "time_info": "00时44分"
         },
         {
-          "title": "“贝森特的老师”强烈反对贝森特：回购美债是消耗“用两个世纪积累的资产”--美债公信力",
-          "url": "https://wallstreetcn.com/articles/3780224",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时50分"
-        },
-        {
           "title": "贝森特称美债回购尚未启动，市场质疑政策信号反复",
           "url": "https://flash.jin10.com/detail/20260825025817613800",
           "source": "金十数据",
@@ -686,7 +690,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
         },
@@ -716,7 +720,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股收盘：科技股承压纳指跌0.76% 多重重磅变量将接踵而至",
@@ -753,6 +757,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时44分 ~ 11时04分]"
+        },
+        {
+          "title": "美股延长交易时间有何影响",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E5%BB%B6%E9%95%BF%E4%BA%A4%E6%98%93%E6%97%B6%E9%97%B4%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时40分 ~ 17时41分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异，布油基金跌1.9%，黄金ETF涨 约0.8%",
@@ -857,7 +872,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
         }
@@ -985,11 +1000,12 @@
             9,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时04分 ~ 16时50分]"
+          "appearance_count": 8,
+          "time_info": "[11时04分 ~ 17时41分]"
         },
         {
           "title": "为什么宇树需要DeepSeek",
