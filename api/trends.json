@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25T20:57:16.936611+08:00",
-  "total_titles_processed": 1916,
+  "generated_at": "2026-08-25T21:55:51.788244+08:00",
+  "total_titles_processed": 2024,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,20 @@
           "time_info": "[13时37分 ~ 17时41分]"
         },
         {
+          "title": "特朗普：明年起将加拿大汽车、零部件和钢铁关税提高至50%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33841628",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时50分 ~ 21时55分]"
+        },
+        {
           "title": "特朗普政府启动“经济孤立行动” 公布多项针对伊朗的经济制裁举措",
           "url": "https://www.cls.cn/detail/2462949",
           "source": "财联社热门",
@@ -43,20 +57,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时27分 ~ 14时57分]"
-        },
-        {
-          "title": "特朗普：明年起将加拿大汽车、零部件和钢铁关税提高至50%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33841628",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            6,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时50分 ~ 20时57分]"
         },
         {
           "title": "新闻蒸馏器｜美加谈崩，特朗普关税施压首次被盟友正面顶回，意味什么？",
@@ -172,6 +172,17 @@
           "time_info": "19时34分"
         },
         {
+          "title": "特朗普三线极限施压，同时对准中国、加拿大、伊朗",
+          "url": "https://news.ifeng.com/c/8vsiBkqEpPV",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时38分 ~ 21时55分]"
+        },
+        {
           "title": "特朗普贴身助理的权力有多大",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%B4%B4%E8%BA%AB%E5%8A%A9%E7%90%86%E7%9A%84%E6%9D%83%E5%8A%9B%E6%9C%89%E5%A4%9A%E5%A4%A7",
           "source": "bilibili 热搜",
@@ -203,17 +214,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
-        },
-        {
-          "title": "特朗普三线极限施压，同时对准中国、加拿大、伊朗",
-          "url": "https://news.ifeng.com/c/8vsiBkqEpPV",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时38分 ~ 20时57分]"
         },
         {
           "title": "美国财长：特朗普正就停止与伊朗往来致电多方领导人",
@@ -316,6 +316,17 @@
           "time_info": "[01时36分 ~ 03时36分]"
         },
         {
+          "title": "特朗普称考虑将安大略湖更名为“美国湖”",
+          "url": "https://news.ifeng.com/c/8vsoKBNkGSr",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时57分 ~ 21时55分]"
+        },
+        {
           "title": "美民众对伊战争支持率仅31% 特朗普支持率仍处历史低位",
           "url": "https://flash.jin10.com/detail/20260825041400861800",
           "source": "金十数据",
@@ -373,17 +384,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
-        },
-        {
-          "title": "特朗普称考虑将安大略湖更名为“美国湖”",
-          "url": "https://news.ifeng.com/c/8vsoKBNkGSr",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时57分"
         },
         {
           "title": "美国总统特朗普称加拿大安大略省省长福特言论“哗众取宠”，指责加拿大长期依赖美国，并警告若不改变政策将面临更严重后果。",
@@ -623,7 +623,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
         },
@@ -663,214 +663,8 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 17,
-      "titles": [
-        {
-          "title": "美债延续涨势！报道：贝森特或动用近万亿美元国库账户，为债券回购提供资金",
-          "url": "https://wallstreetcn.com/articles/3780164",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时44分 ~ 20时57分]"
-        },
-        {
-          "title": "“拯救美债”接力棒：贝森特上周搞砸了，本周看沃什了",
-          "url": "https://wallstreetcn.com/articles/3780106",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 07时27分]"
-        },
-        {
-          "title": "美国财政部“救市”新消息！近万亿美元现金储备可能出手买美债",
-          "url": "https://www.cls.cn/detail/2462724",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 07时27分]"
-        },
-        {
-          "title": "油价回落缓解美债压力 美股期指下跌 市场聚焦贝森特发布会 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2462745",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 09时36分]"
-        },
-        {
-          "title": "华尔街给美财政部泼冷水：即便动用万亿国库账户，美债回购也难压低长债收益率",
-          "url": "https://wallstreetcn.com/articles/3780187",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时44分 ~ 20时57分]"
-        },
-        {
-          "title": "“贝森特的老师”强烈反对贝森特：回购美债是消耗“用两个世纪积累的资产”--美债公信力",
-          "url": "https://wallstreetcn.com/articles/3780224",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时50分 ~ 20时57分]"
-        },
-        {
-          "title": "特朗普如何应对美债破40万亿",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E7%BE%8E%E5%80%BA%E7%A0%B440%E4%B8%87%E4%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时38分 ~ 19时34分]"
-        },
-        {
-          "title": "40万亿美债压顶，特朗普摊牌了：终极干预手段是美军",
-          "url": "https://v.ifeng.com/c/8vpa1Rig1fD",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时35分 ~ 13时37分]"
-        },
-        {
-          "title": "华尔街高管：特朗普准备将10年期美债收益率推向5%",
-          "url": "https://wallstreetcn.com/livenews/3154092",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 02时49分]"
-        },
-        {
-          "title": "中长期美债收益率显著走低",
-          "url": "https://wallstreetcn.com/livenews/3154142",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时36分 ~ 05时35分]"
-        },
-        {
-          "title": "40万亿美债压顶 美会拿日本开刀吗",
-          "url": "https://www.toutiao.com/trending/7677540711566151218/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 05时35分]"
-        },
-        {
-          "title": "贝森特拟“震慑”债券空头 考虑回购及调整美债发行结构",
-          "url": "https://flash.jin10.com/detail/20260825001446181800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
-        },
-        {
-          "title": "杰克逊霍尔成美债关键一战，美银警告：沃什若不释放加息信号，30年期收益率或冲上5.5%",
-          "url": "https://wallstreetcn.com/articles/3780233",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时57分"
-        },
-        {
-          "title": "贝森特称美债回购尚未启动，市场质疑政策信号反复",
-          "url": "https://flash.jin10.com/detail/20260825025817613800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时36分"
-        },
-        {
-          "title": "日债收益率走高对日元和美债等的影响",
-          "url": "https://flash.jin10.com/detail/20260825161906402800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时50分"
-        },
-        {
-          "title": "美国威胁以次级制裁扩大对伊朗的全球经济围堵，但制裁效果仍存疑；市场等待美债回购更多细节，贝森特却未释放更多信号……当前黄金略微呈现卖出信号，美油多头情绪回升，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20260825103245494800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时04分"
-        },
-        {
-          "title": "城堡证券：财政部回购美债类似金融抑制，压力可能传导至美元和通胀",
-          "url": "https://wallstreetcn.com/livenews/3154067",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股收盘：科技股承压纳指跌0.76% 多重重磅变量将接踵而至",
@@ -931,6 +725,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
+        },
+        {
+          "title": "美股三大股指高开，道指涨0.36%，标普500指数涨0.35%，纳指涨0.65%。存储概念股反弹，闪迪、SK海力士涨约3%；英特尔涨3%，下一代服务器芯片Diamond Rapids亮相；英伟达涨1%。",
+          "url": "https://wallstreetcn.com/livenews/3154706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         },
         {
           "title": "美股大类资产类ETF涨跌各异，布油基金跌1.9%，黄金ETF涨 约0.8%",
@@ -1007,6 +812,17 @@
           "time_info": "[05时35分 ~ 06时32分]"
         },
         {
+          "title": "美股三大股指高开 存储概念反弹",
+          "url": "https://flash.jin10.com/detail/20260825213026320800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
           "title": "美股收盘：三大股指涨跌不一 存储概念走弱",
           "url": "https://flash.jin10.com/detail/20260825040150769800",
           "source": "金十数据",
@@ -1040,6 +856,28 @@
           "time_info": "16时50分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-08-25）",
+          "url": "https://flash.jin10.com/detail/20260825211352057800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3154700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
           "title": "美股股指期货涨幅扩大，纳指期货涨幅扩大至1%。",
           "url": "https://wallstreetcn.com/livenews/3154528",
           "source": "华尔街见闻-快讯",
@@ -1064,8 +902,227 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 18,
+      "titles": [
+        {
+          "title": "美债延续涨势！报道：贝森特或动用近万亿美元国库账户，为债券回购提供资金",
+          "url": "https://wallstreetcn.com/articles/3780164",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 22,
+          "time_info": "[00时44分 ~ 20时57分]"
+        },
+        {
+          "title": "“拯救美债”接力棒：贝森特上周搞砸了，本周看沃什了",
+          "url": "https://wallstreetcn.com/articles/3780106",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 07时27分]"
+        },
+        {
+          "title": "美国财政部“救市”新消息！近万亿美元现金储备可能出手买美债",
+          "url": "https://www.cls.cn/detail/2462724",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 07时27分]"
+        },
+        {
+          "title": "“贝森特的老师”强烈反对贝森特：回购美债是消耗“用两个世纪积累的资产”--美债公信力",
+          "url": "https://wallstreetcn.com/articles/3780224",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时50分 ~ 21时55分]"
+        },
+        {
+          "title": "油价回落缓解美债压力 美股期指下跌 市场聚焦贝森特发布会 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2462745",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 09时36分]"
+        },
+        {
+          "title": "华尔街给美财政部泼冷水：即便动用万亿国库账户，美债回购也难压低长债收益率",
+          "url": "https://wallstreetcn.com/articles/3780187",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时44分 ~ 21时55分]"
+        },
+        {
+          "title": "特朗普如何应对美债破40万亿",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E7%BE%8E%E5%80%BA%E7%A0%B440%E4%B8%87%E4%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时38分 ~ 19时34分]"
+        },
+        {
+          "title": "40万亿美债压顶，特朗普摊牌了：终极干预手段是美军",
+          "url": "https://v.ifeng.com/c/8vpa1Rig1fD",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时35分 ~ 13时37分]"
+        },
+        {
+          "title": "杰克逊霍尔成美债关键一战，美银警告：沃什若不释放加息信号，30年期收益率或冲上5.5%",
+          "url": "https://wallstreetcn.com/articles/3780233",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时57分 ~ 21时55分]"
+        },
+        {
+          "title": "华尔街高管：特朗普准备将10年期美债收益率推向5%",
+          "url": "https://wallstreetcn.com/livenews/3154092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时49分]"
+        },
+        {
+          "title": "中长期美债收益率显著走低",
+          "url": "https://wallstreetcn.com/livenews/3154142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时35分]"
+        },
+        {
+          "title": "40万亿美债压顶 美会拿日本开刀吗",
+          "url": "https://www.toutiao.com/trending/7677540711566151218/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时44分 ~ 05时35分]"
+        },
+        {
+          "title": "贝森特拟“震慑”债券空头 考虑回购及调整美债发行结构",
+          "url": "https://flash.jin10.com/detail/20260825001446181800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时44分"
+        },
+        {
+          "title": "美债收益率回落 美股期指上涨 比特币触及8万美元 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2463960",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
+          "title": "贝森特称美债回购尚未启动，市场质疑政策信号反复",
+          "url": "https://flash.jin10.com/detail/20260825025817613800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时36分"
+        },
+        {
+          "title": "日债收益率走高对日元和美债等的影响",
+          "url": "https://flash.jin10.com/detail/20260825161906402800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        },
+        {
+          "title": "美国威胁以次级制裁扩大对伊朗的全球经济围堵，但制裁效果仍存疑；市场等待美债回购更多细节，贝森特却未释放更多信号……当前黄金略微呈现卖出信号，美油多头情绪回升，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260825103245494800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时04分"
+        },
+        {
+          "title": "城堡证券：财政部回购美债类似金融抑制，压力可能传导至美元和通胀",
+          "url": "https://wallstreetcn.com/livenews/3154067",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时44分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "【早报】美股存储、光通信板块重挫；金价触及逾3个月高位；伦铜创新高；美公布多项针对伊朗经济制裁",
@@ -1104,8 +1161,19 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时38分 ~ 20时57分]"
+          "appearance_count": 5,
+          "time_info": "[18时38分 ~ 21时55分]"
+        },
+        {
+          "title": "高盛重申：年末黄金价格将达到每盎司4900美元！",
+          "url": "https://www.cls.cn/detail/2463609",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         },
         {
           "title": "机构：美元和美债收益率走强 金价亚洲午后回落",
@@ -1133,7 +1201,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "美元指数24日上涨",
@@ -1183,6 +1251,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时36分 ~ 03时36分]"
+        },
+        {
+          "title": "美国国债收益率持续走低，美元指数下跌近0.1%，至日内低点。",
+          "url": "https://wallstreetcn.com/livenews/3154701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
+          "title": "美元指数DXY短线下跌约10点，现报98.9点。",
+          "url": "https://flash.jin10.com/detail/20260825211358399800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         }
       ]
     },
@@ -1202,8 +1292,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时04分 ~ 20时57分]"
+          "appearance_count": 13,
+          "time_info": "[11时04分 ~ 21时55分]"
         },
         {
           "title": "为什么宇树需要DeepSeek",
@@ -1271,7 +1361,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
         }
