@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-25T19:34:09.460601+08:00",
-  "total_titles_processed": 1800,
+  "generated_at": "2026-08-25T20:57:16.936611+08:00",
+  "total_titles_processed": 1916,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 56,
       "titles": [
         {
           "title": "“特朗普正就制裁伊朗致电各国领导人”",
@@ -43,6 +43,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时27分 ~ 14时57分]"
+        },
+        {
+          "title": "特朗普：明年起将加拿大汽车、零部件和钢铁关税提高至50%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33841628",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时50分 ~ 20时57分]"
         },
         {
           "title": "新闻蒸馏器｜美加谈崩，特朗普关税施压首次被盟友正面顶回，意味什么？",
@@ -94,19 +108,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[14时57分 ~ 19时34分]"
-        },
-        {
-          "title": "特朗普：明年起将加拿大汽车、零部件和钢铁关税提高至50%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33841628",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时50分 ~ 19时34分]"
         },
         {
           "title": "特朗普称朝鲜有57枚核弹",
@@ -166,7 +167,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         },
@@ -188,7 +189,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         },
@@ -202,6 +203,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
+        },
+        {
+          "title": "特朗普三线极限施压，同时对准中国、加拿大、伊朗",
+          "url": "https://news.ifeng.com/c/8vsiBkqEpPV",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时38分 ~ 20时57分]"
         },
         {
           "title": "美国财长：特朗普正就停止与伊朗往来致电多方领导人",
@@ -276,17 +288,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时50分 ~ 18时38分]"
-        },
-        {
-          "title": "特朗普三线极限施压，同时对准中国、加拿大、伊朗",
-          "url": "https://news.ifeng.com/c/8vsiBkqEpPV",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时38分 ~ 19时34分]"
         },
         {
           "title": "加拿大总理卡尼：加方在能源领域对特朗普政府拥有报复选项。",
@@ -372,6 +373,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
+        },
+        {
+          "title": "特朗普称考虑将安大略湖更名为“美国湖”",
+          "url": "https://news.ifeng.com/c/8vsoKBNkGSr",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "美国总统特朗普称加拿大安大略省省长福特言论“哗众取宠”，指责加拿大长期依赖美国，并警告若不改变政策将面临更严重后果。",
@@ -490,7 +502,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         },
@@ -512,7 +524,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         },
@@ -534,7 +546,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         },
@@ -605,6 +617,17 @@
           "time_info": "00时44分"
         },
         {
+          "title": "民调：伊朗战事拖累特朗普支持率创新低",
+          "url": "https://wallstreetcn.com/livenews/3154636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "特朗普盯上格陵兰 冰岛“入欧派”找到最佳助攻",
           "url": "https://flash.jin10.com/detail/20260825175857223800",
           "source": "金十数据",
@@ -641,7 +664,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美债延续涨势！报道：贝森特或动用近万亿美元国库账户，为债券回购提供资金",
@@ -653,8 +676,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时44分 ~ 19时34分]"
+          "appearance_count": 22,
+          "time_info": "[00时44分 ~ 20时57分]"
         },
         {
           "title": "“拯救美债”接力棒：贝森特上周搞砸了，本周看沃什了",
@@ -699,8 +722,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时44分 ~ 19时34分]"
+          "appearance_count": 10,
+          "time_info": "[12时44分 ~ 20时57分]"
         },
         {
           "title": "“贝森特的老师”强烈反对贝森特：回购美债是消耗“用两个世纪积累的资产”--美债公信力",
@@ -713,8 +736,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时50分 ~ 19时34分]"
+          "appearance_count": 7,
+          "time_info": "[16时50分 ~ 20时57分]"
         },
         {
           "title": "特朗普如何应对美债破40万亿",
@@ -787,6 +810,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
+        },
+        {
+          "title": "杰克逊霍尔成美债关键一战，美银警告：沃什若不释放加息信号，30年期收益率或冲上5.5%",
+          "url": "https://wallstreetcn.com/articles/3780233",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "贝森特称美债回购尚未启动，市场质疑政策信号反复",
@@ -1023,7 +1057,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         }
@@ -1066,11 +1100,12 @@
           "source": "微博",
           "ranks": [
             30,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时38分 ~ 19时34分]"
+          "appearance_count": 4,
+          "time_info": "[18时38分 ~ 20时57分]"
         },
         {
           "title": "机构：美元和美债收益率走强 金价亚洲午后回落",
@@ -1167,8 +1202,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时04分 ~ 19时34分]"
+          "appearance_count": 12,
+          "time_info": "[11时04分 ~ 20时57分]"
         },
         {
           "title": "为什么宇树需要DeepSeek",
@@ -1204,7 +1239,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "周一（8月24日），美股超大规模云服务商（Hyperscalers）涨0.72%，报95.83点，美股早盘持续走高、随后高位窄幅震荡。 成分股中，Meta、亚马逊至少收涨1.33%，谷歌A、微软至少涨0.84%，甲骨文则跌2.74%。",
@@ -1228,6 +1263,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时33分 ~ 19时34分]"
+        },
+        {
+          "title": "谷歌扩展Gemini AI平台，推出面向律师和律所的新工具",
+          "url": "https://wallstreetcn.com/livenews/3154649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         }
       ]
     },
