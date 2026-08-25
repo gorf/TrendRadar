@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-25T21:55:51.788244+08:00",
-  "total_titles_processed": 2024,
+  "generated_at": "2026-08-25T22:52:44.388445+08:00",
+  "total_titles_processed": 2127,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 62,
       "titles": [
         {
           "title": "“特朗普正就制裁伊朗致电各国领导人”",
@@ -126,6 +126,17 @@
           "time_info": "[00时44分 ~ 06时32分]"
         },
         {
+          "title": "特朗普三线极限施压，同时对准中国、加拿大、伊朗",
+          "url": "https://news.ifeng.com/c/8vsiBkqEpPV",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时38分 ~ 22时52分]"
+        },
+        {
           "title": "美加贸易为何谈崩了？专家：特朗普想吞并加拿大",
           "url": "https://news.ifeng.com/c/8vqjNemVtmr",
           "source": "凤凰网",
@@ -137,6 +148,17 @@
           "time_info": "[00时44分 ~ 01时36分]"
         },
         {
+          "title": "美国总统特朗普：通过太空军，我们正在监控霍尔木兹海峡的每一寸水域，就像我们监控镐山以及另外三个已经被摧毁的核设施一样。对于布设水雷行为，我们将严格执行“零容忍”政策。",
+          "url": "https://flash.jin10.com/detail/20260825223306803800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "英国首相伯纳姆计划下个月访问美国，就援助乌克兰问题游说特朗普。 伯纳姆称，乌克兰拦截弹库存不足的问题“可以解决”；欧洲领导人或将在联合国大会期间会晤，讨论乌克兰问题。",
           "url": "https://wallstreetcn.com/livenews/3154203",
           "source": "华尔街见闻-快讯",
@@ -146,6 +168,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "美国总统特朗普：霍尔木兹海峡所有的水雷都已经被清除或引爆。 我们正在关注海峡的每一寸。 我们还密切留意伊朗的Pickaxe山。",
+          "url": "https://wallstreetcn.com/livenews/3154738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "美加贸易战进一步升级！特朗普：明年将加拿大汽车、钢铁等品类关税提高至50%",
@@ -172,15 +205,26 @@
           "time_info": "19时34分"
         },
         {
-          "title": "特朗普三线极限施压，同时对准中国、加拿大、伊朗",
-          "url": "https://news.ifeng.com/c/8vsiBkqEpPV",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：（关于伊朗）密切关注霍尔木兹海峡和镐山的每一寸土地。",
+          "url": "https://flash.jin10.com/detail/20260825223208297800",
+          "source": "金十数据",
           "ranks": [
-            6
+            2
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时38分 ~ 21时55分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
+          "title": "美国总统特朗普：（关于伊朗）已获美国海军通知，霍尔木兹海峡国际水域内所有水雷已被移除和/或引爆。伊朗已被通知，任何放置新水雷的船只或小艇将被立即和系统性地摧毁。",
+          "url": "https://flash.jin10.com/detail/20260825223157496800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "特朗普贴身助理的权力有多大",
@@ -290,6 +334,17 @@
           "time_info": "[16时50分 ~ 18时38分]"
         },
         {
+          "title": "特朗普称考虑将安大略湖更名为“美国湖”",
+          "url": "https://news.ifeng.com/c/8vsoKBNkGSr",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时57分 ~ 22时52分]"
+        },
+        {
           "title": "加拿大总理卡尼：加方在能源领域对特朗普政府拥有报复选项。",
           "url": "https://wallstreetcn.com/livenews/3154114",
           "source": "华尔街见闻-快讯",
@@ -314,17 +369,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时36分 ~ 03时36分]"
-        },
-        {
-          "title": "特朗普称考虑将安大略湖更名为“美国湖”",
-          "url": "https://news.ifeng.com/c/8vsoKBNkGSr",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时57分 ~ 21时55分]"
         },
         {
           "title": "美民众对伊战争支持率仅31% 特朗普支持率仍处历史低位",
@@ -417,6 +461,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时36分"
+        },
+        {
+          "title": "特朗普疑将旧帖重发",
+          "url": "https://wallstreetcn.com/livenews/3154729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "特朗普最新披露：6月股票交易超千笔 曾买入马斯克SpaceX股份",
@@ -562,6 +617,17 @@
           "time_info": "00时44分"
         },
         {
+          "title": "特朗普疑将旧帖重发",
+          "url": "https://flash.jin10.com/detail/20260825220619426800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "加拿大总理卡尼：（关于特朗普最新的关税威胁）美国采取某种形式的报复并不令人意外。",
           "url": "https://flash.jin10.com/detail/20260825011154003800",
           "source": "金十数据",
@@ -664,7 +730,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "美股收盘：科技股承压纳指跌0.76% 多重重磅变量将接踵而至",
@@ -727,17 +793,6 @@
           "time_info": "18时38分"
         },
         {
-          "title": "美股三大股指高开，道指涨0.36%，标普500指数涨0.35%，纳指涨0.65%。存储概念股反弹，闪迪、SK海力士涨约3%；英特尔涨3%，下一代服务器芯片Diamond Rapids亮相；英伟达涨1%。",
-          "url": "https://wallstreetcn.com/livenews/3154706",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
           "title": "美股大类资产类ETF涨跌各异，布油基金跌1.9%，黄金ETF涨 约0.8%",
           "url": "https://wallstreetcn.com/livenews/3154159",
           "source": "华尔街见闻-快讯",
@@ -749,6 +804,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时36分 ~ 06时32分]"
+        },
+        {
+          "title": "美股三大股指高开，道指涨0.36%，标普500指数涨0.35%，纳指涨0.65%。存储概念股反弹，闪迪、SK海力士涨约3%；英特尔涨3%，下一代服务器芯片Diamond Rapids亮相；英伟达涨1%。",
+          "url": "https://wallstreetcn.com/livenews/3154706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 22时52分]"
         },
         {
           "title": "周一（8月24日），美股行业ETF涨跌各异，半导体ETF收跌2.43%，全球科技股指数ETF、科技行业ETF至多跌1.94%，能源业ETF跌0.83%。",
@@ -818,7 +885,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
         },
@@ -845,6 +912,17 @@
           "time_info": "04时36分"
         },
         {
+          "title": "美股芯片股多数上扬",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E8%82%A1%E5%A4%9A%E6%95%B0%E4%B8%8A%E6%89%AC",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "美股盘前，存储芯片股小幅走高，SK海力士涨2％，美光科技涨1％。",
           "url": "https://wallstreetcn.com/livenews/3154447",
           "source": "华尔街见闻-快讯",
@@ -862,7 +940,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
         },
@@ -873,7 +951,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
         },
@@ -952,8 +1030,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时50分 ~ 21时55分]"
+          "appearance_count": 9,
+          "time_info": "[16时50分 ~ 22时52分]"
         },
         {
           "title": "油价回落缓解美债压力 美股期指下跌 市场聚焦贝森特发布会 | 今夜看点",
@@ -976,8 +1054,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时44分 ~ 21时55分]"
+          "appearance_count": 12,
+          "time_info": "[12时44分 ~ 22时52分]"
         },
         {
           "title": "特朗普如何应对美债破40万亿",
@@ -992,6 +1070,19 @@
           "time_info": "[18时38分 ~ 19时34分]"
         },
         {
+          "title": "杰克逊霍尔成美债关键一战，美银警告：沃什若不释放加息信号，30年期收益率或冲上5.5%",
+          "url": "https://wallstreetcn.com/articles/3780233",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时57分 ~ 22时52分]"
+        },
+        {
           "title": "40万亿美债压顶，特朗普摊牌了：终极干预手段是美军",
           "url": "https://v.ifeng.com/c/8vpa1Rig1fD",
           "source": "凤凰网",
@@ -1002,18 +1093,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时35分 ~ 13时37分]"
-        },
-        {
-          "title": "杰克逊霍尔成美债关键一战，美银警告：沃什若不释放加息信号，30年期收益率或冲上5.5%",
-          "url": "https://wallstreetcn.com/articles/3780233",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时57分 ~ 21时55分]"
         },
         {
           "title": "华尔街高管：特朗普准备将10年期美债收益率推向5%",
@@ -1027,6 +1106,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时44分 ~ 02时49分]"
+        },
+        {
+          "title": "美债收益率回落 美股期指上涨 比特币触及8万美元 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2463960",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 22时52分]"
         },
         {
           "title": "中长期美债收益率显著走低",
@@ -1062,17 +1153,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
-        },
-        {
-          "title": "美债收益率回落 美股期指上涨 比特币触及8万美元 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2463960",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
         },
         {
           "title": "贝森特称美债回购尚未启动，市场质疑政策信号反复",
@@ -1169,11 +1249,12 @@
           "url": "https://www.cls.cn/detail/2463609",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 22时52分]"
         },
         {
           "title": "机构：美元和美债收益率走强 金价亚洲午后回落",
@@ -1257,11 +1338,12 @@
           "url": "https://wallstreetcn.com/livenews/3154701",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 22时52分]"
         },
         {
           "title": "美元指数DXY短线下跌约10点，现报98.9点。",
@@ -1270,9 +1352,70 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "OpenAI：自研Jalapeno芯片测试中击败英伟达GB300",
+          "url": "https://flash.jin10.com/detail/20260825222104490800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
+          "title": "OpenAI芯片负责人：新款自研芯片测试的对标对象是英伟达的GB300，700瓦即可实现强劲性能",
+          "url": "https://wallstreetcn.com/livenews/3154730",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
+          "title": "OpenAI：GPT‑5.6模型系列现已在软件开发平台KIRO上线。",
+          "url": "https://flash.jin10.com/detail/20260825030514879800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时36分"
+        },
+        {
+          "title": "OpenAI：自研芯片Jalapeno在测试中击败英伟达GB300，并未与Vera Rubin进行对比测试",
+          "url": "https://wallstreetcn.com/livenews/3154723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
+          "title": "OpenAI修复消耗过快问题",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E4%BF%AE%E5%A4%8D%E6%B6%88%E8%80%97%E8%BF%87%E5%BF%AB%E9%97%AE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时35分"
         }
       ]
     },
@@ -1292,8 +1435,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时04分 ~ 21时55分]"
+          "appearance_count": 14,
+          "time_info": "[11时04分 ~ 22时52分]"
         },
         {
           "title": "为什么宇树需要DeepSeek",
@@ -1364,34 +1507,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI：GPT‑5.6模型系列现已在软件开发平台KIRO上线。",
-          "url": "https://flash.jin10.com/detail/20260825030514879800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时36分"
-        },
-        {
-          "title": "OpenAI修复消耗过快问题",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E4%BF%AE%E5%A4%8D%E6%B6%88%E8%80%97%E8%BF%87%E5%BF%AB%E9%97%AE%E9%A2%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时35分"
         }
       ]
     }
