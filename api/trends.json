@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26T04:35:45.257143+08:00",
-  "total_titles_processed": 548,
+  "generated_at": "2026-08-26T05:35:57.044689+08:00",
+  "total_titles_processed": 594,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时46分 ~ 04时35分]"
+          "appearance_count": 4,
+          "time_info": "[02时46分 ~ 05时35分]"
         },
         {
           "title": "特朗普三线极限施压，同时对准中国、加拿大、伊朗",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 04时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 05时35分]"
         },
         {
           "title": "特朗普称考虑将安大略湖更名为“美国湖”",
@@ -37,8 +37,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 04时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 05时35分]"
         },
         {
           "title": "美国总统特朗普：美国将要在中东及海湾地区大赚一笔。",
@@ -76,6 +76,18 @@
           "time_info": "[02时46分 ~ 03时38分]"
         },
         {
+          "title": "美加贸易战升级 特朗普称考虑将安大略湖改名“美国湖”",
+          "url": "https://www.cls.cn/detail/2464064",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时36分 ~ 05时35分]"
+        },
+        {
           "title": "两名直接参与霍尔木兹海峡扫雷事务的美国官员证实了特朗普的声明，并表示美国海军已清理了位于海峡中部、阿曼与伊朗之间的船舶交通分离区。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3154791",
           "source": "华尔街见闻-快讯",
@@ -98,17 +110,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时46分 ~ 03时38分]"
-        },
-        {
-          "title": "美加贸易战升级 特朗普称考虑将安大略湖改名“美国湖”",
-          "url": "https://www.cls.cn/detail/2464064",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时36分 ~ 04时35分]"
         },
         {
           "title": "美国财长贝森特：伊朗领导层已承认经济压力正在奏效，特朗普政府将继续切断支撑伊朗政权的经济命脉，直至德黑兰陷入孤立。",
@@ -147,19 +148,8 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "美股大类资产类ETF多数收涨，新兴市场ETF涨超1.7%",
-          "url": "https://wallstreetcn.com/livenews/3154858",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时35分"
-        },
         {
           "title": "金十图示：2026年08月25日（周二）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260826003108560800",
@@ -171,6 +161,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时44分 ~ 01时36分]"
+        },
+        {
+          "title": "美股大类资产类ETF多数收涨，新兴市场ETF涨超1.7%",
+          "url": "https://wallstreetcn.com/livenews/3154858",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时35分 ~ 05时35分]"
+        },
+        {
+          "title": "周二（8月25日），美股行业ETF涨跌各异，生物科技指数ETF收涨1.82%，半导体ETF涨1.65%，全球航空业ETF、科技行业ETF、网络股指数ETF等至多涨1.42%，能源业ETF跌1.66%。",
+          "url": "https://wallstreetcn.com/livenews/3154856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时35分 ~ 05时35分]"
         },
         {
           "title": "美股芯片股多数上扬",
@@ -185,15 +199,26 @@
           "time_info": "[02时46分 ~ 03时38分]"
         },
         {
-          "title": "周二（8月25日），美股行业ETF涨跌各异，生物科技指数ETF收涨1.82%，半导体ETF涨1.65%，全球航空业ETF、科技行业ETF、网络股指数ETF等至多涨1.42%，能源业ETF跌1.66%。",
-          "url": "https://wallstreetcn.com/livenews/3154856",
-          "source": "华尔街见闻-快讯",
+          "title": "美伊外交缓和油价重挫，美股三大指数齐涨，英伟达终结七连跌涨超2%",
+          "url": "https://wallstreetcn.com/articles/3780215",
+          "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时35分"
+          "time_info": "05时35分"
+        },
+        {
+          "title": "周二（8月25日），美股存储芯片与硬件供应链指数涨1.56%，报195.40点。",
+          "url": "https://wallstreetcn.com/livenews/3154862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
         },
         {
           "title": "金十图示：2026年08月25日（周二）美股热门股票行情一览（美股收盘）",
@@ -202,7 +227,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
         },
@@ -213,7 +238,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
         },
@@ -235,7 +260,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
         }
@@ -243,7 +268,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "杰克逊霍尔成美债关键一战，美银警告：沃什若不释放加息信号，30年期收益率或冲上5.5%",
@@ -253,8 +278,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 04时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 05时35分]"
         },
         {
           "title": "“贝森特的老师”强烈反对贝森特：回购美债是消耗“用两个世纪积累的资产”--美债公信力",
@@ -264,19 +289,32 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 04时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 05时35分]"
         },
         {
           "title": "美债收益率回落 美股期指上涨 比特币触及8万美元 | 今夜看点",
           "url": "https://www.cls.cn/detail/2463960",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 04时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 05时35分]"
+        },
+        {
+          "title": "华尔街给美财政部泼冷水：即便动用万亿国库账户，美债回购也难压低长债收益率",
+          "url": "https://wallstreetcn.com/articles/3780187",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 05时35分]"
         },
         {
           "title": "市场情绪谨慎回暖，美股高开，存储概念股反弹，SK海力士涨3％，比特币回落，美债收益率下行",
@@ -285,17 +323,6 @@
           "ranks": [
             9,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 04时35分]"
-        },
-        {
-          "title": "华尔街给美财政部泼冷水：即便动用万亿国库账户，美债回购也难压低长债收益率",
-          "url": "https://wallstreetcn.com/articles/3780187",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -312,6 +339,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时44分 ~ 01时36分]"
+        },
+        {
+          "title": "美国里士满联储主席Barkin（2027年FOMC票委）：美债最终将缩面临清算。 如果债务于某个时间节点膨胀，投资者将停止购买。",
+          "url": "https://wallstreetcn.com/livenews/3154869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "美联储巴尔金：如果债务继续增加，投资者迟早会在某个时点停止购买（美债）。",
+          "url": "https://flash.jin10.com/detail/20260826050047659800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "贝森特的真正算盘：逼空美债CTA，将10年期收益率打到4.3%？",
+          "url": "https://wallstreetcn.com/articles/3780229",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
         }
       ]
     },
@@ -372,7 +432,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
         }
@@ -398,11 +458,12 @@
           "url": "https://wallstreetcn.com/livenews/3154860",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时35分 ~ 05时35分]"
         },
         {
           "title": "周二（8月25日）纽约尾盘，ICE美元指数跌0.09%，报98.916点，日内交投区间为99.118-98.901点。 彭博美元指数跌0.11%，报1192.45点，日内交投区间为1194.74-1192.45点。",
@@ -449,11 +510,12 @@
           "url": "https://wallstreetcn.com/articles/3780194",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 04时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 05时35分]"
         }
       ]
     },
@@ -469,8 +531,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 04时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 05时35分]"
         }
       ]
     }
