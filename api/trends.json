@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-25T12:44:57.638526+08:00",
-  "total_titles_processed": 1072,
+  "generated_at": "2026-08-25T13:37:21.744821+08:00",
+  "total_titles_processed": 1146,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "“特朗普正就制裁伊朗致电各国领导人”",
@@ -35,6 +35,19 @@
           "time_info": "[02时49分 ~ 11时04分]"
         },
         {
+          "title": "特朗普政府启动“经济孤立行动” 公布多项针对伊朗的经济制裁举措",
+          "url": "https://www.cls.cn/detail/2462949",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时27分 ~ 13时37分]"
+        },
+        {
           "title": "金与正，没接特朗普的话",
           "url": "https://news.ifeng.com/c/8vqw7NCqQ1S",
           "source": "凤凰网",
@@ -55,19 +68,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时44分 ~ 07时27分]"
-        },
-        {
-          "title": "特朗普政府启动“经济孤立行动” 公布多项针对伊朗的经济制裁举措",
-          "url": "https://www.cls.cn/detail/2462949",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时27分 ~ 12时44分]"
         },
         {
           "title": "特朗普称朝鲜有57枚核弹",
@@ -119,6 +119,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[06时32分 ~ 12时44分]"
+        },
+        {
+          "title": "“伊朗悬赏1000万美金暗杀特朗普的小儿子”，美特勤局回应",
+          "url": "https://news.ifeng.com/c/8vsFDQjkw57",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
         },
         {
           "title": "美国财长：特朗普正就停止与伊朗往来致电多方领导人",
@@ -351,7 +362,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         },
@@ -470,8 +481,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时44分 ~ 12时44分]"
+          "appearance_count": 13,
+          "time_info": "[00时44分 ~ 13时37分]"
         },
         {
           "title": "“拯救美债”接力棒：贝森特上周搞砸了，本周看沃什了",
@@ -512,11 +523,12 @@
           "url": "https://v.ifeng.com/c/8vpa1Rig1fD",
           "source": "凤凰网",
           "ranks": [
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时35分 ~ 12时44分]"
+          "appearance_count": 5,
+          "time_info": "[09时35分 ~ 13时37分]"
         },
         {
           "title": "华尔街高管：特朗普准备将10年期美债收益率推向5%",
@@ -530,6 +542,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时44分 ~ 02时49分]"
+        },
+        {
+          "title": "华尔街给美财政部泼冷水：即便动用万亿国库账户，美债回购也难压低长债收益率",
+          "url": "https://wallstreetcn.com/articles/3780187",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 13时37分]"
         },
         {
           "title": "中长期美债收益率显著走低",
@@ -565,17 +588,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
-        },
-        {
-          "title": "华尔街给美财政部泼冷水：即便动用万亿国库账户，美债回购也难压低长债收益率",
-          "url": "https://wallstreetcn.com/articles/3780187",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
         },
         {
           "title": "贝森特称美债回购尚未启动，市场质疑政策信号反复",
@@ -617,6 +629,18 @@
       "match_count": 11,
       "titles": [
         {
+          "title": "美股收盘：科技股承压纳指跌0.76% 多重重磅变量将接踵而至",
+          "url": "https://www.cls.cn/detail/2462965",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时32分 ~ 13时37分]"
+        },
+        {
           "title": "科技股拖累全球股市，美股开盘涨跌互现，纳指跌0.4%，存储芯片、光通信股下挫，金涨油跌",
           "url": "https://wallstreetcn.com/articles/3780114",
           "source": "华尔街见闻",
@@ -626,18 +650,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时44分 ~ 06时32分]"
-        },
-        {
-          "title": "美股收盘：科技股承压纳指跌0.76% 多重重磅变量将接踵而至",
-          "url": "https://www.cls.cn/detail/2462965",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时32分 ~ 12时44分]"
         },
         {
           "title": "美银：如果共和党中选输掉参议院，美股将跌超10%，德州选战决定“AI政策”",
@@ -848,8 +860,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时04分 ~ 12时44分]"
+          "appearance_count": 3,
+          "time_info": "[11时04分 ~ 13时37分]"
         }
       ]
     },
@@ -865,8 +877,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时35分 ~ 12时44分]"
+          "appearance_count": 5,
+          "time_info": "[09时35分 ~ 13时37分]"
         },
         {
           "title": "金价大涨 深圳水贝又被挤爆",
