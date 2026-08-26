@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-26T17:49:44.324640+08:00",
-  "total_titles_processed": 1597,
+  "generated_at": "2026-08-26T18:40:53.183154+08:00",
+  "total_titles_processed": 1700,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "民调：特朗普的支持率为33%，达历史最低",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时41分 ~ 17时49分]"
+          "appearance_count": 11,
+          "time_info": "[09时41分 ~ 18时40分]"
         },
         {
           "title": "涉电磁弹射器，美海军要“硬顶”特朗普？",
@@ -37,8 +37,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时57分 ~ 17时49分]"
+          "appearance_count": 6,
+          "time_info": "[14时57分 ~ 18时40分]"
+        },
+        {
+          "title": "对加拿大态度强硬，特朗普底气何来？",
+          "url": "https://news.ifeng.com/c/8vtsZz4nJFu",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时45分 ~ 18时40分]"
         },
         {
           "title": "美加贸易战升级 特朗普称考虑将安大略湖改名“美国湖”",
@@ -76,17 +87,6 @@
           "time_info": "[00时44分 ~ 07时29分]"
         },
         {
-          "title": "对加拿大态度强硬，特朗普底气何来？",
-          "url": "https://news.ifeng.com/c/8vtsZz4nJFu",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时45分 ~ 17时49分]"
-        },
-        {
           "title": "英国首相欲游说特朗普援乌，俄方回应",
           "url": "https://news.ifeng.com/c/8vtYfquIIHs",
           "source": "凤凰网",
@@ -96,6 +96,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时41分 ~ 12时46分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-26）",
+          "url": "https://flash.jin10.com/detail/20260826180846586800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
         },
         {
           "title": "加拿大正式反制，能把特朗普逼回谈判桌吗？",
@@ -466,6 +477,18 @@
           "time_info": "[05时35分 ~ 06时34分]"
         },
         {
+          "title": "比特币自 5 月中旬以来首次突破 8 万美元，彻底告别底部区间了吗？如何看待加密资产与美债、黄金的联动逻辑？",
+          "url": "https://www.zhihu.com/question/2075531079084138776",
+          "source": "知乎",
+          "ranks": [
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 18时40分]"
+        },
+        {
           "title": "美债收益率、国际油价下跌",
           "url": "https://wallstreetcn.com/livenews/3154768",
           "source": "华尔街见闻-快讯",
@@ -520,17 +543,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
-        },
-        {
-          "title": "比特币自 5 月中旬以来首次突破 8 万美元，彻底告别底部区间了吗？如何看待加密资产与美债、黄金的联动逻辑？",
-          "url": "https://www.zhihu.com/question/2075531079084138776",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时53分"
         }
       ]
     },
@@ -546,8 +558,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时41分 ~ 17时49分]"
+          "appearance_count": 11,
+          "time_info": "[09时41分 ~ 18时40分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 市场静待英伟达财报",
@@ -728,8 +740,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时45分 ~ 17时49分]"
+          "appearance_count": 9,
+          "time_info": "[12时45分 ~ 18时40分]"
         },
         {
           "title": "OpenAI高管预判：Codex与ChatGPT终将“消失”，未来将只留一个“个人AGI”",
@@ -755,8 +767,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时45分 ~ 17时49分]"
+          "appearance_count": 7,
+          "time_info": "[12时45分 ~ 18时40分]"
         },
         {
           "title": "OpenAI高层持续变动 数据中心负责人离开公司",
@@ -937,6 +949,45 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "【早报】美股存储、光通信板块，集体走强；伊朗与阿曼拟建立霍尔木兹海峡安全海上通道；油价大跌，金价小幅上涨；加拿大反制美国",
+          "url": "https://www.cls.cn/detail/2464189",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时41分 ~ 14时58分]"
+        },
+        {
+          "title": "高盛重申：年末黄金价格将达到每盎司4900美元！",
+          "url": "https://www.cls.cn/detail/2463609",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 06时34分]"
+        },
+        {
+          "title": "【VIP日报】贵金属板块大涨 栏目解读金价上涨逻辑 提及2家公司涨停",
+          "url": "https://www.cls.cn/detail/2464939",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
@@ -962,34 +1013,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时45分 ~ 13时40分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "【早报】美股存储、光通信板块，集体走强；伊朗与阿曼拟建立霍尔木兹海峡安全海上通道；油价大跌，金价小幅上涨；加拿大反制美国",
-          "url": "https://www.cls.cn/detail/2464189",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时41分 ~ 14时58分]"
-        },
-        {
-          "title": "高盛重申：年末黄金价格将达到每盎司4900美元！",
-          "url": "https://www.cls.cn/detail/2463609",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 06时34分]"
         }
       ]
     },
