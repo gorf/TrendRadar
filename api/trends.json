@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26T16:53:20.027877+08:00",
-  "total_titles_processed": 1524,
+  "generated_at": "2026-08-26T17:49:44.324640+08:00",
+  "total_titles_processed": 1597,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时41分 ~ 16时53分]"
+          "appearance_count": 10,
+          "time_info": "[09时41分 ~ 17时49分]"
         },
         {
           "title": "涉电磁弹射器，美海军要“硬顶”特朗普？",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时46分 ~ 07时29分]"
+        },
+        {
+          "title": "金正恩主持劳动党政治局扩大会议，未回应特朗普对话提议",
+          "url": "https://news.ifeng.com/c/8vu2ukNWU3Y",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时57分 ~ 17时49分]"
         },
         {
           "title": "美加贸易战升级 特朗普称考虑将安大略湖改名“美国湖”",
@@ -65,15 +76,15 @@
           "time_info": "[00时44分 ~ 07时29分]"
         },
         {
-          "title": "金正恩主持劳动党政治局扩大会议，未回应特朗普对话提议",
-          "url": "https://news.ifeng.com/c/8vu2ukNWU3Y",
+          "title": "对加拿大态度强硬，特朗普底气何来？",
+          "url": "https://news.ifeng.com/c/8vtsZz4nJFu",
           "source": "凤凰网",
           "ranks": [
-            4
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时57分 ~ 16时53分]"
+          "appearance_count": 8,
+          "time_info": "[12时45分 ~ 17时49分]"
         },
         {
           "title": "英国首相欲游说特朗普援乌，俄方回应",
@@ -85,17 +96,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时41分 ~ 12时46分]"
-        },
-        {
-          "title": "对加拿大态度强硬，特朗普底气何来？",
-          "url": "https://news.ifeng.com/c/8vtsZz4nJFu",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时45分 ~ 16时53分]"
         },
         {
           "title": "加拿大正式反制，能把特朗普逼回谈判桌吗？",
@@ -373,6 +373,21 @@
           "time_info": "[00时44分 ~ 09时41分]"
         },
         {
+          "title": "美债最终恐无人接盘？美联储官员重磅警告 加息大门仍敞开",
+          "url": "https://www.cls.cn/detail/2464353",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时45分 ~ 17时49分]"
+        },
+        {
           "title": "美国或用近 1 万亿美元国库账户干预市场，美元、美债、美股三大定价市场持续波动，黄金上涨，你怎么看？",
           "url": "https://www.zhihu.com/question/2075499047142667659",
           "source": "知乎",
@@ -404,21 +419,6 @@
           "time_info": "[11时11分 ~ 16时53分]"
         },
         {
-          "title": "美债最终恐无人接盘？美联储官员重磅警告 加息大门仍敞开",
-          "url": "https://www.cls.cn/detail/2464353",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时45分 ~ 16时53分]"
-        },
-        {
           "title": "华尔街给美财政部泼冷水：即便动用万亿国库账户，美债回购也难压低长债收益率",
           "url": "https://wallstreetcn.com/articles/3780187",
           "source": "华尔街见闻",
@@ -437,7 +437,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -528,7 +528,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         }
@@ -546,8 +546,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时41分 ~ 16时53分]"
+          "appearance_count": 10,
+          "time_info": "[09时41分 ~ 17时49分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 市场静待英伟达财报",
@@ -623,6 +623,18 @@
           "time_info": "[09时41分 ~ 11时11分]"
         },
         {
+          "title": "理想汽车第二季度营收257亿元人民币，同比下降15%，预估249.6亿元人民币。 第二季度毛利率11％，上年同期20.1％，预估11.3％。 第二季度交付量98330辆，同比下降11%，预估98212辆。 第二季度归属股东的调整后净亏损15.0亿元人民币，上年同期收益14.6亿元人民币，预估亏损11.5亿元人民币。 预计第三季度营收266亿元人民币至280亿元人民币，预估322.6亿元人民币。 理想汽车美股盘前跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3155133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 17时49分]"
+        },
+        {
           "title": "美股芯片股多数上扬",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E8%82%A1%E5%A4%9A%E6%95%B0%E4%B8%8A%E6%89%AC",
           "source": "百度热搜",
@@ -633,17 +645,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时46分 ~ 03时38分]"
-        },
-        {
-          "title": "理想汽车第二季度营收257亿元人民币，同比下降15%，预估249.6亿元人民币。 第二季度毛利率11％，上年同期20.1％，预估11.3％。 第二季度交付量98330辆，同比下降11%，预估98212辆。 第二季度归属股东的调整后净亏损15.0亿元人民币，上年同期收益14.6亿元人民币，预估亏损11.5亿元人民币。 预计第三季度营收266亿元人民币至280亿元人民币，预估322.6亿元人民币。 理想汽车美股盘前跌超3%。",
-          "url": "https://wallstreetcn.com/livenews/3155133",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
         },
         {
           "title": "周二（8月25日），美股存储芯片与硬件供应链指数涨1.56%，报195.40点。",
@@ -663,7 +664,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -727,8 +728,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时45分 ~ 16时53分]"
+          "appearance_count": 8,
+          "time_info": "[12时45分 ~ 17时49分]"
         },
         {
           "title": "OpenAI高管预判：Codex与ChatGPT终将“消失”，未来将只留一个“个人AGI”",
@@ -745,17 +746,6 @@
           "time_info": "[07时29分 ~ 15时53分]"
         },
         {
-          "title": "OpenAI高层持续变动 数据中心负责人离开公司",
-          "url": "https://flash.jin10.com/detail/20260826032846220800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时38分"
-        },
-        {
           "title": "速度更快、功耗更低，OpenAI JALAPENO芯片强势叫板英伟达GB300",
           "url": "https://wallstreetcn.com/articles/3780270",
           "source": "华尔街见闻",
@@ -765,8 +755,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时45分 ~ 16时53分]"
+          "appearance_count": 6,
+          "time_info": "[12时45分 ~ 17时49分]"
+        },
+        {
+          "title": "OpenAI高层持续变动 数据中心负责人离开公司",
+          "url": "https://flash.jin10.com/detail/20260826032846220800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时38分"
         },
         {
           "title": "OpenAI数据中心主管Chris Malone已经离职。（华尔街日报）",
