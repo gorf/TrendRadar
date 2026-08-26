@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-26T13:40:28.145652+08:00",
-  "total_titles_processed": 1185,
+  "generated_at": "2026-08-26T14:58:02.542275+08:00",
+  "total_titles_processed": 1295,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
+        {
+          "title": "民调：特朗普的支持率为33%，达历史最低",
+          "url": "https://news.ifeng.com/c/8vtcz08sie8",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时41分 ~ 14时58分]"
+        },
         {
           "title": "涉电磁弹射器，美海军要“硬顶”特朗普？",
           "url": "https://news.ifeng.com/c/8vtCJJnz0Cx",
@@ -17,17 +28,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时46分 ~ 07时29分]"
-        },
-        {
-          "title": "民调：特朗普的支持率为33%，达历史最低",
-          "url": "https://news.ifeng.com/c/8vtcz08sie8",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时41分 ~ 13时40分]"
         },
         {
           "title": "美加贸易战升级 特朗普称考虑将安大略湖改名“美国湖”",
@@ -76,15 +76,37 @@
           "time_info": "[09时41分 ~ 12时46分]"
         },
         {
+          "title": "金正恩主持劳动党政治局扩大会议，未回应特朗普对话提议",
+          "url": "https://news.ifeng.com/c/8vu2ukNWU3Y",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时57分 ~ 14时58分]"
+        },
+        {
           "title": "加拿大正式反制，能把特朗普逼回谈判桌吗？",
           "url": "https://news.ifeng.com/c/8vtumOaZQ1V",
           "source": "凤凰网",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
+        },
+        {
+          "title": "对加拿大态度强硬，特朗普底气何来？",
+          "url": "https://news.ifeng.com/c/8vtsZz4nJFu",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时45分 ~ 14时58分]"
         },
         {
           "title": "美国总统特朗普：美国将要在中东及海湾地区大赚一笔。",
@@ -120,17 +142,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时46分 ~ 03时38分]"
-        },
-        {
-          "title": "对加拿大态度强硬，特朗普底气何来？",
-          "url": "https://news.ifeng.com/c/8vtsZz4nJFu",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时45分 ~ 13时40分]"
         },
         {
           "title": "特朗普贴身助理的权力有多大",
@@ -291,12 +302,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
+        },
+        {
+          "title": "特朗普向国会提交沙特核协议，美企将锁定30年优势？",
+          "url": "https://flash.jin10.com/detail/20260826141220778800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "杰克逊霍尔成美债关键一战，美银警告：沃什若不释放加息信号，30年期收益率或冲上5.5%",
@@ -309,8 +331,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时44分 ~ 13时40分]"
+          "appearance_count": 15,
+          "time_info": "[00时44分 ~ 14时58分]"
         },
         {
           "title": "“贝森特的老师”强烈反对贝森特：回购美债是消耗“用两个世纪积累的资产”--美债公信力",
@@ -322,6 +344,21 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时44分 ~ 11时11分]"
+        },
+        {
+          "title": "贝森特的真正算盘：逼空美债CTA，将10年期收益率打到4.3%？",
+          "url": "https://wallstreetcn.com/articles/3780229",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[05时35分 ~ 14时58分]"
         },
         {
           "title": "美债收益率回落 美股期指上涨 比特币触及8万美元 | 今夜看点",
@@ -336,19 +373,19 @@
           "time_info": "[00时44分 ~ 09时41分]"
         },
         {
-          "title": "贝森特的真正算盘：逼空美债CTA，将10年期收益率打到4.3%？",
-          "url": "https://wallstreetcn.com/articles/3780229",
-          "source": "华尔街见闻",
+          "title": "美国或用近 1 万亿美元国库账户干预市场，美元、美债、美股三大定价市场持续波动，黄金上涨，你怎么看？",
+          "url": "https://www.zhihu.com/question/2075499047142667659",
+          "source": "知乎",
           "ranks": [
-            10,
-            8,
             7,
+            8,
+            9,
             6,
-            5
+            10
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[05时35分 ~ 13时40分]"
+          "time_info": "[07时29分 ~ 14时58分]"
         },
         {
           "title": "华尔街给美财政部泼冷水：即便动用万亿国库账户，美债回购也难压低长债收益率",
@@ -363,18 +400,18 @@
           "time_info": "[00时44分 ~ 06时34分]"
         },
         {
-          "title": "美国或用近 1 万亿美元国库账户干预市场，美元、美债、美股三大定价市场持续波动，黄金上涨，你怎么看？",
-          "url": "https://www.zhihu.com/question/2075499047142667659",
-          "source": "知乎",
+          "title": "关键指标显效：贝森特美债“救市”并非无用功？",
+          "url": "https://www.cls.cn/detail/2464237",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            8,
-            9,
-            6
+            10,
+            11,
+            12,
+            9
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[07时29分 ~ 13时40分]"
+          "time_info": "[11时11分 ~ 14时58分]"
         },
         {
           "title": "市场情绪谨慎回暖，美股高开，存储概念股反弹，SK海力士涨3％，比特币回落，美债收益率下行",
@@ -389,29 +426,17 @@
           "time_info": "[00时44分 ~ 04时35分]"
         },
         {
-          "title": "关键指标显效：贝森特美债“救市”并非无用功？",
-          "url": "https://www.cls.cn/detail/2464237",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时11分 ~ 13时40分]"
-        },
-        {
           "title": "美债最终恐无人接盘？美联储官员重磅警告 加息大门仍敞开",
           "url": "https://www.cls.cn/detail/2464353",
           "source": "财联社热门",
           "ranks": [
             9,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时45分 ~ 13时40分]"
+          "appearance_count": 5,
+          "time_info": "[12时45分 ~ 14时58分]"
         },
         {
           "title": "美联储巴尔金：如果债务继续增加，投资者迟早会在某个时点停止购买（美债）。",
@@ -469,6 +494,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
+        },
+        {
+          "title": "贝森特“看跌期权”显效：美债长端回购翻倍，掉期利差降至半年新低",
+          "url": "https://flash.jin10.com/detail/20260826142623444800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
         }
       ]
     },
@@ -486,8 +522,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时29分 ~ 13时40分]"
+          "appearance_count": 8,
+          "time_info": "[07时29分 ~ 14时58分]"
+        },
+        {
+          "title": "一石激起千层浪！短短9个月，OpenAI自研ASIC芯片已超越英伟达Blackwell？",
+          "url": "https://wallstreetcn.com/articles/3780301",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时45分 ~ 14时58分]"
         },
         {
           "title": "OpenAI高层持续变动 数据中心负责人离开公司",
@@ -513,17 +561,6 @@
           "time_info": "[03时38分 ~ 04时35分]"
         },
         {
-          "title": "一石激起千层浪！短短9个月，OpenAI自研ASIC芯片已超越英伟达Blackwell？",
-          "url": "https://wallstreetcn.com/articles/3780301",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时45分 ~ 13时40分]"
-        },
-        {
           "title": "速度更快、功耗更低，OpenAI JALAPENO芯片强势叫板英伟达GB300",
           "url": "https://wallstreetcn.com/articles/3780270",
           "source": "华尔街见闻",
@@ -533,6 +570,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时45分 ~ 13时40分]"
+        },
+        {
+          "title": "报道：软银考虑发行不超过200亿美元债券为OpenAI融资",
+          "url": "https://wallstreetcn.com/livenews/3155045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时40分 ~ 14时58分]"
         },
         {
           "title": "OpenAI：自发布首款定制推理芯片Jalapeño以来，我们一直在对该芯片及其配套系统开展测试。 测试结果取得重大进展：单位功耗可输出更高智能能力，响应速度更快。 该单一架构在不牺牲能效的前提下，同时实现更高吞吐量与更低延迟。 Jalapeño将带来更快的ChatGPT响应速度、反应更灵敏的Codex会话与智能体，并且在需求持续增长的情况下保障服务稳定可用。",
@@ -575,18 +624,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时40分"
-        },
-        {
-          "title": "报道：软银考虑发行不超过200亿美元债券为OpenAI融资",
-          "url": "https://wallstreetcn.com/livenews/3155045",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
         },
@@ -597,7 +635,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
         },
@@ -630,6 +668,17 @@
       "match_count": 13,
       "titles": [
         {
+          "title": "美伊外交缓和重挫油价，美股三大指数齐涨，英伟达终结七连跌涨超2%",
+          "url": "https://wallstreetcn.com/articles/3780215",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时41分 ~ 14时58分]"
+        },
+        {
           "title": "美股收盘：三大指数集体收涨 市场静待英伟达财报",
           "url": "https://www.cls.cn/detail/2464164",
           "source": "财联社热门",
@@ -641,17 +690,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[06时34分 ~ 13时40分]"
-        },
-        {
-          "title": "美伊外交缓和重挫油价，美股三大指数齐涨，英伟达终结七连跌涨超2%",
-          "url": "https://wallstreetcn.com/articles/3780215",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时41分 ~ 13时40分]"
         },
         {
           "title": "美伊外交缓和油价重挫，美股三大指数齐涨，英伟达终结七连跌涨超2%",
@@ -886,8 +924,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时41分 ~ 13时40分]"
+          "appearance_count": 7,
+          "time_info": "[09时41分 ~ 14时58分]"
         },
         {
           "title": "高盛重申：年末黄金价格将达到每盎司4900美元！",
