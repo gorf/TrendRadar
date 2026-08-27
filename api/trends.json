@@ -1,372 +1,89 @@
 {
-  "generated_at": "2026-08-27T12:29:51.012489+08:00",
-  "total_titles_processed": 745,
+  "generated_at": "2026-08-28T00:19:09.091357+08:00",
+  "total_titles_processed": 306,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "7月核心PCE同比升3.3% 美股期指涨跌不一 市场静候英伟达财报 |今夜看点",
-          "url": "https://www.cls.cn/detail/2465311",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 06时58分]"
-        },
-        {
-          "title": "美伊外交缓和重挫油价，美股三大指数齐涨，英伟达终结七连跌涨超2%",
-          "url": "https://wallstreetcn.com/articles/3780215",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 06时58分]"
-        },
-        {
-          "title": "美股收盘：PCE通胀略超预期 三大指数小幅收跌 市场静待更多政策信号",
-          "url": "https://www.cls.cn/detail/2465573",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时58分 ~ 12时29分]"
-        },
-        {
-          "title": "7月PCE通胀略超预期，美股三大指数微跌，存储芯片逆势走强，黄金失守4600美元",
-          "url": "https://wallstreetcn.com/articles/3780328",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时29分"
-        },
-        {
-          "title": "静待英伟达财报，三大美股指小幅低开，Meta逆市走高，原油盘中转涨",
-          "url": "https://wallstreetcn.com/articles/3780328",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时08分 ~ 06时58分]"
-        },
-        {
-          "title": "静待英伟达财报，美股三大股指小幅低开，纳指跌0.22%，油价三连跌，债市走强",
-          "url": "https://wallstreetcn.com/articles/3780328",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 00时24分]"
-        },
-        {
-          "title": "英伟达美股盘后涨幅扩大至5.12%。",
-          "url": "https://wallstreetcn.com/livenews/3155579",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "一石激起千层浪！短短9个月，OpenAI自研ASIC芯片已超越英伟达Blackwell？",
-          "url": "https://wallstreetcn.com/articles/3780301",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 06时58分]"
-        },
-        {
-          "title": "分析师评OpenAI自研芯片影响：英伟达利润率或迎来新挑战",
-          "url": "https://www.cls.cn/detail/2465530",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时58分 ~ 12时29分]"
-        },
-        {
-          "title": "英伟达CEO黄仁勋暗示OpenAI和Anthropic将很快上市。",
-          "url": "https://flash.jin10.com/detail/20260827054827954800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时58分"
-        },
-        {
-          "title": "OpenAI：已签署覆盖美国16个州的通用协议，加州另行签订单独协议",
-          "url": "https://wallstreetcn.com/livenews/3155484",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：OpenAI与Anthropic很快将会上市。 我唯一的遗憾就是没有更早、更多地投资。 我有百分之百的信心，这些公司将大量使用英伟达的算力。",
-          "url": "https://wallstreetcn.com/livenews/3155578",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时58分"
-        },
-        {
-          "title": "英伟达首席财务官：预计明年人工智能实验室的需求将贡献约四分之一的公司业务。 将为另一家前沿实验室近2吉瓦算力容量项目提供选择性增信措施。 OpenAI现有及计划中的承诺约占英伟达12GW计算能力。",
-          "url": "https://wallstreetcn.com/livenews/3155565",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时58分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 3,
       "titles": [
         {
-          "title": "对加拿大态度强硬，特朗普底气何来？",
-          "url": "https://news.ifeng.com/c/8vtsZz4nJFu",
+          "title": "加拿大省长：特朗普为我们国家做了两件好事",
+          "url": "https://news.ifeng.com/c/8vvoVtSBR4l",
           "source": "凤凰网",
           "ranks": [
-            8
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 06时58分]"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 00时19分]"
         },
         {
           "title": "特朗普：穆杰塔巴仍活着，但伤势非常严重",
           "url": "https://news.ifeng.com/c/8vvOEOSVv0f",
           "source": "凤凰网",
           "ranks": [
-            7
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 00时19分]"
         },
         {
           "title": "特朗普证实中情局局长访俄",
-          "url": "https://wallstreetcn.com/livenews/3155438",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "美国盟友质疑特朗普“霍尔木兹海峡水雷已全部清除”说法",
-          "url": "https://flash.jin10.com/detail/20260827020531919800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "白宫：美国总统特朗普已签署公告，临时提高免配额外关税进口的瘦牛肉碎配额量。 自9月1日开始，扩大配额至每个月10万吨，有效期90天。 特朗普签署关于牛肉可负担性的公告。",
-          "url": "https://wallstreetcn.com/livenews/3155564",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "网传 DeepSeek 深度思考模式会偷偷给用户取外号，这是真的吗？为什么会出现这种情况？",
-          "url": "https://www.zhihu.com/question/2070165569941287944",
-          "source": "知乎",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 06时58分]"
-        },
-        {
-          "title": "智谱“认领”神秘AI模型Ox Alpha“牛来”，使用量已达DeepSeek两倍以上",
-          "url": "https://wallstreetcn.com/articles/3780350",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时29分"
-        },
-        {
-          "title": "智谱推出对标DeepSeek的轻量旗舰模型，由10万国产卡支持",
-          "url": "https://wallstreetcn.com/livenews/3155439",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "黄金价格持续上涨",
-          "url": "https://www.douyin.com/hot/2624622",
-          "source": "抖音",
-          "ranks": [
-            11,
-            12,
-            16,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 12时29分]"
-        },
-        {
-          "title": "金价大涨终于熬出头",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%A4%A7%E6%B6%A8%E7%BB%88%E4%BA%8E%E7%86%AC%E5%87%BA%E5%A4%B4%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时08分 ~ 06时58分]"
-        },
-        {
-          "title": "黄金价格持续上涨",
-          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E6%8C%81%E7%BB%AD%E4%B8%8A%E6%B6%A8&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 00时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "谷歌：为北美及欧洲加速器项目遴选28家人工智能能源初创企业。 2026加速器批次将借助人工智能提升能源效率、推进电网现代化。",
-          "url": "https://wallstreetcn.com/livenews/3155485",
-          "source": "华尔街见闻-快讯",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33954737",
+          "source": "澎湃新闻",
           "ranks": [
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 00时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "7月PCE通胀略超预期，美股三大指数微跌，存储芯片逆势走强，黄金失守4600美元",
+          "url": "https://wallstreetcn.com/articles/3780328",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 00时19分]"
         },
         {
-          "title": "谷歌发布语音转文本模型Gemini 3.5 Transcribe。",
-          "url": "https://wallstreetcn.com/livenews/3155476",
-          "source": "华尔街见闻-快讯",
+          "title": "AI热情重燃，美股开盘涨跌互现，纳指涨近1%，英伟达绩后大涨6%，油涨金跌",
+          "url": "https://wallstreetcn.com/articles/3780415",
+          "source": "华尔街见闻",
           "ranks": [
-            25
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 00时19分]"
         }
       ]
     },
     {
-      "keyword_group": "招商银行 万华化学 福耀玻璃 旗滨集团 苏农银行 奥浦迈 爱美客 美的集团 潍柴动力 苏泊尔 鱼跃医疗 牧原股份 振邦智能 华兰生物 证监会",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "香港证监会：港股通实现连续34个月净流入 创历史最长纪录",
-          "url": "https://www.cls.cn/detail/2465224",
-          "source": "财联社热门",
+          "title": "OpenAI发布入侵抱抱脸事件报告",
+          "url": "https://www.douyin.com/hot/2625796",
+          "source": "抖音",
           "ranks": [
-            5,
-            8
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 06时58分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "专家：美债失控结局已无法逆转",
-          "url": "https://www.toutiao.com/trending/7678295676790246975/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 03时08分]"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 00时19分]"
         }
       ]
     }
