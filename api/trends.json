@@ -1,111 +1,33 @@
 {
-  "generated_at": "2026-08-28T22:12:52.487782+08:00",
-  "total_titles_processed": 783,
+  "generated_at": "2026-08-29T07:58:50.025329+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 5,
       "titles": [
         {
-          "title": "特朗普又干了两件事，全世界目瞪口呆",
-          "url": "https://news.ifeng.com/c/8vwy3JPTkqb",
-          "source": "凤凰网",
+          "title": "特朗普：美获逾650亿桶委石油储量“多数控制权”",
+          "url": "https://wallstreetcn.com/livenews/3157155",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时24分 ~ 09时25分]"
-        },
-        {
-          "title": "加拿大省长：特朗普为我们国家做了两件好事",
-          "url": "https://news.ifeng.com/c/8vvoVtSBR4l",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 09时25分]"
-        },
-        {
-          "title": "特朗普签署行政令 将安大略湖更名为“美国湖” 美加贸易战持续升温",
-          "url": "https://www.cls.cn/detail/2466934",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时24分 ~ 09时25分]"
-        },
-        {
-          "title": "解读特朗普签署最新备忘录",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E6%9C%80%E6%96%B0%E5%A4%87%E5%BF%98%E5%BD%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时24分 ~ 09时25分]"
-        },
-        {
-          "title": "特朗普：穆杰塔巴仍活着，但伤势非常严重",
-          "url": "https://news.ifeng.com/c/8vvOEOSVv0f",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
-        },
-        {
-          "title": "英伟达单日市值暴涨4420亿美元 特朗普称俄罗斯不会攻击北约 | 环球市场",
-          "url": "https://www.cls.cn/detail/2466983",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时24分 ~ 09时25分]"
-        },
-        {
-          "title": "特朗普证实中情局局长访俄",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33954737",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
-        },
-        {
-          "title": "特朗普签行政令改安大略湖为美国湖",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E8%A1%8C%E6%94%BF%E4%BB%A4%E6%94%B9%E5%AE%89%E5%A4%A7%E7%95%A5%E6%B9%96%E4%B8%BA%E7%BE%8E%E5%9B%BD%E6%B9%96%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时24分 ~ 09时25分]"
-        },
-        {
-          "title": "VIP・9折看懂特朗普信号！",
-          "url": "https://flash.jin10.com/detail/20260828090452729800",
-          "source": "金十数据",
-          "ranks": [
-            7
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时25分"
+          "time_info": "07时58分"
+        },
+        {
+          "title": "美国总统特朗普批评纽约州州长霍赫尔“站在加拿大一边”，不愿使用“美国湖”这一名称、“宁愿让加拿大赢”，并力挺布莱克曼成为纽约州下一任州长。",
+          "url": "https://flash.jin10.com/detail/20260829052329528800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         },
         {
           "title": "特朗普所乘直升机遭遇飞行安全事件，初步调查报告公布",
@@ -114,143 +36,60 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时12分"
+          "time_info": "07时58分"
+        },
+        {
+          "title": "美国总统特朗普否认因纽约世贸中心“9·11”纪念仪式按惯例不安排政治人物演讲而改赴五角大楼的报道，痛批《纽约时报》记者玛吉·哈伯曼捏造消息。",
+          "url": "https://flash.jin10.com/detail/20260829044445440800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         },
         {
           "title": "牛弹琴：特朗普干的事让世界目瞪口呆",
           "url": "https://www.toutiao.com/trending/7679035179687480858/",
           "source": "今日头条",
           "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
-        },
-        {
-          "title": "特朗普故伎重演挥“电力设备禁令”大棒，上次以“被撤销”收场",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33962362",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "7月PCE通胀略超预期，美股三大指数微跌，存储芯片逆势走强，黄金失守4600美元",
-          "url": "https://wallstreetcn.com/articles/3780328",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
-        },
-        {
-          "title": "美股收盘：英伟达暴涨近9%点燃AI行情 沃什讲话接棒成市场焦点",
-          "url": "https://www.cls.cn/detail/2466959",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时24分 ~ 09时25分]"
-        },
-        {
-          "title": "美股存储板块盘前走弱贝壳飙涨两位数 市场静待沃什利率信号 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2468152",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时12分"
-        },
-        {
-          "title": "英伟达率领美股冲高之际 华尔街最悲观策略师仍“扛住不改口”",
-          "url": "https://www.cls.cn/detail/2466928",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时24分 ~ 09时25分]"
-        },
-        {
-          "title": "AI热情重燃，美股开盘涨跌互现，纳指涨近1%，英伟达绩后大涨6%，油涨金跌",
-          "url": "https://wallstreetcn.com/articles/3780415",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
-        },
-        {
-          "title": "“七巨头”退位？美股财报季格局将生变：中小盘成未来盈利增长新主角",
-          "url": "https://www.cls.cn/detail/2467943",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
-        },
-        {
-          "title": "美股开盘三大股指涨跌不一，道指涨0.21%，标普500指数涨0.05%，纳指跌0.09%。BioNTech跌超8%，公司宣布终止结直肠癌2期临床试验。迈威尔科技跌超6%，公司第二季度业绩及前景不佳；PAYPAL大跌近14%，创2月3日以来最大跌幅；贝壳涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3156967",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
-        },
-        {
-          "title": "美股医药股盘前走低，Moderna股价下跌超5%，默沙东下跌2.2%，此前BioNTech宣布暂停癌症疫苗试验。",
-          "url": "https://wallstreetcn.com/livenews/3156961",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
-        },
-        {
-          "title": "BioNTech美股盘前跌约10%，公司宣布终止二期结直肠癌临床试验。",
-          "url": "https://wallstreetcn.com/livenews/3156959",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
+          "time_info": "07时58分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "安联首席经济顾问：美债曲线趋平释放双重信号",
+          "url": "https://flash.jin10.com/detail/20260829055156363800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "沃什杰克逊霍尔放鹰，美股指承压收跌，两年期美债收益率升逾10个基点，黄金重挫3%",
+          "url": "https://wallstreetcn.com/articles/3780532",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
         {
           "title": "今夜，沃什能否拯救美债？或决定AI牛市命运",
           "url": "https://wallstreetcn.com/articles/3780538",
@@ -258,59 +97,87 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
-        },
-        {
-          "title": "40万亿美债谁在悬崖边上",
-          "url": "https://www.toutiao.com/trending/7678649873842834998/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时24分 ~ 09时25分]"
+          "appearance_count": 1,
+          "time_info": "07时58分"
         },
         {
-          "title": "分析人士：科技股调整并非单一美债驱动 AI远期定价成核心博弈主线",
-          "url": "https://wallstreetcn.com/livenews/3156372",
+          "title": "两年期美债收益率周五涨超11个基点，沃什释放鹰派信号后，投资者对美联储的加息预期升温",
+          "url": "https://wallstreetcn.com/livenews/3157147",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时25分"
+          "time_info": "07时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美股收盘：沃什鹰派言论推升加息预期 三大指数小幅收跌",
+          "url": "https://www.cls.cn/detail/2468421",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "美股存储板块盘前走弱贝壳飙涨两位数 市场静待沃什利率信号 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2468152",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "Pinterest美股盘后跌3.2%，该公司CFO离职。",
+          "url": "https://wallstreetcn.com/livenews/3157128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "周五（8月28日），美股行业ETF涨跌各异，半导体ETF收跌3.47%，生物科技指数ETF跌2.72%，科技行业ETF、全球科技股指数ETF至多跌1.53%，网络股指数ETF涨0.2%，能源业ETF涨0.63%，可选消费ETF涨1.15%。 2026年迄今，半导体ETF累涨53.59%，能源业ETF涨42.13%，全球科技股指数ETF、生物科技指数ETF至少涨23.92%，可选消费ETF跌1.45%。",
+          "url": "https://wallstreetcn.com/livenews/3157122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         }
       ]
     },
     {
       "keyword_group": "招商银行 万华化学 福耀玻璃 旗滨集团 苏农银行 奥浦迈 爱美客 美的集团 潍柴动力 苏泊尔 鱼跃医疗 牧原股份 振邦智能 华兰生物 证监会",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "证监会支持上市房企再融资 资本市场支持构建房地产发展新模式",
           "url": "https://www.cls.cn/detail/2468064",
           "source": "财联社热门",
           "ranks": [
-            12
+            11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时12分"
-        },
-        {
-          "title": "证监会发文支持构建房地产发展新模式",
-          "url": "https://www.toutiao.com/trending/7679037154781315611/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
+          "time_info": "07时58分"
         }
       ]
     },
@@ -319,16 +186,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "OpenAI发布入侵抱抱脸事件报告",
-          "url": "https://www.douyin.com/hot/2625796",
-          "source": "抖音",
+          "title": "OpenAI模型失控过程太恐怖！幽灵误判，1200个Agent，还弄出敢死队…",
+          "url": "https://wallstreetcn.com/articles/3780589",
+          "source": "华尔街见闻",
           "ranks": [
-            6,
-            11
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 09时25分]"
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄金价格暴跌逾3.4% 玉米与小麦价格齐创逾三年新高 | 环球市场",
+          "url": "https://www.cls.cn/detail/2468437",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         }
       ]
     },
@@ -337,15 +220,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "北美科技软件股指数ETF跌0.8%，报109.23美元，脱离2025年12月10日以来盘中最高位110.41美元。",
-          "url": "https://wallstreetcn.com/livenews/3156978",
+          "title": "北美科技软件股指数ETF跌0.74%，报109.50美元，本周累涨5.93%。 本周，Global X网络安全ETF反弹5.66%，纳斯达克网络安全ETF反弹3.91%，ETFMG网络安全ETF反弹3.51%。",
+          "url": "https://wallstreetcn.com/livenews/3157124",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时12分"
+          "time_info": "07时58分"
         }
       ]
     }
