@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-30T04:45:22.952936+08:00",
-  "total_titles_processed": 374,
+  "generated_at": "2026-08-30T07:10:08.844603+08:00",
+  "total_titles_processed": 413,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普小儿子遭千万美元悬赏追杀，知情人：他不怎么出门，很孤僻",
@@ -15,8 +15,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 04时45分]"
+          "appearance_count": 4,
+          "time_info": "[01时38分 ~ 07时10分]"
+        },
+        {
+          "title": "芬兰总统斯图布：不管你喜不喜欢，特朗普都是美国历史上最具影响力的总统之一。他会采取行动，并且能够推动这些事情落地。",
+          "url": "https://flash.jin10.com/detail/20260830061456302800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时10分"
+        },
+        {
+          "title": "美国总统特朗普的委内瑞拉石油协议取决于Alejandro Lopez。 Lopez家族控制着委内瑞拉一家大型石油生产商。 其家族控股North American Blue Energy。 其公司将主导委内瑞拉与美国的协议。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3157311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时10分"
         },
         {
           "title": "英国“特朗普支持者”被美国驱逐",
@@ -30,15 +52,27 @@
           "time_info": "01时38分"
         },
         {
+          "title": "特朗普6月两度交易“酷澎”，恰逢韩国处罚该公司引发两国争端",
+          "url": "https://flash.jin10.com/detail/20260830053054901800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时10分"
+        },
+        {
           "title": "沃伦火力全开：特朗普发动伊朗战争，他的“石油盟友”赚得盆满钵满",
           "url": "https://flash.jin10.com/detail/20260830035631732800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时45分 ~ 07时10分]"
         },
         {
           "title": "美国独立参议员桑德斯：一位优步司机告诉我的一位同事，特朗普削减医保后，他的月保费上涨了400%。他每种药的自付额从1美元涨到了高达90美元。这不仅仅是这位优步司机的遭遇，这种情况在美国各地都在发生。我们需要全民医保。",
@@ -52,13 +86,24 @@
           "time_info": "01时38分"
         },
         {
+          "title": "特朗普改名“美国湖”，加拿大亮出“安大略湖”招牌针锋相对",
+          "url": "https://flash.jin10.com/detail/20260830044043158800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时10分"
+        },
+        {
           "title": "特朗普凯旋门获官方支持：建筑能落地，但华盛顿天际线恐变样",
           "url": "https://flash.jin10.com/detail/20260830030613981800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时45分"
         },
@@ -80,7 +125,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时45分"
         }
@@ -107,11 +152,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             29,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 04时45分]"
+          "appearance_count": 4,
+          "time_info": "[01时38分 ~ 07时10分]"
         },
         {
           "title": "2009年来最鹰杰克逊霍尔讲话！沃什首秀推升两年期美债收益率逾10个基点",
@@ -136,11 +182,12 @@
           "source": "知乎",
           "ranks": [
             16,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 04时45分]"
+          "appearance_count": 4,
+          "time_info": "[01时38分 ~ 07时10分]"
         },
         {
           "title": "OpenAI Codex产品人员Derrick Choi：泰国的人工智能开发者社区正在快速发展。2026年，Codex在泰国的周活跃使用量增长超过350倍。OpenAI与泰国高等教育、科学、研究与创新部将汇集10家泰国初创企业，开展为期八周的加速器项目。",
@@ -164,22 +211,24 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33972251",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 04时45分]"
+          "appearance_count": 4,
+          "time_info": "[01时38分 ~ 07时10分]"
         },
         {
           "title": "金价1小时连降4次",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B71%E5%B0%8F%E6%97%B6%E8%BF%9E%E9%99%8D4%E6%AC%A1%23&t=31&band_rank=12&Refer=top",
           "source": "微博",
           "ranks": [
-            12
+            12,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时45分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时45分 ~ 07时10分]"
         }
       ]
     },
@@ -195,8 +244,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 04时45分]"
+          "appearance_count": 4,
+          "time_info": "[01时38分 ~ 07时10分]"
         }
       ]
     }
