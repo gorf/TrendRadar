@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-30T01:38:21.654936+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-08-30T04:45:22.952936+08:00",
+  "total_titles_processed": 374,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "特朗普小儿子遭千万美元悬赏追杀，知情人：他不怎么出门，很孤僻",
+          "url": "https://news.ifeng.com/c/8vyyWf5TDzo",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时38分 ~ 04时45分]"
+        },
         {
           "title": "英国“特朗普支持者”被美国驱逐",
           "url": "https://flash.jin10.com/detail/20260830010927370800",
@@ -19,15 +30,15 @@
           "time_info": "01时38分"
         },
         {
-          "title": "特朗普小儿子遭千万美元悬赏追杀，知情人：他不怎么出门，很孤僻",
-          "url": "https://news.ifeng.com/c/8vyyWf5TDzo",
-          "source": "凤凰网",
+          "title": "沃伦火力全开：特朗普发动伊朗战争，他的“石油盟友”赚得盆满钵满",
+          "url": "https://flash.jin10.com/detail/20260830035631732800",
+          "source": "金十数据",
           "ranks": [
-            5
+            7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时38分"
+          "time_info": "04时45分"
         },
         {
           "title": "美国独立参议员桑德斯：一位优步司机告诉我的一位同事，特朗普削减医保后，他的月保费上涨了400%。他每种药的自付额从1美元涨到了高达90美元。这不仅仅是这位优步司机的遭遇，这种情况在美国各地都在发生。我们需要全民医保。",
@@ -41,6 +52,17 @@
           "time_info": "01时38分"
         },
         {
+          "title": "特朗普凯旋门获官方支持：建筑能落地，但华盛顿天际线恐变样",
+          "url": "https://flash.jin10.com/detail/20260830030613981800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时45分"
+        },
+        {
           "title": "特朗普发帖批评CNN和MSNOW",
           "url": "https://flash.jin10.com/detail/20260829221912572800",
           "source": "金十数据",
@@ -50,6 +72,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
+        },
+        {
+          "title": "特朗普：将担任高尔夫“总统杯”名誉主席",
+          "url": "https://flash.jin10.com/detail/20260830022118674800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时45分"
         }
       ]
     },
@@ -65,8 +98,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时38分"
+          "appearance_count": 2,
+          "time_info": "[01时38分 ~ 04时45分]"
+        },
+        {
+          "title": "美债违约风险有多大",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%80%BA%E8%BF%9D%E7%BA%A6%E9%A3%8E%E9%99%A9%E6%9C%89%E5%A4%9A%E5%A4%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时38分 ~ 04时45分]"
         },
         {
           "title": "2009年来最鹰杰克逊霍尔讲话！沃什首秀推升两年期美债收益率逾10个基点",
@@ -74,17 +119,6 @@
           "source": "华尔街见闻",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时38分"
-        },
-        {
-          "title": "美债违约风险有多大",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%80%BA%E8%BF%9D%E7%BA%A6%E9%A3%8E%E9%99%A9%E6%9C%89%E5%A4%9A%E5%A4%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -101,11 +135,12 @@
           "url": "https://www.zhihu.com/question/2076984800188093248",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时38分"
+          "appearance_count": 2,
+          "time_info": "[01时38分 ~ 04时45分]"
         },
         {
           "title": "OpenAI Codex产品人员Derrick Choi：泰国的人工智能开发者社区正在快速发展。2026年，Codex在泰国的周活跃使用量增长超过350倍。OpenAI与泰国高等教育、科学、研究与创新部将汇集10家泰国初创企业，开展为期八周的加速器项目。",
@@ -122,7 +157,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "三周连涨戛然而止！沃什鹰派讲话冲击贵金属市场，现货金价单日重挫近3%",
@@ -132,8 +167,19 @@
             17
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时38分 ~ 04时45分]"
+        },
+        {
+          "title": "金价1小时连降4次",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B71%E5%B0%8F%E6%97%B6%E8%BF%9E%E9%99%8D4%E6%AC%A1%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时38分"
+          "time_info": "04时45分"
         }
       ]
     },
@@ -149,8 +195,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时38分"
+          "appearance_count": 2,
+          "time_info": "[01时38分 ~ 04时45分]"
         }
       ]
     }
