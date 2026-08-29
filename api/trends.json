@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-29T07:58:50.025329+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-08-29T14:58:17.802299+08:00",
+  "total_titles_processed": 543,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "特朗普：美获逾650亿桶委石油储量“多数控制权”",
@@ -17,6 +17,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "加拿大原住民酋长反对安大略湖更名 要求特朗普道歉",
+          "url": "https://wallstreetcn.com/livenews/3157241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
+        },
+        {
+          "title": "特朗普：美国与委内瑞拉达成一项石油协议",
+          "url": "https://news.ifeng.com/c/8vydSmIu6VU",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
         },
         {
           "title": "美国总统特朗普批评纽约州州长霍赫尔“站在加拿大一边”，不愿使用“美国湖”这一名称、“宁愿让加拿大赢”，并力挺布莱克曼成为纽约州下一任州长。",
@@ -39,6 +61,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "特朗普：美国获得委内瑞拉逾650亿桶石油储量“多数控制权”",
+          "url": "https://www.cls.cn/detail/2468446",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
+        },
+        {
+          "title": "前美国外交官：特朗普对伊朗战争的目标一直在变",
+          "url": "https://flash.jin10.com/detail/20260829121609247800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
         },
         {
           "title": "美国总统特朗普否认因纽约世贸中心“9·11”纪念仪式按惯例不安排政治人物演讲而改赴五角大楼的报道，痛批《纽约时报》记者玛吉·哈伯曼捏造消息。",
@@ -69,26 +113,16 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "安联首席经济顾问：美债曲线趋平释放双重信号",
-          "url": "https://flash.jin10.com/detail/20260829055156363800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
           "title": "沃什杰克逊霍尔放鹰，美股指承压收跌，两年期美债收益率升逾10个基点，黄金重挫3%",
           "url": "https://wallstreetcn.com/articles/3780532",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 14时58分]"
         },
         {
           "title": "今夜，沃什能否拯救美债？或决定AI牛市命运",
@@ -96,6 +130,17 @@
           "source": "华尔街见闻",
           "ranks": [
             4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 14时58分]"
+        },
+        {
+          "title": "安联首席经济顾问：美债曲线趋平释放双重信号",
+          "url": "https://flash.jin10.com/detail/20260829055156363800",
+          "source": "金十数据",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -123,22 +168,24 @@
           "url": "https://www.cls.cn/detail/2468421",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 14时58分]"
         },
         {
           "title": "美股存储板块盘前走弱贝壳飙涨两位数 市场静待沃什利率信号 | 今夜看点",
           "url": "https://www.cls.cn/detail/2468152",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 14时58分]"
         },
         {
           "title": "Pinterest美股盘后跌3.2%，该公司CFO离职。",
@@ -165,25 +212,8 @@
       ]
     },
     {
-      "keyword_group": "招商银行 万华化学 福耀玻璃 旗滨集团 苏农银行 奥浦迈 爱美客 美的集团 潍柴动力 苏泊尔 鱼跃医疗 牧原股份 振邦智能 华兰生物 证监会",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "证监会支持上市房企再融资 资本市场支持构建房地产发展新模式",
-          "url": "https://www.cls.cn/detail/2468064",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI模型失控过程太恐怖！幽灵误判，1200个Agent，还弄出敢死队…",
@@ -195,19 +225,70 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "OpenAI 被曝测试 Codex「永动机」模式，有哪些地方值得关注？怎么看持续工作的 Agent？",
+          "url": "https://www.zhihu.com/question/2076617875771449373",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
+        },
+        {
+          "title": "OpenAI宣布终止与Cursor合作，因SpaceX已收购该公司",
+          "url": "https://flash.jin10.com/detail/20260829113731268800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "黄金价格暴跌逾3.4% 玉米与小麦价格齐创逾三年新高 | 环球市场",
           "url": "https://www.cls.cn/detail/2468437",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 14时58分]"
+        },
+        {
+          "title": "老庙老凤祥周生生金价集体大跌",
+          "url": "https://www.baidu.com/s?wd=%E8%80%81%E5%BA%99%E8%80%81%E5%87%A4%E7%A5%A5%E5%91%A8%E7%94%9F%E7%94%9F%E9%87%91%E4%BB%B7%E9%9B%86%E4%BD%93%E5%A4%A7%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "招商银行 万华化学 福耀玻璃 旗滨集团 苏农银行 奥浦迈 爱美客 美的集团 潍柴动力 苏泊尔 鱼跃医疗 牧原股份 振邦智能 华兰生物 证监会",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "证监会支持上市房企再融资 资本市场支持构建房地产发展新模式",
+          "url": "https://www.cls.cn/detail/2468064",
+          "source": "财联社热门",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
