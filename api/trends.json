@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-30T12:45:41.594944+08:00",
-  "total_titles_processed": 621,
+  "generated_at": "2026-08-30T18:25:16.976706+08:00",
+  "total_titles_processed": 803,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普小儿子遭千万美元悬赏追杀，知情人：他不怎么出门，很孤僻",
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时38分 ~ 12时45分]"
+        },
+        {
+          "title": "中选之后，“特朗普交易”要反噬了？",
+          "url": "https://wallstreetcn.com/articles/3780643",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时45分 ~ 18时25分]"
         },
         {
           "title": "芬兰总统斯图布：不管你喜不喜欢，特朗普都是美国历史上最具影响力的总统之一。他会采取行动，并且能够推动这些事情落地。",
@@ -39,17 +51,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
-        },
-        {
-          "title": "中选之后，“特朗普交易”要反噬了？",
-          "url": "https://wallstreetcn.com/articles/3780643",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时45分"
         },
         {
           "title": "特朗普6月两度交易“酷澎”，恰逢韩国处罚该公司引发两国争端",
@@ -87,13 +88,48 @@
           "time_info": "[04时45分 ~ 07时10分]"
         },
         {
+          "title": "美媒爆料：美国中情局局长秘密访俄期间，曾提议特朗普、普京和泽连斯基举行三方会谈",
+          "url": "https://wallstreetcn.com/livenews/3157324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时45分 ~ 18时25分]"
+        },
+        {
+          "title": "特朗普称美国获得超 650 亿桶委石油储量的「多数控制权」，美国纳税人无需为此承担任何费用，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2076965570528941102",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时45分 ~ 18时25分]"
+        },
+        {
+          "title": "特朗普称已与委内瑞拉达成石油协议，网友：公然盗窃",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33974696",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时45分 ~ 18时25分]"
+        },
+        {
           "title": "攫取650亿桶石油、独享100年特权？特朗普被批殖民委内瑞拉",
           "url": "https://news.ifeng.com/c/8vztBJ1GVju",
           "source": "凤凰网",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
         },
@@ -104,18 +140,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时45分"
-        },
-        {
-          "title": "美媒爆料：美国中情局局长秘密访俄期间，曾提议特朗普、普京和泽连斯基举行三方会谈",
-          "url": "https://wallstreetcn.com/livenews/3157324",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
         },
@@ -142,15 +167,15 @@
           "time_info": "07时10分"
         },
         {
-          "title": "特朗普称美国获得超 650 亿桶委石油储量的「多数控制权」，美国纳税人无需为此承担任何费用，如何看待此事？",
-          "url": "https://www.zhihu.com/question/2076965570528941102",
-          "source": "知乎",
+          "title": "特朗普想从加拿大拿走什么",
+          "url": "https://www.toutiao.com/trending/7679448219134201370/",
+          "source": "今日头条",
           "ranks": [
-            11
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时45分"
+          "time_info": "18时25分"
         },
         {
           "title": "特朗普凯旋门获官方支持：建筑能落地，但华盛顿天际线恐变样",
@@ -162,17 +187,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时45分"
-        },
-        {
-          "title": "特朗普称已与委内瑞拉达成石油协议，网友：公然盗窃",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33974696",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时45分"
         },
         {
           "title": "特朗普发帖批评CNN和MSNOW",
@@ -203,7 +217,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
         },
@@ -214,7 +228,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
         }
@@ -222,7 +236,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "怎么看 OpenAI 因 Cursor 被 SpaceX 收购，将停止向 Cursor 提供 AI 模型？",
@@ -242,22 +256,35 @@
           "url": "https://wallstreetcn.com/articles/3780645",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时45分 ~ 18时25分]"
         },
         {
           "title": "OpenAI将终止向Cursor提供模型服务，马斯克回应：毫不在意",
           "url": "https://wallstreetcn.com/livenews/3157325",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时45分 ~ 18时25分]"
+        },
+        {
+          "title": "马斯克飙脏话，痛斥OpenAI CEO奥尔特曼：不值得信任的混蛋",
+          "url": "https://news.ifeng.com/c/8w0jEyIDiEs",
+          "source": "凤凰网",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时45分"
+          "time_info": "18时25分"
         },
         {
           "title": "OpenAI Codex产品人员Derrick Choi：泰国的人工智能开发者社区正在快速发展。2026年，Codex在泰国的周活跃使用量增长超过350倍。OpenAI与泰国高等教育、科学、研究与创新部将汇集10家泰国初创企业，开展为期八周的加速器项目。",
@@ -277,9 +304,61 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "沃什杰克逊霍尔放鹰，美股指承压收跌，两年期美债收益率升逾10个基点，黄金重挫3%",
+          "url": "https://wallstreetcn.com/articles/3780532",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时38分 ~ 04时45分]"
+        },
+        {
+          "title": "美债违约风险有多大",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%80%BA%E8%BF%9D%E7%BA%A6%E9%A3%8E%E9%99%A9%E6%9C%89%E5%A4%9A%E5%A4%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时38分 ~ 07时10分]"
+        },
+        {
+          "title": "2009年来最鹰杰克逊霍尔讲话！沃什首秀推升两年期美债收益率逾10个基点",
+          "url": "https://wallstreetcn.com/articles/3780605",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "沃什发表央行年会主题演讲，黄金重挫超 3%，美元、美债收益率集体上涨，美股下跌，如何解读？",
+          "url": "https://www.zhihu.com/question/2076947094842224747",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         }
       ]
     },
@@ -318,50 +397,9 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "沃什杰克逊霍尔放鹰，美股指承压收跌，两年期美债收益率升逾10个基点，黄金重挫3%",
-          "url": "https://wallstreetcn.com/articles/3780532",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 04时45分]"
-        },
-        {
-          "title": "美债违约风险有多大",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%80%BA%E8%BF%9D%E7%BA%A6%E9%A3%8E%E9%99%A9%E6%9C%89%E5%A4%9A%E5%A4%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29,
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时38分 ~ 07时10分]"
-        },
-        {
-          "title": "2009年来最鹰杰克逊霍尔讲话！沃什首秀推升两年期美债收益率逾10个基点",
-          "url": "https://wallstreetcn.com/articles/3780605",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时38分"
         }
       ]
     },
@@ -375,11 +413,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时38分 ~ 12时45分]"
+          "appearance_count": 6,
+          "time_info": "[01时38分 ~ 18时25分]"
         }
       ]
     }
