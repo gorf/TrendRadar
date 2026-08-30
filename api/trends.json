@@ -1,56 +1,22 @@
 {
-  "generated_at": "2026-08-30T23:18:27.761256+08:00",
-  "total_titles_processed": 1001,
+  "generated_at": "2026-08-31T03:14:07.108251+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 11,
       "titles": [
-        {
-          "title": "特朗普小儿子遭千万美元悬赏追杀，知情人：他不怎么出门，很孤僻",
-          "url": "https://news.ifeng.com/c/8vyyWf5TDzo",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时38分 ~ 12时45分]"
-        },
         {
           "title": "中选之后，“特朗普交易”要反噬了？",
           "url": "https://wallstreetcn.com/articles/3780643",
           "source": "华尔街见闻",
           "ranks": [
-            5,
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时45分 ~ 23时18分]"
-        },
-        {
-          "title": "芬兰总统斯图布：不管你喜不喜欢，特朗普都是美国历史上最具影响力的总统之一。他会采取行动，并且能够推动这些事情落地。",
-          "url": "https://flash.jin10.com/detail/20260830061456302800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时10分"
-        },
-        {
-          "title": "美国航空航天局（NASA）局长贾里德·艾萨克曼：在具有历史意义的“罗曼”望远镜发射后，美国总统特朗普通过电话连线参加了NASA的新闻发布会。",
-          "url": "https://flash.jin10.com/detail/20260830225947465800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
+          "appearance_count": 2,
+          "time_info": "[03时13分 ~ 03时14分]"
         },
         {
           "title": "美国总统特朗普：加拿大 “多年来一直在占我们的便宜”。 加拿大企业正大量涌入美国。 我们要实现汽车等产品本土生产，这就是将要发生的局面。 加拿大多年来一直在占我们的便宜 —— 这种日子结束了！",
@@ -61,111 +27,7 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时18分"
-        },
-        {
-          "title": "英国“特朗普支持者”被美国驱逐",
-          "url": "https://flash.jin10.com/detail/20260830010927370800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时38分"
-        },
-        {
-          "title": "特朗普6月两度交易“酷澎”，恰逢韩国处罚该公司引发两国争端",
-          "url": "https://flash.jin10.com/detail/20260830053054901800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时10分"
-        },
-        {
-          "title": "据美国哥伦比亚广播公司（CBS）：美国政府内部文件显示，特朗普政府在10天内将来自阿富汗、古巴、尼加拉瓜等国的100多名被驱逐人员遣送至非洲8个国家，进一步扩大其“第三国”驱逐行动。",
-          "url": "https://flash.jin10.com/detail/20260830223614448800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
-        },
-        {
-          "title": "美国总统特朗普的委内瑞拉石油协议取决于Alejandro Lopez。 Lopez家族控制着委内瑞拉一家大型石油生产商。 其家族控股North American Blue Energy。 其公司将主导委内瑞拉与美国的协议。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3157311",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时10分 ~ 12时45分]"
-        },
-        {
-          "title": "特朗普称已与委内瑞拉达成石油协议，网友：公然盗窃",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33974696",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时45分 ~ 23时18分]"
-        },
-        {
-          "title": "沃伦火力全开：特朗普发动伊朗战争，他的“石油盟友”赚得盆满钵满",
-          "url": "https://flash.jin10.com/detail/20260830035631732800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时45分 ~ 07时10分]"
-        },
-        {
-          "title": "美媒爆料：美国中情局局长秘密访俄期间，曾提议特朗普、普京和泽连斯基举行三方会谈",
-          "url": "https://wallstreetcn.com/livenews/3157324",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时45分 ~ 18时25分]"
-        },
-        {
-          "title": "特朗普称美国获得超 650 亿桶委石油储量的「多数控制权」，美国纳税人无需为此承担任何费用，如何看待此事？",
-          "url": "https://www.zhihu.com/question/2076965570528941102",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时45分 ~ 18时25分]"
-        },
-        {
-          "title": "攫取650亿桶石油、独享100年特权？特朗普被批殖民委内瑞拉",
-          "url": "https://news.ifeng.com/c/8vztBJ1GVju",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时45分"
+          "time_info": "03时14分"
         },
         {
           "title": "替美国打过仗的阿富汗人家属，被特朗普扔去非洲",
@@ -174,207 +36,114 @@
           "ranks": [
             7
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时13分 ~ 03时14分]"
+        },
+        {
+          "title": "博主：“特朗普交易”正一步步崩盘",
+          "url": "https://www.toutiao.com/trending/7679810565853679158/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时13分 ~ 03时14分]"
+        },
+        {
+          "title": "特朗普称已与委内瑞拉达成石油协议，网友：公然盗窃",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33974696",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时13分 ~ 03时14分]"
+        },
+        {
+          "title": "美国总统特朗普：所有与美国有业务往来的加拿大公司，立即迁往美国。其中许多公司多年前就因为美国领导层的愚蠢政策而迁出加拿大。等你们搬回来，关税全免！",
+          "url": "https://flash.jin10.com/detail/20260831022655378800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时18分"
+          "time_info": "03时14分"
         },
         {
-          "title": "伊媒嘲讽特朗普与委内瑞拉的石油协议：虚张声势，日产量不足伊朗一半",
-          "url": "https://flash.jin10.com/detail/20260830111541176800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时45分"
-        },
-        {
-          "title": "美国独立参议员桑德斯：一位优步司机告诉我的一位同事，特朗普削减医保后，他的月保费上涨了400%。他每种药的自付额从1美元涨到了高达90美元。这不仅仅是这位优步司机的遭遇，这种情况在美国各地都在发生。我们需要全民医保。",
-          "url": "https://flash.jin10.com/detail/20260830003450743800",
+          "title": "特朗普声称不需要加拿大任何产品 早应该遏制加拿大占便宜行为",
+          "url": "https://flash.jin10.com/detail/20260831022153479800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时38分"
+          "time_info": "03时14分"
         },
         {
-          "title": "特朗普改名“美国湖”，加拿大亮出“安大略湖”招牌针锋相对",
-          "url": "https://flash.jin10.com/detail/20260830044043158800",
+          "title": "美国总统特朗普：加拿大想被当作（美国的）一个州对待，但他们不是。我与许多国家的领导人打过交道，但我认为加拿大是最差的。他们不再有资格享受特权了",
+          "url": "https://flash.jin10.com/detail/20260831021753875800",
           "source": "金十数据",
           "ranks": [
-            10
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时10分"
+          "time_info": "03时14分"
         },
         {
-          "title": "特朗普称将用委内瑞拉石油填满美国战略储备",
-          "url": "https://flash.jin10.com/detail/20260830221438633800",
+          "title": "美国总统特朗普：加拿大几十年来一直在剥削我们，这种情况必须停止。其他总统早就应该这么做了，就像早就应该阻止伊朗一样。",
+          "url": "https://flash.jin10.com/detail/20260831021703778800",
           "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时18分"
+          "time_info": "03时14分"
         },
         {
-          "title": "美国总统特朗普：将用委内瑞拉石油填充美国国家战略储备。补充至满储水平的过程很快就会启动。",
-          "url": "https://flash.jin10.com/detail/20260830221142058800",
+          "title": "美国总统特朗普：加拿大是滥用关税最严重的国家之一。我不要加拿大汽车，不要加拿大零部件，不要任何加拿大产品。",
+          "url": "https://flash.jin10.com/detail/20260831021645656800",
           "source": "金十数据",
           "ranks": [
-            14
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时18分"
+          "time_info": "03时14分"
         },
         {
-          "title": "特朗普想从加拿大拿走什么",
-          "url": "https://www.toutiao.com/trending/7679448219134201370/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "特朗普凯旋门获官方支持：建筑能落地，但华盛顿天际线恐变样",
-          "url": "https://flash.jin10.com/detail/20260830030613981800",
+          "title": "特朗普敦促FCC调查媒体民调并惩罚NBC主持人",
+          "url": "https://flash.jin10.com/detail/20260831014108809800",
           "source": "金十数据",
           "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时45分"
-        },
-        {
-          "title": "美国总统特朗普：加拿大企业正纷纷涌入美国。我们希望自己生产汽车等产品。这就是接下来会发生的事情。加拿大多年来一直在占我们的便宜，这种情况不会再继续了。",
-          "url": "https://flash.jin10.com/detail/20260830220018666800",
-          "source": "金十数据",
-          "ranks": [
-            17
+            26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时18分"
-        },
-        {
-          "title": "美国保守派政治新闻记者、福克斯新闻原主持人Tucker Carlson：如果特朗普正在考虑率先使用核武器，就应将其免职。哪怕只是考虑这种可能性，也应使一名总统失去继续任职的资格，因为这是不可逾越的红线。",
-          "url": "https://flash.jin10.com/detail/20260830215938802800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
-        },
-        {
-          "title": "特朗普任期进入关键阶段之际，其核心幕僚接连离职",
-          "url": "https://flash.jin10.com/detail/20260830215811400800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
-        },
-        {
-          "title": "特朗普发帖批评CNN和MSNOW",
-          "url": "https://flash.jin10.com/detail/20260829221912572800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时38分"
-        },
-        {
-          "title": "特朗普：将担任高尔夫“总统杯”名誉主席",
-          "url": "https://flash.jin10.com/detail/20260830022118674800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时45分"
-        },
-        {
-          "title": "VIP・9折看懂特朗普信号！",
-          "url": "https://flash.jin10.com/detail/20260830090613550800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时45分"
-        },
-        {
-          "title": "美媒爆料：美国中情局局长秘密访俄期间，曾提议特朗普、普京和泽连斯基举行三方会谈",
-          "url": "https://flash.jin10.com/detail/20260830085947271800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时45分"
+          "time_info": "03时14分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "怎么看 OpenAI 因 Cursor 被 SpaceX 收购，将停止向 Cursor 提供 AI 模型？",
-          "url": "https://www.zhihu.com/question/2076984800188093248",
-          "source": "知乎",
-          "ranks": [
-            16,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时38分 ~ 07时10分]"
-        },
         {
           "title": "OpenAI新王Astra首测曝光，前端不存在了？",
           "url": "https://wallstreetcn.com/articles/3780645",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            8,
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时45分 ~ 23时18分]"
-        },
-        {
-          "title": "OpenAI将终止向Cursor提供模型服务，马斯克回应：毫不在意",
-          "url": "https://wallstreetcn.com/livenews/3157325",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            21
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时45分 ~ 18时25分]"
+          "time_info": "[03时13分 ~ 03时14分]"
         },
         {
           "title": "马斯克飙脏话，痛斥OpenAI CEO奥尔特曼：不值得信任的混蛋",
@@ -385,128 +154,13 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时25分 ~ 23时18分]"
-        },
-        {
-          "title": "OpenAI Codex产品人员Derrick Choi：泰国的人工智能开发者社区正在快速发展。2026年，Codex在泰国的周活跃使用量增长超过350倍。OpenAI与泰国高等教育、科学、研究与创新部将汇集10家泰国初创企业，开展为期八周的加速器项目。",
-          "url": "https://flash.jin10.com/detail/20260829222350051800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时38分"
-        },
-        {
-          "title": "报道称OpenAI将终止向马斯克旗下平台提供模型服务 马斯克回应：“毫不在意”",
-          "url": "https://flash.jin10.com/detail/20260830092556540800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "沃什杰克逊霍尔放鹰，美股指承压收跌，两年期美债收益率升逾10个基点，黄金重挫3%",
-          "url": "https://wallstreetcn.com/articles/3780532",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 04时45分]"
-        },
-        {
-          "title": "美债违约风险有多大",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%80%BA%E8%BF%9D%E7%BA%A6%E9%A3%8E%E9%99%A9%E6%9C%89%E5%A4%9A%E5%A4%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29,
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时38分 ~ 07时10分]"
-        },
-        {
-          "title": "2009年来最鹰杰克逊霍尔讲话！沃什首秀推升两年期美债收益率逾10个基点",
-          "url": "https://wallstreetcn.com/articles/3780605",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时38分"
-        },
-        {
-          "title": "沃什发表央行年会主题演讲，黄金重挫超 3%，美元、美债收益率集体上涨，美股下跌，如何解读？",
-          "url": "https://www.zhihu.com/question/2076947094842224747",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "三周连涨戛然而止！沃什鹰派讲话冲击贵金属市场，现货金价单日重挫近3%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33972251",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时38分 ~ 07时10分]"
-        },
-        {
-          "title": "金价1小时连降4次",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B71%E5%B0%8F%E6%97%B6%E8%BF%9E%E9%99%8D4%E6%AC%A1%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时45分 ~ 07时10分]"
-        },
-        {
-          "title": "金价暴跌之前有人直接清仓",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E4%B9%8B%E5%89%8D%E6%9C%89%E4%BA%BA%E7%9B%B4%E6%8E%A5%E6%B8%85%E4%BB%93%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时45分"
+          "time_info": "[03时13分 ~ 03时14分]"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "谷歌地图调整安大略湖显示名称，对美国用户显示“美国湖”",
@@ -517,48 +171,7 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时18分"
-        },
-        {
-          "title": "谷歌地图调整安大略湖显示名称 对美国用户显示“美国湖”",
-          "url": "https://flash.jin10.com/detail/20260830214746122800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美股收盘：沃什鹰派言论推升加息预期 三大指数小幅收跌",
-          "url": "https://www.cls.cn/detail/2468421",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时38分 ~ 18时25分]"
-        },
-        {
-          "title": "李大霄提醒11月3日对美股风险",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E6%8F%90%E9%86%9211%E6%9C%883%E6%97%A5%E5%AF%B9%E7%BE%8E%E8%82%A1%E9%A3%8E%E9%99%A9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
+          "time_info": "03时14分"
         }
       ]
     }
