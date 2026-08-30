@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-30T18:25:16.976706+08:00",
-  "total_titles_processed": 803,
+  "generated_at": "2026-08-30T23:18:27.761256+08:00",
+  "total_titles_processed": 1001,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普小儿子遭千万美元悬赏追杀，知情人：他不怎么出门，很孤僻",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时45分 ~ 18时25分]"
+          "appearance_count": 3,
+          "time_info": "[12时45分 ~ 23时18分]"
         },
         {
           "title": "芬兰总统斯图布：不管你喜不喜欢，特朗普都是美国历史上最具影响力的总统之一。他会采取行动，并且能够推动这些事情落地。",
@@ -40,6 +40,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
+        },
+        {
+          "title": "美国航空航天局（NASA）局长贾里德·艾萨克曼：在具有历史意义的“罗曼”望远镜发射后，美国总统特朗普通过电话连线参加了NASA的新闻发布会。",
+          "url": "https://flash.jin10.com/detail/20260830225947465800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
+          "title": "美国总统特朗普：加拿大 “多年来一直在占我们的便宜”。 加拿大企业正大量涌入美国。 我们要实现汽车等产品本土生产，这就是将要发生的局面。 加拿大多年来一直在占我们的便宜 —— 这种日子结束了！",
+          "url": "https://wallstreetcn.com/livenews/3157398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "英国“特朗普支持者”被美国驱逐",
@@ -64,6 +86,17 @@
           "time_info": "07时10分"
         },
         {
+          "title": "据美国哥伦比亚广播公司（CBS）：美国政府内部文件显示，特朗普政府在10天内将来自阿富汗、古巴、尼加拉瓜等国的100多名被驱逐人员遣送至非洲8个国家，进一步扩大其“第三国”驱逐行动。",
+          "url": "https://flash.jin10.com/detail/20260830223614448800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "美国总统特朗普的委内瑞拉石油协议取决于Alejandro Lopez。 Lopez家族控制着委内瑞拉一家大型石油生产商。 其家族控股North American Blue Energy。 其公司将主导委内瑞拉与美国的协议。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3157311",
           "source": "华尔街见闻-快讯",
@@ -74,6 +107,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时10分 ~ 12时45分]"
+        },
+        {
+          "title": "特朗普称已与委内瑞拉达成石油协议，网友：公然盗窃",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33974696",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时45分 ~ 23时18分]"
         },
         {
           "title": "沃伦火力全开：特朗普发动伊朗战争，他的“石油盟友”赚得盆满钵满",
@@ -111,18 +157,6 @@
           "time_info": "[12时45分 ~ 18时25分]"
         },
         {
-          "title": "特朗普称已与委内瑞拉达成石油协议，网友：公然盗窃",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33974696",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时45分 ~ 18时25分]"
-        },
-        {
           "title": "攫取650亿桶石油、独享100年特权？特朗普被批殖民委内瑞拉",
           "url": "https://news.ifeng.com/c/8vztBJ1GVju",
           "source": "凤凰网",
@@ -132,6 +166,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
+        },
+        {
+          "title": "替美国打过仗的阿富汗人家属，被特朗普扔去非洲",
+          "url": "https://news.ifeng.com/c/8w1BWwoFzwl",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "伊媒嘲讽特朗普与委内瑞拉的石油协议：虚张声势，日产量不足伊朗一半",
@@ -167,13 +212,35 @@
           "time_info": "07时10分"
         },
         {
+          "title": "特朗普称将用委内瑞拉石油填满美国战略储备",
+          "url": "https://flash.jin10.com/detail/20260830221438633800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
+          "title": "美国总统特朗普：将用委内瑞拉石油填充美国国家战略储备。补充至满储水平的过程很快就会启动。",
+          "url": "https://flash.jin10.com/detail/20260830221142058800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "特朗普想从加拿大拿走什么",
           "url": "https://www.toutiao.com/trending/7679448219134201370/",
           "source": "今日头条",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -187,6 +254,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时45分"
+        },
+        {
+          "title": "美国总统特朗普：加拿大企业正纷纷涌入美国。我们希望自己生产汽车等产品。这就是接下来会发生的事情。加拿大多年来一直在占我们的便宜，这种情况不会再继续了。",
+          "url": "https://flash.jin10.com/detail/20260830220018666800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
+          "title": "美国保守派政治新闻记者、福克斯新闻原主持人Tucker Carlson：如果特朗普正在考虑率先使用核武器，就应将其免职。哪怕只是考虑这种可能性，也应使一名总统失去继续任职的资格，因为这是不可逾越的红线。",
+          "url": "https://flash.jin10.com/detail/20260830215938802800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
+          "title": "特朗普任期进入关键阶段之际，其核心幕僚接连离职",
+          "url": "https://flash.jin10.com/detail/20260830215811400800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "特朗普发帖批评CNN和MSNOW",
@@ -257,11 +357,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时45分 ~ 18时25分]"
+          "appearance_count": 3,
+          "time_info": "[12时45分 ~ 23时18分]"
         },
         {
           "title": "OpenAI将终止向Cursor提供模型服务，马斯克回应：毫不在意",
@@ -282,9 +383,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 23时18分]"
         },
         {
           "title": "OpenAI Codex产品人员Derrick Choi：泰国的人工智能开发者社区正在快速发展。2026年，Codex在泰国的周活跃使用量增长超过350倍。OpenAI与泰国高等教育、科学、研究与创新部将汇集10家泰国初创企业，开展为期八周的加速器项目。",
@@ -356,7 +457,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         }
@@ -404,8 +505,36 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌地图调整安大略湖显示名称，对美国用户显示“美国湖”",
+          "url": "https://wallstreetcn.com/livenews/3157397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
+          "title": "谷歌地图调整安大略湖显示名称 对美国用户显示“美国湖”",
+          "url": "https://flash.jin10.com/detail/20260830214746122800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美股收盘：沃什鹰派言论推升加息预期 三大指数小幅收跌",
@@ -419,6 +548,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时38分 ~ 18时25分]"
+        },
+        {
+          "title": "李大霄提醒11月3日对美股风险",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E6%8F%90%E9%86%9211%E6%9C%883%E6%97%A5%E5%AF%B9%E7%BE%8E%E8%82%A1%E9%A3%8E%E9%99%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         }
       ]
     }
