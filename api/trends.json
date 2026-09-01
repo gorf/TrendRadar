@@ -1,11 +1,106 @@
 {
-  "generated_at": "2026-09-02T01:45:25.957292+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-09-02T04:51:49.549890+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "美股",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "霍尔木兹油轮遇袭推升油价，美股低开，纳指跌超1.3%，全球债市抛售加剧，黄金失守4350",
+          "url": "https://wallstreetcn.com/articles/3780783",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 04时51分]"
+        },
+        {
+          "title": "美伊局势升级叠加鹰派预期，原油大涨，美股8月收官两连跌，芯片指数逆市反弹",
+          "url": "https://wallstreetcn.com/articles/3780702",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 04时51分]"
+        },
+        {
+          "title": "美股三大期指集体走低 市场转而押注美联储本月加息 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2471151",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 04时51分]"
+        },
+        {
+          "title": "Citadel：9月美股或迎“战术性下行窗口”，建议逢高减仓、低价买保护",
+          "url": "https://wallstreetcn.com/articles/3780833",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 04时51分]"
+        },
+        {
+          "title": "黄金ETF收跌超2.8%，领跌美股大类资产类ETF，布油基金涨超5.1%",
+          "url": "https://wallstreetcn.com/livenews/3158761",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "戴尔科技美股盘后涨幅扩大至11%，该公司强势上调全年营收指引。",
+          "url": "https://wallstreetcn.com/livenews/3158757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "周二（9月1日），美股行业ETF多数下跌，全球航空业ETF收跌2.14%，半导体ETF跌2.05%，网络股指数ETF跌1.83%，可选消费ETF、科技行业ETF、工业指数ETF至多跌1.72%，全球科技股指数ETF跌1.25%，生物科技指数ETF涨0.85%，能源业ETF涨1.27%。",
+          "url": "https://wallstreetcn.com/livenews/3158754",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "戴尔科技二季度调整后每股收益（EPS）为7.04美元，分析师预期4.90美元。 二季度总体净营收469.7亿美元，分析师预期447.8亿美元。 二季度为运行AI工作负载而设计和优化的服务器营收164亿美元，分析师预期160.3亿美元。 二季度传统服务器与网络营收105.3亿美元。 二季度基础设施解决方案集团净营收317.8亿美元。 二季度调整后运营利润59.3亿美元，分析师预期41.8亿美元。 预计全年营收1920亿美元，分析师预期1737.6亿美元，公司原本预计1650亿-1690亿美元。 预计全年AI优化服务器营收740亿美元，公司原本预计大约600亿美元。 预计三季度营收490亿美元，分析师预期419.1亿美元。 戴尔科技美股盘后涨5%。",
+          "url": "https://wallstreetcn.com/livenews/3158746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "特朗普“密友”戴安斯再度访华",
@@ -15,8 +110,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时45分"
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 04时51分]"
         },
         {
           "title": "沃什鹰派发言后，特朗普：“加息”是荒谬的，沃什会做他必须做的事",
@@ -26,8 +121,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时45分"
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 04时51分]"
         },
         {
           "title": "事关马岛，特朗普首次公开表态",
@@ -37,8 +132,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时45分"
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 04时51分]"
+        },
+        {
+          "title": "大外交丨特朗普“密友”戴安斯再度访华，中美近期各领域互动频密",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33983668",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 04时51分]"
         },
         {
           "title": "伊朗喊话美国重返停火备忘录，万斯称特朗普发轰炸哈尔克岛视频在向伊“传递信息”",
@@ -52,65 +159,87 @@
           "time_info": "01时45分"
         },
         {
-          "title": "大外交丨特朗普“密友”戴安斯再度访华，中美近期各领域互动频密",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33983668",
-          "source": "澎湃新闻",
+          "title": "俄罗斯总统普京：（关于乌克兰冲突）特朗普女婿库什纳和美国总统特使威特科夫是受欢迎的嘉宾。",
+          "url": "https://flash.jin10.com/detail/20260902041001651800",
+          "source": "金十数据",
           "ranks": [
-            19
+            21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时45分"
+          "time_info": "04时51分"
+        },
+        {
+          "title": "俄罗斯总统普京：（关于乌克兰冲突）我们发现与我们信任的人合作更加舒适。这些人都是接近美国总统特朗普的人。",
+          "url": "https://flash.jin10.com/detail/20260902040959822800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
         }
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 4,
+      "keyword_group": "chatgpt openai",
+      "match_count": 5,
       "titles": [
         {
-          "title": "霍尔木兹油轮遇袭推升油价，美股低开，纳指跌超1.3%，全球债市抛售加剧，黄金失守4350",
-          "url": "https://wallstreetcn.com/articles/3780783",
-          "source": "华尔街见闻",
+          "title": "OpenAI：推出全新电子健康记录集成功能，可将Epic系统中经授权的患者信息上下文导入医疗版ChatGPT。",
+          "url": "https://wallstreetcn.com/livenews/3158674",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
         },
         {
-          "title": "美伊局势升级叠加鹰派预期，原油大涨，美股8月收官两连跌，芯片指数逆市反弹",
-          "url": "https://wallstreetcn.com/articles/3780702",
-          "source": "华尔街见闻",
+          "title": "OpenAI：在筹备发布Astra模型之际，我们致力于让能力持续增强的人工智能做到安全可控，并实现广泛可用。 Astra在网络安全能力方面取得重大进展，达到了我们《准备度框架》中的关键阈值。 我们对外公开该模型的评估方式、防护措施如何随模型能力同步迭代，以及我们将持续钻研改进的方向。",
+          "url": "https://wallstreetcn.com/livenews/3158764",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时45分"
+          "time_info": "04时51分"
         },
         {
-          "title": "美股三大期指集体走低 市场转而押注美联储本月加息 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2471151",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时45分"
-        },
-        {
-          "title": "Citadel：9月美股或迎“战术性下行窗口”，建议逢高减仓、低价买保护",
-          "url": "https://wallstreetcn.com/articles/3780833",
-          "source": "华尔街见闻",
+          "title": "OpenAI：Astra模型已达到“网络安全准备框架”规定的关键网络安全能力阈值。 Astra模型要求在开发过程中、正式发布前落实更强有力的安全保障措施。",
+          "url": "https://wallstreetcn.com/livenews/3158760",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时45分"
+          "time_info": "04时51分"
+        },
+        {
+          "title": "OpenAI将限制新模型网络安全功能的访问权限",
+          "url": "https://wallstreetcn.com/livenews/3158745",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "OpenAI：Astra模型即将推出，附带网络能力限制。 针对GPT-5.6，我们改进了系统级堆栈的稳健性，具体措施包括新增激活分类器，并扩大对通用越狱攻击的覆盖范围。 已新增额外分层防护机制，以防Astra模型采取可能与对齐目标不符的行动。",
+          "url": "https://wallstreetcn.com/livenews/3158744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
         }
       ]
     },
@@ -124,23 +253,6 @@
           "source": "金十数据",
           "ranks": [
             2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI：推出全新电子健康记录集成功能，可将Epic系统中经授权的患者信息上下文导入医疗版ChatGPT。",
-          "url": "https://wallstreetcn.com/livenews/3158674",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
           ],
           "is_new": false,
           "appearance_count": 1,
