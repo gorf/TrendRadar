@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-09-01T15:34:49.269223+08:00",
-  "total_titles_processed": 815,
+  "generated_at": "2026-09-01T21:20:48.697847+08:00",
+  "total_titles_processed": 1033,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "沃什鹰派发言后，特朗普：“加息”是荒谬的，沃什会做他必须做的事",
+          "url": "https://wallstreetcn.com/articles/3780764",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时08分 ~ 21时20分]"
+        },
+        {
+          "title": "特朗普：你们再反对建数据中心，中国要高兴死了",
+          "url": "https://news.ifeng.com/c/8w3rdWzNf5c",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时34分 ~ 21时20分]"
+        },
         {
           "title": "美国总统特朗普：美国最高法院裁定支持修建白宫宴会厅，项目将于2028年夏季完工。项目由爱国者与企业出资，不增加纳税人负担。",
           "url": "https://flash.jin10.com/detail/20260901052632444800",
@@ -17,18 +40,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时51分"
-        },
-        {
-          "title": "沃什鹰派发言后，特朗普：“加息”是荒谬的，沃什会做他必须做的事",
-          "url": "https://wallstreetcn.com/articles/3780764",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时08分 ~ 15时34分]"
         },
         {
           "title": "特朗普称伊朗已死",
@@ -43,26 +54,37 @@
           "time_info": "[00时56分 ~ 05时51分]"
         },
         {
+          "title": "特朗普“密友”戴安斯再度访华",
+          "url": "https://www.toutiao.com/trending/7680376010550001700/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
+        },
+        {
           "title": "美媒曝光特朗普对伊新计划",
           "url": "https://news.ifeng.com/c/8w3jli5zgve",
           "source": "凤凰网",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         },
         {
-          "title": "特朗普：你们再反对建数据中心，中国要高兴死了",
-          "url": "https://news.ifeng.com/c/8w3rdWzNf5c",
+          "title": "事关马岛，特朗普首次公开表态",
+          "url": "https://news.ifeng.com/c/8w4Ju2hTtqD",
           "source": "凤凰网",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时34分"
+          "time_info": "21时20分"
         },
         {
           "title": "特朗普在加拿大的实名认证地标要没了",
@@ -96,6 +118,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时08分 ~ 09时09分]"
+        },
+        {
+          "title": "伊朗喊话美国重返停火备忘录，万斯称特朗普发轰炸哈尔克岛视频在向伊“传递信息”",
+          "url": "https://wallstreetcn.com/articles/3780760",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
         },
         {
           "title": "特朗普被问是否排除对伊使用核武：很蠢的问题",
@@ -243,8 +276,114 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "美伊局势升级叠加鹰派预期，原油大涨，美股8月收官两连跌，芯片指数逆市反弹",
+          "url": "https://wallstreetcn.com/articles/3780702",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时08分 ~ 21时20分]"
+        },
+        {
+          "title": "【早报】纳指8月累涨3.9%；特斯拉大涨；美股存储芯片股，多数上涨；布油站上90美元；黄金走低",
+          "url": "https://www.cls.cn/detail/2470210",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 09时09分]"
+        },
+        {
+          "title": "美股收盘：中东战火冲击美国股债汇齐跌 特斯拉逆势涨超5%",
+          "url": "https://www.cls.cn/detail/2470198",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 09时09分]"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3158562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
+        },
+        {
+          "title": "美伊冲突重燃推高油价 美股三大期指小幅下跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2469970",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 09时09分]"
+        },
+        {
+          "title": "美股加密货币与加密货币关联指数涨3.79%，报69.90点，8月份累涨8.81%。 最近24小时，现货比特币涨0.33%，暂报78832.69美元，8月份累涨25.18%，8月19-21日持续扩大涨幅。 以太坊跌0.91%，暂报2473.340美元，8月份累涨32.34%，8月19日显著扩大涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3158055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时51分"
+        },
+        {
+          "title": "美股三大期指集体走低 市场转而押注美联储本月加息 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2471151",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-09-01）",
+          "url": "https://flash.jin10.com/detail/20260901204029031800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
+        },
+        {
+          "title": "周一（8月31日），美股行业ETF多数收跌，全球航空业ETF收跌2.33%，网络股指数ETF跌0.65%，全球科技股指数ETF涨0.38%，科技行业ETF涨0.44%，半导体ETF涨0.64%，能源业ETF涨2%。 1-8月，半导体ETF累涨54.56%，能源业ETF涨44.97%，全球科技股指数ETF、科技行业ETF至少涨29.86%，可选消费ETF跌1.97%。",
+          "url": "https://wallstreetcn.com/livenews/3158035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时51分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "怎么看 OpenAI 的 Codex 将取消上下文压缩，换成「硬切窗口 」和「外部记忆」？",
@@ -268,6 +407,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时56分 ~ 05时51分]"
+        },
+        {
+          "title": "奥特曼谈OpenAI新模型Astra",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A5%A5%E7%89%B9%E6%9B%BC%E8%B0%88OpenAI%E6%96%B0%E6%A8%A1%E5%9E%8BAstra",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
         },
         {
           "title": "五角大楼将Grok和ChatGPT纳入军事系统",
@@ -327,82 +477,23 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "美伊局势升级叠加鹰派预期，原油大涨，美股8月收官两连跌，芯片指数逆市反弹",
-          "url": "https://wallstreetcn.com/articles/3780702",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时08分 ~ 15时34分]"
-        },
-        {
-          "title": "【早报】纳指8月累涨3.9%；特斯拉大涨；美股存储芯片股，多数上涨；布油站上90美元；黄金走低",
-          "url": "https://www.cls.cn/detail/2470210",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时08分 ~ 09时09分]"
-        },
-        {
-          "title": "美股收盘：中东战火冲击美国股债汇齐跌 特斯拉逆势涨超5%",
-          "url": "https://www.cls.cn/detail/2470198",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时08分 ~ 09时09分]"
-        },
-        {
-          "title": "美伊冲突重燃推高油价 美股三大期指小幅下跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2469970",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 09时09分]"
-        },
-        {
-          "title": "美股加密货币与加密货币关联指数涨3.79%，报69.90点，8月份累涨8.81%。 最近24小时，现货比特币涨0.33%，暂报78832.69美元，8月份累涨25.18%，8月19-21日持续扩大涨幅。 以太坊跌0.91%，暂报2473.340美元，8月份累涨32.34%，8月19日显著扩大涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3158055",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时51分"
-        },
-        {
-          "title": "周一（8月31日），美股行业ETF多数收跌，全球航空业ETF收跌2.33%，网络股指数ETF跌0.65%，全球科技股指数ETF涨0.38%，科技行业ETF涨0.44%，半导体ETF涨0.64%，能源业ETF涨2%。 1-8月，半导体ETF累涨54.56%，能源业ETF涨44.97%，全球科技股指数ETF、科技行业ETF至少涨29.86%，可选消费ETF跌1.97%。",
-          "url": "https://wallstreetcn.com/livenews/3158035",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时51分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
       "match_count": 4,
       "titles": [
+        {
+          "title": "贝森特放话继续施压伊朗，称美债表现最佳、与沃什“同立场”，回击“导师”德鲁肯米勒",
+          "url": "https://wallstreetcn.com/articles/3780747",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时51分 ~ 21时20分]"
+        },
         {
           "title": "周一（8月31日）纽约尾盘，美国10年期基准国债收益率涨3.20个基点，报4.75%，北京时间00:10曾达到4.76%，逼近2025年1月14日顶部4.8069%、2023年10月23日顶部5.0187%，8月份累计上涨1.53个基点，整体呈现出四波V形走势。 两年期美债收益率跌0.18个基点，报4.3415%，8月份累涨5.04个基点，整体交投于4.0957%-4.3579%区间，8月3-28日持续处于下跌状态，美联储主席沃什在杰克逊霍尔全球央行年会首秀、释放鹰派立场当天显著拉升并整体转涨。",
           "url": "https://wallstreetcn.com/livenews/3158058",
@@ -425,19 +516,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时56分 ~ 05时51分]"
-        },
-        {
-          "title": "贝森特放话继续施压伊朗，称美债表现最佳、与沃什“同立场”，回击“导师”德鲁肯米勒",
-          "url": "https://wallstreetcn.com/articles/3780747",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时51分 ~ 15时34分]"
         },
         {
           "title": "美财长强势出击：市场对美债的担忧多余，德鲁肯米勒大骂或是因我亏钱",
