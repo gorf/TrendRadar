@@ -1,11 +1,183 @@
 {
-  "generated_at": "2026-09-03T01:47:48.406146+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-09-03T04:51:22.562164+08:00",
+  "total_titles_processed": 399,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "美股",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "Snowflake美股盘后飙涨22%，该公司业绩报告“健康”、AI编程出现动能。",
+          "url": "https://wallstreetcn.com/livenews/3159462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "黄金ETF收盘反弹超1.5%，小盘股指ETF领跑美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/3159460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "油价涨势暂歇缓解通胀担忧，美股开盘涨跌互现，戴尔涨超8%，美元走低",
+          "url": "https://wallstreetcn.com/articles/3780885",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 04时51分]"
+        },
+        {
+          "title": "周三（9月2日），美股行业ETF几乎全线上涨，区域银行收涨2.23%，银行业ETF涨2.09%，全球航空业ETF涨1.58%，生物科技指数ETF涨1.41%，半导体ETF涨0.96%，全球科技股指数ETF涨0.27%，网络股指数ETF涨0.09%，科技行业ETF则跌0.02%。",
+          "url": "https://wallstreetcn.com/livenews/3159454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "“Sell Sell or Sell”！美银警告：9月美股仅剩90亿美元买盘空间 ，一旦下跌或触发1630亿卖盘",
+          "url": "https://wallstreetcn.com/articles/3780920",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "博通(AVGO.O)业绩公布后美股盘后下跌6%。",
+          "url": "https://flash.jin10.com/detail/20260903041745457800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "Snowflake美股盘后涨18%。 该公司二季度营收15.5亿美元，分析师预期14.9亿美元。 二季度产品收入14.9亿美元，分析师预期14.2亿美元。 二季度调整后、稀释后每股收益（EPS）为0.62美元，分析师预期0.45美元。 预计全年产品营收60.7亿美元，分析师预期58.6亿美元，公司原本预计58.4亿美元。 预计三季度产品营收15.9亿美元（左右），分析师预期15.1亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3159451",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "C3.ai第一财季营收5240万美元，分析师预期5230万美元。 维持全年营收预期在2.10亿-2.40亿美元不变，分析师预期2.272亿美元。 预计第二财季营收5100万-5500万美元，分析师预期5680万美元。 C3.ai美股盘后涨7.6%。",
+          "url": "https://wallstreetcn.com/livenews/3159450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "惠与（HPE）第三财季净营收122.1亿美元，分析师预期119亿美元。 预计全年调整后每股收益（EPS）为3.75-3.85美元，公司原本预计3.35-3.45美元。 惠与美股盘后转而下跌7%。",
+          "url": "https://wallstreetcn.com/livenews/3159449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "周三（9月2日）纽约尾盘，彭博谷物分类指数跌0.74%，报35.6390点，日内主要低位震荡——持稳于35.40点附近，美股开盘之后一度反弹转涨。 CBOT玉米期货跌0.64%，CBOT小麦期货跌0.99%。 CBOT大豆期货跌0.84%，报13.0875美元/蒲式耳，豆粕期货跌0.91%，豆油期货跌2.33%。 CBOT瘦肉猪期货涨0.18%，活牛期货跌0.97%，饲牛期货跌0.13%。",
+          "url": "https://wallstreetcn.com/livenews/3159440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "Snowflake(SNOW.N)美股盘后大涨17%。",
+          "url": "https://flash.jin10.com/detail/20260903040848639800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "金十图示：2026年09月02日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260903040549674800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "美国两年期国债收益率跌约2.5个基点，美股盘前曾跌穿4.36%",
+          "url": "https://wallstreetcn.com/livenews/3159436",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "金十图示：2026年09月02日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260903040531760800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 戴尔大涨15%",
+          "url": "https://flash.jin10.com/detail/20260903040128053800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "美军开始打击伊朗境内目标，特朗普称若伊报复将遭更猛烈打击，伊开始反击，美油盘中涨近6%",
@@ -17,6 +189,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
+        },
+        {
+          "title": "美国商务部长：Anthropic已与特朗普政府“修复关系”",
+          "url": "https://flash.jin10.com/detail/20260903041949764800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
         },
         {
           "title": "美国铸币局正式推出印有特朗普头像的1美元硬币",
@@ -41,11 +224,73 @@
           "time_info": "01时47分"
         },
         {
+          "title": "美国总统特朗普：苹果地图已将安大略湖的名称更改为“美国湖”。",
+          "url": "https://flash.jin10.com/detail/20260903041133425800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
           "title": "卢特尼克：Anthropic已重新站到特朗普政府认可立场",
           "url": "https://wallstreetcn.com/livenews/3159378",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时47分"
+        },
+        {
+          "title": "特朗普称对哈里王子和梅根·马克尔离开美国“感到高兴”",
+          "url": "https://wallstreetcn.com/livenews/3159434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "新闻蒸馏器｜苹果跟随谷歌迅速站队“美国湖”，老牌地图商拒绝改名下载量激增",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33991676",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 04时51分]"
+        },
+        {
+          "title": "Gemini 3.8 Flash 发布，有什么值得关注的？",
+          "url": "https://www.zhihu.com/question/2078626349426683976",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "谷歌发布Gemini 3.8 Flash推理模型",
+          "url": "https://wallstreetcn.com/livenews/3159374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -93,30 +338,30 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "美元",
       "match_count": 2,
       "titles": [
         {
-          "title": "新闻蒸馏器｜苹果跟随谷歌迅速站队“美国湖”，老牌地图商拒绝改名下载量激增",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33991676",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "谷歌发布Gemini 3.8 Flash推理模型",
-          "url": "https://wallstreetcn.com/livenews/3159374",
+          "title": "派拓网络PANW收跌9.3%，创逾两年来最差单日表现。 北美科技软件股指数ETF收跌2.6%，报103.42美元。 Global X网络安全ETF跌2.36%，纳斯达克网络安全ETF跌2.77%，ETFMG网络安全ETF跌2.21%。",
+          "url": "https://wallstreetcn.com/livenews/3159445",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时47分"
+          "time_info": "04时51分"
+        },
+        {
+          "title": "周三（9月2日）纽约尾盘，ICE美元指数跌0.09%，报99.588点，日内交投区间为99.863-99.436点，北京时间21:19出现一波显著的下跌行情。 彭博美元指数跌0.17%，报1196.52点，日内交投区间为1200.13-1195.36点。",
+          "url": "https://wallstreetcn.com/livenews/3159431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
         }
       ]
     },
@@ -129,28 +374,12 @@
           "url": "https://www.zhihu.com/question/2077826134134282169",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "油价涨势暂歇缓解通胀担忧，美股开盘涨跌互现，戴尔涨超8%，美元走低",
-          "url": "https://wallstreetcn.com/articles/3780885",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 04时51分]"
         }
       ]
     }
