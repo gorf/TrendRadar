@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-04T04:48:40.882203+08:00",
-  "total_titles_processed": 407,
+  "generated_at": "2026-09-04T07:08:30.481964+08:00",
+  "total_titles_processed": 495,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "OpenAI：承诺投入10亿美元，用于补贴Daybreak访问权限、培训、技术支持及合作伙伴关系。",
@@ -14,7 +14,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
         },
@@ -25,18 +25,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时48分"
-        },
-        {
-          "title": "OpenAI：推出面向一线防御人员的Daybreak项目。",
-          "url": "https://flash.jin10.com/detail/20260904042528343800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
         },
@@ -49,8 +38,31 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时43分 ~ 07时08分]"
+        },
+        {
+          "title": "OpenAI：推出面向一线防御人员的Daybreak项目。",
+          "url": "https://flash.jin10.com/detail/20260904042528343800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "美国AI服务发生大规模“宕机”事件 ChatGPT、Claude、Grok均受影响",
+          "url": "https://www.cls.cn/detail/2473674",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时43分 ~ 04时48分]"
+          "time_info": "[04时48分 ~ 07时08分]"
         },
         {
           "title": "OpenAI：系统全面恢复正常运营。",
@@ -75,24 +87,13 @@
           "time_info": "01时43分"
         },
         {
-          "title": "美国AI服务发生大规模“宕机”事件 ChatGPT、Claude、Grok均受影响",
-          "url": "https://www.cls.cn/detail/2473674",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时48分"
-        },
-        {
           "title": "OpenAI首席执行官奥尔特曼：赋予人们使用人工智能的自主权非常重要。整个行业在向社会解释人工智能的益处方面做得很差。",
           "url": "https://flash.jin10.com/detail/20260904035842577800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
         },
@@ -103,7 +104,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
         },
@@ -114,7 +115,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
         },
@@ -125,7 +126,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
         },
@@ -136,7 +137,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
         },
@@ -147,7 +148,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
         },
@@ -158,9 +159,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
+        },
+        {
+          "title": "Sophos将在托管风险服务中接入OpenAI GPT模型。",
+          "url": "https://wallstreetcn.com/livenews/3160160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
         },
         {
           "title": "OpenAI的CEO Altman：Astra模型的发布超过我们本来预料的耗时。 行业在交流AI益处方面表现糟糕。 重要的不仅仅模型可监控性。（彭博电视）",
@@ -169,7 +181,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
         }
@@ -177,7 +189,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "油价涨势暂歇缓解通胀担忧，美股终结三连跌，戴尔暴涨16%，欧债收益率创数十年新高",
@@ -197,9 +209,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
+        },
+        {
+          "title": "沃勒发言打击加息预期，美股指两连涨，标普创一个月最大涨幅，日元急升2%，黄金大涨",
+          "url": "https://wallstreetcn.com/articles/3780985",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
         },
         {
           "title": "日元汇率大幅反弹 美股三大期指涨跌不一 | 今夜看点",
@@ -207,11 +230,23 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时43分 ~ 04时48分]"
+          "appearance_count": 3,
+          "time_info": "[01时43分 ~ 07时08分]"
+        },
+        {
+          "title": "美股收盘：标普500指数创近一个月最大涨幅",
+          "url": "https://www.cls.cn/detail/2473761",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
         },
         {
           "title": "DocuSign二季度营收8.757亿美元，分析师预期8.672亿美元。 二季度调整后每股收益（EPS）为1.16美元，分析师预期1.09美元。 预计全年营收35亿-35.1亿美元，公司原本预计34.9亿-35亿美元。 DocuSign美股盘后涨12%。",
@@ -220,7 +255,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
         },
@@ -231,7 +266,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
         },
@@ -242,7 +277,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
         },
@@ -253,7 +288,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
         },
@@ -264,7 +299,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
         },
@@ -275,9 +310,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
+        },
+        {
+          "title": "特斯拉美股盘后转跌。",
+          "url": "https://wallstreetcn.com/livenews/3160169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
         },
         {
           "title": "金十图示：2026年09月03日（周四）美股热门股票行情一览（美股盘中）",
@@ -300,13 +346,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "周四（9月3日），美股降息赢家指数涨1.27%，报94.04点，美股盘初冲高回落、北京时间21:36曾涨至94.80点。",
+          "url": "https://wallstreetcn.com/livenews/3160163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "特朗普宣布亚当·特勒将出任美代理陆军部长",
+          "url": "https://wallstreetcn.com/livenews/3160193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        },
+        {
+          "title": "特朗普政府周四采取行动，拟取消对少数族裔学生给予优待的私立学校的免税资格。",
+          "url": "https://flash.jin10.com/detail/20260904065222207800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        },
         {
           "title": "特朗普要给霍尔木兹改名“特朗普海峡”，他认真的？",
           "url": "https://v.ifeng.com/c/8w7s5GBo1wC",
@@ -315,8 +394,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时43分 ~ 04时48分]"
+          "appearance_count": 3,
+          "time_info": "[01时43分 ~ 07时08分]"
         },
         {
           "title": "市场消息：特朗普政府请求美国最高法院介入，以推动执行限制邮寄投票的邮政服务规则。",
@@ -325,9 +404,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
+        },
+        {
+          "title": "特朗普称对伊朗新一轮打击不会“持续太久”，油价涨势暂歇",
+          "url": "https://wallstreetcn.com/articles/3780946",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        },
+        {
+          "title": "美国总统特朗普：很高兴地宣布，现任陆军民事工程助理部长亚当·特尔（Adam Telle）将立即担任陆军代理部长。",
+          "url": "https://flash.jin10.com/detail/20260904063836293800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
         },
         {
           "title": "美国总统特朗普：我们必须阻止伊朗拥有核武器，而我们已经做到了这一点。 我们重创了他们的海军、空军以及领导层架构。 我们掌控着霍尔木兹海峡。 他们的货币已经失去价值。 伊朗现在处境十分艰难。",
@@ -336,7 +437,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
         },
@@ -347,7 +448,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
         }
@@ -365,8 +466,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时43分 ~ 04时48分]"
+          "appearance_count": 3,
+          "time_info": "[01时43分 ~ 07时08分]"
         },
         {
           "title": "谷歌(GOOG.O)：自10月30日起更新个性化广告政策，允许在当地法律允许的情况下，在YouTube广告资源中投放酒类广告。",
@@ -382,25 +483,8 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "一图看懂 | 中长期金价怎么走？10多家机构表态",
-          "url": "https://www.cls.cn/detail/2473296",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时43分 ~ 04时48分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "沃勒发言打击加息预期，美股高开，美债收益率走低，日元急升，布油突破96美元，现货黄金涨2%",
@@ -412,6 +496,35 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时43分 ~ 04时48分]"
+        },
+        {
+          "title": "德国专家：美债收益率变化影响多国，推高融资成本",
+          "url": "https://wallstreetcn.com/livenews/3160167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "一图看懂 | 中长期金价怎么走？10多家机构表态",
+          "url": "https://www.cls.cn/detail/2473296",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时43分 ~ 07时08分]"
         }
       ]
     }
