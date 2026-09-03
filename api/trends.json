@@ -1,22 +1,46 @@
 {
-  "generated_at": "2026-09-03T07:12:00.410419+08:00",
-  "total_titles_processed": 498,
+  "generated_at": "2026-09-03T11:51:34.334291+08:00",
+  "total_titles_processed": 724,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "油价涨势暂歇缓解通胀担忧，美股终结三连跌，戴尔暴涨16%，欧债收益率创数十年新高",
           "url": "https://wallstreetcn.com/articles/3780885",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时11分 ~ 07时12分]"
+          "appearance_count": 3,
+          "time_info": "[07时11分 ~ 11时51分]"
+        },
+        {
+          "title": "【早报】特朗普：随时准备打击伊朗；美股收涨，结束3连跌；原油、黄金、白银齐涨；涉及A股，重要指数调整",
+          "url": "https://www.cls.cn/detail/2472584",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
+          "title": "美股收盘：三大指数终于止跌 博通豪迈业绩指引震惊市场",
+          "url": "https://www.cls.cn/detail/2472571",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时11分 ~ 11时51分]"
         },
         {
           "title": "Snowflake美股盘后飙涨22%，该公司业绩报告“健康”、AI编程出现动能。",
@@ -30,6 +54,19 @@
           "time_info": "04时51分"
         },
         {
+          "title": "“Sell Sell or Sell”！美银警告：9月美股仅剩90亿美元买盘空间 ，一旦下跌或触发1630亿卖盘",
+          "url": "https://wallstreetcn.com/articles/3780920",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时51分 ~ 11时51分]"
+        },
+        {
           "title": "黄金ETF收盘反弹超1.5%，小盘股指ETF领跑美股大类资产类ETF",
           "url": "https://wallstreetcn.com/livenews/3159460",
           "source": "华尔街见闻-快讯",
@@ -39,29 +76,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
-        },
-        {
-          "title": "“Sell Sell or Sell”！美银警告：9月美股仅剩90亿美元买盘空间 ，一旦下跌或触发1630亿卖盘",
-          "url": "https://wallstreetcn.com/articles/3780920",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时51分 ~ 07时12分]"
-        },
-        {
-          "title": "美股收盘：三大指数终于止跌 博通豪迈业绩指引震惊市场",
-          "url": "https://www.cls.cn/detail/2472571",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时11分 ~ 07时12分]"
         },
         {
           "title": "油价涨势暂歇缓解通胀担忧，美股开盘涨跌互现，戴尔涨超8%，美元走低",
@@ -192,7 +206,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -214,7 +228,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         }
@@ -222,7 +236,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "美军开始打击伊朗境内目标，特朗普称若伊报复将遭更猛烈打击，伊开始反击，美油盘中涨近6%",
@@ -234,6 +248,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
+        },
+        {
+          "title": "特朗普：随时准备新一轮打击，不会持续太久",
+          "url": "https://news.ifeng.com/c/8w5qfiJBYnP",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
         },
         {
           "title": "美国候任海军部长高雄：越南难民后裔，向特朗普表态将推进造船工作",
@@ -253,9 +278,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "美伊战火再起？特朗普直言不会持续太久，“戏称”要给霍尔木兹改名！",
+          "url": "https://www.cls.cn/detail/2472592",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
         },
         {
           "title": "美国商务部长：Anthropic已与特朗普政府“修复关系”",
@@ -286,7 +322,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -297,7 +333,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -341,7 +377,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -363,7 +399,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         }
@@ -371,7 +407,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "新闻蒸馏器｜苹果跟随谷歌迅速站队“美国湖”，老牌地图商拒绝改名下载量激增",
@@ -391,11 +427,23 @@
           "source": "知乎",
           "ranks": [
             7,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时51分 ~ 07时12分]"
+          "appearance_count": 4,
+          "time_info": "[04时51分 ~ 11时51分]"
+        },
+        {
+          "title": "才三周Flash就换代！谷歌上新两款Gemini 3.8：编程与推理能力升级，向RSI迈出一大步",
+          "url": "https://wallstreetcn.com/articles/3780934",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
         },
         {
           "title": "博通CEO Hock Tan：新款谷歌TPU芯片与英伟达Vera Rubin一样优秀，甚至更好。 本季度，我们已开始向谷歌量产交付下一代TPU 8I版本产品。 同时预计第四季度将加大向谷歌批量交付TPU 8I版本产品。 预计第四季度将加快向Anthropic交付Ironwood芯片。 预计第四季度将大规模量产交付Meta定制版MTIA加速器。 将2026财年人工智能业务营收指引从560亿美元上调至580亿美元，预计同比将增长186%。 未来数年，每年都将交付数百亿块TPUs。 预计Anthropic将在2027年部署5GW TPU，该公司有望仔2027年成为我们最大的芯片客户。 OpenAI也有望在2028年部署5GW芯片（Jalapeno+下一代XPU产品），该公司有望在2028年成为我们第二大芯片客户。",
@@ -404,7 +452,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -454,7 +502,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -468,6 +516,63 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "银行消保 金融监管 人民银行",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "人民银行上海总部：加快推动更加灵活的贸易外汇结算试点政策落地实施",
+          "url": "https://flash.jin10.com/detail/20260903114132204800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
+          "title": "中国人民银行上海总部副主任苏赟在9月3日举行的上海市政府新闻发布会上表示，跨境再保险分入业务收入境外投资便利化试点工作也在加紧推进当中。",
+          "url": "https://flash.jin10.com/detail/20260903113823419800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Deepseek Harness科研实操",
+          "url": "https://search.bilibili.com/all?keyword=Deepseek%20Harness%E7%A7%91%E7%A0%94%E5%AE%9E%E6%93%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
+          "title": "deepseek-v4-flash 、 glm-5.3-flash 、 qwen-3.8-flash 怎么选择？",
+          "url": "https://www.zhihu.com/question/2077826134134282169",
+          "source": "知乎",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 04时51分]"
         }
       ]
     },
@@ -500,24 +605,6 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "deepseek-v4-flash 、 glm-5.3-flash 、 qwen-3.8-flash 怎么选择？",
-          "url": "https://www.zhihu.com/question/2077826134134282169",
-          "source": "知乎",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时47分 ~ 04时51分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 1,
       "titles": [
@@ -528,7 +615,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         }
