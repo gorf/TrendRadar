@@ -1,22 +1,45 @@
 {
-  "generated_at": "2026-09-05T04:35:31.424947+08:00",
-  "total_titles_processed": 402,
+  "generated_at": "2026-09-05T06:56:58.862360+08:00",
+  "total_titles_processed": 464,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "特朗普发帖称赞8月就业数据，抨击 “特朗普偏执症”",
+          "url": "https://wallstreetcn.com/livenews/3160814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
+          "title": "特朗普证实威特科夫和库什纳将访问俄乌",
+          "url": "https://wallstreetcn.com/livenews/3160812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
         {
           "title": "特朗普淡化伊朗战争影响，称此类冲突对美国是“小事”",
           "url": "https://wallstreetcn.com/livenews/3160787",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时35分 ~ 06时56分]"
         },
         {
           "title": "特朗普施压沃什降息：高利率令美国陷入“不公平劣势”，否则停止与逆差国贸易",
@@ -24,22 +47,24 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 04时35分]"
+          "appearance_count": 3,
+          "time_info": "[01时31分 ~ 06时56分]"
         },
         {
           "title": "特朗普再度施压美联储：如果不降息，就切断与部分国家的贸易往来",
           "url": "https://www.cls.cn/detail/2474788",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时35分 ~ 06时56分]"
         },
         {
           "title": "特朗普：美特使将向俄罗斯提交结束俄乌冲突的方案",
@@ -48,7 +73,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
         },
@@ -70,7 +95,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
         },
@@ -103,7 +128,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
         },
@@ -125,7 +150,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
         },
@@ -147,7 +172,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
         },
@@ -169,7 +194,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
         },
@@ -180,7 +205,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
         }
@@ -188,7 +213,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "美国8月非农大超预期 美股三大期指涨跌不一 | 今夜看点",
@@ -198,8 +223,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 04时35分]"
+          "appearance_count": 3,
+          "time_info": "[01时31分 ~ 06时56分]"
         },
         {
           "title": "沃勒发言打击加息预期，美股指两连涨，标普创一个月最大涨幅，日元急升2%，黄金大涨",
@@ -214,15 +239,27 @@
           "time_info": "[01时31分 ~ 04时35分]"
         },
         {
+          "title": "非农爆表提振加息预期，美股指下挫，存储与光通信逆势走强，黄金跌近1%",
+          "url": "https://wallstreetcn.com/articles/3781080",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
           "title": "周五（9月4日），美股行业ETF涨跌各异，半导体ETF收涨2.6%，全球科技股指数ETF涨1.21%，科技行业ETF涨0.72%，网络股指数ETF、能源业ETF跌0.87%，可选消费ETF跌1.33%。",
           "url": "https://wallstreetcn.com/livenews/3160788",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时35分 ~ 06时56分]"
         },
         {
           "title": "非农爆表提振加息预期，美股开盘走低，Lululemon跌超18%，美元冲高回落，金油齐跌",
@@ -241,39 +278,53 @@
           "url": "https://flash.jin10.com/detail/20260905040538591800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时35分 ~ 06时56分]"
         },
         {
           "title": "金十图示：2026年09月04日（周五）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260905040515141800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时35分 ~ 06时56分]"
         },
         {
           "title": "美股收盘：三大股指收跌 特斯拉跌近6%",
           "url": "https://flash.jin10.com/detail/20260905040248861800",
           "source": "金十数据",
           "ranks": [
-            17
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时35分 ~ 06时56分]"
+        },
+        {
+          "title": "美股加密货币与加密货币关联指数跌0.08%，报75.46点，本周累计上涨12.05%，8月31日至9月2日大致持平于67点附近，9月3日早盘显著上涨，之后高位持稳。 最近24小时，比特币跌1.96%，暂报79855.75美元，美国非农就业报告发布后从81000美元上方跳水、一度跌穿78650美元，上周五结束交易以来累计上涨3.14%，9月3日涨幅突出。 以太坊跌1.97%，暂报2455.927美元，非农带来一波显著的跳水行情，最近七天累涨1.23%。",
+          "url": "https://wallstreetcn.com/livenews/3160805",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时35分"
+          "time_info": "06时56分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "“欢迎进入AGI时代”！OpenAI发布GPT-6 Astra，10万GPU训练，网安能力首达“关键”级",
@@ -294,8 +345,20 @@
             21
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时31分 ~ 06时56分]"
+        },
+        {
+          "title": "OpenAI发布GPT-6 Astra",
+          "url": "https://www.douyin.com/hot/2634754",
+          "source": "抖音",
+          "ranks": [
+            30,
+            28
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时31分 ~ 04时35分]"
+          "time_info": "[04时35分 ~ 06时56分]"
         },
         {
           "title": "ChatGPT、Claude、Grok一度集体宕机！持续近4小时，目前均已恢复",
@@ -309,13 +372,102 @@
           "time_info": "01时31分"
         },
         {
-          "title": "OpenAI发布GPT-6 Astra",
-          "url": "https://www.douyin.com/hot/2634754",
-          "source": "抖音",
+          "title": "OpenAI首席执行官奥尔特曼：GPT-6 Astra现已向所有Pro、Enterprise和Business Premium用户开放，并已可通过API使用。我们下一步将开始向Plus和Business用户开放。感谢大家的耐心等待。",
+          "url": "https://flash.jin10.com/detail/20260905041934250800",
+          "source": "金十数据",
           "ranks": [
-            30
+            13
           ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美国 8 月非农数据就业人数超预期，环比增加 16.2 万人，美元、美债、美股、黄金盘中走势波动剧烈，何解？",
+          "url": "https://www.zhihu.com/question/2079306615564644866",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
+          "title": "两年期美债收益率于非农日涨超2.9个基点，同期实际收益率本周累跌将近9.1个基点",
+          "url": "https://wallstreetcn.com/livenews/3160810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
+          "title": "全球最大主权基金拟减持美债",
+          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E4%B8%BB%E6%9D%83%E5%9F%BA%E9%87%91%E6%8B%9F%E5%87%8F%E6%8C%81%E7%BE%8E%E5%80%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 06时56分]"
+        },
+        {
+          "title": "贝森特：伊朗冲突结束后油价或跌至40美元 美债收益率将回落",
+          "url": "https://flash.jin10.com/detail/20260905033845861800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "周五（9月4日）纽约尾盘，ICE美元指数涨0.26%，报99.165点，本周累计下跌0.54%，整体交投区间为99.863-98.831点。 彭博美元指数涨0.07%，报1190.56点，本周累跌0.68%，交投区间为1200.13-1188.58点。",
+          "url": "https://wallstreetcn.com/livenews/3160775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时35分"
+        },
+        {
+          "title": "北美科技软件股指数ETF收跌2.23%，报104.57美元，本周回撤4.50%。 Global X网络安全ETF收跌0.72%，本周回撤3.68%。 纳斯达克网络安全ETF收跌0.77%，本周回撤4.03%。 ETFMG网络安全ETF收跌0.70%，本周回撤4.15%。",
+          "url": "https://wallstreetcn.com/livenews/3160791",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
+          "title": "美元指数4日上涨",
+          "url": "https://flash.jin10.com/detail/20260905033311301800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
         }
@@ -330,11 +482,12 @@
           "url": "https://www.toutiao.com/trending/7681610244372120073/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 04时35分]"
+          "appearance_count": 3,
+          "time_info": "[01时31分 ~ 06时56分]"
         },
         {
           "title": "证监会开出2.55亿巨额罚单",
@@ -344,64 +497,25 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 04时35分]"
+          "appearance_count": 3,
+          "time_info": "[01时31分 ~ 06时56分]"
         }
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 2,
+      "keyword_group": "金价",
+      "match_count": 1,
       "titles": [
         {
-          "title": "贝森特：伊朗冲突结束后油价或跌至40美元 美债收益率将回落",
-          "url": "https://flash.jin10.com/detail/20260905033845861800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时35分"
-        },
-        {
-          "title": "全球最大主权基金拟减持美债",
-          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E4%B8%BB%E6%9D%83%E5%9F%BA%E9%87%91%E6%8B%9F%E5%87%8F%E6%8C%81%E7%BE%8E%E5%80%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "周五（9月4日）纽约尾盘，ICE美元指数涨0.26%，报99.165点，本周累计下跌0.54%，整体交投区间为99.863-98.831点。 彭博美元指数涨0.07%，报1190.56点，本周累跌0.68%，交投区间为1200.13-1188.58点。",
-          "url": "https://wallstreetcn.com/livenews/3160775",
+          "title": "国际金价在非农就业报告出炉时跳水将近80美元，打破本周稍早出现的V形反转",
+          "url": "https://wallstreetcn.com/livenews/3160799",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时35分"
-        },
-        {
-          "title": "美元指数4日上涨",
-          "url": "https://flash.jin10.com/detail/20260905033311301800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时35分"
+          "time_info": "06时56分"
         }
       ]
     }
