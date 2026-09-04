@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-04T11:52:58.100410+08:00",
-  "total_titles_processed": 722,
+  "generated_at": "2026-09-04T16:44:06.975757+08:00",
+  "total_titles_processed": 944,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "“欢迎进入AGI时代”！OpenAI发布GPT-6 Astra，10万GPU训练，网安能力首达“关键”级",
@@ -14,9 +14,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时52分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 16时44分]"
         },
         {
           "title": "OpenAI发布地球最强大模型GPT-6 并宣告“欢迎来到AGI时代”",
@@ -25,7 +25,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
         },
@@ -75,6 +75,18 @@
           "time_info": "04时48分"
         },
         {
+          "title": "ChatGPT、Claude、Grok一度集体宕机！持续近4小时，目前均已恢复",
+          "url": "https://wallstreetcn.com/articles/3781029",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 16时44分]"
+        },
+        {
           "title": "美国AI服务发生大规模“宕机”事件 ChatGPT、Claude、Grok均受影响",
           "url": "https://www.cls.cn/detail/2473674",
           "source": "财联社热门",
@@ -88,15 +100,26 @@
           "time_info": "[04时48分 ~ 11时52分]"
         },
         {
-          "title": "ChatGPT、Claude、Grok一度集体宕机！持续近4小时，目前均已恢复",
-          "url": "https://wallstreetcn.com/articles/3781029",
-          "source": "华尔街见闻",
+          "title": "OpenAI总裁宣布AGI到来",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E6%80%BB%E8%A3%81%E5%AE%A3%E5%B8%83AGI%E5%88%B0%E6%9D%A5",
+          "source": "百度热搜",
           "ranks": [
-            8
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时52分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 16时44分]"
+        },
+        {
+          "title": "OpenAI总裁宣布AGI到来",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%80%BB%E8%A3%81%E5%AE%A3%E5%B8%83AGI%E5%88%B0%E6%9D%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 16时44分]"
         },
         {
           "title": "OpenAI：系统全面恢复正常运营。",
@@ -141,17 +164,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
-        },
-        {
-          "title": "OpenAI总裁宣布AGI到来",
-          "url": "https://www.baidu.com/s?wd=OpenAI%E6%80%BB%E8%A3%81%E5%AE%A3%E5%B8%83AGI%E5%88%B0%E6%9D%A5",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时52分"
         },
         {
           "title": "OpenAI首席执行官奥尔特曼：GPT-6 Astra已经训练了一段时间。我们将为该模型提供分级访问权限。",
@@ -215,7 +227,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
         },
@@ -245,7 +257,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
         {
           "title": "沃勒发言打击加息预期，美股指两连涨，标普创一个月最大涨幅，日元急升2%，黄金大涨",
@@ -256,8 +268,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时08分 ~ 11时52分]"
+          "appearance_count": 4,
+          "time_info": "[07时08分 ~ 16时44分]"
         },
         {
           "title": "油价涨势暂歇缓解通胀担忧，美股终结三连跌，戴尔暴涨16%，欧债收益率创数十年新高",
@@ -288,7 +300,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
         },
@@ -316,6 +328,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时43分 ~ 07时08分]"
+        },
+        {
+          "title": "特斯拉(TSLA.O)股价在美股盘前交易中下跌1.7%。",
+          "url": "https://flash.jin10.com/detail/20260904161216731800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
         },
         {
           "title": "DocuSign二季度营收8.757亿美元，分析师预期8.672亿美元。 二季度调整后每股收益（EPS）为1.16美元，分析师预期1.09美元。 预计全年营收35亿-35.1亿美元，公司原本预计34.9亿-35亿美元。 DocuSign美股盘后涨12%。",
@@ -351,6 +374,17 @@
           "time_info": "04时48分"
         },
         {
+          "title": "在公司宣布首席执行官交接后，Adobe(ADBE.O)股价在美股盘前交易中下跌3%。",
+          "url": "https://flash.jin10.com/detail/20260904160459883800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        },
+        {
           "title": "露露柠檬二季度净收入24.2亿美元，分析师预期24.6亿美元。 二季度总体总体同店销售剔除汇率因素后下滑9%，分析师预期下降4.28%。 预计全年净营收103.5亿-105亿美元，公司原本预计110亿-111.5亿美元。 预计全年每股收益（EPS）为9.48-9.73美元，公司原本预计10.95-11.15美元。 露露柠檬美股盘后跌18%。",
           "url": "https://wallstreetcn.com/livenews/3160137",
           "source": "华尔街见闻-快讯",
@@ -360,6 +394,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
+        },
+        {
+          "title": "特斯拉美股盘前跌1.7%，此前特斯拉Cybercab正式在美国奥斯汀投入运营。",
+          "url": "https://wallstreetcn.com/livenews/3160469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        },
+        {
+          "title": "Lululemon(LULU.O)在美股盘前交易中下跌18%，因公司下调了财年预测。",
+          "url": "https://flash.jin10.com/detail/20260904160430334800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
         },
         {
           "title": "美股收盘：三大股指涨超1% 特斯拉涨5%",
@@ -382,6 +438,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
+        },
+        {
+          "title": "美股盘前，Lululemon跌超18%，公司下调全年利润和销售预期后。Adobe下跌3%，此前公司宣布更换CEO。",
+          "url": "https://wallstreetcn.com/livenews/3160457",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
         },
         {
           "title": "特斯拉美股盘后转跌。",
@@ -462,7 +529,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
         },
@@ -557,7 +624,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
         },
@@ -568,9 +635,48 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "沃勒发言打击加息预期，美股高开，美债收益率走低，日元急升，布油突破96美元，现货黄金涨2%",
+          "url": "https://wallstreetcn.com/articles/3780985",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 04时48分]"
+        },
+        {
+          "title": "全球债市只是短暂喘息！央行退、对冲基金进，美债市场正变成大赌场？",
+          "url": "https://flash.jin10.com/detail/20260904161537751800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        },
+        {
+          "title": "德国专家：美债收益率变化影响多国，推高融资成本",
+          "url": "https://wallstreetcn.com/livenews/3160167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时08分"
         }
       ]
     },
@@ -599,34 +705,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "沃勒发言打击加息预期，美股高开，美债收益率走低，日元急升，布油突破96美元，现货黄金涨2%",
-          "url": "https://wallstreetcn.com/articles/3780985",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时43分 ~ 04时48分]"
-        },
-        {
-          "title": "德国专家：美债收益率变化影响多国，推高融资成本",
-          "url": "https://wallstreetcn.com/livenews/3160167",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时08分"
         }
       ]
     }
