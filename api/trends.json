@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-06T02:55:50.970354+08:00",
-  "total_titles_processed": 376,
+  "generated_at": "2026-09-06T05:03:11.510141+08:00",
+  "total_titles_processed": 421,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
           "title": "特朗普再提打击镐山，凤凰女记者：伊朗有可能先出手",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 05时03分]"
         },
         {
           "title": "特朗普：我走后不会有人为我立碑，所以现在得大建特建",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 05时03分]"
         },
         {
           "title": "特朗普再度施压美联储：如果不降息，就切断与部分国家的贸易往来",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 05时03分]"
         },
         {
           "title": "特朗普搅动马岛局势，米莱借机就油气争端强硬表态",
@@ -49,8 +49,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 05时03分]"
         },
         {
           "title": "美伊局势持续紧张！特朗普再度威胁：或很快打击伊朗“镐山”核设施",
@@ -61,19 +61,53 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 05时03分]"
         },
         {
           "title": "特朗普：将向俄罗斯提交结束俄乌冲突的方案；泽连斯基：美总统特使访问期间，不对俄发动空中打击",
           "url": "https://wallstreetcn.com/articles/3781135",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 05时03分]"
+        },
+        {
+          "title": "俄罗斯总统普京、美国总统特使威特科夫与特朗普女婿库什纳的会晤结束。",
+          "url": "https://flash.jin10.com/detail/20260906040447398800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时41分"
+          "time_info": "05时03分"
+        },
+        {
+          "title": "据泰晤士报：爱尔兰总理米歇尔·马丁将在下周六与美国总统特朗普会面时，敦促其结束伊朗冲突。",
+          "url": "https://flash.jin10.com/detail/20260906035057867800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时03分"
+        },
+        {
+          "title": "特朗普MAGA超级政治行动委员会首次为大选投入1000万美元",
+          "url": "https://flash.jin10.com/detail/20260906032713446800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时03分"
         },
         {
           "title": "美国特使威特科夫：（对普京表示）特朗普向您致以最美好的祝愿。",
@@ -82,9 +116,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
+        },
+        {
+          "title": "据Politico：特朗普旗下“让美国再次伟大”超级政治行动委员会（MAGA Inc.）向得克萨斯州投入1000万美元，这是该机构本年度首次大选阶段开支。",
+          "url": "https://flash.jin10.com/detail/20260906031529578800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时03分"
         },
         {
           "title": "据俄新社：克里姆林宫表示，在俄罗斯总统普京与美国总统特使威特科夫、特朗普女婿库什纳会谈后将向媒体通报情况。",
@@ -111,8 +156,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 05时03分]"
         },
         {
           "title": "美国8月非农大超预期 美股三大期指涨跌不一 | 今夜看点",
@@ -122,8 +167,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 05时03分]"
         },
         {
           "title": "【早报】美股存储概念股，逆势飙涨；油价上涨、黄金下挫；私募行业迎监管新规",
@@ -133,8 +178,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 05时03分]"
         },
         {
           "title": "非农“吓退”美股大盘，AI硬件却逆势狂飙！半导体指数涨超3%，闪迪暴涨12%",
@@ -142,11 +187,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 05时03分]"
         },
         {
           "title": "美股收盘：非农压制市场情绪 存储、光通信等AI概念股逆势爆发",
@@ -156,8 +202,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 05时03分]"
         }
       ]
     },
@@ -170,11 +216,12 @@
           "url": "https://wallstreetcn.com/articles/3781148",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 05时03分]"
         },
         {
           "title": "OpenAI称已聘用三名人员，专门负责美国各州的政策事务。（Axios）",
@@ -182,11 +229,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 02时55分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 05时03分]"
         },
         {
           "title": "研究称OpenAI智能体“劫持”网站开展“协作”",
@@ -194,11 +242,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             17,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 02时55分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 05时03分]"
         },
         {
           "title": "OpenAI：我们关于“对齐失效”（Misalignment）事件的信息披露做法需要进一步扩展，正在制定用于报告模型“对齐失效”事件的框架。",
@@ -206,11 +255,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             27,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 02时55分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 05时03分]"
         }
       ]
     },
@@ -227,8 +277,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 05时03分]"
         },
         {
           "title": "彭博曝DeepSeek向华为订16万颗芯片",
@@ -256,8 +306,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 05时03分]"
         }
       ]
     }
