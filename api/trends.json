@@ -1,157 +1,44 @@
 {
-  "generated_at": "2026-09-05T21:48:13.323851+08:00",
-  "total_titles_processed": 1160,
+  "generated_at": "2026-09-06T00:41:51.140501+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 7,
       "titles": [
         {
-          "title": "特朗普施压沃什降息：高利率令美国陷入“不公平劣势”，否则停止与逆差国贸易",
-          "url": "https://wallstreetcn.com/articles/3781108",
-          "source": "华尔街见闻",
+          "title": "特朗普再提打击镐山，凤凰女记者：伊朗有可能先出手",
+          "url": "https://original.ifeng.com/c/8wAjrDeDqv3",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            7,
-            6,
-            5,
-            3,
-            2
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时31分 ~ 21时48分]"
+          "appearance_count": 1,
+          "time_info": "00时41分"
         },
         {
           "title": "特朗普再度施压美联储：如果不降息，就切断与部分国家的贸易往来",
           "url": "https://www.cls.cn/detail/2474788",
           "source": "财联社热门",
           "ranks": [
-            12,
-            6,
-            5,
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时35分 ~ 21时48分]"
-        },
-        {
-          "title": "特朗普再提打击镐山，凤凰女记者：伊朗有可能先出手",
-          "url": "https://original.ifeng.com/c/8wAjrDeDqv3",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时19分 ~ 21时48分]"
+          "appearance_count": 1,
+          "time_info": "00时41分"
         },
         {
           "title": "特朗普：我走后不会有人为我立碑，所以现在得大建特建",
           "url": "https://news.ifeng.com/c/8wAxMNnJfyI",
           "source": "凤凰网",
           "ranks": [
-            5,
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时19分 ~ 21时48分]"
-        },
-        {
-          "title": "特朗普：美伊冲突只是小事一桩，美国没在作战",
-          "url": "https://original.ifeng.com/c/8wAYejoX9UM",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时28分 ~ 13时29分]"
-        },
-        {
-          "title": "特朗普：与伊朗的冲突是微不足道的小事",
-          "url": "https://news.ifeng.com/c/8wAF4cdAPy0",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时46分 ~ 08时47分]"
-        },
-        {
-          "title": "特朗普称赞8月就业数据",
-          "url": "https://flash.jin10.com/detail/20260905083835744800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时47分"
-        },
-        {
-          "title": "美国总统特朗普周六日程一览",
-          "url": "https://flash.jin10.com/detail/20260905083325110800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时47分"
-        },
-        {
-          "title": "美伊局势持续紧张！特朗普再度威胁：或很快打击伊朗“镐山”核设施",
-          "url": "https://www.cls.cn/detail/2474852",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时28分 ~ 21时48分]"
-        },
-        {
-          "title": "特朗普发帖称赞8月就业数据，抨击 “特朗普偏执症”",
-          "url": "https://wallstreetcn.com/livenews/3160814",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时56分 ~ 08时47分]"
-        },
-        {
-          "title": "特朗普淡化伊朗战争影响，称此类冲突对美国是“小事”",
-          "url": "https://wallstreetcn.com/livenews/3160787",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时35分 ~ 06时56分]"
-        },
-        {
-          "title": "特朗普证实威特科夫和库什纳将访问俄乌",
-          "url": "https://wallstreetcn.com/livenews/3160812",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时56分 ~ 08时47分]"
+          "time_info": "00时41分"
         },
         {
           "title": "特朗普搅动马岛局势，米莱借机就油气争端强硬表态",
@@ -161,733 +48,197 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时19分 ~ 21时48分]"
+          "appearance_count": 1,
+          "time_info": "00时41分"
         },
         {
           "title": "特朗普：将向俄罗斯提交结束俄乌冲突的方案；泽连斯基：美总统特使访问期间，不对俄发动空中打击",
           "url": "https://wallstreetcn.com/articles/3781135",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时47分 ~ 21时48分]"
+          "appearance_count": 1,
+          "time_info": "00时41分"
         },
         {
-          "title": "特朗普：美特使将向俄罗斯提交俄乌冲突“终战方案”",
-          "url": "https://www.cls.cn/detail/2474830",
+          "title": "美伊局势持续紧张！特朗普再度威胁：或很快打击伊朗“镐山”核设施",
+          "url": "https://www.cls.cn/detail/2474852",
           "source": "财联社热门",
           "ranks": [
-            12
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时28分 ~ 13时29分]"
+          "appearance_count": 1,
+          "time_info": "00时41分"
         },
         {
           "title": "据俄新社：克里姆林宫表示，在俄罗斯总统普京与美国总统特使威特科夫、特朗普女婿库什纳会谈后将向媒体通报情况。",
           "url": "https://flash.jin10.com/detail/20260905200607694800",
           "source": "金十数据",
           "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时48分"
-        },
-        {
-          "title": "特朗普：美特使将向俄罗斯提交结束俄乌冲突的方案",
-          "url": "https://wallstreetcn.com/livenews/3160774",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时35分"
-        },
-        {
-          "title": "美国总统特朗普：（重申）我们应当享受全球最低的利率水平 。 市场本应该上涨。 经济增长不会引发通胀。",
-          "url": "https://wallstreetcn.com/livenews/3160739",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        },
-        {
-          "title": "特朗普：美国可能很快打击伊朗位于镐山的核设施",
-          "url": "https://wallstreetcn.com/livenews/3160789",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时35分"
-        },
-        {
-          "title": "据国际文传电讯社：载有美国特使美国总统特使威特科夫和特朗普女婿库什纳的飞机已降落在莫斯科。",
-          "url": "https://flash.jin10.com/detail/20260905163910633800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        },
-        {
-          "title": "美国总统特朗普打算在9月4日签发与牛肉相关的行政命令。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3160736",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        },
-        {
-          "title": "特朗普：增长不会导致通胀，应维持全球最低利率",
-          "url": "https://flash.jin10.com/detail/20260905003503598800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        },
-        {
-          "title": "特朗普签署支持牧场主措施 拟打破大型肉企垄断并加强牛肉监管",
-          "url": "https://flash.jin10.com/detail/20260905035129161800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时35分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：美国总统特朗普的特使将于周日抵达乌克兰。 承诺将在美国团队抵达俄罗斯首都莫斯科期间停止发动袭击。",
-          "url": "https://wallstreetcn.com/livenews/3160731",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        },
-        {
-          "title": "美国总统特朗普谈及巴西肉联厂。 有两家巴西公司涉嫌垄断。",
-          "url": "https://wallstreetcn.com/livenews/3160767",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时35分"
-        },
-        {
-          "title": "美国总统特朗普：增长不会导致通胀。如果继续坚持当前理论，美国将无法实现应有的经济繁荣。",
-          "url": "https://flash.jin10.com/detail/20260905003333059800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        },
-        {
-          "title": "特朗普将签署行政命令，允许牧场主自行加工牛肉",
-          "url": "https://wallstreetcn.com/livenews/3160766",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时35分"
-        },
-        {
-          "title": "美国总统特朗普：最新公布的就业数据表现良好，市场本应上涨，但由于长期存在的“担忧通胀”理念，股市反而下跌。",
-          "url": "https://flash.jin10.com/detail/20260905003311540800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        },
-        {
-          "title": "报道：特朗普政府正在起草中东战后方案",
-          "url": "https://wallstreetcn.com/livenews/3160765",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时35分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-09-05）",
-          "url": "https://flash.jin10.com/detail/20260905183256033800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时48分"
-        },
-        {
-          "title": "据路透社：载有美国总统特使威特科夫、特朗普女婿库什纳和德米特里耶夫的车队已离开机场，前往莫斯科。",
-          "url": "https://flash.jin10.com/detail/20260905182115712800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时48分"
-        },
-        {
-          "title": "特朗普称伊朗冲突“对美国而言不算大事” 称当前并非战争状态",
-          "url": "https://flash.jin10.com/detail/20260905033428646800",
-          "source": "金十数据",
-          "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时35分"
+          "time_info": "00时41分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "美国8月非农大超预期 美股三大期指涨跌不一 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2474660",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时31分 ~ 21时48分]"
-        },
         {
           "title": "非农爆表提振加息预期，美股指下挫，存储与光通信逆势走强，黄金跌近1%",
           "url": "https://wallstreetcn.com/articles/3781080",
           "source": "华尔街见闻",
           "ranks": [
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时56分 ~ 21时48分]"
+          "appearance_count": 1,
+          "time_info": "00时41分"
+        },
+        {
+          "title": "美国8月非农大超预期 美股三大期指涨跌不一 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2474660",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时41分"
         },
         {
           "title": "【早报】美股存储概念股，逆势飙涨；油价上涨、黄金下挫；私募行业迎监管新规",
           "url": "https://www.cls.cn/detail/2474846",
           "source": "财联社热门",
           "ranks": [
-            7,
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时46分 ~ 21时48分]"
-        },
-        {
-          "title": "美股收盘：非农压制市场情绪 存储、光通信等AI概念股逆势爆发",
-          "url": "https://www.cls.cn/detail/2474841",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时46分 ~ 21时48分]"
-        },
-        {
-          "title": "沃勒发言打击加息预期，美股指两连涨，标普创一个月最大涨幅，日元急升2%，黄金大涨",
-          "url": "https://wallstreetcn.com/articles/3780985",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 04时35分]"
-        },
-        {
-          "title": "周五（9月4日），美股行业ETF涨跌各异，半导体ETF收涨2.6%，全球科技股指数ETF涨1.21%，科技行业ETF涨0.72%，网络股指数ETF、能源业ETF跌0.87%，可选消费ETF跌1.33%。",
-          "url": "https://wallstreetcn.com/livenews/3160788",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时35分 ~ 06时56分]"
-        },
-        {
-          "title": "非农爆表提振加息预期，美股开盘走低，Lululemon跌超18%，美元冲高回落，金油齐跌",
-          "url": "https://wallstreetcn.com/articles/3781080",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 04时35分]"
+          "appearance_count": 1,
+          "time_info": "00时41分"
         },
         {
           "title": "非农“吓退”美股大盘，AI硬件却逆势狂飙！半导体指数涨超3%，闪迪暴涨12%",
           "url": "https://wallstreetcn.com/articles/3781124",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时19分 ~ 21时48分]"
-        },
-        {
-          "title": "金十图示：2026年09月04日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260905040538591800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时35分 ~ 06时56分]"
-        },
-        {
-          "title": "金十图示：2026年09月04日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260905040515141800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时35分 ~ 06时56分]"
-        },
-        {
-          "title": "美股加密货币与加密货币关联指数跌0.08%，报75.46点，本周累计上涨12.05%，8月31日至9月2日大致持平于67点附近，9月3日早盘显著上涨，之后高位持稳。 最近24小时，比特币跌1.96%，暂报79855.75美元，美国非农就业报告发布后从81000美元上方跳水、一度跌穿78650美元，上周五结束交易以来累计上涨3.14%，9月3日涨幅突出。 以太坊跌1.97%，暂报2455.927美元，非农带来一波显著的跳水行情，最近七天累涨1.23%。",
-          "url": "https://wallstreetcn.com/livenews/3160805",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时56分 ~ 08时47分]"
-        },
-        {
-          "title": "美股收盘：三大股指收跌 特斯拉跌近6%",
-          "url": "https://flash.jin10.com/detail/20260905040248861800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时35分 ~ 06时56分]"
-        },
-        {
-          "title": "半导体ETF收涨2.6%，领跑美股行业ETF，黄金ETF跌超0.8%，新兴市场ETF涨超1.8%",
-          "url": "https://wallstreetcn.com/livenews/3160788",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时47分"
+          "time_info": "00时41分"
+        },
+        {
+          "title": "美股收盘：非农压制市场情绪 存储、光通信等AI概念股逆势爆发",
+          "url": "https://www.cls.cn/detail/2474841",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时41分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 12,
+      "match_count": 4,
       "titles": [
         {
-          "title": "“欢迎进入AGI时代”！OpenAI发布GPT-6 Astra，10万GPU训练，网安能力首达“关键”级",
-          "url": "https://wallstreetcn.com/articles/3781033",
+          "title": "高盛交易台主管：OpenAI的Astra模型“脱颖而出”，这正是“AI牛市一直在等的”",
+          "url": "https://wallstreetcn.com/articles/3781148",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时31分"
+          "time_info": "00时41分"
         },
         {
           "title": "OpenAI称已聘用三名人员，专门负责美国各州的政策事务。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3160898",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时48分"
+          "time_info": "00时41分"
         },
         {
           "title": "研究称OpenAI智能体“劫持”网站开展“协作”",
           "url": "https://wallstreetcn.com/livenews/3160884",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            16
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时19分 ~ 21时48分]"
-        },
-        {
-          "title": "OpenAI总裁宣布AGI到来",
-          "url": "https://www.baidu.com/s?wd=OpenAI%E6%80%BB%E8%A3%81%E5%AE%A3%E5%B8%83AGI%E5%88%B0%E6%9D%A5",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 06时56分]"
-        },
-        {
-          "title": "高盛交易台主管：OpenAI的Astra模型“脱颖而出”，这正是“AI牛市一直在等的”",
-          "url": "https://wallstreetcn.com/articles/3781148",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时47分 ~ 21时48分]"
+          "appearance_count": 1,
+          "time_info": "00时41分"
         },
         {
           "title": "OpenAI：我们关于“对齐失效”（Misalignment）事件的信息披露做法需要进一步扩展，正在制定用于报告模型“对齐失效”事件的框架。",
           "url": "https://wallstreetcn.com/livenews/3160872",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时19分 ~ 21时48分]"
-        },
-        {
-          "title": "OpenAI首席执行官奥尔特曼：GPT-6 Astra现已向所有Pro、Enterprise和Business Premium用户开放，并已可通过API使用。我们下一步将开始向Plus和Business用户开放。感谢大家的耐心等待。",
-          "url": "https://flash.jin10.com/detail/20260905041934250800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时56分 ~ 08时47分]"
-        },
-        {
-          "title": "OpenAI发布GPT-6 Astra",
-          "url": "https://www.douyin.com/hot/2634754",
-          "source": "抖音",
-          "ranks": [
-            30,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时35分 ~ 06时56分]"
-        },
-        {
-          "title": "ChatGPT、Claude、Grok一度集体宕机！持续近4小时，目前均已恢复",
-          "url": "https://wallstreetcn.com/articles/3781029",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        },
-        {
-          "title": "市场消息：《西雅图时报》和《新闻日报》于周五起诉OpenAI和微软(MSFT.O)，他们在联邦法院指控这两家科技公司未经许可复制其报纸的新闻报道，以训练其人工智能系统。",
-          "url": "https://flash.jin10.com/detail/20260905113321828800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时29分"
-        },
-        {
-          "title": "OpenAI官宣将自研人形机器人",
-          "url": "https://www.baidu.com/s?wd=OpenAI%E5%AE%98%E5%AE%A3%E5%B0%86%E8%87%AA%E7%A0%94%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        },
-        {
-          "title": "OpenAI：需要扩大对齐失范事件的披露范围",
-          "url": "https://flash.jin10.com/detail/20260905152849729800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美国 8 月非农数据就业人数超预期，环比增加 16.2 万人，美元、美债、美股、黄金盘中走势波动剧烈，何解？",
-          "url": "https://www.zhihu.com/question/2079306615564644866",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时56分"
-        },
-        {
-          "title": "两年期美债收益率于非农日涨超2.9个基点，同期实际收益率本周累跌将近9.1个基点",
-          "url": "https://wallstreetcn.com/livenews/3160810",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时56分 ~ 08时47分]"
-        },
-        {
-          "title": "美债抛售只是暂时现象？贝森特：伊朗战事结束后油价或跌至40美元",
-          "url": "https://www.cls.cn/detail/2474912",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时19分 ~ 21时48分]"
-        },
-        {
-          "title": "全球最大主权基金拟减持美债",
-          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E4%B8%BB%E6%9D%83%E5%9F%BA%E9%87%91%E6%8B%9F%E5%87%8F%E6%8C%81%E7%BE%8E%E5%80%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 06时56分]"
-        },
-        {
-          "title": "贝森特：伊朗冲突结束后油价或跌至40美元 美债收益率将回落",
-          "url": "https://flash.jin10.com/detail/20260905033845861800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "招商银行 万华化学 福耀玻璃 旗滨集团 苏农银行 奥浦迈 爱美客 美的集团 潍柴动力 苏泊尔 鱼跃医疗 牧原股份 振邦智能 华兰生物 证监会",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "证监会开出2.55亿巨额罚单",
-          "url": "https://www.toutiao.com/trending/7681610244372120073/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            4,
             27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时31分 ~ 08时47分]"
-        },
-        {
-          "title": "证监会开出2.55亿巨额罚单",
-          "url": "https://www.baidu.com/s?wd=%E8%AF%81%E7%9B%91%E4%BC%9A%E5%BC%80%E5%87%BA2.55%E4%BA%BF%E5%B7%A8%E9%A2%9D%E7%BD%9A%E5%8D%95",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时31分 ~ 08时47分]"
-        },
-        {
-          "title": "中国证监会开出天价罚单",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%AF%81%E7%9B%91%E4%BC%9A%E5%BC%80%E5%87%BA%E5%A4%A9%E4%BB%B7%E7%BD%9A%E5%8D%95%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时28分 ~ 13时29分]"
+          "appearance_count": 1,
+          "time_info": "00时41分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
           "title": "DeepSeek被曝将采购16万颗华为芯片",
           "url": "https://www.toutiao.com/trending/7681981085961424425/",
           "source": "今日头条",
           "ranks": [
-            15
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时47分 ~ 21时48分]"
+          "appearance_count": 1,
+          "time_info": "00时41分"
         },
         {
           "title": "彭博曝DeepSeek向华为订16万颗芯片",
-          "url": "https://s.weibo.com/weibo?q=%E5%BD%AD%E5%8D%9A%E6%9B%9DDeepSeek%E5%90%91%E5%8D%8E%E4%B8%BA%E8%AE%A216%E4%B8%87%E9%A2%97%E8%8A%AF%E7%89%87&t=31&band_rank=19&Refer=top",
+          "url": "https://s.weibo.com/weibo?q=%E5%BD%AD%E5%8D%9A%E6%9B%9DDeepSeek%E5%90%91%E5%8D%8E%E4%B8%BA%E8%AE%A216%E4%B8%87%E9%A2%97%E8%8A%AF%E7%89%87&t=31&band_rank=29&Refer=top",
           "source": "微博",
           "ranks": [
-            19
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时47分 ~ 21时48分]"
-        },
-        {
-          "title": "DeepSeek被曝将采购16万颗华为芯片",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E8%A2%AB%E6%9B%9D%E5%B0%86%E9%87%87%E8%B4%AD16%E4%B8%87%E9%A2%97%E5%8D%8E%E4%B8%BA%E8%8A%AF%E7%89%87",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时47分 ~ 21时48分]"
+          "appearance_count": 1,
+          "time_info": "00时41分"
         }
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 3,
+      "keyword_group": "美债",
+      "match_count": 1,
       "titles": [
         {
-          "title": "北美科技软件股指数ETF收跌2.23%，报104.57美元，本周回撤4.50%。 Global X网络安全ETF收跌0.72%，本周回撤3.68%。 纳斯达克网络安全ETF收跌0.77%，本周回撤4.03%。 ETFMG网络安全ETF收跌0.70%，本周回撤4.15%。",
-          "url": "https://wallstreetcn.com/livenews/3160791",
-          "source": "华尔街见闻-快讯",
+          "title": "美债抛售只是暂时现象？贝森特：伊朗战事结束后油价或跌至40美元",
+          "url": "https://www.cls.cn/detail/2474912",
+          "source": "财联社热门",
           "ranks": [
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时56分 ~ 08时47分]"
-        },
-        {
-          "title": "周五（9月4日）纽约尾盘，ICE美元指数涨0.26%，报99.165点，本周累计下跌0.54%，整体交投区间为99.863-98.831点。 彭博美元指数涨0.07%，报1190.56点，本周累跌0.68%，交投区间为1200.13-1188.58点。",
-          "url": "https://wallstreetcn.com/livenews/3160775",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时35分"
-        },
-        {
-          "title": "美元指数4日上涨",
-          "url": "https://flash.jin10.com/detail/20260905033311301800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "国际金价在非农就业报告出炉时跳水将近80美元，打破本周稍早出现的V形反转",
-          "url": "https://wallstreetcn.com/livenews/3160799",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时56分 ~ 08时47分]"
-        },
-        {
-          "title": "市场消息：周六开盘时，泰国金价下跌500泰铢，前一日的涨幅全数回吐。金条售价为每铢重69,150泰铢，黄金首饰售价为69,950泰铢。此次下跌源于全球范围内的抛售潮，因美国强劲的就业数据加剧了市场对美联储加息的预期。（注：铢重是泰国专门用来计算黄金与珠宝重量的传统计量单位）",
-          "url": "https://flash.jin10.com/detail/20260905105917878800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时29分"
+          "time_info": "00时41分"
         }
       ]
     }
