@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-07T00:05:49.646283+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-09-07T02:58:31.236150+08:00",
+  "total_titles_processed": 387,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 19,
       "titles": [
         {
           "title": "伊朗导弹袭击美航母，美军：航母成功规避伊朗多次攻击，击中伊3艘油轮！特朗普：美国已经赢了；美情报部门：伊朗已打出自信",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 02时58分]"
         },
         {
           "title": "会见特朗普特使超3小时，普京表态“今天的局势并不简单”",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 02时58分]"
         },
         {
           "title": "特朗普：加拿大对美国的货币美元汇率失衡是不可接受的。",
@@ -37,8 +37,19 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 02时58分]"
+        },
+        {
+          "title": "特朗普政府再次就限制邮寄选票向最高法院上诉",
+          "url": "https://flash.jin10.com/detail/20260907021147760800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时05分"
+          "time_info": "02时58分"
         },
         {
           "title": "特朗普终于下定决心解决俄乌冲突？",
@@ -48,8 +59,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 02时58分]"
         },
         {
           "title": "特朗普震怒，数十名美军将领“罕见”接受测谎",
@@ -59,8 +70,41 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 02时58分]"
+        },
+        {
+          "title": "美国总统特朗普在社交平台发布一张图片，配文“月球是我们的”。",
+          "url": "https://flash.jin10.com/detail/20260907020326143800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时05分"
+          "time_info": "02时58分"
+        },
+        {
+          "title": "美国总统特朗普在社交平台发布一张图片，将伊朗地图变成自己的头像。",
+          "url": "https://flash.jin10.com/detail/20260907015824969800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "美国总统特朗普在社交平台发布一张地图，将新墨西哥州标注为“新美国”。",
+          "url": "https://flash.jin10.com/detail/20260907015446447800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
         },
         {
           "title": "特朗普女婿库什纳：特朗普政府将竭尽全力结束乌克兰与俄罗斯之间的战争。",
@@ -74,6 +118,28 @@
           "time_info": "00时05分"
         },
         {
+          "title": "特朗普女婿库什纳：普京对俄罗斯有着不同的愿景，这些愿景在冲突结束后同样可以实现。",
+          "url": "https://flash.jin10.com/detail/20260907013622078800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "特朗普女婿库什纳：巴勒斯坦已经成立了一个新的技术官僚政府，它既不是巴勒斯坦权力机构，也不是哈马斯。如果武装势力存在，该政府就无法进驻。我们逐步意识到加沙军事化的程度已超出了理解范围。实现加沙非军事化绝非易事。",
+          "url": "https://flash.jin10.com/detail/20260907013403056800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
           "title": "市场消息：英国及欧洲多名高级官员正在参与特朗普特使与乌克兰总统泽连斯基在基辅举行的会谈。英国国家安全顾问乔纳森·鲍威尔（Jonathan Powell）也参与了会谈，其他欧洲国家的国家安全顾问同样出席。",
           "url": "https://flash.jin10.com/detail/20260906213227207800",
           "source": "金十数据",
@@ -85,6 +151,28 @@
           "time_info": "00时05分"
         },
         {
+          "title": "特朗普女婿库什纳：我们向加沙输送了大量援助物资，如今那里的营养不良率已是全球最低之一。我们有一个重建加沙的计划。这些事情需要时间。",
+          "url": "https://flash.jin10.com/detail/20260907012737388800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "特朗普女婿库什纳：特朗普素有完成不可能之事的政绩。上一届政府并未出访俄罗斯，仅由中情局局长进行过一次访问。",
+          "url": "https://flash.jin10.com/detail/20260907012555939800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
           "title": "美国总统特朗普：已经无法接受加元与美元之间的失衡。这种状况已经持续了多年，但再也无法忍受了！",
           "url": "https://flash.jin10.com/detail/20260906211315856800",
           "source": "金十数据",
@@ -94,6 +182,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
+        },
+        {
+          "title": "特朗普女婿库什纳：世界上没有永远的敌人，也没有永远的盟友。",
+          "url": "https://flash.jin10.com/detail/20260907010912925800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "特朗普女婿库什纳：我们正与哈马斯合作推动解除武装，并已与以色列就加沙地带计划的最终目标达成一致。",
+          "url": "https://flash.jin10.com/detail/20260907004803187800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "特朗普女婿库什纳：特朗普总统希望建立一个实现全面和持久和平的框架，而不仅仅是结束当前的乌克兰战争。",
+          "url": "https://flash.jin10.com/detail/20260907004215713800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
         }
       ]
     },
@@ -109,8 +230,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 02时58分]"
         },
         {
           "title": "高盛合伙人：夏季结束了，市场焦点都在“债市风暴”，而美股恐慌指数已跌至特朗普任期低点",
@@ -120,8 +241,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 02时58分]"
         }
       ]
     },
@@ -134,11 +255,12 @@
           "url": "https://www.cls.cn/detail/2475045",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 02时58分]"
         }
       ]
     },
@@ -154,8 +276,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 02时58分]"
         }
       ]
     },
@@ -168,11 +290,12 @@
           "url": "https://www.cls.cn/detail/2474912",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 02时58分]"
         }
       ]
     }
