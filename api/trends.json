@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-06T07:42:01.254502+08:00",
-  "total_titles_processed": 497,
+  "generated_at": "2026-09-06T11:55:21.898449+08:00",
+  "total_titles_processed": 662,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普再提打击镐山，凤凰女记者：伊朗有可能先出手",
@@ -35,11 +35,25 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 07时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时41分 ~ 11时55分]"
+        },
+        {
+          "title": "美伊局势持续紧张！特朗普再度威胁：或很快打击伊朗“镐山”核设施",
+          "url": "https://www.cls.cn/detail/2474852",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时41分 ~ 11时55分]"
         },
         {
           "title": "特朗普搅动马岛局势，米莱借机就油气争端强硬表态",
@@ -53,16 +67,26 @@
           "time_info": "[00时41分 ~ 07时42分]"
         },
         {
-          "title": "美伊局势持续紧张！特朗普再度威胁：或很快打击伊朗“镐山”核设施",
-          "url": "https://www.cls.cn/detail/2474852",
-          "source": "财联社热门",
+          "title": "美海军预算被掏空，特朗普“黄金舰队”要难产？",
+          "url": "https://news.ifeng.com/c/8wBtm8zElDg",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            10
+            4
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 07时42分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "普京会见特朗普特使超3小时",
+          "url": "https://www.toutiao.com/trending/7682224980939001390/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         },
         {
           "title": "特朗普：将向俄罗斯提交结束俄乌冲突的方案；泽连斯基：美总统特使访问期间，不对俄发动空中打击",
@@ -90,13 +114,24 @@
           "time_info": "[05时03分 ~ 07时42分]"
         },
         {
+          "title": "伊朗导弹袭击美航母，美军：航母成功规避伊朗多次攻击，击中伊3艘油轮！特朗普：美国已经赢了；美情报部门：伊朗已打出自信",
+          "url": "https://wallstreetcn.com/articles/3781160",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
           "title": "据塔斯社：美国总统特使威特科夫和特朗普女婿库什纳离开莫斯科。",
           "url": "https://flash.jin10.com/detail/20260906053124724800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -118,7 +153,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -129,7 +164,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -181,7 +216,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "高盛交易台主管：OpenAI的Astra模型“脱颖而出”，这正是“AI牛市一直在等的”",
@@ -193,8 +228,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 07时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时41分 ~ 11时55分]"
         },
         {
           "title": "OpenAI称已聘用三名人员，专门负责美国各州的政策事务。（Axios）",
@@ -203,11 +238,24 @@
           "ranks": [
             4,
             5,
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 07时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 11时55分]"
+        },
+        {
+          "title": "OpenAI总裁：Astra是首个“在10万块GPU上训练的模型”，跨越了“应用门槛”",
+          "url": "https://wallstreetcn.com/articles/3781151",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时41分 ~ 11时55分]"
         },
         {
           "title": "研究称OpenAI智能体“劫持”网站开展“协作”",
@@ -216,11 +264,12 @@
           "ranks": [
             17,
             18,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 07时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 11时55分]"
         },
         {
           "title": "OpenAI：我们关于“对齐失效”（Misalignment）事件的信息披露做法需要进一步扩展，正在制定用于报告模型“对齐失效”事件的框架。",
@@ -236,15 +285,15 @@
           "time_info": "[00时41分 ~ 07时42分]"
         },
         {
-          "title": "OpenAI总裁：Astra是首个“在10万块GPU上训练的模型”，跨越了“应用门槛”",
-          "url": "https://wallstreetcn.com/articles/3781151",
-          "source": "华尔街见闻",
+          "title": "OpenAI应用研究主管：空间推理能力曾是人类远超计算机的最后几个方面之一，有了Astra之后，这种情况将不复存在。",
+          "url": "https://flash.jin10.com/detail/20260906095637371800",
+          "source": "金十数据",
           "ranks": [
-            9
+            17
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时41分 ~ 07时42分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         }
       ]
     },
@@ -260,8 +309,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 07时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时41分 ~ 11时55分]"
         },
         {
           "title": "【早报】美股存储概念股，逆势飙涨；油价上涨、黄金下挫；私募行业迎监管新规",
@@ -271,8 +320,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 07时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时41分 ~ 11时55分]"
         },
         {
           "title": "非农爆表提振加息预期，美股指下挫，存储与光通信逆势走强，黄金跌近1%",
@@ -286,6 +335,19 @@
           "time_info": "[00时41分 ~ 05时03分]"
         },
         {
+          "title": "美股收盘：非农压制市场情绪 存储、光通信等AI概念股逆势爆发",
+          "url": "https://www.cls.cn/detail/2474841",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时41分 ~ 11时55分]"
+        },
+        {
           "title": "非农“吓退”美股大盘，AI硬件却逆势狂飙！半导体指数涨超3%，闪迪暴涨12%",
           "url": "https://wallstreetcn.com/articles/3781124",
           "source": "华尔街见闻",
@@ -297,18 +359,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时41分 ~ 05时03分]"
-        },
-        {
-          "title": "美股收盘：非农压制市场情绪 存储、光通信等AI概念股逆势爆发",
-          "url": "https://www.cls.cn/detail/2474841",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 07时42分]"
         }
       ]
     },
@@ -343,6 +393,23 @@
       ]
     },
     {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【早报】中东航线海运价格大幅跳涨；多国推进黄金储备本土化布局",
+          "url": "https://www.cls.cn/detail/2475040",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -355,8 +422,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 07时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时41分 ~ 11时55分]"
         }
       ]
     }
