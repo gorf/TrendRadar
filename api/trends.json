@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-07T02:58:31.236150+08:00",
-  "total_titles_processed": 387,
+  "generated_at": "2026-09-07T05:14:06.786968+08:00",
+  "total_titles_processed": 439,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "伊朗导弹袭击美航母，美军：航母成功规避伊朗多次攻击，击中伊3艘油轮！特朗普：美国已经赢了；美情报部门：伊朗已打出自信",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 05时14分]"
         },
         {
           "title": "会见特朗普特使超3小时，普京表态“今天的局势并不简单”",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 05时14分]"
         },
         {
           "title": "特朗普：加拿大对美国的货币美元汇率失衡是不可接受的。",
@@ -37,8 +37,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 05时14分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：我们或许更倾向于某些谈判形式，但更糟糕的是根本没有谈判形式。我要感谢美国中东问题特使威特科夫和特朗普女婿库什纳今天在重启谈判进程中所发挥的作用。美国团队与俄罗斯领导人会面，今天又与我会面，讨论了所有可能性，这一点非常重要。我们举行了有欧洲代表参加的三方会谈，以及国家安全顾问会议，我认为我们将尽一切努力恢复谈判。",
+          "url": "https://flash.jin10.com/detail/20260907044059170800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
         },
         {
           "title": "特朗普政府再次就限制邮寄选票向最高法院上诉",
@@ -47,7 +58,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         },
@@ -59,8 +70,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 05时14分]"
         },
         {
           "title": "特朗普震怒，数十名美军将领“罕见”接受测谎",
@@ -70,8 +81,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 05时14分]"
         },
         {
           "title": "美国总统特朗普在社交平台发布一张图片，配文“月球是我们的”。",
@@ -80,7 +91,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         },
@@ -91,7 +102,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         },
@@ -102,7 +113,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         },
@@ -118,13 +129,24 @@
           "time_info": "00时05分"
         },
         {
+          "title": "特朗普女婿库什纳：以色列政府在加沙的行为“有点不理智”。",
+          "url": "https://flash.jin10.com/detail/20260907041625580800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
           "title": "特朗普女婿库什纳：普京对俄罗斯有着不同的愿景，这些愿景在冲突结束后同样可以实现。",
           "url": "https://flash.jin10.com/detail/20260907013622078800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         },
@@ -135,7 +157,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         },
@@ -157,7 +179,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         },
@@ -168,7 +190,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         },
@@ -190,7 +212,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         },
@@ -201,9 +223,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        },
+        {
+          "title": "美国总统特朗普：我这么做是为了国家，不是为我自己。我为美国赚了数千亿美元的股票收益以及其他类型的资产，可换来的是激进左翼民主党人的不断批评。真是太不公平了，但能怎么办呢！（配图显示特朗普坐在椭圆形办公室办公桌前，面前交易画面显示“买入：英特尔20美元；当前价格 95美元”。）",
+          "url": "https://flash.jin10.com/detail/20260907031822624800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
         },
         {
           "title": "特朗普女婿库什纳：特朗普总统希望建立一个实现全面和持久和平的框架，而不仅仅是结束当前的乌克兰战争。",
@@ -212,7 +245,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         }
@@ -230,8 +263,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 05时14分]"
         },
         {
           "title": "高盛合伙人：夏季结束了，市场焦点都在“债市风暴”，而美股恐慌指数已跌至特朗普任期低点",
@@ -241,8 +274,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 05时14分]"
         }
       ]
     },
@@ -259,8 +292,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 05时14分]"
         }
       ]
     },
@@ -276,8 +309,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 05时14分]"
         }
       ]
     },
@@ -291,11 +324,12 @@
           "source": "财联社热门",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 05时14分]"
         }
       ]
     }
