@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-09-06T11:55:21.898449+08:00",
-  "total_titles_processed": 662,
+  "generated_at": "2026-09-06T16:33:58.340767+08:00",
+  "total_titles_processed": 839,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "特朗普再度施压美联储：如果不降息，就切断与部分国家的贸易往来",
+          "url": "https://www.cls.cn/detail/2474788",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 16时33分]"
+        },
         {
           "title": "特朗普再提打击镐山，凤凰女记者：伊朗有可能先出手",
           "url": "https://original.ifeng.com/c/8wAjrDeDqv3",
@@ -30,30 +43,29 @@
           "time_info": "[00时41分 ~ 07时42分]"
         },
         {
-          "title": "特朗普再度施压美联储：如果不降息，就切断与部分国家的贸易往来",
-          "url": "https://www.cls.cn/detail/2474788",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 11时55分]"
-        },
-        {
           "title": "美伊局势持续紧张！特朗普再度威胁：或很快打击伊朗“镐山”核设施",
           "url": "https://www.cls.cn/detail/2474852",
           "source": "财联社热门",
           "ranks": [
             9,
             10,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 11时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 16时33分]"
+        },
+        {
+          "title": "美海军预算被掏空，特朗普“黄金舰队”要难产？",
+          "url": "https://news.ifeng.com/c/8wBtm8zElDg",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时55分 ~ 16时33分]"
         },
         {
           "title": "特朗普搅动马岛局势，米莱借机就油气争端强硬表态",
@@ -67,26 +79,26 @@
           "time_info": "[00时41分 ~ 07时42分]"
         },
         {
-          "title": "美海军预算被掏空，特朗普“黄金舰队”要难产？",
-          "url": "https://news.ifeng.com/c/8wBtm8zElDg",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时55分"
-        },
-        {
           "title": "普京会见特朗普特使超3小时",
           "url": "https://www.toutiao.com/trending/7682224980939001390/",
           "source": "今日头条",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
+        },
+        {
+          "title": "会见特朗普特使超3小时，普京表态“今天的局势并不简单”",
+          "url": "https://wallstreetcn.com/articles/3781161",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "特朗普：将向俄罗斯提交结束俄乌冲突的方案；泽连斯基：美总统特使访问期间，不对俄发动空中打击",
@@ -102,6 +114,18 @@
           "time_info": "[00时41分 ~ 07时42分]"
         },
         {
+          "title": "伊朗导弹袭击美航母，美军：航母成功规避伊朗多次攻击，击中伊3艘油轮！特朗普：美国已经赢了；美情报部门：伊朗已打出自信",
+          "url": "https://wallstreetcn.com/articles/3781160",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时55分 ~ 16时33分]"
+        },
+        {
           "title": "俄罗斯总统普京、美国总统特使威特科夫与特朗普女婿库什纳的会晤结束。",
           "url": "https://flash.jin10.com/detail/20260906040447398800",
           "source": "金十数据",
@@ -112,17 +136,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时03分 ~ 07时42分]"
-        },
-        {
-          "title": "伊朗导弹袭击美航母，美军：航母成功规避伊朗多次攻击，击中伊3艘油轮！特朗普：美国已经赢了；美情报部门：伊朗已打出自信",
-          "url": "https://wallstreetcn.com/articles/3781160",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时55分"
         },
         {
           "title": "据塔斯社：美国总统特使威特科夫和特朗普女婿库什纳离开莫斯科。",
@@ -211,12 +224,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "民调显示特朗普的支持率已降至历史最低点",
+          "url": "https://flash.jin10.com/detail/20260906145018654800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "高盛交易台主管：OpenAI的Astra模型“脱颖而出”，这正是“AI牛市一直在等的”",
@@ -228,8 +252,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 11时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 16时33分]"
         },
         {
           "title": "OpenAI称已聘用三名人员，专门负责美国各州的政策事务。（Axios）",
@@ -239,11 +263,12 @@
             4,
             5,
             7,
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 11时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 16时33分]"
         },
         {
           "title": "OpenAI总裁：Astra是首个“在10万块GPU上训练的模型”，跨越了“应用门槛”",
@@ -251,11 +276,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时41分 ~ 11时55分]"
+          "appearance_count": 4,
+          "time_info": "[07时41分 ~ 16时33分]"
         },
         {
           "title": "研究称OpenAI智能体“劫持”网站开展“协作”",
@@ -285,39 +311,73 @@
           "time_info": "[00时41分 ~ 07时42分]"
         },
         {
+          "title": "OpenAI祭出王炸！高盛盛赞：GPT-6 Astra正是AI牛市一直在等的",
+          "url": "https://www.cls.cn/detail/2475045",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
+          "title": "怎么看 OpenAI 说 GPT-6 开始你需要给 Skill 和 AGENTS.md 做一次大扫除了？",
+          "url": "https://www.zhihu.com/question/2079666454430072866",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "OpenAI应用研究主管：空间推理能力曾是人类远超计算机的最后几个方面之一，有了Astra之后，这种情况将不复存在。",
           "url": "https://flash.jin10.com/detail/20260906095637371800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
+        },
+        {
+          "title": "OpenAI智能体“劫持”了一个网站",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E6%99%BA%E8%83%BD%E4%BD%93%E2%80%9C%E5%8A%AB%E6%8C%81%E2%80%9D%E4%BA%86%E4%B8%80%E4%B8%AA%E7%BD%91%E7%AB%99",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "【早报】美股存储概念股，逆势飙涨；油价上涨、黄金下挫；私募行业迎监管新规",
+          "url": "https://www.cls.cn/detail/2474846",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 16时33分]"
+        },
         {
           "title": "美国8月非农大超预期 美股三大期指涨跌不一 | 今夜看点",
           "url": "https://www.cls.cn/detail/2474660",
           "source": "财联社热门",
           "ranks": [
             2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 11时55分]"
-        },
-        {
-          "title": "【早报】美股存储概念股，逆势飙涨；油价上涨、黄金下挫；私募行业迎监管新规",
-          "url": "https://www.cls.cn/detail/2474846",
-          "source": "财联社热门",
-          "ranks": [
-            3
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -344,8 +404,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 11时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 16时33分]"
         },
         {
           "title": "非农“吓退”美股大盘，AI硬件却逆势狂飙！半导体指数涨超3%，闪迪暴涨12%",
@@ -359,6 +419,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时41分 ~ 05时03分]"
+        },
+        {
+          "title": "高盛合伙人：夏季结束了，市场焦点都在“债市风暴”，而美股恐慌指数已跌至特朗普任期低点",
+          "url": "https://wallstreetcn.com/articles/3781162",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
+          "title": "美银Hartnett：“民主党中选横扫”将打崩美股，戳破AI泡沫",
+          "url": "https://wallstreetcn.com/articles/3781163",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         }
       ]
     },
@@ -401,11 +483,12 @@
           "url": "https://www.cls.cn/detail/2475040",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时55分 ~ 16时33分]"
         }
       ]
     },
@@ -419,11 +502,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 11时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 16时33分]"
         }
       ]
     }
