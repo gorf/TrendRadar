@@ -1,608 +1,178 @@
 {
-  "generated_at": "2026-09-07T23:40:44.206618+08:00",
-  "total_titles_processed": 1186,
+  "generated_at": "2026-09-08T03:46:15.170237+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 5,
       "titles": [
         {
-          "title": "伊朗导弹袭击美航母，美军：航母成功规避伊朗多次攻击，击中伊3艘油轮！特朗普：美国已经赢了；美情报部门：伊朗已打出自信",
-          "url": "https://wallstreetcn.com/articles/3781160",
-          "source": "华尔街见闻",
+          "title": "特朗普晒AI图谈炒股：“我已为美国赚取数千亿美元”",
+          "url": "https://www.cls.cn/detail/2476309",
+          "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 07时40分]"
-        },
-        {
-          "title": "会见特朗普特使超3小时，普京表态“今天的局势并不简单”",
-          "url": "https://wallstreetcn.com/articles/3781161",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 07时40分]"
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 03时46分]"
         },
         {
           "title": "特朗普震怒，数十名美军将领“罕见”接受测谎",
           "url": "https://news.ifeng.com/c/8wCWRVzw04p",
           "source": "凤凰网",
           "ranks": [
-            9,
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时05分 ~ 23时40分]"
-        },
-        {
-          "title": "特朗普标志性金发不见了",
-          "url": "https://www.toutiao.com/trending/7682240377843908627/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时10分 ~ 17时11分]"
-        },
-        {
-          "title": "特朗普终于下定决心解决俄乌冲突？",
-          "url": "https://v.ifeng.com/c/8wChwp7Zw9p",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 07时40分]"
-        },
-        {
-          "title": "特朗普：加拿大对美国的货币美元汇率失衡是不可接受的。",
-          "url": "https://wallstreetcn.com/livenews/3160970",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时05分 ~ 07时40分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：我们或许更倾向于某些谈判形式，但更糟糕的是根本没有谈判形式。我要感谢美国中东问题特使威特科夫和特朗普女婿库什纳今天在重启谈判进程中所发挥的作用。美国团队与俄罗斯领导人会面，今天又与我会面，讨论了所有可能性，这一点非常重要。我们举行了有欧洲代表参加的三方会谈，以及国家安全顾问会议，我认为我们将尽一切努力恢复谈判。",
-          "url": "https://flash.jin10.com/detail/20260907044059170800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时14分"
-        },
-        {
-          "title": "特朗普政府再次就限制邮寄选票向最高法院上诉",
-          "url": "https://flash.jin10.com/detail/20260907021147760800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时58分"
+          "time_info": "[03时45分 ~ 03时46分]"
         },
         {
           "title": "从金发到深褐：特朗普发色突变再引“假发”猜测",
           "url": "https://m.thepaper.cn/newsDetail_forward_34022309",
           "source": "澎湃新闻",
           "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时10分 ~ 23时40分]"
-        },
-        {
-          "title": "特朗普晒“总统档位图”将自己排第一",
-          "url": "https://www.toutiao.com/trending/7681960791264788507/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时10分 ~ 17时11分]"
-        },
-        {
-          "title": "美国总统特朗普在社交平台发布一张图片，配文“月球是我们的”。",
-          "url": "https://flash.jin10.com/detail/20260907020326143800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时58分"
-        },
-        {
-          "title": "美国总统特朗普在社交平台发布一张图片，将伊朗地图变成自己的头像。",
-          "url": "https://flash.jin10.com/detail/20260907015824969800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时58分"
-        },
-        {
-          "title": "特朗普晒AI图谈炒股：“我已为美国赚取数千亿美元”",
-          "url": "https://www.cls.cn/detail/2476309",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时40分"
-        },
-        {
-          "title": "美国总统特朗普在社交平台发布一张地图，将新墨西哥州标注为“新美国”。",
-          "url": "https://flash.jin10.com/detail/20260907015446447800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时58分"
-        },
-        {
-          "title": "特朗普女婿库什纳：特朗普政府将竭尽全力结束乌克兰与俄罗斯之间的战争。",
-          "url": "https://flash.jin10.com/detail/20260906223215744800",
-          "source": "金十数据",
-          "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 03时46分]"
         },
         {
-          "title": "特朗普女婿库什纳：以色列政府在加沙的行为“有点不理智”。",
-          "url": "https://flash.jin10.com/detail/20260907041625580800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时14分"
-        },
-        {
-          "title": "美国总统特朗普周一日程一览",
-          "url": "https://flash.jin10.com/detail/20260907072209984800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时40分"
-        },
-        {
-          "title": "特朗普4个小时发27张图片：月球是美国的 伊朗地图是特朗普侧脸",
-          "url": "https://flash.jin10.com/detail/20260907071137106800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时40分"
-        },
-        {
-          "title": "特朗普女婿库什纳：普京对俄罗斯有着不同的愿景，这些愿景在冲突结束后同样可以实现。",
-          "url": "https://flash.jin10.com/detail/20260907013622078800",
-          "source": "金十数据",
+          "title": "特朗普谈及加拿大：如果他们想要进入我们的市场，就必须在本土建厂。 美国境内不再销售庞巴迪产品。",
+          "url": "https://wallstreetcn.com/livenews/3161463",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时58分"
+          "time_info": "03时46分"
         },
         {
-          "title": "特朗普女婿库什纳：巴勒斯坦已经成立了一个新的技术官僚政府，它既不是巴勒斯坦权力机构，也不是哈马斯。如果武装势力存在，该政府就无法进驻。我们逐步意识到加沙军事化的程度已超出了理解范围。实现加沙非军事化绝非易事。",
-          "url": "https://flash.jin10.com/detail/20260907013403056800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时58分"
-        },
-        {
-          "title": "市场消息：英国及欧洲多名高级官员正在参与特朗普特使与乌克兰总统泽连斯基在基辅举行的会谈。英国国家安全顾问乔纳森·鲍威尔（Jonathan Powell）也参与了会谈，其他欧洲国家的国家安全顾问同样出席。",
-          "url": "https://flash.jin10.com/detail/20260906213227207800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
-        },
-        {
-          "title": "特朗普女婿库什纳：我们向加沙输送了大量援助物资，如今那里的营养不良率已是全球最低之一。我们有一个重建加沙的计划。这些事情需要时间。",
-          "url": "https://flash.jin10.com/detail/20260907012737388800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时58分"
-        },
-        {
-          "title": "特朗普女婿库什纳：特朗普素有完成不可能之事的政绩。上一届政府并未出访俄罗斯，仅由中情局局长进行过一次访问。",
-          "url": "https://flash.jin10.com/detail/20260907012555939800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时58分"
-        },
-        {
-          "title": "特朗普发图称月球是美国的",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E5%9B%BE%E7%A7%B0%E6%9C%88%E7%90%83%E6%98%AF%E7%BE%8E%E5%9B%BD%E7%9A%84%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时54分"
-        },
-        {
-          "title": "美国总统特朗普：已经无法接受加元与美元之间的失衡。这种状况已经持续了多年，但再也无法忍受了！",
-          "url": "https://flash.jin10.com/detail/20260906211315856800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
-        },
-        {
-          "title": "特朗普女婿库什纳：世界上没有永远的敌人，也没有永远的盟友。",
-          "url": "https://flash.jin10.com/detail/20260907010912925800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时58分"
-        },
-        {
-          "title": "特朗普女婿库什纳：我们正与哈马斯合作推动解除武装，并已与以色列就加沙地带计划的最终目标达成一致。",
-          "url": "https://flash.jin10.com/detail/20260907004803187800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时58分"
-        },
-        {
-          "title": "美国总统特朗普：我这么做是为了国家，不是为我自己。我为美国赚了数千亿美元的股票收益以及其他类型的资产，可换来的是激进左翼民主党人的不断批评。真是太不公平了，但能怎么办呢！（配图显示特朗普坐在椭圆形办公室办公桌前，面前交易画面显示“买入：英特尔20美元；当前价格 95美元”。）",
-          "url": "https://flash.jin10.com/detail/20260907031822624800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时14分"
-        },
-        {
-          "title": "日本寻求9月下旬高市早苗与特朗普会谈。（共同社）",
-          "url": "https://wallstreetcn.com/livenews/3161226",
+          "title": "英国唐宁街：英国首相伯纳姆今日下午与美国总统特朗普通话。 谈及经济议题，伯纳姆对美国最新就业数据向特朗普表示祝贺，同时指出英国本国经济显现增长积极信号。 伯纳姆称，政府正在为英国营造更多向好态势，相关工作已取得进展，但仍有更多任务有待完成。",
+          "url": "https://wallstreetcn.com/livenews/3161453",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时11分"
-        },
-        {
-          "title": "美国中东问题特使威特科夫：根据特朗普总统的指示，美国谈判代表访问了莫斯科和基辅，以推动进一步对话，结束俄乌战争。在基辅，代表团还与英国、德国和法国的国家安全顾问会面，共同探讨后续合作路径。各方在包括推进安排后续的三方会谈的问题上取得实质性进展。",
-          "url": "https://flash.jin10.com/detail/20260907220302420800",
-          "source": "金十数据",
-          "ranks": [
-            26
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时40分"
-        },
-        {
-          "title": "特朗普女婿库什纳：特朗普总统希望建立一个实现全面和持久和平的框架，而不仅仅是结束当前的乌克兰战争。",
-          "url": "https://flash.jin10.com/detail/20260907004215713800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时58分"
+          "time_info": "03时46分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "OpenAI祭出王炸！高盛盛赞：GPT-6 Astra正是AI牛市一直在等的",
-          "url": "https://www.cls.cn/detail/2475045",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 07时40分]"
-        },
         {
           "title": "RSI真的来了！OpenAI首席科学家：我们已造出异星心智，全人类都要刹车了",
           "url": "https://wallstreetcn.com/articles/3781186",
           "source": "华尔街见闻",
           "ranks": [
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时54分 ~ 23时40分]"
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 03时46分]"
         },
         {
           "title": "黄仁勋：AGI已到来！OpenAI Astra背后是英伟达，40万张GPU即将上线",
           "url": "https://wallstreetcn.com/articles/3781214",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 03时46分]"
         },
         {
           "title": "OpenAI首度公布“内部RSI进展”：已实现“自动化研究实习生”",
           "url": "https://wallstreetcn.com/articles/3781192",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时10分 ~ 23时40分]"
-        },
-        {
-          "title": "发布“地球最强”模型仅几天后 OpenAI首席科学家发长文呼吁放慢AI开发",
-          "url": "https://www.cls.cn/detail/2475526",
-          "source": "财联社热门",
-          "ranks": [
-            10
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时10分 ~ 17时11分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美银Hartnett：“民主党中选横扫”将打崩美股，戳破AI泡沫",
-          "url": "https://wallstreetcn.com/articles/3781163",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 07时40分]"
+          "time_info": "[03时45分 ~ 03时46分]"
         },
         {
-          "title": "高盛合伙人：夏季结束了，市场焦点都在“债市风暴”，而美股恐慌指数已跌至特朗普任期低点",
-          "url": "https://wallstreetcn.com/articles/3781162",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 07时40分]"
-        },
-        {
-          "title": "美股休市，纳指期货小幅上涨，日元兑美元涨破155，海峡冲突推动油价上涨",
-          "url": "https://wallstreetcn.com/articles/3781194",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时40分"
-        },
-        {
-          "title": "美股股指期货周一开盘涨跌不一，道指期货跌0.3%，纳指期货微涨0.05%。",
-          "url": "https://flash.jin10.com/detail/20260907060237290800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时40分"
-        },
-        {
-          "title": "提醒：美股因假期休市。",
-          "url": "https://wallstreetcn.com/livenews/3161394",
+          "title": "OpenAI首席科学家呼吁对AI发展速度保持\"极度谨慎\"",
+          "url": "https://wallstreetcn.com/livenews/3161448",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时40分"
+          "time_info": "03时46分"
         }
       ]
     },
     {
       "keyword_group": "招商银行 万华化学 福耀玻璃 旗滨集团 苏农银行 奥浦迈 爱美客 美的集团 潍柴动力 苏泊尔 鱼跃医疗 牧原股份 振邦智能 华兰生物 证监会",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
         {
           "title": "中国证监会原副主席王建军一审被判无期",
           "url": "https://www.cls.cn/detail/2475982",
           "source": "财联社热门",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时40分"
-        },
-        {
-          "title": "中国证监会原副主席王建军一审被判无期",
-          "url": "https://wallstreetcn.com/livenews/3161255",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时11分"
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 03时46分]"
         },
         {
           "title": "中金1+2获证监会批文，下周二起停牌，背后是七家机构",
           "url": "https://www.cls.cn/detail/2476304",
           "source": "财联社热门",
           "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时40分"
-        },
-        {
-          "title": "中国证监会原副主席王建军一审被判无期",
-          "url": "https://flash.jin10.com/detail/20260907170034124800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美债抛售只是暂时现象？贝森特：伊朗战事结束后油价或跌至40美元",
-          "url": "https://www.cls.cn/detail/2474912",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3,
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时05分 ~ 05时14分]"
-        },
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 03时46分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "贝森特病急乱投医？两句回应暴露美债两大死穴",
-          "url": "https://flash.jin10.com/detail/20260907230219727800",
+          "title": "美股休市，纳指期货小幅上涨，日元兑美元涨破155，海峡冲突推动油价上涨",
+          "url": "https://wallstreetcn.com/articles/3781194",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 03时46分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数7日下跌",
+          "url": "https://flash.jin10.com/detail/20260908032803705800",
           "source": "金十数据",
           "ranks": [
-            2
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时40分"
-        },
-        {
-          "title": "两件大事来袭 美债迎来关键一周……",
-          "url": "https://www.cls.cn/detail/2475330",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时54分 ~ 17时11分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "办公Agent北上广深杭用户占27%，DeepSeek V4 Flash模型调用占半壁江山",
-          "url": "https://wallstreetcn.com/livenews/3161395",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【早报】中东航线海运价格大幅跳涨；多国推进黄金储备本土化布局",
-          "url": "https://www.cls.cn/detail/2475040",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 07时40分]"
+          "time_info": "03时46分"
         }
       ]
     }
