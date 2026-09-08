@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-08T09:03:32.417200+08:00",
-  "total_titles_processed": 560,
+  "generated_at": "2026-09-08T15:07:05.802482+08:00",
+  "total_titles_processed": 779,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "特朗普晒AI图谈炒股：“我已为美国赚取数千亿美元”",
@@ -19,6 +19,29 @@
           "time_info": "[03时45分 ~ 09时03分]"
         },
         {
+          "title": "伊朗公布一款新型导弹 特朗普威胁在美禁售加拿大庞巴迪产品 | 环球市场",
+          "url": "https://www.cls.cn/detail/2476448",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时03分 ~ 15时07分]"
+        },
+        {
+          "title": "特朗普震怒，数十名美军将领“罕见”接受测谎",
+          "url": "https://news.ifeng.com/c/8wCWRVzw04p",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时45分 ~ 15时07分]"
+        },
+        {
           "title": "报道：英国首相即将对以色列实施新制裁，面临激怒特朗普的风险",
           "url": "https://wallstreetcn.com/livenews/3161511",
           "source": "华尔街见闻-快讯",
@@ -28,17 +51,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时41分"
-        },
-        {
-          "title": "伊朗公布一款新型导弹 特朗普威胁在美禁售加拿大庞巴迪产品 | 环球市场",
-          "url": "https://www.cls.cn/detail/2476448",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时03分"
         },
         {
           "title": "英国拟对以色列定居点实施新制裁 或将激怒特朗普",
@@ -52,17 +64,6 @@
           "time_info": "06时41分"
         },
         {
-          "title": "特朗普震怒，数十名美军将领“罕见”接受测谎",
-          "url": "https://news.ifeng.com/c/8wCWRVzw04p",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时45分 ~ 09时03分]"
-        },
-        {
           "title": "从金发到深褐：特朗普发色突变再引“假发”猜测",
           "url": "https://m.thepaper.cn/newsDetail_forward_34022309",
           "source": "澎湃新闻",
@@ -74,6 +75,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时45分 ~ 09时03分]"
+        },
+        {
+          "title": "特朗普发布新版「美国总统从夯到拉排名」，自己夯爆了，拜登、奥巴马在「失败区」，你怎么看特朗普的排名？",
+          "url": "https://www.zhihu.com/question/2080276423739172027",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时06分 ~ 15时07分]"
         },
         {
           "title": "特朗普谈及加拿大：如果他们想要进入我们的市场，就必须在本土建厂。 美国境内不再销售庞巴迪产品。",
@@ -195,9 +207,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时03分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时03分 ~ 15时07分]"
         },
         {
           "title": "美股休市，美伊冲突推升油价创六周新高，欧股涨跌互现等待CPI，伦铜创历史新高",
@@ -208,8 +220,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时41分 ~ 09时03分]"
+          "appearance_count": 4,
+          "time_info": "[06时41分 ~ 15时07分]"
         },
         {
           "title": "美股休市，纳指期货小幅上涨，日元兑美元涨破155，海峡冲突推动油价上涨",
@@ -229,9 +241,49 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "招商银行 万华化学 福耀玻璃 旗滨集团 苏农银行 奥浦迈 爱美客 美的集团 潍柴动力 苏泊尔 鱼跃医疗 牧原股份 振邦智能 华兰生物 证监会",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "中金1+2获证监会批文，下周二起停牌，背后是七家机构",
+          "url": "https://www.cls.cn/detail/2476304",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时45分 ~ 09时03分]"
+        },
+        {
+          "title": "中国证监会原副主席王建军一审被判无期",
+          "url": "https://www.cls.cn/detail/2475982",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 03时46分]"
+        },
+        {
+          "title": "中国证监会原副主席王建军一审被判无期",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34024176",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时06分 ~ 15时07分]"
         }
       ]
     },
@@ -275,31 +327,30 @@
       ]
     },
     {
-      "keyword_group": "招商银行 万华化学 福耀玻璃 旗滨集团 苏农银行 奥浦迈 爱美客 美的集团 潍柴动力 苏泊尔 鱼跃医疗 牧原股份 振邦智能 华兰生物 证监会",
+      "keyword_group": "美债",
       "match_count": 2,
       "titles": [
         {
-          "title": "中金1+2获证监会批文，下周二起停牌，背后是七家机构",
-          "url": "https://www.cls.cn/detail/2476304",
+          "title": "别掉以轻心！伯恩斯坦警告：美债收益率上升对亚洲股市构成巨大风险",
+          "url": "https://www.cls.cn/detail/2476529",
           "source": "财联社热门",
           "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时45分 ~ 09时03分]"
-        },
-        {
-          "title": "中国证监会原副主席王建军一审被判无期",
-          "url": "https://www.cls.cn/detail/2475982",
-          "source": "财联社热门",
-          "ranks": [
-            3
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时45分 ~ 03时46分]"
+          "time_info": "[15时06分 ~ 15时07分]"
+        },
+        {
+          "title": "美债才是AI泡沫的“终极杀手”？机构警告：10年期收益率破5%或成引爆点",
+          "url": "https://wallstreetcn.com/articles/3781213",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时03分"
         }
       ]
     },
@@ -317,23 +368,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美债才是AI泡沫的“终极杀手”？机构警告：10年期收益率破5%或成引爆点",
-          "url": "https://wallstreetcn.com/articles/3781213",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时03分"
         }
       ]
     }
