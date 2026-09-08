@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-08T06:41:35.852997+08:00",
-  "total_titles_processed": 399,
+  "generated_at": "2026-09-08T09:03:32.417200+08:00",
+  "total_titles_processed": 560,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普晒AI图谈炒股：“我已为美国赚取数千亿美元”",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时45分 ~ 06时41分]"
+          "appearance_count": 4,
+          "time_info": "[03时45分 ~ 09时03分]"
         },
         {
           "title": "报道：英国首相即将对以色列实施新制裁，面临激怒特朗普的风险",
@@ -25,9 +25,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时41分"
+        },
+        {
+          "title": "伊朗公布一款新型导弹 特朗普威胁在美禁售加拿大庞巴迪产品 | 环球市场",
+          "url": "https://www.cls.cn/detail/2476448",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
         },
         {
           "title": "英国拟对以色列定居点实施新制裁 或将激怒特朗普",
@@ -36,7 +47,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时41分"
         },
@@ -48,8 +59,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时45分 ~ 06时41分]"
+          "appearance_count": 4,
+          "time_info": "[03时45分 ~ 09时03分]"
         },
         {
           "title": "从金发到深褐：特朗普发色突变再引“假发”猜测",
@@ -57,11 +68,12 @@
           "source": "澎湃新闻",
           "ranks": [
             9,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时45分 ~ 06时41分]"
+          "appearance_count": 4,
+          "time_info": "[03时45分 ~ 09时03分]"
         },
         {
           "title": "特朗普谈及加拿大：如果他们想要进入我们的市场，就必须在本土建厂。 美国境内不再销售庞巴迪产品。",
@@ -81,7 +93,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时41分"
         },
@@ -92,7 +104,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时41分"
         },
@@ -103,7 +115,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时41分"
         },
@@ -125,22 +137,23 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "黄仁勋：AGI已到来！OpenAI Astra背后是英伟达，40万张GPU即将上线",
+          "url": "https://wallstreetcn.com/articles/3781214",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时45分 ~ 09时03分]"
+        },
+        {
           "title": "RSI真的来了！OpenAI首席科学家：我们已造出异星心智，全人类都要刹车了",
           "url": "https://wallstreetcn.com/articles/3781186",
           "source": "华尔街见闻",
           "ranks": [
             2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时45分 ~ 06时41分]"
-        },
-        {
-          "title": "黄仁勋：AGI已到来！OpenAI Astra背后是英伟达，40万张GPU即将上线",
-          "url": "https://wallstreetcn.com/articles/3781214",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -172,6 +185,57 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "【早报】美股休市；小米汽车最便宜车型出炉；黄金、白银收跌；2家券商，9月15日起停牌直至终止上市；“大肉签”公告，超1.6万股弃购",
+          "url": "https://www.cls.cn/detail/2476443",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
+        },
+        {
+          "title": "美股休市，美伊冲突推升油价创六周新高，欧股涨跌互现等待CPI，伦铜创历史新高",
+          "url": "https://wallstreetcn.com/articles/3781194",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时41分 ~ 09时03分]"
+        },
+        {
+          "title": "美股休市，纳指期货小幅上涨，日元兑美元涨破155，海峡冲突推动油价上涨",
+          "url": "https://wallstreetcn.com/articles/3781194",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 03时46分]"
+        },
+        {
+          "title": "美股休市 科技股反弹",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1%E4%BC%91%E5%B8%82%20%E7%A7%91%E6%8A%80%E8%82%A1%E5%8F%8D%E5%BC%B9&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -193,7 +257,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时41分"
         },
@@ -204,7 +268,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时41分"
         }
@@ -223,8 +287,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时45分 ~ 06时41分]"
+          "appearance_count": 4,
+          "time_info": "[03时45分 ~ 09时03分]"
         },
         {
           "title": "中国证监会原副主席王建军一审被判无期",
@@ -240,34 +304,6 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美股休市，纳指期货小幅上涨，日元兑美元涨破155，海峡冲突推动油价上涨",
-          "url": "https://wallstreetcn.com/articles/3781194",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时45分 ~ 03时46分]"
-        },
-        {
-          "title": "美股休市，美伊冲突推升油价创六周新高，欧股涨跌互现等待CPI，伦铜创历史新高",
-          "url": "https://wallstreetcn.com/articles/3781194",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时41分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 1,
       "titles": [
@@ -278,9 +314,26 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美债才是AI泡沫的“终极杀手”？机构警告：10年期收益率破5%或成引爆点",
+          "url": "https://wallstreetcn.com/articles/3781213",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
         }
       ]
     }
