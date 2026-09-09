@@ -1,534 +1,72 @@
 {
-  "generated_at": "2026-09-09T22:34:44.297069+08:00",
-  "total_titles_processed": 1157,
+  "generated_at": "2026-09-10T02:25:44.806124+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 22,
-      "titles": [
-        {
-          "title": "胡塞袭击推油价逼近100美元，美股指收跌，医疗股重挫领跌道指，AI光通信大涨",
-          "url": "https://wallstreetcn.com/articles/3781291",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时19分 ~ 22时34分]"
-        },
-        {
-          "title": "美股休市，美伊冲突推升油价创六周新高，欧股涨跌互现等待CPI，伦铜创历史新高",
-          "url": "https://wallstreetcn.com/articles/3781194",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 04时58分]"
-        },
-        {
-          "title": "沙特能源设施遭袭推升油价，美股指涨跌互现，高通涨7%，日元一度升破153，黄金冲高回落",
-          "url": "https://wallstreetcn.com/articles/3781291",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 04时58分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体收跌 算力租赁&光通信逆市走强",
-          "url": "https://www.cls.cn/detail/2477628",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时19分 ~ 12时02分]"
-        },
-        {
-          "title": "别只盯CPI！高盛：未来一周两大AI催化剂更重要，或撬动美股“右尾”行情",
-          "url": "https://wallstreetcn.com/articles/3781311",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 17时31分]"
-        },
-        {
-          "title": "【早报】美股光通信，逆市大涨；美袭击伊朗油轮，伊警告将打击美军所在港口；原油上涨、黄金下挫；中际旭创、江波龙发布重要公告",
-          "url": "https://www.cls.cn/detail/2477649",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "国际油价上涨 美股期指下跌 英特尔盘前大涨超4% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2477380",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时11分 ~ 12时02分]"
-        },
-        {
-          "title": "布油再破100美元 美股期指走低 折叠屏iPhone重磅亮相 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2478595",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        },
-        {
-          "title": "金十图示：2026年09月08日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260909003121994800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
-          "title": "金十图示：2026年09月08日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260909003120256800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
-          "title": "美股大类资产类ETF涨跌各异，黄金ETF收跌超1.7%，日元ETF涨超1.5%，布油基金涨约2.9%",
-          "url": "https://wallstreetcn.com/livenews/3162149",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时58分"
-        },
-        {
-          "title": "医疗业ETF收跌超2.5%，与生物科技ETF领跌美股行业ETF，半导体ETF涨约1.2%",
-          "url": "https://wallstreetcn.com/livenews/3162147",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时58分"
-        },
-        {
-          "title": "SK海力士美股日内涨幅扩大至4%。",
-          "url": "https://wallstreetcn.com/livenews/3162641",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        },
-        {
-          "title": "周二（9月8日），彭博电动汽车价格回报指数跌0.45%，报3403.46点，亚太时段持续下挫，美股盘初略微收复失地。",
-          "url": "https://wallstreetcn.com/livenews/3162143",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时58分"
-        },
-        {
-          "title": "美股盘初，主要行业ETF涨跌不一，日常消费品ETF、银行业ETF、区域银行业ETF跌超1%，能源业ETF涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3162635",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        },
-        {
-          "title": "美股盘初：道指跌0.4%，Meta涨约6%",
-          "url": "https://wallstreetcn.com/livenews/3162632",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        },
-        {
-          "title": "金十图示：2026年09月08日（周二）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260909040554679800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时58分"
-        },
-        {
-          "title": "A股散户吐槽美股科技股",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E6%95%A3%E6%88%B7%E5%90%90%E6%A7%BD%E7%BE%8E%E8%82%A1%E7%A7%91%E6%8A%80%E8%82%A1&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "金十图示：2026年09月08日（周二）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260909040518435800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时58分"
-        },
-        {
-          "title": "美股收盘：三大股指收跌 英特尔涨9%",
-          "url": "https://flash.jin10.com/detail/20260909040325990800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时58分"
-        },
-        {
-          "title": "金十图示：2026年09月09日（周三）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20260909214130744800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        },
-        {
-          "title": "周三美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3162617",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 4,
       "titles": [
         {
-          "title": "特朗普政府高级官员：针对加拿大产品的进口禁令将​​于约三周后生效。",
-          "url": "https://flash.jin10.com/detail/20260909071025890800",
+          "title": "据CNN：美国总统特朗普预计即将乘“空军一号”启程前往得克萨斯州达拉斯，参加共和党中期选举大会。白宫表示，前白宫新闻秘书莱维特当天将与特朗普同行，莱维特也将在大会上发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260910021342515800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时19分"
+          "time_info": "02时25分"
         },
         {
-          "title": "特朗普拟取消加拿大超500亿美元GSA采购计划资格",
-          "url": "https://wallstreetcn.com/livenews/3162160",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时58分"
-        },
-        {
-          "title": "特朗普政府高级官员：根据第338条规定，禁止从加拿大进口乳制品、大多数酒类产品及摩托车。",
-          "url": "https://flash.jin10.com/detail/20260909070740288800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "特朗普一次惹了20国",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%80%E6%AC%A1%E6%83%B9%E4%BA%8620%E5%9B%BD%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            19,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 07时19分]"
-        },
-        {
-          "title": "美国国务卿鲁比奥：秘鲁加入特朗普的反贩毒组织“美洲之盾”。",
-          "url": "https://flash.jin10.com/detail/20260909004735925800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
-          "title": "特朗普政府未反对英国等国涉以制裁，暴露对以失望",
-          "url": "https://news.ifeng.com/c/8wHQAosMaqt",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        },
-        {
-          "title": "特朗普拟取消加拿大超500亿美元GSA采购计划资格",
-          "url": "https://flash.jin10.com/detail/20260909043515909800",
-          "source": "金十数据",
+          "title": "史无前例！特朗普给3名年轻女幕僚各赠送4.5万美元现金，接近4个月薪水",
+          "url": "https://www.cls.cn/detail/2478633",
+          "source": "财联社热门",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时58分"
-        },
-        {
-          "title": "美国总统特朗普将在本周的达拉斯共和党中期大会上担任两晚的主讲嘉宾。",
-          "url": "https://flash.jin10.com/detail/20260909070543871800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "美国总统特朗普：指示美国总务管理局（GSA）与美国贸易代表办公室（USTR）协作，采取一切必要措施，将原产于加拿大的产品移出美国总务管理局的多项授予计划表。",
-          "url": "https://wallstreetcn.com/livenews/3162156",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时58分"
-        },
-        {
-          "title": "特朗普两天发帖90条：新墨西哥州改名“新美国”，美加墨和格陵兰岛全变成“美国”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34027849",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 07时19分]"
+          "time_info": "02时25分"
         },
         {
           "title": "选战倒计时！特朗普支持率跌至33%创任期新低",
           "url": "https://original.ifeng.com/c/8wH6lxEEowM",
           "source": "凤凰网",
           "ranks": [
-            7,
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时02分 ~ 22时34分]"
+          "appearance_count": 1,
+          "time_info": "02时25分"
         },
         {
-          "title": "特朗普发布新版「美国总统从夯到拉排名」，自己夯爆了，拜登、奥巴马在「失败区」，你怎么看特朗普的排名？",
-          "url": "https://www.zhihu.com/question/2080276423739172027",
-          "source": "知乎",
+          "title": "特朗普政府未反对英国等国涉以制裁，暴露对以失望",
+          "url": "https://news.ifeng.com/c/8wHQAosMaqt",
+          "source": "凤凰网",
           "ranks": [
-            20,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时57分 ~ 07时19分]"
-        },
-        {
-          "title": "据相关信件：美国众议院民主党议员致信国会，敦促其提起诉讼，阻止特朗普拱门项目。",
-          "url": "https://flash.jin10.com/detail/20260909004222196800",
-          "source": "金十数据",
-          "ranks": [
-            6
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
-          "title": "美国总统特朗普：指示美国总务管理局（GSA）与美国贸易代表办公室（USTR）合作，采取一切必要措施，将加拿大原产产品从GSA的多项采购计划中移除。",
-          "url": "https://flash.jin10.com/detail/20260909043058510800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时58分"
-        },
-        {
-          "title": "特朗普修改加拿大汽车关税范围，拟禁止进口部分乳品和汽车",
-          "url": "https://wallstreetcn.com/livenews/3162208",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "特朗普关税政策现状如何",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E6%94%BF%E7%AD%96%E7%8E%B0%E7%8A%B6%E5%A6%82%E4%BD%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        },
-        {
-          "title": "普京与特朗普通话讨论乌危机等问题",
-          "url": "https://www.toutiao.com/trending/7682685014257467428/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
-          "title": "美国总统特朗普周四日程一览",
-          "url": "https://flash.jin10.com/detail/20260909113757570800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "美国白宫：特朗普签署公告，调整针对加拿大机动车产品征收额外关税的适用范围。",
-          "url": "https://flash.jin10.com/detail/20260909065553376800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "美国堪萨斯州共和党参议员马歇尔：在总统特朗普威胁禁售庞巴迪飞机后，我将竭力保住庞巴迪在堪萨斯州的1200多个工作岗位。",
-          "url": "https://wallstreetcn.com/livenews/3162072",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
-          "title": "美国总统特朗普自掏腰包，向其行政助理Natalie Harp以及另外两名白宫雇员赠送了每人4.5万美元的现金。（华盛顿邮报）",
-          "url": "https://wallstreetcn.com/livenews/3162282",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时02分"
+          "time_info": "02时25分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 13,
+      "match_count": 3,
       "titles": [
         {
-          "title": "刚刚，DeepSeek新模型内测！网友实测：快得飞起！",
-          "url": "https://wallstreetcn.com/articles/3781316",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 17时31分]"
-        },
-        {
-          "title": "曝DeepSeek正筹备科创板IPO",
-          "url": "https://www.toutiao.com/trending/7682375308184387610/",
-          "source": "今日头条",
+          "title": "DeepSeek双线推进：V4.1 Flash模型明日发布 同步筹备科创板IPO",
+          "url": "https://www.cls.cn/detail/2478606",
+          "source": "财联社热门",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时34分"
+          "time_info": "02时25分"
         },
         {
           "title": "如何评价 DeepSeek V4.1 Flash 将于 2026 年 9 月 10 日上线，以及 V4Pro 下架？",
@@ -537,221 +75,27 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时34分"
+          "time_info": "02时25分"
         },
         {
-          "title": "深度求索发布 DeepSeek V4.1 Flash 的中间版本内测，该模型体验如何?",
-          "url": "https://www.zhihu.com/question/2080678583714977593",
-          "source": "知乎",
+          "title": "曝DeepSeek正筹备科创板IPO",
+          "url": "https://www.toutiao.com/trending/7682375308184387610/",
+          "source": "今日头条",
           "ranks": [
-            4
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
-          "title": "怎么看 DeepSeek Flash 系列 9 月 10 日将再调整定价，除输出外回归 8 月 17 日前价格？",
-          "url": "https://www.zhihu.com/question/2080799652820029727",
-          "source": "知乎",
-          "ranks": [
-            2,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 17时31分]"
-        },
-        {
-          "title": "DeepSeek新模型限时内测 烧钱更快了",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E9%99%90%E6%97%B6%E5%86%85%E6%B5%8B+%E7%83%A7%E9%92%B1%E6%9B%B4%E5%BF%AB%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 07时19分]"
-        },
-        {
-          "title": "DeepSeek V4.1 Flash开启内测",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4.1%20Flash",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 04时58分]"
-        },
-        {
-          "title": "DeepSeek双线推进：V4.1 Flash模型明日发布 同步筹备科创板IPO",
-          "url": "https://www.cls.cn/detail/2478606",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        },
-        {
-          "title": "如何看待 2026 年 9 月 9 日 deepseek 官网公告将 v4pro 统一路由至 v4.1flash？",
-          "url": "https://www.zhihu.com/question/2081047394758803787",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        },
-        {
-          "title": "知情人士证实DeepSeek备战科创板IPO，中信已入场尽调",
-          "url": "https://wallstreetcn.com/livenews/3162470",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时31分"
-        },
-        {
-          "title": "DeepSeek新模型要来了",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%A6%81%E6%9D%A5%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        },
-        {
-          "title": "曝DeepSeek聘中信证券筹备IPO",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DDeepSeek%E8%81%98%E4%B8%AD%E4%BF%A1%E8%AF%81%E5%88%B8%E7%AD%B9%E5%A4%87IPO%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时31分"
-        },
-        {
-          "title": "DeepSeek计划于北京时间2026年9月10日前后正式发布V4.1 Flash模型",
-          "url": "https://wallstreetcn.com/livenews/3162448",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时31分"
+          "time_info": "02时25分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 13,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "如何看待 Buckmaster 披露 OpenAI 在 NS 方程突破中的学术掠夺与威胁言论？",
-          "url": "https://www.zhihu.com/question/2080654680389051865",
-          "source": "知乎",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 07时19分]"
-        },
-        {
-          "title": "OpenAI或证明数学七大难题之一",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%88%96%E8%AF%81%E6%98%8E%E6%95%B0%E5%AD%A6%E4%B8%83%E5%A4%A7%E9%9A%BE%E9%A2%98%E4%B9%8B%E4%B8%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 07时19分]"
-        },
-        {
-          "title": "OpenAI 宣布攻克了 N-S equations 这一千禧年问题，这意味着什么？会产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2080887293624304807",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "OpenAI内部模型88小时暴力攻克千禧年数学难题",
-          "url": "https://flash.jin10.com/detail/20260909045209786800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时58分"
-        },
-        {
-          "title": "OpenAI韩国负责人：对AI驱动存储芯片热潮将持续充满信心",
-          "url": "https://flash.jin10.com/detail/20260909114809107800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "怎么看 OpenAI 在 Navier–Stokes 数学难题上取得的进展反而出现争议？",
-          "url": "https://www.zhihu.com/question/2080681933982393659",
-          "source": "知乎",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时57分 ~ 07时19分]"
-        },
-        {
-          "title": "OpenAI官宣攻克千禧年难题",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%98%E5%AE%A3%E6%94%BB%E5%85%8B%E5%8D%83%E7%A6%A7%E5%B9%B4%E9%9A%BE%E9%A2%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时02分 ~ 22时34分]"
-        },
-        {
-          "title": "OpenAI 首席科学家称已造出「异星心智」，并警告「全人类都要刹车」，这意味着什么？",
-          "url": "https://www.zhihu.com/question/2080253796941415480",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        },
         {
           "title": "OpenAI高管：Astra需求太猛，新的Pro订阅或被迫暂停",
           "url": "https://wallstreetcn.com/articles/3781396",
@@ -759,201 +103,87 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时34分"
+          "time_info": "02时25分"
         },
         {
-          "title": "OpenAI宣布破解千禧年难题！人类逾90年无解 AI仅用88小时攻克？",
-          "url": "https://www.cls.cn/detail/2477922",
-          "source": "财联社热门",
+          "title": "OpenAI 首席科学家称已造出「异星心智」，并警告「全人类都要刹车」，这意味着什么？",
+          "url": "https://www.zhihu.com/question/2080253796941415480",
+          "source": "知乎",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时31分"
+          "time_info": "02时25分"
         },
         {
-          "title": "OpenAI承诺出资500万美元，用于支持针对青少年群体的独立研究。",
-          "url": "https://wallstreetcn.com/livenews/3162075",
-          "source": "华尔街见闻-快讯",
+          "title": "OpenAI官宣攻克千禧年难题",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%98%E5%AE%A3%E6%94%BB%E5%85%8B%E5%8D%83%E7%A6%A7%E5%B9%B4%E9%9A%BE%E9%A2%98",
+          "source": "bilibili 热搜",
           "ranks": [
-            15
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
-          "title": "亚马逊：OpenAI的GPT-6 ASTRA现已登陆亚马逊Bedrock。",
-          "url": "https://wallstreetcn.com/livenews/3162195",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "OpenAI承诺投入500万美元，开展生成式人工智能对青少年影响的独立研究。",
-          "url": "https://flash.jin10.com/detail/20260909001213479800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
+          "time_info": "02时25分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 6,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "贝森特如何“回购美债”？今晚初见端倪",
-          "url": "https://wallstreetcn.com/articles/3781371",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 22时34分]"
-        },
         {
           "title": "美伊冲突升级，美股盘初走低，Meta涨5%，布油冲破百元关口，2年期美债收益率升至两年来新高",
           "url": "https://wallstreetcn.com/articles/3781389",
           "source": "华尔街见闻",
           "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        },
-        {
-          "title": "贝森特：美债回购旨在平息市场“狂热情绪”",
-          "url": "https://flash.jin10.com/detail/20260909003722084800",
-          "source": "金十数据",
-          "ranks": [
-            8
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时11分"
+          "time_info": "02时25分"
         },
         {
-          "title": "机构：市场密切关注美债回购计划规模 华尔街正权衡风险",
-          "url": "https://flash.jin10.com/detail/20260909114400747800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "美元逼近七个月低点 市场聚焦美债回购规模与通胀数据",
-          "url": "https://flash.jin10.com/detail/20260909170535889800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时31分"
-        },
-        {
-          "title": "全球最大主权基金拟大幅减持美债",
-          "url": "https://wallstreetcn.com/livenews/3162064",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "国际金价跌1%，纽约期铜涨超1.3%一度逼近6.9美元关口",
-          "url": "https://wallstreetcn.com/livenews/3162162",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时58分"
-        },
-        {
-          "title": "美联储加息概率升至60%、油价逼近100美元，金价为何逆势反弹？",
-          "url": "https://wallstreetcn.com/articles/3781297",
+          "title": "贝森特如何“回购美债”？今晚初见端倪",
+          "url": "https://wallstreetcn.com/articles/3781371",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9,
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时57分 ~ 12时02分]"
+          "appearance_count": 1,
+          "time_info": "02时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "胡塞袭击推油价逼近100美元，美股指收跌，医疗股重挫领跌道指，AI光通信大涨",
+          "url": "https://wallstreetcn.com/articles/3781291",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时25分"
         },
         {
-          "title": "商品通胀忧虑再起，金价最怕的组合又来了？",
-          "url": "https://flash.jin10.com/detail/20260909113034043800",
-          "source": "金十数据",
+          "title": "布油再破100美元 美股期指走低 折叠屏iPhone重磅亮相 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2478595",
+          "source": "财联社热门",
           "ranks": [
-            27
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "英国将要求苹果、谷歌屏蔽儿童设备上的裸体图片",
-          "url": "https://wallstreetcn.com/livenews/3162135",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元指数8日下跌",
-          "url": "https://flash.jin10.com/detail/20260909035521444800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时58分"
+          "time_info": "02时25分"
         }
       ]
     }
