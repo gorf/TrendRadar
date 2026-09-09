@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-09T07:19:40.478661+08:00",
-  "total_titles_processed": 502,
+  "generated_at": "2026-09-09T12:02:41.295654+08:00",
+  "total_titles_processed": 729,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普政府高级官员：针对加拿大产品的进口禁令将​​于约三周后生效。",
@@ -14,7 +14,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         },
@@ -82,7 +82,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         },
@@ -133,6 +133,17 @@
           "time_info": "01时11分"
         },
         {
+          "title": "选战倒计时！特朗普支持率跌至33%创任期新低",
+          "url": "https://original.ifeng.com/c/8wH6lxEEowM",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
           "title": "美国总统特朗普：指示美国总务管理局（GSA）与美国贸易代表办公室（USTR）合作，采取一切必要措施，将加拿大原产产品从GSA的多项采购计划中移除。",
           "url": "https://flash.jin10.com/detail/20260909043058510800",
           "source": "金十数据",
@@ -150,7 +161,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         },
@@ -166,13 +177,24 @@
           "time_info": "01时11分"
         },
         {
+          "title": "美国总统特朗普周四日程一览",
+          "url": "https://flash.jin10.com/detail/20260909113757570800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
           "title": "美国白宫：特朗普签署公告，调整针对加拿大机动车产品征收额外关税的适用范围。",
           "url": "https://flash.jin10.com/detail/20260909065553376800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         },
@@ -186,12 +208,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        },
+        {
+          "title": "美国总统特朗普自掏腰包，向其行政助理Natalie Harp以及另外两名白宫雇员赠送了每人4.5万美元的现金。（华盛顿邮报）",
+          "url": "https://wallstreetcn.com/livenews/3162282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股休市，美伊冲突推升油价创六周新高，欧股涨跌互现等待CPI，伦铜创历史新高",
@@ -222,11 +255,12 @@
           "url": "https://wallstreetcn.com/articles/3781291",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时19分 ~ 12时02分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 算力租赁&光通信逆市走强",
@@ -235,9 +269,20 @@
           "ranks": [
             3
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时19分 ~ 12时02分]"
+        },
+        {
+          "title": "【早报】美股光通信，逆市大涨；美袭击伊朗油轮，伊警告将打击美军所在港口；原油上涨、黄金下挫；中际旭创、江波龙发布重要公告",
+          "url": "https://www.cls.cn/detail/2477649",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时19分"
+          "time_info": "12时02分"
         },
         {
           "title": "别只盯CPI！高盛：未来一周两大AI催化剂更重要，或撬动美股“右尾”行情",
@@ -246,11 +291,12 @@
           "ranks": [
             10,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 07时19分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 12时02分]"
         },
         {
           "title": "国际油价上涨 美股期指下跌 英特尔盘前大涨超4% | 今夜看点",
@@ -258,11 +304,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 07时19分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 12时02分]"
         },
         {
           "title": "金十图示：2026年09月08日（周二）热门中概股行情一览（美股盘中）",
@@ -331,6 +378,17 @@
           "time_info": "04时58分"
         },
         {
+          "title": "A股散户吐槽美股科技股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E6%95%A3%E6%88%B7%E5%90%90%E6%A7%BD%E7%BE%8E%E8%82%A1%E7%A7%91%E6%8A%80%E8%82%A1&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
           "title": "金十图示：2026年09月08日（周二）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260909040518435800",
           "source": "金十数据",
@@ -356,7 +414,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "如何看待 Buckmaster 披露 OpenAI 在 NS 方程突破中的学术掠夺与威胁言论？",
@@ -384,6 +442,17 @@
           "time_info": "[01时11分 ~ 07时19分]"
         },
         {
+          "title": "OpenAI 宣布攻克了 N-S equations 这一千禧年问题，这意味着什么？会产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2080887293624304807",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
           "title": "OpenAI内部模型88小时暴力攻克千禧年数学难题",
           "url": "https://flash.jin10.com/detail/20260909045209786800",
           "source": "金十数据",
@@ -393,6 +462,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
+        },
+        {
+          "title": "OpenAI韩国负责人：对AI驱动存储芯片热潮将持续充满信心",
+          "url": "https://flash.jin10.com/detail/20260909114809107800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         },
         {
           "title": "怎么看 OpenAI 在 Navier–Stokes 数学难题上取得的进展反而出现争议？",
@@ -418,13 +498,24 @@
           "time_info": "01时11分"
         },
         {
+          "title": "OpenAI官宣攻克千禧年难题",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%98%E5%AE%A3%E6%94%BB%E5%85%8B%E5%8D%83%E7%A6%A7%E5%B9%B4%E9%9A%BE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
           "title": "亚马逊：OpenAI的GPT-6 ASTRA现已登陆亚马逊Bedrock。",
           "url": "https://wallstreetcn.com/livenews/3162195",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         },
@@ -443,7 +534,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "刚刚，DeepSeek新模型内测！网友实测：快得飞起！",
@@ -455,8 +546,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 07时19分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 12时02分]"
+        },
+        {
+          "title": "怎么看 DeepSeek Flash 系列 9 月 10 日将再调整定价，除输出外回归 8 月 17 日前价格？",
+          "url": "https://www.zhihu.com/question/2080799652820029727",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         },
         {
           "title": "深度求索发布 DeepSeek V4.1 Flash 的中间版本内测，该模型体验如何?",
@@ -496,7 +598,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "国际金价跌1%，纽约期铜涨超1.3%一度逼近6.9美元关口",
@@ -515,17 +617,29 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时57分 ~ 07时19分]"
+          "appearance_count": 4,
+          "time_info": "[04时57分 ~ 12时02分]"
+        },
+        {
+          "title": "商品通胀忧虑再起，金价最怕的组合又来了？",
+          "url": "https://flash.jin10.com/detail/20260909113034043800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "贝森特：美债回购旨在平息市场“狂热情绪”",
@@ -537,6 +651,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        },
+        {
+          "title": "机构：市场密切关注美债回购计划规模 华尔街正权衡风险",
+          "url": "https://flash.jin10.com/detail/20260909114400747800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         },
         {
           "title": "全球最大主权基金拟大幅减持美债",
