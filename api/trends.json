@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-11T05:31:10.795889+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2026-09-11T07:53:27.483952+08:00",
+  "total_titles_processed": 515,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 23,
       "titles": [
         {
           "title": "万斯、鲁比奥警告特朗普，美伊战争可能持续到其卸任",
@@ -15,19 +15,53 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时14分 ~ 05时31分]"
+          "appearance_count": 4,
+          "time_info": "[02时14分 ~ 07时53分]"
         },
         {
           "title": "美媒：万斯、鲁比奥等人私下警告特朗普，美伊冲突可能持续到其总统任期结束",
           "url": "https://wallstreetcn.com/articles/3781501",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时14分 ~ 05时31分]"
+          "appearance_count": 4,
+          "time_info": "[02时14分 ~ 07时53分]"
+        },
+        {
+          "title": "特朗普表示，伊朗人认为，美国民主党人可能会允许他们拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260911072815651800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "特朗普祝贺德极右翼后被默茨取消通话",
+          "url": "https://www.toutiao.com/trending/7683178689881735210/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "特朗普表示，伊朗的导弹能力已大幅削弱，制造更多导弹变得困难。伊朗仍然可以发射一些导弹。",
+          "url": "https://flash.jin10.com/detail/20260911072705404800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
         },
         {
           "title": "以色列总理内塔尼亚胡支持美国总统特朗普关于伊朗正在重新武装的警告，并誓言：“只要我担任总理，伊朗就不会拥有核武器。”",
@@ -41,15 +75,59 @@
           "time_info": "02时14分"
         },
         {
+          "title": "特朗普表示，伊朗正在艰难作战，并陷入了严重的困境。",
+          "url": "https://flash.jin10.com/detail/20260911072623205800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "特朗普：伊朗有一些导弹，大部分已被摧毁。",
+          "url": "https://wallstreetcn.com/livenews/3163539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
           "title": "特朗普否认美战机在约旦遭伊朗袭击受损",
           "url": "https://flash.jin10.com/detail/20260911052421089800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
+        },
+        {
+          "title": "福克斯新闻记者提问称，有新保守主义者认为，如果真要对伊朗动手，就得全力出击——直接打进去，彻底解决他们。对此，美国总统特朗普回应道：“由于选举，可能不会这么做。”",
+          "url": "https://flash.jin10.com/detail/20260911072505714800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "特朗普：将通过经济增长来处理40万亿美元债务问题。",
+          "url": "https://wallstreetcn.com/livenews/3163538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
         },
         {
           "title": "每人发5000美元？“特朗普红利”震惊中期选举 智库警告根本没有盈余",
@@ -68,11 +146,56 @@
           "url": "https://www.cls.cn/detail/2480029",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时30分 ~ 05时31分]"
+          "appearance_count": 3,
+          "time_info": "[05时30分 ~ 07时53分]"
+        },
+        {
+          "title": "特朗普：不后悔打击伊朗",
+          "url": "https://flash.jin10.com/detail/20260911071749446800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "特朗普拟给美国成年人每人发5000美元，美媒算账：总额高达1.2万亿美元，关税收入远远不够",
+          "url": "https://wallstreetcn.com/articles/3781496",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "特朗普升级对加贸易措施，加拿大总理暗示不会报复",
+          "url": "https://flash.jin10.com/detail/20260911070747506800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "特朗普给近百万美国人发500美元",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%BB%99%E8%BF%91%E7%99%BE%E4%B8%87%E7%BE%8E%E5%9B%BD%E4%BA%BA%E5%8F%91500%E7%BE%8E%E5%85%83%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
         },
         {
           "title": "美国众议院多数派领导人Steve Scalise：如果共和党（继续）把持国会山，国会将批准总统特朗普的5000美元红利发放建议。（CBS）",
@@ -84,6 +207,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
+        },
+        {
+          "title": "特朗普力推对委石油投资，传统企业谨慎，“门外汉”抢抓机遇",
+          "url": "https://flash.jin10.com/detail/20260911062957886800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
         },
         {
           "title": "梅西百货将把（来自美国总统特朗普关税政策的）关税退款重新用于商业活动。 该公司将对家具、珠宝降价。 该公司将增加门店员工数量，提高市场营销。（华尔街日报）",
@@ -106,6 +240,230 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
+        },
+        {
+          "title": "特朗普公布计划，拟取消H-1B员工失业后的宽限期",
+          "url": "https://wallstreetcn.com/livenews/3163509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "特朗普称派发5000美元无需国会批准",
+          "url": "https://wallstreetcn.com/livenews/3163504",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "通胀忧虑重燃，美股低开，存储芯片股普跌，布油涨破105美元，30年期美债收益率升至2007年6月以来最高",
+          "url": "https://wallstreetcn.com/articles/3781481",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时14分 ~ 05时31分]"
+        },
+        {
+          "title": "观察人士称干预美债似乎与沃什的表态背道而驰，贝森特本人回应",
+          "url": "https://wallstreetcn.com/livenews/3163541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "吹高了日元，却没守住美债！贝森特是美股“猪队友”？",
+          "url": "https://wallstreetcn.com/articles/3781454",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时14分 ~ 07时53分]"
+        },
+        {
+          "title": "油价破百叠加通胀数据前夕，美股指三连跌，Meta逆势大涨6%，美债全线走低",
+          "url": "https://wallstreetcn.com/articles/3781389",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时14分 ~ 05时31分]"
+        },
+        {
+          "title": "贝森特淡化美债回购担忧，称债市状况强劲",
+          "url": "https://wallstreetcn.com/livenews/3163533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "CPI前夜，美债先“动手”了：加息概率突破七成，10年期收益率逼近5%",
+          "url": "https://flash.jin10.com/detail/20260911065203454800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "美债回购规模低于预期 贝森特淡化市场担忧",
+          "url": "https://flash.jin10.com/detail/20260911063612879800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "两年期美债收益率涨超13个基点，10年期美债收益率创2023件以来新高",
+          "url": "https://wallstreetcn.com/livenews/3163460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "美国财长贝森特：今天，并没有像我之前所说的规模那样回购债券，因为我们买得便宜。 我们拥有全球表现最佳的债券市场。 美国国债市场形势良好。 投资者并不要求长端美债溢价。",
+          "url": "https://wallstreetcn.com/livenews/3163507",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "美国8月PPI超预期 美股期指承压下跌 纳指期货跌超1% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2479913",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时14分 ~ 07时53分]"
+        },
+        {
+          "title": "【早报】油价大涨，黄金、白银大跌；美股存储板块，集体回落；燧原科技，今日上市；甲骨文，业绩超预期",
+          "url": "https://www.cls.cn/detail/2480154",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "美股收盘：美油破百三大指数四连跌 芯片、存储、光通信集体回落",
+          "url": "https://www.cls.cn/detail/2480136",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "美股三大指数收跌 SK海力士跌超5%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E6%94%B6%E8%B7%8C+SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E8%B7%8C%E8%B6%855%25",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "周四（9月10日），美股行业ETF普遍收跌，半导体ETF跌2.44%，全球科技股指数ETF、科技行业ETF、生物科技指数ETF至多跌1.53%，网络股指数跌0.84%，能源业ETF跌0.58%，银行业ETF涨0.43%，区域银行ETF涨0.49%。",
+          "url": "https://wallstreetcn.com/livenews/3163475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "甲骨文第一财季调整后营收193.5亿美元，分析师预期191.3亿美元。 第一财季软件许可收入6.55亿美元，分析师预期7.188亿美元。 第一财季软件支持营收49亿美元，分析师预期48.8亿美元。 第一财季云智能营收（IAAS）为73.9亿美元，分析师预期71.9亿美元。 第一财季软件营收55.5亿美元，分析师预期56.7亿美元。 第一财季资本开支285亿美元，分析师预期198亿美元。 预计2027财年营收至少900亿美元，非GAAP每股收益（EPS）为8.10美元。 预计第二财季总收入按恒定汇率将增长30%-34%。 甲骨文美股盘后涨8%。",
+          "url": "https://wallstreetcn.com/livenews/3163473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "Adobe第三财季营收67.6亿美元，分析师预期67亿美元。 第三财季调整后每股收益（EPS）为6.3美元，分析师预期6.08美元。 预计全年营收265.8亿-266.3亿美元，公司原本预计265亿-266亿美元。 预计全年调整后EPS为24.45-24.50美元，原本预计24.35-24.45美元。 预计第四财季营收68亿-68.5亿美元，分析师预期68.5亿美元。 预计第四财季调整后EPS为6.30-6.35美元，分析师预期6.30美元。 Adobe美股盘后跌2%。",
+          "url": "https://wallstreetcn.com/livenews/3163471",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "周四（9月10日），美股降息赢家指数跌1.09%，报90.27点，在国际油价上涨之际、跳空低开之后低位持稳。 “特朗普关税输家”指数跌1.57%，报106.89点，整体低位持稳。 “特朗普金融指数”跌0.62%，报175.66点。 散户抱团概念股指数/迷因股（meme stock）指数跌1.89%，报12.06点，美股盘初低开高走，整体冲高回落。",
+          "url": "https://wallstreetcn.com/livenews/3163506",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
         }
       ]
     },
@@ -193,8 +551,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时14分 ~ 05时31分]"
+          "appearance_count": 4,
+          "time_info": "[02时14分 ~ 07时53分]"
+        },
+        {
+          "title": "重磅金融发布会！证监会、央行、金融监管总局、外汇局齐发声",
+          "url": "https://wallstreetcn.com/articles/3781482",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时14分 ~ 07时53分]"
         },
         {
           "title": "证监会最新定调未来五年资本市场，八大方向明确",
@@ -209,26 +579,16 @@
           "time_info": "[02时14分 ~ 05时31分]"
         },
         {
-          "title": "重磅金融发布会！证监会、央行、金融监管总局、外汇局齐发声",
-          "url": "https://wallstreetcn.com/articles/3781482",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时14分 ~ 05时31分]"
-        },
-        {
           "title": "证监会：加快建设世界一流交易所",
           "url": "https://www.douyin.com/hot/2643732",
           "source": "抖音",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时14分 ~ 05时31分]"
+          "appearance_count": 4,
+          "time_info": "[02时14分 ~ 07时53分]"
         },
         {
           "title": "证监会最新定调未来5年资本市场",
@@ -240,107 +600,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "通胀忧虑重燃，美股低开，存储芯片股普跌，布油涨破105美元，30年期美债收益率升至2007年6月以来最高",
-          "url": "https://wallstreetcn.com/articles/3781481",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时14分 ~ 05时31分]"
-        },
-        {
-          "title": "油价破百叠加通胀数据前夕，美股指三连跌，Meta逆势大涨6%，美债全线走低",
-          "url": "https://wallstreetcn.com/articles/3781389",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时14分 ~ 05时31分]"
-        },
-        {
-          "title": "吹高了日元，却没守住美债！贝森特是美股“猪队友”？",
-          "url": "https://wallstreetcn.com/articles/3781454",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时14分 ~ 05时31分]"
-        },
-        {
-          "title": "两年期美债收益率涨超13个基点，10年期美债收益率创2023件以来新高",
-          "url": "https://wallstreetcn.com/livenews/3163460",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美国8月PPI超预期 美股期指承压下跌 纳指期货跌超1% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2479913",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时14分 ~ 05时31分]"
-        },
-        {
-          "title": "周四（9月10日），美股行业ETF普遍收跌，半导体ETF跌2.44%，全球科技股指数ETF、科技行业ETF、生物科技指数ETF至多跌1.53%，网络股指数跌0.84%，能源业ETF跌0.58%，银行业ETF涨0.43%，区域银行ETF涨0.49%。",
-          "url": "https://wallstreetcn.com/livenews/3163475",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时31分"
-        },
-        {
-          "title": "甲骨文第一财季调整后营收193.5亿美元，分析师预期191.3亿美元。 第一财季软件许可收入6.55亿美元，分析师预期7.188亿美元。 第一财季软件支持营收49亿美元，分析师预期48.8亿美元。 第一财季云智能营收（IAAS）为73.9亿美元，分析师预期71.9亿美元。 第一财季软件营收55.5亿美元，分析师预期56.7亿美元。 第一财季资本开支285亿美元，分析师预期198亿美元。 预计2027财年营收至少900亿美元，非GAAP每股收益（EPS）为8.10美元。 预计第二财季总收入按恒定汇率将增长30%-34%。 甲骨文美股盘后涨8%。",
-          "url": "https://wallstreetcn.com/livenews/3163473",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时31分"
-        },
-        {
-          "title": "Adobe第三财季营收67.6亿美元，分析师预期67亿美元。 第三财季调整后每股收益（EPS）为6.3美元，分析师预期6.08美元。 预计全年营收265.8亿-266.3亿美元，公司原本预计265亿-266亿美元。 预计全年调整后EPS为24.45-24.50美元，原本预计24.35-24.45美元。 预计第四财季营收68亿-68.5亿美元，分析师预期68.5亿美元。 预计第四财季调整后EPS为6.30-6.35美元，分析师预期6.30美元。 Adobe美股盘后跌2%。",
-          "url": "https://wallstreetcn.com/livenews/3163471",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时31分"
         }
       ]
     },
@@ -420,11 +679,12 @@
           "url": "https://wallstreetcn.com/articles/3781457",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时14分 ~ 05时31分]"
+          "appearance_count": 4,
+          "time_info": "[02时14分 ~ 07时53分]"
         }
       ]
     },
@@ -439,7 +699,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
         }
