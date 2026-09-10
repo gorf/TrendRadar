@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-09-10T07:57:48.654183+08:00",
-  "total_titles_processed": 534,
+  "generated_at": "2026-09-10T12:24:02.830118+08:00",
+  "total_titles_processed": 770,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 28,
       "titles": [
+        {
+          "title": "关于战事何时结束，白宫官员与特朗普说法不一样",
+          "url": "https://news.ifeng.com/c/8wIeB5sPVEC",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 12时24分]"
+        },
         {
           "title": "史无前例！特朗普给3名年轻女幕僚各赠送4.5万美元现金，接近4个月薪水",
           "url": "https://www.cls.cn/detail/2478633",
@@ -20,13 +31,24 @@
           "time_info": "[02时25分 ~ 07时57分]"
         },
         {
+          "title": "选战倒计时！特朗普支持率跌至33%创任期新低",
+          "url": "https://original.ifeng.com/c/8wH6lxEEowM",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时25分 ~ 12时24分]"
+        },
+        {
           "title": "美国民主党参议员费特曼亮相共和党大会，称将与特朗普合作",
           "url": "https://flash.jin10.com/detail/20260910074926670800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         },
@@ -70,20 +92,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
-        },
-        {
-          "title": "选战倒计时！特朗普支持率跌至33%创任期新低",
-          "url": "https://original.ifeng.com/c/8wH6lxEEowM",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时25分 ~ 07时57分]"
         },
         {
           "title": "特朗普政府未反对英国等国涉以制裁，暴露对以失望",
@@ -95,6 +106,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时25分 ~ 07时57分]"
+        },
+        {
+          "title": "特朗普称美伊战事将在中期选举后“立即终结” | 环球市场",
+          "url": "https://www.cls.cn/detail/2478812",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时57分 ~ 12时24分]"
         },
         {
           "title": "克宫披露普京与特朗普通话更多细节： 讨论重启三方谈判 由美国方面担任调解方",
@@ -121,6 +144,28 @@
           "time_info": "[05时34分 ~ 07时57分]"
         },
         {
+          "title": "美伊战事中期选举后“终结”！特朗普抛最新时间表 伊朗重申止战条件",
+          "url": "https://www.cls.cn/detail/2478825",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 12时24分]"
+        },
+        {
+          "title": "特朗普预告战事将终结 伊朗开出条件",
+          "url": "https://www.toutiao.com/trending/7683678605951372809/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 12时24分]"
+        },
+        {
           "title": "知情人士透露，一名军事随员在美国总统特朗普乘坐的“空军一号”上误操作展开了充气式紧急滑梯。",
           "url": "https://flash.jin10.com/detail/20260910050857825800",
           "source": "金十数据",
@@ -138,20 +183,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         },
         {
-          "title": "特朗普称美伊战事将在中期选举后“立即终结” | 环球市场",
-          "url": "https://www.cls.cn/detail/2478812",
-          "source": "财联社热门",
+          "title": "特朗普再威胁打击伊朗“镐山”核设施",
+          "url": "https://wallstreetcn.com/livenews/3162961",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时57分"
+          "time_info": "12时24分"
         },
         {
           "title": "伊朗备战更大规模战争，特朗普却称“选后立即结束”",
@@ -160,7 +205,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         },
@@ -171,9 +216,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        },
+        {
+          "title": "提醒：特朗普在美国共和党全国代表大会上的演讲结束。",
+          "url": "https://wallstreetcn.com/livenews/3162957",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
         },
         {
           "title": "据华尔街日报：美国官员透露，白宫高层顾问向特朗普提出一种可能性，即战事可能会拖至其任期结束。",
@@ -182,9 +238,31 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        },
+        {
+          "title": "特朗普：将把所有特朗普减税政策永久化。 我们将使最惠国待遇永久化。 我们将降低信用卡刷卡手续费。 我们将从法律上杜绝边境重新开放的可能性。",
+          "url": "https://wallstreetcn.com/livenews/3162952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "据半岛电视台：美国副总统万斯表示，我们已阻止伊朗出口其石油产品，伊朗在能源领域不再有任何收入。伊朗面临的选择不多，如果特朗普愿意，我们可以达成协议。",
+          "url": "https://flash.jin10.com/detail/20260910113806305800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
         },
         {
           "title": "美伊海上“报复循环”加剧，特朗普预告战事将终结，伊朗开出条件",
@@ -193,9 +271,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        },
+        {
+          "title": "特朗普承诺，若共和党在中期选举中胜出，将向美国每位成年人发放5000美元的红利。",
+          "url": "https://wallstreetcn.com/livenews/3162937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
         },
         {
           "title": "美国官员：特朗普政府正致力于达成更多药品定价协议",
@@ -204,9 +293,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        },
+        {
+          "title": "特朗普承诺每人发5000美元“红利”，资金或来自关税收入",
+          "url": "https://flash.jin10.com/detail/20260910112416026800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
         },
         {
           "title": "特朗普政府寻求防范外国风险对美国电网的威胁",
@@ -223,7 +323,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "OpenAI 首席科学家称已造出「异星心智」，并警告「全人类都要刹车」，这意味着什么？",
@@ -232,11 +332,12 @@
           "ranks": [
             10,
             3,
-            5
+            5,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时25分 ~ 07时57分]"
+          "appearance_count": 6,
+          "time_info": "[02时25分 ~ 12时24分]"
         },
         {
           "title": "OpenAI切断Adobe等企业在ChatGPT投放部分竞品AI产品广告",
@@ -263,26 +364,49 @@
           "time_info": "[02时25分 ~ 07时57分]"
         },
         {
+          "title": "OpenAI高管：Astra需求太猛，新的Pro订阅或被迫暂停",
+          "url": "https://wallstreetcn.com/articles/3781396",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时25分 ~ 12时24分]"
+        },
+        {
+          "title": "27岁研究员连辞OpenAI、Anthropic！两家都在拿我们的命下注",
+          "url": "https://wallstreetcn.com/articles/3781412",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 12时24分]"
+        },
+        {
+          "title": "OpenAI解出千禧年数学难题后，Altman下一目标：攻克室温超导？",
+          "url": "https://wallstreetcn.com/articles/3781400",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 12时24分]"
+        },
+        {
           "title": "OpenAI：我们宣布支持加州四项法案。",
           "url": "https://flash.jin10.com/detail/20260910073242185800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "OpenAI高管：Astra需求太猛，新的Pro订阅或被迫暂停",
-          "url": "https://wallstreetcn.com/articles/3781396",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时25分"
+          "time_info": "07时57分"
         },
         {
           "title": "OpenAI：正推动强制性国家级人工智能安全要求。",
@@ -291,7 +415,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         },
@@ -313,9 +437,97 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "油价破百叠加通胀数据前夕，美股指三连跌，Meta逆势大涨6%，美债全线走低",
+          "url": "https://wallstreetcn.com/articles/3781389",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时57分 ~ 12时24分]"
+        },
+        {
+          "title": "震撼大手笔落空！美财政部长债回购三倍扩容，60亿仅达预期低端，美债再跌",
+          "url": "https://wallstreetcn.com/articles/3781432",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时34分 ~ 12时24分]"
+        },
+        {
+          "title": "美伊冲突升级，美股盘初走低，Meta涨5%，布油冲破百元关口，2年期美债收益率升至两年来新高",
+          "url": "https://wallstreetcn.com/articles/3781389",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时25分 ~ 05时35分]"
+        },
+        {
+          "title": "贝森特如何“回购美债”？今晚初见端倪",
+          "url": "https://wallstreetcn.com/articles/3781371",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时25分 ~ 07时57分]"
+        },
+        {
+          "title": "吹高了日元，却没守住美债！贝森特是美股“猪队友”？",
+          "url": "https://wallstreetcn.com/articles/3781454",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 12时24分]"
+        },
+        {
+          "title": "贝森特或成美股牛市最大敌人，美债、日元两大“炸弹”同时引爆",
+          "url": "https://flash.jin10.com/detail/20260910112908635800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "美债收益率全面上涨，美国财政部债券回购计划带来一波短线拉升行情",
+          "url": "https://wallstreetcn.com/livenews/3162773",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时35分"
         }
       ]
     },
@@ -340,11 +552,12 @@
           "url": "https://www.cls.cn/detail/2478787",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时57分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时57分 ~ 12时24分]"
         },
         {
           "title": "布油再破100美元 美股期指走低 折叠屏iPhone重磅亮相 | 今夜看点",
@@ -388,80 +601,29 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美伊冲突升级，美股盘初走低，Meta涨5%，布油冲破百元关口，2年期美债收益率升至两年来新高",
-          "url": "https://wallstreetcn.com/articles/3781389",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时25分 ~ 05时35分]"
-        },
-        {
-          "title": "油价破百叠加通胀数据前夕，美股指三连跌，Meta逆势大涨6%，美债全线走低",
-          "url": "https://wallstreetcn.com/articles/3781389",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "贝森特如何“回购美债”？今晚初见端倪",
-          "url": "https://wallstreetcn.com/articles/3781371",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时25分 ~ 07时57分]"
-        },
-        {
-          "title": "震撼大手笔落空！美财政部长债回购三倍扩容，60亿仅达预期低端，美债再跌",
-          "url": "https://wallstreetcn.com/articles/3781432",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时34分 ~ 07时57分]"
-        },
-        {
-          "title": "美债收益率全面上涨，美国财政部债券回购计划带来一波短线拉升行情",
-          "url": "https://wallstreetcn.com/livenews/3162773",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时35分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "曝DeepSeek正筹备科创板IPO",
+          "url": "https://www.toutiao.com/trending/7682375308184387610/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时25分 ~ 12时24分]"
+        },
         {
           "title": "DeepSeek双线推进：V4.1 Flash模型明日发布 同步筹备科创板IPO",
           "url": "https://www.cls.cn/detail/2478606",
@@ -470,18 +632,6 @@
             2,
             1,
             5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时25分 ~ 07时57分]"
-        },
-        {
-          "title": "曝DeepSeek正筹备科创板IPO",
-          "url": "https://www.toutiao.com/trending/7682375308184387610/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            4
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -497,29 +647,52 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
+        },
+        {
+          "title": "DeepSeek崩了 今年已至少18次",
+          "url": "https://www.toutiao.com/trending/7683475495597424694/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 12时24分]"
         }
       ]
     },
     {
       "keyword_group": "招商银行 万华化学 福耀玻璃 旗滨集团 苏农银行 奥浦迈 爱美客 美的集团 潍柴动力 苏泊尔 鱼跃医疗 牧原股份 振邦智能 华兰生物 证监会",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "【早报】深夜，苹果折叠屏手机发布，起售价15999元；重磅发布会，今日举行，央行、金融监管总局、证监会、外汇局等出席；原油飙升、黄金走强",
           "url": "https://www.cls.cn/detail/2478804",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时57分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时57分 ~ 12时24分]"
+        },
+        {
+          "title": "重磅发布会今日举行，央行、金融监管总局、证监会、外汇局等出席",
+          "url": "https://www.cls.cn/detail/2478814",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 12时24分]"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "国际金价周三涨1%，白银涨2.3%",
@@ -531,6 +704,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
+        },
+        {
+          "title": "金价打断三连跌，这次修复的含金量看什么？",
+          "url": "https://flash.jin10.com/detail/20260910115137495800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
         }
       ]
     }
