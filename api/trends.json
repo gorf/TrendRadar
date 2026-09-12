@@ -1,12 +1,223 @@
 {
-  "generated_at": "2026-09-12T07:07:58.261813+08:00",
-  "total_titles_processed": 489,
+  "generated_at": "2026-09-12T12:01:46.911655+08:00",
+  "total_titles_processed": 696,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 13,
+      "keyword_group": "特朗普",
+      "match_count": 16,
       "titles": [
+        {
+          "title": "美研究员发出“末日警告”，特朗普：一点不担心",
+          "url": "https://news.ifeng.com/c/8wKy1i5xyaT",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时40分 ~ 07时07分]"
+        },
+        {
+          "title": "如何看待特朗普拒绝沙特介入也门局势的请求，拒绝打击胡塞武装？",
+          "url": "https://www.zhihu.com/question/2081720868716261782",
+          "source": "知乎",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时40分 ~ 12时01分]"
+        },
+        {
+          "title": "特朗普驳斥AI末日论：我只担心发展的不够快",
+          "url": "https://www.cls.cn/detail/2481122",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时40分 ~ 12时01分]"
+        },
+        {
+          "title": "伊朗消息人士：特朗普正寻求重返与伊朗谈判",
+          "url": "https://flash.jin10.com/detail/20260912012403616800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时41分"
+        },
+        {
+          "title": "特朗普连续3天许诺5000美元分红",
+          "url": "https://wallstreetcn.com/livenews/3164182",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "油价逼近110+贝森特“帮倒忙”+特朗普“发钱”=“股债双杀”！",
+          "url": "https://wallstreetcn.com/articles/3781540",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时40分 ~ 07时07分]"
+        },
+        {
+          "title": "特朗普提名的“首席医生”披露持仓：香烟、快餐、碳酸饮料全都有",
+          "url": "https://www.cls.cn/detail/2481260",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时07分 ~ 12时01分]"
+        },
+        {
+          "title": "将耗资约1.35万亿美元，特朗普连续3天许诺5000美元分红",
+          "url": "https://news.ifeng.com/c/8wLqhpOF7DT",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时00分 ~ 12时01分]"
+        },
+        {
+          "title": "特朗普还没退场，共和党已经开始抢他的“王位”",
+          "url": "https://original.ifeng.com/c/8wLsgamcRm3",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时00分 ~ 12时01分]"
+        },
+        {
+          "title": "特朗普连续3天许诺：共和党赢下中期选举，将向所有美国成年人发放5000美元",
+          "url": "https://www.cls.cn/detail/2481345",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时00分 ~ 12时01分]"
+        },
+        {
+          "title": "特朗普盟友：美低估中国科技先进",
+          "url": "https://www.toutiao.com/trending/7684225409808990271/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时00分 ~ 12时01分]"
+        },
+        {
+          "title": "特朗普：如果能重来，我还是会打伊朗！",
+          "url": "https://wallstreetcn.com/articles/3781579",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时00分 ~ 12时01分]"
+        },
+        {
+          "title": "美国总统特朗普：我要求史密森学会将近日在“自由250大奖赛”上展出的那座11英尺华盛顿雕像安置在博物馆的国旗厅，并在2026年9月17日宪法日举行揭幕仪式。",
+          "url": "https://flash.jin10.com/detail/20260912103303391800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时01分"
+        },
+        {
+          "title": "美国商务部长卢特尼克：美国可以设法从（总统特朗普提议的）5000美元现金支票中“创收”。 这笔（财政）开销不会依赖税收。（NBC）",
+          "url": "https://wallstreetcn.com/livenews/3164064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时41分"
+        },
+        {
+          "title": "美国法院驳回特朗普政府强令密歇根州燃煤电厂继续运营的命令",
+          "url": "https://wallstreetcn.com/livenews/3164169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "美国总统特朗普周六日程一览",
+          "url": "https://flash.jin10.com/detail/20260912094527534800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "【早报】美联储下周加息概率，飙至90%；美股、黄金齐涨；国常会最新部署！进一步完善算力基础设施",
+          "url": "https://www.cls.cn/detail/2481328",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时00分 ~ 12时01分]"
+        },
+        {
+          "title": "美股收盘：三大指数止跌反弹 芯片股走强费城指数涨近2%",
+          "url": "https://www.cls.cn/detail/2481323",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时07分 ~ 12时01分]"
+        },
         {
           "title": "康宁公司达成最高20亿美元的股权配售协议。 康宁股价（GLW）美股盘后跌3%。",
           "url": "https://wallstreetcn.com/livenews/3164137",
@@ -36,7 +247,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
         },
@@ -52,24 +263,13 @@
           "time_info": "04时46分"
         },
         {
-          "title": "美股收盘：三大指数止跌反弹 芯片股走强费城指数涨近2%",
-          "url": "https://www.cls.cn/detail/2481323",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时07分"
-        },
-        {
           "title": "Kalshi拟进军美股与商品市场",
           "url": "https://wallstreetcn.com/livenews/3164175",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
         },
@@ -135,7 +335,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
         },
@@ -153,116 +353,8 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "如何看待特朗普拒绝沙特介入也门局势的请求，拒绝打击胡塞武装？",
-          "url": "https://www.zhihu.com/question/2081720868716261782",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时40分 ~ 07时07分]"
-        },
-        {
-          "title": "美研究员发出“末日警告”，特朗普：一点不担心",
-          "url": "https://news.ifeng.com/c/8wKy1i5xyaT",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时40分 ~ 07时07分]"
-        },
-        {
-          "title": "伊朗消息人士：特朗普正寻求重返与伊朗谈判",
-          "url": "https://flash.jin10.com/detail/20260912012403616800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
-        },
-        {
-          "title": "特朗普连续3天许诺5000美元分红",
-          "url": "https://wallstreetcn.com/livenews/3164182",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时07分"
-        },
-        {
-          "title": "油价逼近110+贝森特“帮倒忙”+特朗普“发钱”=“股债双杀”！",
-          "url": "https://wallstreetcn.com/articles/3781540",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时40分 ~ 07时07分]"
-        },
-        {
-          "title": "特朗普驳斥AI末日论：我只担心发展的不够快",
-          "url": "https://www.cls.cn/detail/2481122",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时40分 ~ 07时07分]"
-        },
-        {
-          "title": "特朗普提名的“首席医生”披露持仓：香烟、快餐、碳酸饮料全都有",
-          "url": "https://www.cls.cn/detail/2481260",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时07分"
-        },
-        {
-          "title": "美国商务部长卢特尼克：美国可以设法从（总统特朗普提议的）5000美元现金支票中“创收”。 这笔（财政）开销不会依赖税收。（NBC）",
-          "url": "https://wallstreetcn.com/livenews/3164064",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
-        },
-        {
-          "title": "美国法院驳回特朗普政府强令密歇根州燃煤电厂继续运营的命令",
-          "url": "https://wallstreetcn.com/livenews/3164169",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时07分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenAI证实其正在测试的AI智能体在今年5月对RubyGems发起了网络攻击",
@@ -271,7 +363,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
         },
@@ -300,15 +392,87 @@
           "time_info": "[01时40分 ~ 07时07分]"
         },
         {
+          "title": "OpenAI Codex产品负责人：已修复Astra多项质量问题，今日午夜前将重置",
+          "url": "https://flash.jin10.com/detail/20260912112600325800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时01分"
+        },
+        {
           "title": "需求过大，OpenAI宣布暂停200美元Pro 20X新增订阅，已订用户不受影响",
           "url": "https://wallstreetcn.com/articles/3781543",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
+        },
+        {
+          "title": "OpenAI证实其AI智能体于今年5月对RubyGems发起网络攻击",
+          "url": "https://flash.jin10.com/detail/20260912092844821800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "DeepSeek 开口说话",
+          "url": "https://www.baidu.com/s?wd=DeepSeek+%E5%BC%80%E5%8F%A3%E8%AF%B4%E8%AF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时00分 ~ 12时01分]"
+        },
+        {
+          "title": "DeepSeek开口说话",
+          "url": "https://www.toutiao.com/trending/7683365473766080554/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时00分 ~ 12时01分]"
+        },
+        {
+          "title": "为什么 Artifical Analysis 的 DeepSeek V4.1 Flash 排行那么低呢？",
+          "url": "https://www.zhihu.com/question/2081730382366503947",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时00分 ~ 12时01分]"
+        },
+        {
+          "title": "DeepSeek灰度测试AI语音对话，支持四种音色",
+          "url": "https://flash.jin10.com/detail/20260912092458217800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时01分"
         }
       ]
     },
@@ -334,7 +498,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
         },
@@ -345,7 +509,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
         }
@@ -364,8 +528,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时40分 ~ 07时07分]"
+          "appearance_count": 6,
+          "time_info": "[01时40分 ~ 12时01分]"
         }
       ]
     },
@@ -397,7 +561,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
         }
