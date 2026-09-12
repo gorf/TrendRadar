@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-12T16:36:29.333173+08:00",
-  "total_titles_processed": 902,
+  "generated_at": "2026-09-12T20:46:36.729500+08:00",
+  "total_titles_processed": 1102,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 32,
       "titles": [
         {
           "title": "美研究员发出“末日警告”，特朗普：一点不担心",
@@ -37,11 +37,12 @@
           "ranks": [
             9,
             7,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时40分 ~ 12时01分]"
+          "appearance_count": 7,
+          "time_info": "[01时40分 ~ 20时46分]"
         },
         {
           "title": "伊朗消息人士：特朗普正寻求重返与伊朗谈判",
@@ -66,6 +67,17 @@
           "time_info": "07时07分"
         },
         {
+          "title": "特朗普称美国与加拿大很可能“很快”达成协议",
+          "url": "https://flash.jin10.com/detail/20260912193628110800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "油价逼近110+贝森特“帮倒忙”+特朗普“发钱”=“股债双杀”！",
           "url": "https://wallstreetcn.com/articles/3781540",
           "source": "华尔街见闻",
@@ -79,22 +91,23 @@
           "time_info": "[01时40分 ~ 07时07分]"
         },
         {
+          "title": "特朗普连续3天许诺：共和党赢下中期选举，将向所有美国成年人发放5000美元",
+          "url": "https://www.cls.cn/detail/2481345",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时00分 ~ 20时46分]"
+        },
+        {
           "title": "特朗普还没退场，共和党已经开始抢他的“王位”",
           "url": "https://original.ifeng.com/c/8wLsgamcRm3",
           "source": "凤凰网",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时00分 ~ 16时36分]"
-        },
-        {
-          "title": "特朗普连续3天许诺：共和党赢下中期选举，将向所有美国成年人发放5000美元",
-          "url": "https://www.cls.cn/detail/2481345",
-          "source": "财联社热门",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -135,6 +148,17 @@
           "time_info": "[12时00分 ~ 12时01分]"
         },
         {
+          "title": "纽约举办“9·11”纪念活动：特朗普缺席，4位前总统出席",
+          "url": "https://original.ifeng.com/c/8wM2pkaSs1S",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 20时46分]"
+        },
+        {
           "title": "特朗普盟友：美低估中国科技先进",
           "url": "https://www.toutiao.com/trending/7684225409808990271/",
           "source": "今日头条",
@@ -146,15 +170,92 @@
           "time_info": "[12时00分 ~ 12时01分]"
         },
         {
-          "title": "纽约举办“9·11”纪念活动：特朗普缺席，4位前总统出席",
-          "url": "https://original.ifeng.com/c/8wM2pkaSs1S",
-          "source": "凤凰网",
+          "title": "特朗普：与委内瑞拉人相处得非常好，他们现在非常开心。 爱尔兰正在扩大军事投资。 美国国防工业基础正在迅速增长。 对美国武器的需求“惊人”，包括爱国者系统。 （谈毒品走私）我们尚未聚焦陆地渠道。 英国必须像美国一样遣返犯罪移民。",
+          "url": "https://wallstreetcn.com/livenews/3164343",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时36分"
+          "time_info": "20时46分"
+        },
+        {
+          "title": "俄方不排除普京和特朗普在中国会晤",
+          "url": "https://www.toutiao.com/trending/7683801352208891967/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "特朗普盛赞就业形势，将工厂建设归功于关税。 特朗普批评欧洲的商业监管“不可接受”。",
+          "url": "https://wallstreetcn.com/livenews/3164342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "油价是特朗普的“大麻烦”，而日元是所有人的",
+          "url": "https://wallstreetcn.com/articles/3781620",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "接近特朗普的消息人士：内塔尼亚胡已在特朗普面前“失宠”",
+          "url": "https://flash.jin10.com/detail/20260912191024066800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "特朗普称伊朗支持的胡塞武装请求美国不要下场",
+          "url": "https://wallstreetcn.com/livenews/3164341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "特朗普称赞美国股市是“独一无二的”。",
+          "url": "https://wallstreetcn.com/livenews/3164340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "美国总统特朗普：（关于与爱尔兰的贸易）我们需要让几家医疗公司回归。",
+          "url": "https://flash.jin10.com/detail/20260912185902114800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "美国总统特朗普：我要求史密森学会将近日在“自由250大奖赛”上展出的那座11英尺华盛顿雕像安置在博物馆的国旗厅，并在2026年9月17日宪法日举行揭幕仪式。",
@@ -168,6 +269,17 @@
           "time_info": "12时01分"
         },
         {
+          "title": "美国总统特朗普：（关于爱尔兰统一）无论怎么说，都没有好的答案。",
+          "url": "https://flash.jin10.com/detail/20260912185618799800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "美国商务部长卢特尼克：美国可以设法从（总统特朗普提议的）5000美元现金支票中“创收”。 这笔（财政）开销不会依赖税收。（NBC）",
           "url": "https://wallstreetcn.com/livenews/3164064",
           "source": "华尔街见闻-快讯",
@@ -177,6 +289,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
+        },
+        {
+          "title": "特朗普：关于爱尔兰统一，无论怎样回答都不讨好。",
+          "url": "https://wallstreetcn.com/livenews/3164336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "美国法院驳回特朗普政府强令密歇根州燃煤电厂继续运营的命令",
@@ -196,7 +319,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -210,6 +333,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
+        },
+        {
+          "title": "特朗普：你们可能很快就会看到与加拿大达成协议。 加拿大必须更好地对待美国的农民。 （谈伊朗）我们有很多好牌。 加拿大希望达成协议。",
+          "url": "https://wallstreetcn.com/livenews/3164323",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-09-12）",
+          "url": "https://flash.jin10.com/detail/20260912183823656800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "特朗普：（被问及伊朗冲突何时结束时表示）我认为很快。 伊朗不能拥有核武器。 目前加沙正在建立许多良好的关系。",
+          "url": "https://wallstreetcn.com/livenews/3164319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         }
       ]
     },
@@ -226,8 +382,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时00分 ~ 16时36分]"
+          "appearance_count": 4,
+          "time_info": "[12时00分 ~ 20时46分]"
         },
         {
           "title": "美股收盘：三大指数止跌反弹 芯片股走强费城指数涨近2%",
@@ -238,8 +394,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时07分 ~ 16时36分]"
+          "appearance_count": 5,
+          "time_info": "[07时07分 ~ 20时46分]"
         },
         {
           "title": "康宁公司达成最高20亿美元的股权配售协议。 康宁股价（GLW）美股盘后跌3%。",
@@ -451,7 +607,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "DeepSeek 开口说话",
@@ -487,6 +643,17 @@
           "time_info": "[12时00分 ~ 12时01分]"
         },
         {
+          "title": "如何看待 DeepSeek V4 PRO 9 月 14 日之后继续提供服务？",
+          "url": "https://www.zhihu.com/question/2081824833357231259",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "DeepSeek灰度测试AI语音对话，支持四种音色",
           "url": "https://flash.jin10.com/detail/20260912092458217800",
           "source": "金十数据",
@@ -512,8 +679,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时40分 ~ 16时36分]"
+          "appearance_count": 8,
+          "time_info": "[01时40分 ~ 20时46分]"
         },
         {
           "title": "国家外汇局局长朱鹤新会见香港证监会主席黄天祐、行政总裁梁凤仪",
@@ -522,7 +689,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -533,7 +700,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         }
