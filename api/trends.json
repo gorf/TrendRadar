@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-12T12:01:46.911655+08:00",
-  "total_titles_processed": 696,
+  "generated_at": "2026-09-12T16:36:29.333173+08:00",
+  "total_titles_processed": 902,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "美研究员发出“末日警告”，特朗普：一点不担心",
@@ -79,6 +79,39 @@
           "time_info": "[01时40分 ~ 07时07分]"
         },
         {
+          "title": "特朗普还没退场，共和党已经开始抢他的“王位”",
+          "url": "https://original.ifeng.com/c/8wLsgamcRm3",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时00分 ~ 16时36分]"
+        },
+        {
+          "title": "特朗普连续3天许诺：共和党赢下中期选举，将向所有美国成年人发放5000美元",
+          "url": "https://www.cls.cn/detail/2481345",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时00分 ~ 16时36分]"
+        },
+        {
+          "title": "特朗普：如果能重来，我还是会打伊朗！",
+          "url": "https://wallstreetcn.com/articles/3781579",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时00分 ~ 16时36分]"
+        },
+        {
           "title": "特朗普提名的“首席医生”披露持仓：香烟、快餐、碳酸饮料全都有",
           "url": "https://www.cls.cn/detail/2481260",
           "source": "财联社热门",
@@ -102,28 +135,6 @@
           "time_info": "[12时00分 ~ 12时01分]"
         },
         {
-          "title": "特朗普还没退场，共和党已经开始抢他的“王位”",
-          "url": "https://original.ifeng.com/c/8wLsgamcRm3",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时00分 ~ 12时01分]"
-        },
-        {
-          "title": "特朗普连续3天许诺：共和党赢下中期选举，将向所有美国成年人发放5000美元",
-          "url": "https://www.cls.cn/detail/2481345",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时00分 ~ 12时01分]"
-        },
-        {
           "title": "特朗普盟友：美低估中国科技先进",
           "url": "https://www.toutiao.com/trending/7684225409808990271/",
           "source": "今日头条",
@@ -135,15 +146,15 @@
           "time_info": "[12时00分 ~ 12时01分]"
         },
         {
-          "title": "特朗普：如果能重来，我还是会打伊朗！",
-          "url": "https://wallstreetcn.com/articles/3781579",
-          "source": "华尔街见闻",
+          "title": "纽约举办“9·11”纪念活动：特朗普缺席，4位前总统出席",
+          "url": "https://original.ifeng.com/c/8wM2pkaSs1S",
+          "source": "凤凰网",
           "ranks": [
-            10
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时00分 ~ 12时01分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         },
         {
           "title": "美国总统特朗普：我要求史密森学会将近日在“自由250大奖赛”上展出的那座11英尺华盛顿雕像安置在博物馆的国旗厅，并在2026年9月17日宪法日举行揭幕仪式。",
@@ -152,7 +163,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
         },
@@ -179,13 +190,24 @@
           "time_info": "07时07分"
         },
         {
+          "title": "邵永灵：特朗普混成2022年的拜登",
+          "url": "https://www.toutiao.com/trending/7684503900929396266/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
           "title": "美国总统特朗普周六日程一览",
           "url": "https://flash.jin10.com/detail/20260912094527534800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
         }
@@ -200,11 +222,12 @@
           "url": "https://www.cls.cn/detail/2481328",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时00分 ~ 12时01分]"
+          "appearance_count": 3,
+          "time_info": "[12时00分 ~ 16时36分]"
         },
         {
           "title": "美股收盘：三大指数止跌反弹 芯片股走强费城指数涨近2%",
@@ -215,8 +238,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时07分 ~ 12时01分]"
+          "appearance_count": 4,
+          "time_info": "[07时07分 ~ 16时36分]"
         },
         {
           "title": "康宁公司达成最高20亿美元的股权配售协议。 康宁股价（GLW）美股盘后跌3%。",
@@ -398,7 +421,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
         },
@@ -420,7 +443,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
         }
@@ -470,9 +493,49 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "招商银行 万华化学 福耀玻璃 旗滨集团 苏农银行 奥浦迈 爱美客 美的集团 潍柴动力 苏泊尔 鱼跃医疗 牧原股份 振邦智能 华兰生物 证监会",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "证监会连开罚单！2名证券从业人员、1名百万粉丝财经博主编造虚假信息被罚",
+          "url": "https://www.cls.cn/detail/2481067",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时40分 ~ 16时36分]"
+        },
+        {
+          "title": "国家外汇局局长朱鹤新会见香港证监会主席黄天祐、行政总裁梁凤仪",
+          "url": "https://wallstreetcn.com/livenews/3164285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
+          "title": "国家外汇局：朱鹤新局长会见香港证监会主席黄天祐、行政总裁梁凤仪",
+          "url": "https://flash.jin10.com/detail/20260912144931323800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         }
       ]
     },
@@ -512,24 +575,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "招商银行 万华化学 福耀玻璃 旗滨集团 苏农银行 奥浦迈 爱美客 美的集团 潍柴动力 苏泊尔 鱼跃医疗 牧原股份 振邦智能 华兰生物 证监会",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "证监会连开罚单！2名证券从业人员、1名百万粉丝财经博主编造虚假信息被罚",
-          "url": "https://www.cls.cn/detail/2481067",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时40分 ~ 12时01分]"
         }
       ]
     },
