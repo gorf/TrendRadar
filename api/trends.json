@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-09-13T08:44:17.902277+08:00",
-  "total_titles_processed": 565,
+  "generated_at": "2026-09-13T13:49:47.005307+08:00",
+  "total_titles_processed": 753,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "“胡塞武装粉碎了特朗普的计划”",
+          "url": "https://news.ifeng.com/c/8wN3YhgAwg2",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时05分 ~ 13时49分]"
+        },
         {
           "title": "油价是特朗普的“大麻烦”，而日元是所有人的",
           "url": "https://wallstreetcn.com/articles/3781620",
@@ -22,15 +33,16 @@
           "time_info": "[00时08分 ~ 08时44分]"
         },
         {
-          "title": "“胡塞武装粉碎了特朗普的计划”",
-          "url": "https://news.ifeng.com/c/8wN3YhgAwg2",
+          "title": "特朗普：英国会有意见，但我乐见爱尔兰统一",
+          "url": "https://news.ifeng.com/c/8wMngvlWOwB",
           "source": "凤凰网",
           "ranks": [
-            5
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时05分 ~ 08时44分]"
+          "appearance_count": 4,
+          "time_info": "[03时05分 ~ 13时49分]"
         },
         {
           "title": "特朗普扬言能解决马岛问题",
@@ -44,28 +56,17 @@
           "time_info": "[03时05分 ~ 06时05分]"
         },
         {
-          "title": "特朗普：英国会有意见，但我乐见爱尔兰统一",
-          "url": "https://news.ifeng.com/c/8wMngvlWOwB",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时05分 ~ 08时44分]"
-        },
-        {
           "title": "特朗普连续3天许诺：共和党赢下中期选举，将向所有美国成年人发放5000美元",
           "url": "https://www.cls.cn/detail/2481345",
           "source": "财联社热门",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 08时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时08分 ~ 13时49分]"
         },
         {
           "title": "俄方不排除普京和特朗普在中国会晤",
@@ -141,6 +142,17 @@
           "time_info": "[00时08分 ~ 06时05分]"
         },
         {
+          "title": "特朗普称胡塞武装已致电美方",
+          "url": "https://news.ifeng.com/c/8wNNWAeJ2Fk",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时44分 ~ 13时49分]"
+        },
+        {
           "title": "特朗普7400万美元广告砸向关键选区",
           "url": "https://www.toutiao.com/trending/7684655611652345380/",
           "source": "今日头条",
@@ -164,17 +176,6 @@
           "time_info": "00时08分"
         },
         {
-          "title": "特朗普称胡塞武装已致电美方",
-          "url": "https://news.ifeng.com/c/8wNNWAeJ2Fk",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时44分"
-        },
-        {
           "title": "爱尔兰总统告诉特朗普：“战争和种族灭绝正常化”不可接受",
           "url": "https://flash.jin10.com/detail/20260913012241241800",
           "source": "金十数据",
@@ -184,12 +185,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "特朗普称胡塞武装致电美方",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E8%87%B4%E7%94%B5%E7%BE%8E%E6%96%B9%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时49分"
+        },
+        {
+          "title": "特朗普称已控制霍尔木兹海峡，伊朗海军：那就派军舰靠近试试",
+          "url": "https://flash.jin10.com/detail/20260913115923302800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时49分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "OpenAI的CEO Altman：我同意Dario（Anthropic的CEO Amodei）有关需要控制前沿模型发展步伐的观点。",
@@ -202,6 +225,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时05分 ~ 08时44分]"
+        },
+        {
+          "title": "为何 OpenAI 等 AI 公司，最近集中且花这么大力气卷数学猜想？数学后，下一个学科又是谁？",
+          "url": "https://www.zhihu.com/question/2082124730757113470",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时49分"
+        },
+        {
+          "title": "Altman“放话”：OpenAI今年不会IPO，如果AI威胁人类生存，宁愿毁掉IPO",
+          "url": "https://wallstreetcn.com/articles/3781638",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时49分"
         },
         {
           "title": "奥尔特曼：OpenAI今年不会上市 仍有大量安全工作需要完成",
@@ -228,13 +273,35 @@
           "time_info": "[06时05分 ~ 08时44分]"
         },
         {
+          "title": "三巨头支持“放缓”、OpenAI推迟IPO！社区热议：“AI交易”周一遭暴击？",
+          "url": "https://wallstreetcn.com/articles/3781643",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时49分"
+        },
+        {
+          "title": "一图｜25位菲尔兹奖得主联合发声，OpenAI千禧难题风波如何发酵",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33809347",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时49分"
+        },
+        {
           "title": "OpenAI CEO：今年不会上市，不能冒哪怕10%杀死所有人的风险",
           "url": "https://wallstreetcn.com/livenews/3164364",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时44分"
         },
@@ -253,7 +320,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "【早报】美联储下周加息概率，飙至90%；美股、黄金齐涨；国常会最新部署！进一步完善算力基础设施",
@@ -263,8 +330,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 08时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时08分 ~ 13时49分]"
         },
         {
           "title": "美股收盘：三大指数止跌反弹 芯片股走强费城指数涨近2%",
@@ -274,8 +341,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 08时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时08分 ~ 13时49分]"
         },
         {
           "title": "高盛最新判断：利率上升≠美股下跌，盈利增长才是牛市关键",
@@ -283,11 +350,23 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时05分 ~ 08时44分]"
+          "appearance_count": 3,
+          "time_info": "[06时05分 ~ 13时49分]"
+        },
+        {
+          "title": "美股长牛背后有大小熊",
+          "url": "https://wallstreetcn.com/articles/3781629",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时49分"
         }
       ]
     },
