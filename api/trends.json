@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-15T07:47:24.762888+08:00",
-  "total_titles_processed": 526,
+  "generated_at": "2026-09-15T12:17:58.757901+08:00",
+  "total_titles_processed": 748,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 28,
       "titles": [
         {
           "title": "一片“连续加息”声中，特朗普要求美联储降息：美国应拥有全球最低利率",
@@ -31,6 +31,17 @@
           "time_info": "[00时54分 ~ 04时50分]"
         },
         {
+          "title": "特朗普急了，现场连线黄仁勋，斥责AI危险论是骗局",
+          "url": "https://tech.ifeng.com/c/8wQkfkSVHfL",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
+        },
+        {
           "title": "美国总统特朗普：武器每天都在运往驻中东和其他地区的美国军队。",
           "url": "https://flash.jin10.com/detail/20260915002533214800",
           "source": "金十数据",
@@ -53,26 +64,37 @@
           "time_info": "00时54分"
         },
         {
+          "title": "从听特朗普到看伊朗，油价要看到什么才肯跌？",
+          "url": "https://flash.jin10.com/detail/20260915120009137800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
+        },
+        {
           "title": "美国最高法院驳回特朗普对中期选举邮寄选票的限制措施。",
           "url": "https://wallstreetcn.com/livenews/3165101",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
         {
-          "title": "特朗普“嘴炮”要成真？苏威北爱三地领导人聚首，商讨抱团“脱英”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34068616",
-          "source": "澎湃新闻",
+          "title": "美国政坛激辩“AI放缓”：“左右翼”领袖班农、桑德斯都支持，特朗普称“不能踩刹车，美国有“高智商总统”就足够”",
+          "url": "https://wallstreetcn.com/articles/3781728",
+          "source": "华尔街见闻",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时47分"
+          "time_info": "12时17分"
         },
         {
           "title": "特朗普在英阿主权争端中偏向阿根廷？阿方表态",
@@ -103,7 +125,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
@@ -130,13 +152,36 @@
           "time_info": "00时54分"
         },
         {
+          "title": "特朗普“嘴炮”要成真？苏威北爱三地领导人聚首，商讨抱团“脱英”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34068616",
+          "source": "澎湃新闻",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时47分 ~ 12时17分]"
+        },
+        {
+          "title": "“AI减速论”愈演愈烈 特朗普再度驳斥：AI将成史上最强经济发展引擎",
+          "url": "https://www.cls.cn/detail/2482942",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
+        },
+        {
           "title": "与特朗普政治运作有关的新成立超级政治行动委员会“No Going Back PAC”报告称，在竞争激烈的参议院和众议院竞选中投入了约2100万美元的独立支出。另外，特朗普的主要超级政治行动委员会MAGA Inc.报告称，截至7月31日持有约4.035亿美元现金，特朗普此前表示其政治运作可能在中期选举上花费多达5亿美元。",
           "url": "https://flash.jin10.com/detail/20260915064821460800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
@@ -147,9 +192,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
+        },
+        {
+          "title": "黄仁勋发声：“AI末日论”是“不讲科学的哗众取宠”，RSI绝非“失控黑魔法”，特朗普“中途插入”：末日论全是骗局",
+          "url": "https://wallstreetcn.com/articles/3781756",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
         },
         {
           "title": "特朗普称，考虑解密更多“9·11事件”档案",
@@ -163,15 +219,92 @@
           "time_info": "00时54分"
         },
         {
+          "title": "特朗普当众致电黄仁勋：AI危险论是\"骗局\"，数据中心重要性超过互联网",
+          "url": "https://wallstreetcn.com/articles/3781745",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
+        },
+        {
+          "title": "特朗普称对与伊朗谈判持开放态度 霍尔木兹海峡单日通行量降至个位数 | 环球市场",
+          "url": "https://www.cls.cn/detail/2482905",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
+        },
+        {
+          "title": "特朗普称俄乌已同意不打击对方能源目标 国际油价短线走低",
+          "url": "https://www.cls.cn/detail/2482848",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
+        },
+        {
+          "title": "特朗普公开致电黄仁勋：AI风险是骗局，数据中心是未来石油！",
+          "url": "https://www.cls.cn/detail/2483181",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
+        },
+        {
+          "title": "五角大楼承认对伊战争弹药短缺 官方确认特朗普政府淡化问题",
+          "url": "https://flash.jin10.com/detail/20260915114638854800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
+        },
+        {
           "title": "CBS关键选区追踪民调显示，特朗普以及物价上涨是中期选举前动员选民的关键因素。CBS众议院选举模型目前预测民主党将获得228个席位，足以成为多数党。不过，CBS选举与调查执行主任安东尼·萨尔万托表示，共和党仍有机会保住控制权。",
           "url": "https://flash.jin10.com/detail/20260915061643495800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
+        },
+        {
+          "title": "美国参议员抨击特朗普将美国柴油价格飙升归咎于乌克兰",
+          "url": "https://flash.jin10.com/detail/20260915114354171800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
+        },
+        {
+          "title": "特朗普急了 致电黄仁勋斥责AI危险论",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%A5%E4%BA%86+%E8%87%B4%E7%94%B5%E9%BB%84%E4%BB%81%E5%8B%8B%E6%96%A5%E8%B4%A3AI%E5%8D%B1%E9%99%A9%E8%AE%BA",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
         },
         {
           "title": "特朗普称伊朗希望“尽快”达成协议，对与伊朗接触持“开放”态度",
@@ -197,9 +330,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时47分 ~ 12时17分]"
+        },
+        {
+          "title": "【早报】美股光通信、存储芯片板块大跌；事关国民经济运行，重要发布会今日举行；原油走强、黄金下挫",
+          "url": "https://www.cls.cn/detail/2482914",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时47分 ~ 12时17分]"
         },
         {
           "title": "周一（9月14日），美股存储芯片与硬件供应链指数跌6.21%，报190.76点。 成分股泰瑞达收跌13.30%，拉姆研究、SK海力士ADR至少跌7.6%，Rambus、应用材料、美光科技至少跌5.25%，闪迪跌4.98%，西部数据跌4.53%，希捷科技跌2.97%。",
@@ -235,17 +380,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
-        },
-        {
-          "title": "【早报】美股光通信、存储芯片板块大跌；事关国民经济运行，重要发布会今日举行；原油走强、黄金下挫",
-          "url": "https://www.cls.cn/detail/2482914",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时47分"
         },
         {
           "title": "美股大类资产类ETF普遍收跌，新兴市场ETF跌超2.7%，与黄金ETF领跌",
@@ -316,9 +450,114 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "keyword_group": "美债",
+      "match_count": 7,
       "titles": [
+        {
+          "title": "AI开发放缓担忧升温，美股低开，费城半导体指数跌6%，10年期美债收益率三年来首破5%，布油涨破109",
+          "url": "https://wallstreetcn.com/articles/3781670",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 04时50分]"
+        },
+        {
+          "title": "AI开发放缓担忧升温，美股指全线收跌，芯片指数大跌近6%，10年期美债收益率一度涨破5%",
+          "url": "https://wallstreetcn.com/articles/3781670",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时47分 ~ 12时17分]"
+        },
+        {
+          "title": "10年期美债收益率冲破5%！华尔街上调收益率预期，神准分析师：抛售还没结束",
+          "url": "https://wallstreetcn.com/articles/3781729",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
+        },
+        {
+          "title": "这一天终于还是来了：10年期美债收益率升穿5%！",
+          "url": "https://www.cls.cn/detail/2482972",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
+        },
+        {
+          "title": "两年期美债收益率六天涨超28个基点，10年期收益率一度创2023年以来新高",
+          "url": "https://wallstreetcn.com/livenews/3165034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "10 年期美债突破「5% 收益率关口」，全球债市抛售潮是否将加速，加息预期下的市场何去何从？",
+          "url": "https://www.zhihu.com/question/2082958818607220656",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
+        },
+        {
+          "title": "美联储连续第二个月暂停为储备管理购买美债",
+          "url": "https://flash.jin10.com/detail/20260915034601245800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "OpenAI CEO详谈放慢AI发展脚步原因：未来或走向两大极端，均可能失控！",
+          "url": "https://www.cls.cn/detail/2482954",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
+        },
+        {
+          "title": "9月15日投资避雷针：英伟达限制使用OpenAI和Anthropic最先进模型",
+          "url": "https://www.cls.cn/detail/2482946",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
+        },
         {
           "title": "据Politico：OpenAI的首席游说代表今天将会见国会议员。",
           "url": "https://flash.jin10.com/detail/20260915040001992800",
@@ -359,59 +598,70 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         }
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 4,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 5,
       "titles": [
         {
-          "title": "AI开发放缓担忧升温，美股低开，费城半导体指数跌6%，10年期美债收益率三年来首破5%，布油涨破109",
-          "url": "https://wallstreetcn.com/articles/3781670",
-          "source": "华尔街见闻",
+          "title": "谷歌被曝已跑通RSI",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E8%A2%AB%E6%9B%9D%E5%B7%B2%E8%B7%91%E9%80%9ARSI",
+          "source": "bilibili 热搜",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 04时50分]"
-        },
-        {
-          "title": "AI开发放缓担忧升温，美股指全线收跌，芯片指数大跌近6%，10年期美债收益率一度涨破5%",
-          "url": "https://wallstreetcn.com/articles/3781670",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
+            4
           ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
+        },
+        {
+          "title": "谷歌DeepMind研究员离职发文示警：AI可能“害死所有人”",
+          "url": "https://wallstreetcn.com/livenews/3165226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
+        },
+        {
+          "title": "谷歌云：宣布数据流批处理作业的暂停/恢复功能正式上线，并支持英伟达(NVDA.O)RTX PRO 6000 Blackwell GPU。",
+          "url": "https://flash.jin10.com/detail/20260915001046117800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时54分"
+        },
+        {
+          "title": "据Business Insider：谷歌(GOOG.O)允许所有工程师使用Anthropic的模型Claude。",
+          "url": "https://flash.jin10.com/detail/20260915064002381800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
         {
-          "title": "两年期美债收益率六天涨超28个基点，10年期收益率一度创2023年以来新高",
-          "url": "https://wallstreetcn.com/livenews/3165034",
+          "title": "谷歌公司允许所有工程师使用Anthropic PBC的模型Claude。（Business Insider）",
+          "url": "https://wallstreetcn.com/livenews/3165087",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "美联储连续第二个月暂停为储备管理购买美债",
-          "url": "https://flash.jin10.com/detail/20260915034601245800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
+          "time_info": "07时47分"
         }
       ]
     },
@@ -466,45 +716,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "谷歌云：宣布数据流批处理作业的暂停/恢复功能正式上线，并支持英伟达(NVDA.O)RTX PRO 6000 Blackwell GPU。",
-          "url": "https://flash.jin10.com/detail/20260915001046117800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "据Business Insider：谷歌(GOOG.O)允许所有工程师使用Anthropic的模型Claude。",
-          "url": "https://flash.jin10.com/detail/20260915064002381800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时47分"
-        },
-        {
-          "title": "谷歌公司允许所有工程师使用Anthropic PBC的模型Claude。（Business Insider）",
-          "url": "https://wallstreetcn.com/livenews/3165087",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时47分"
-        }
-      ]
-    },
-    {
       "keyword_group": "招商银行 万华化学 福耀玻璃 旗滨集团 苏农银行 奥浦迈 爱美客 美的集团 潍柴动力 苏泊尔 鱼跃医疗 牧原股份 振邦智能 华兰生物 证监会",
       "match_count": 1,
       "titles": [
@@ -515,7 +726,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         }
