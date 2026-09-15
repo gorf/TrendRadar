@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-15T17:54:25.067674+08:00",
-  "total_titles_processed": 971,
+  "generated_at": "2026-09-15T22:46:27.073829+08:00",
+  "total_titles_processed": 1178,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "一片“连续加息”声中，特朗普要求美联储降息：美国应拥有全球最低利率",
@@ -20,6 +20,18 @@
           "time_info": "[00时54分 ~ 07时47分]"
         },
         {
+          "title": "美国政坛激辩“AI放缓”：“左右翼”领袖班农、桑德斯都支持，特朗普称“不能踩刹车，美国有“高智商总统”就足够”",
+          "url": "https://wallstreetcn.com/articles/3781728",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时17分 ~ 22时46分]"
+        },
+        {
           "title": "“我比任何人都懂公式”，特朗普：美国的利率理应全球最低",
           "url": "https://news.ifeng.com/c/8wPtYgPuyUB",
           "source": "凤凰网",
@@ -29,18 +41,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时54分 ~ 04时50分]"
-        },
-        {
-          "title": "美国政坛激辩“AI放缓”：“左右翼”领袖班农、桑德斯都支持，特朗普称“不能踩刹车，美国有“高智商总统”就足够”",
-          "url": "https://wallstreetcn.com/articles/3781728",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时17分 ~ 17时54分]"
         },
         {
           "title": "特朗普急了，现场连线黄仁勋，斥责AI危险论是骗局",
@@ -53,6 +53,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时17分 ~ 17时54分]"
+        },
+        {
+          "title": "俄商人出资办儿子婚礼？特朗普：没什么大不了",
+          "url": "https://news.ifeng.com/c/8wQyUzC7fZx",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时54分 ~ 22时46分]"
         },
         {
           "title": "美国总统特朗普：武器每天都在运往驻中东和其他地区的美国军队。",
@@ -105,7 +117,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
         },
@@ -154,15 +166,16 @@
           "time_info": "00时54分"
         },
         {
-          "title": "俄商人出资办儿子婚礼？特朗普：没什么大不了",
-          "url": "https://news.ifeng.com/c/8wQyUzC7fZx",
-          "source": "凤凰网",
+          "title": "黄仁勋发声：“AI末日论”是“不讲科学的哗众取宠”，RSI绝非“失控黑魔法”，特朗普“中途插入”：末日论全是骗局",
+          "url": "https://wallstreetcn.com/articles/3781756",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            9,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时54分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时17分 ~ 22时46分]"
         },
         {
           "title": "特朗普：美国高端武器产量创历史新高，重点生产爱国者、萨德、战斧导弹",
@@ -201,16 +214,27 @@
           "time_info": "[12时17分 ~ 17时54分]"
         },
         {
-          "title": "黄仁勋发声：“AI末日论”是“不讲科学的哗众取宠”，RSI绝非“失控黑魔法”，特朗普“中途插入”：末日论全是骗局",
-          "url": "https://wallstreetcn.com/articles/3781756",
-          "source": "华尔街见闻",
+          "title": "黄仁勋论坛现场接特朗普电话：不会让AI减速发生，“AI末日论”没有科学依据",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34072434",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            4
+            11,
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时17分 ~ 17时54分]"
+          "time_info": "[17时54分 ~ 22时46分]"
+        },
+        {
+          "title": "特朗普当众致电黄仁勋：AI危险论是\"骗局\"，数据中心重要性超过互联网",
+          "url": "https://wallstreetcn.com/articles/3781745",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 22时46分]"
         },
         {
           "title": "“AI减速论”愈演愈烈 特朗普再度驳斥：AI将成史上最强经济发展引擎",
@@ -257,17 +281,6 @@
           "time_info": "00时54分"
         },
         {
-          "title": "特朗普当众致电黄仁勋：AI危险论是\"骗局\"，数据中心重要性超过互联网",
-          "url": "https://wallstreetcn.com/articles/3781745",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时17分"
-        },
-        {
           "title": "特朗普称对与伊朗谈判持开放态度 霍尔木兹海峡单日通行量降至个位数 | 环球市场",
           "url": "https://www.cls.cn/detail/2482905",
           "source": "财联社热门",
@@ -277,17 +290,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
-        },
-        {
-          "title": "黄仁勋论坛现场接特朗普电话：不会让AI减速发生，“AI末日论”没有科学依据",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34072434",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时54分"
         },
         {
           "title": "特朗普称俄乌已同意不打击对方能源目标 国际油价短线走低",
@@ -301,13 +303,24 @@
           "time_info": "12时17分"
         },
         {
+          "title": "特朗普宣布赴深圳参加APEC会议",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E8%B5%B4%E6%B7%B1%E5%9C%B3%E5%8F%82%E5%8A%A0APEC%E4%BC%9A%E8%AE%AE",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
           "title": "黄仁勋峰会现场公放接特朗普电话",
           "url": "https://www.douyin.com/hot/2650726",
           "source": "抖音",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
         },
@@ -362,7 +375,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
         },
@@ -384,15 +397,168 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
         }
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "AI开发放缓担忧升温，美股指全线收跌，芯片指数大跌近6%，10年期美债收益率一度涨破5%",
+          "url": "https://wallstreetcn.com/articles/3781670",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时47分 ~ 22时46分]"
+        },
+        {
+          "title": "AI开发放缓担忧升温，美股低开，费城半导体指数跌6%，10年期美债收益率三年来首破5%，布油涨破109",
+          "url": "https://wallstreetcn.com/articles/3781670",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 04时50分]"
+        },
+        {
+          "title": "美债收益率破5%市场反应如何",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%80%BA%E6%94%B6%E7%9B%8A%E7%8E%87%E7%A0%B45%25%E5%B8%82%E5%9C%BA%E5%8F%8D%E5%BA%94%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
+          "title": "10年期美债收益率冲破5%！华尔街上调收益率预期，神准分析师：抛售还没结束",
+          "url": "https://wallstreetcn.com/articles/3781729",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时17分 ~ 22时46分]"
+        },
+        {
+          "title": "美联储决议前夕 全球债市抛售加剧：10年期美债收益率创2007年来新高",
+          "url": "https://www.cls.cn/detail/2483760",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时54分 ~ 22时46分]"
+        },
+        {
+          "title": "这一天终于还是来了：10年期美债收益率升穿5%！",
+          "url": "https://www.cls.cn/detail/2482972",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 17时54分]"
+        },
+        {
+          "title": "10年期美债突破5%！“两种叙事”萦绕市场：“2023年式短暂见顶”还是“2000年代式引爆金融危机”",
+          "url": "https://wallstreetcn.com/articles/3781749",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时54分 ~ 22时46分]"
+        },
+        {
+          "title": "油价飙升加剧通胀担忧，美股低开，存储芯片、光通信股逆势走高，10年期美债收益率破5%创2007年来新高",
+          "url": "https://wallstreetcn.com/articles/3781779",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
+          "title": "10年期美债收益率创19年新高 美股期指走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2483994",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
+          "title": "两年期美债收益率六天涨超28个基点，10年期收益率一度创2023年以来新高",
+          "url": "https://wallstreetcn.com/livenews/3165034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "10 年期美债突破「5% 收益率关口」，全球债市抛售潮是否将加速，加息预期下的市场何去何从？",
+          "url": "https://www.zhihu.com/question/2082958818607220656",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时17分"
+        },
+        {
+          "title": "美联储连续第二个月暂停为储备管理购买美债",
+          "url": "https://flash.jin10.com/detail/20260915034601245800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "贝森特被问及10年期美债收益率，将上涨归咎于油价攀升",
+          "url": "https://wallstreetcn.com/livenews/3165588",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股收盘：AI降速呼声重挫芯片股 三大指数集体收跌",
@@ -517,119 +683,128 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
+        },
+        {
+          "title": "美股三大股指走低，道指跌幅达1%。",
+          "url": "https://flash.jin10.com/detail/20260915222340658800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，能源业ETF涨超1%，生物科技指数ETF跌超1%，日常消费品ETF跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3165580",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         }
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 9,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 8,
       "titles": [
         {
-          "title": "AI开发放缓担忧升温，美股指全线收跌，芯片指数大跌近6%，10年期美债收益率一度涨破5%",
-          "url": "https://wallstreetcn.com/articles/3781670",
-          "source": "华尔街见闻",
+          "title": "谷歌被曝已跑通RSI",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E8%A2%AB%E6%9B%9D%E5%B7%B2%E8%B7%91%E9%80%9ARSI",
+          "source": "bilibili 热搜",
           "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时47分 ~ 17时54分]"
-        },
-        {
-          "title": "AI开发放缓担忧升温，美股低开，费城半导体指数跌6%，10年期美债收益率三年来首破5%，布油涨破109",
-          "url": "https://wallstreetcn.com/articles/3781670",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 04时50分]"
-        },
-        {
-          "title": "10年期美债收益率冲破5%！华尔街上调收益率预期，神准分析师：抛售还没结束",
-          "url": "https://wallstreetcn.com/articles/3781729",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时17分 ~ 17时54分]"
-        },
-        {
-          "title": "这一天终于还是来了：10年期美债收益率升穿5%！",
-          "url": "https://www.cls.cn/detail/2482972",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时17分 ~ 17时54分]"
-        },
-        {
-          "title": "10年期美债突破5%！“两种叙事”萦绕市场：“2023年式短暂见顶”还是“2000年代式引爆金融危机”",
-          "url": "https://wallstreetcn.com/articles/3781749",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时54分"
-        },
-        {
-          "title": "美联储决议前夕 全球债市抛售加剧：10年期美债收益率创2007年来新高",
-          "url": "https://www.cls.cn/detail/2483760",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时54分"
-        },
-        {
-          "title": "两年期美债收益率六天涨超28个基点，10年期收益率一度创2023年以来新高",
-          "url": "https://wallstreetcn.com/livenews/3165034",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "10 年期美债突破「5% 收益率关口」，全球债市抛售潮是否将加速，加息预期下的市场何去何从？",
-          "url": "https://www.zhihu.com/question/2082958818607220656",
-          "source": "知乎",
-          "ranks": [
-            16
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
         },
         {
-          "title": "美联储连续第二个月暂停为储备管理购买美债",
-          "url": "https://flash.jin10.com/detail/20260915034601245800",
+          "title": "OpenAI：正与Anthropic、谷歌合作推进AI安全工作",
+          "url": "https://flash.jin10.com/detail/20260915223131489800",
           "source": "金十数据",
           "ranks": [
-            19
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
+          "title": "谷歌DeepMind研究员离职发文示警：AI可能“害死所有人”",
+          "url": "https://wallstreetcn.com/livenews/3165226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时50分"
+          "time_info": "12时17分"
+        },
+        {
+          "title": "谷歌云：宣布数据流批处理作业的暂停/恢复功能正式上线，并支持英伟达(NVDA.O)RTX PRO 6000 Blackwell GPU。",
+          "url": "https://flash.jin10.com/detail/20260915001046117800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时54分"
+        },
+        {
+          "title": "据Business Insider：谷歌(GOOG.O)允许所有工程师使用Anthropic的模型Claude。",
+          "url": "https://flash.jin10.com/detail/20260915064002381800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时47分"
+        },
+        {
+          "title": "谷歌公司允许所有工程师使用Anthropic PBC的模型Claude。（Business Insider）",
+          "url": "https://wallstreetcn.com/livenews/3165087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时47分"
+        },
+        {
+          "title": "OpenAI：就AI安全性问题与Anthropic、谷歌合作",
+          "url": "https://wallstreetcn.com/livenews/3165596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
+          "title": "OpenAI：正与Anthropic和谷歌合作开展人工智能安全工作。",
+          "url": "https://flash.jin10.com/detail/20260915221811416800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "OpenAI CEO详谈放慢AI发展脚步原因：未来或走向两大极端，均可能失控！",
@@ -641,6 +816,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
+        },
+        {
+          "title": "集体踩刹车，微软加入OpenAI、Anthropic，表态放缓AI前沿开发",
+          "url": "https://wallstreetcn.com/articles/3781726",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         },
         {
           "title": "9月15日投资避雷针：英伟达限制使用OpenAI和Anthropic最先进模型",
@@ -696,67 +882,68 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
+        },
+        {
+          "title": "OpenAI支持众议院安全评估计划。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3165582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 4,
       "titles": [
         {
-          "title": "谷歌被曝已跑通RSI",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E8%A2%AB%E6%9B%9D%E5%B7%B2%E8%B7%91%E9%80%9ARSI",
-          "source": "bilibili 热搜",
+          "title": "如何看待 DeepSeek 刘胜与的《我不得不把才华埋葬在昨天》？",
+          "url": "https://www.zhihu.com/question/2083123101873844765",
+          "source": "知乎",
           "ranks": [
-            4
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时17分"
+          "appearance_count": 2,
+          "time_info": "[17时54分 ~ 22时46分]"
         },
         {
-          "title": "谷歌DeepMind研究员离职发文示警：AI可能“害死所有人”",
-          "url": "https://wallstreetcn.com/livenews/3165226",
+          "title": "DeepSeek深夜服务崩溃",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E6%B7%B1%E5%A4%9C%E6%9C%8D%E5%8A%A1%E5%B4%A9%E6%BA%83&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 04时50分]"
+        },
+        {
+          "title": "DeepSeek工程师也有AI焦虑：不至于失业，但必须转业",
+          "url": "https://wallstreetcn.com/livenews/3165592",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时17分"
+          "time_info": "22时46分"
         },
         {
-          "title": "谷歌云：宣布数据流批处理作业的暂停/恢复功能正式上线，并支持英伟达(NVDA.O)RTX PRO 6000 Blackwell GPU。",
-          "url": "https://flash.jin10.com/detail/20260915001046117800",
-          "source": "金十数据",
+          "title": "DeepSeek工程师文章海外刷屏",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B7%A5%E7%A8%8B%E5%B8%88%E6%96%87%E7%AB%A0%E6%B5%B7%E5%A4%96%E5%88%B7%E5%B1%8F&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
-            11
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "据Business Insider：谷歌(GOOG.O)允许所有工程师使用Anthropic的模型Claude。",
-          "url": "https://flash.jin10.com/detail/20260915064002381800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时47分"
-        },
-        {
-          "title": "谷歌公司允许所有工程师使用Anthropic PBC的模型Claude。（Business Insider）",
-          "url": "https://wallstreetcn.com/livenews/3165087",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时47分"
+          "time_info": "17时54分"
         }
       ]
     },
@@ -807,45 +994,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "如何看待 DeepSeek 刘胜与的《我不得不把才华埋葬在昨天》？",
-          "url": "https://www.zhihu.com/question/2083123101873844765",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时54分"
-        },
-        {
-          "title": "DeepSeek深夜服务崩溃",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E6%B7%B1%E5%A4%9C%E6%9C%8D%E5%8A%A1%E5%B4%A9%E6%BA%83&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时49分 ~ 04时50分]"
-        },
-        {
-          "title": "DeepSeek工程师文章海外刷屏",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B7%A5%E7%A8%8B%E5%B8%88%E6%96%87%E7%AB%A0%E6%B5%B7%E5%A4%96%E5%88%B7%E5%B1%8F&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时54分"
         }
       ]
     },
