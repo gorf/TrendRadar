@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T08:13:25.276313+08:00",
-  "total_titles_processed": 507,
+  "generated_at": "2026-09-16T13:49:46.261439+08:00",
+  "total_titles_processed": 740,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,17 @@
           "time_info": "[02时49分 ~ 08时13分]"
         },
         {
+          "title": "特朗普真急了，一个电话打到黄仁勋那里",
+          "url": "https://news.ifeng.com/c/8wSWne5GO3Z",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时13分 ~ 13时49分]"
+        },
+        {
           "title": "俄商人出资办儿子婚礼？特朗普：没什么大不了",
           "url": "https://news.ifeng.com/c/8wQyUzC7fZx",
           "source": "凤凰网",
@@ -43,15 +54,18 @@
           "time_info": "[02时49分 ~ 06时01分]"
         },
         {
-          "title": "特朗普真急了，一个电话打到黄仁勋那里",
-          "url": "https://news.ifeng.com/c/8wSWne5GO3Z",
-          "source": "凤凰网",
+          "title": "能源休战协议破裂：乌克兰无视特朗普警告，袭击俄罗斯炼油厂",
+          "url": "https://wallstreetcn.com/articles/3781803",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            9,
+            8,
+            5,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时13分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时49分 ~ 13时49分]"
         },
         {
           "title": "美国司法部长布兰奇表示，迪根诺瓦辞职后，他此前负责调查特朗普政治对手的案件不会停止，将继续推进。",
@@ -63,19 +77,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
-        },
-        {
-          "title": "能源休战协议破裂：乌克兰无视特朗普警告，袭击俄罗斯炼油厂",
-          "url": "https://wallstreetcn.com/articles/3781803",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时49分 ~ 08时13分]"
         },
         {
           "title": "黄仁勋论坛现场接特朗普电话：不会让AI减速发生，“AI末日论”没有科学依据",
@@ -165,7 +166,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         },
@@ -184,7 +185,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "美联储决议前夕 全球债市抛售加剧：10年期美债收益率创2007年来新高",
@@ -198,6 +199,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时49分 ~ 08时13分]"
+        },
+        {
+          "title": "油价飙升加剧通胀担忧，美债收益率再刷20年新高，美股指连跌两日静待美联储决策",
+          "url": "https://wallstreetcn.com/articles/3781779",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时13分 ~ 13时49分]"
         },
         {
           "title": "AI开发放缓担忧升温，美股指全线收跌，芯片指数大跌近6%，10年期美债收益率一度涨破5%",
@@ -237,15 +249,15 @@
           "time_info": "[02时49分 ~ 08时13分]"
         },
         {
-          "title": "油价飙升加剧通胀担忧，美债收益率再刷20年新高，美股指连跌两日静待美联储决策",
-          "url": "https://wallstreetcn.com/articles/3781779",
+          "title": "20年期美债拍卖收益率创历史新高，10年期美债收益率再刷20年新高",
+          "url": "https://wallstreetcn.com/articles/3781822",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时13分"
+          "time_info": "13时49分"
         },
         {
           "title": "10年期美债突破5%！“两种叙事”萦绕市场：“2023年式短暂见顶”还是“2000年代式引爆金融危机”",
@@ -259,6 +271,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时49分 ~ 08时13分]"
+        },
+        {
+          "title": "贝森特：支持向美国民众发放5000美元的计划 美债回购行动取得了成功",
+          "url": "https://www.cls.cn/detail/2484206",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时13分 ~ 13时49分]"
         },
         {
           "title": "10年期美债收益率创19年新高 美股期指走低 | 今夜看点",
@@ -283,15 +307,87 @@
           "time_info": "02时49分"
         },
         {
-          "title": "贝森特：支持向美国民众发放5000美元的计划 美债回购行动取得了成功",
-          "url": "https://www.cls.cn/detail/2484206",
-          "source": "财联社热门",
+          "title": "10年期美债收益率破5%之际，日债收益率也失守3%，全球债市压力骤增！",
+          "url": "https://wallstreetcn.com/articles/3781781",
+          "source": "华尔街见闻",
           "ranks": [
-            12
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
+          "time_info": "13时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "OpenAI考虑在IPO之前一轮融资获得1.2万亿美元估值。 近期，该公司围绕新的资本扩充计划举行了多次对话。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3165771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
+          "title": "OpenAI计算主管Sachin Katti：安全的AI将需要部署更多电脑。",
+          "url": "https://wallstreetcn.com/livenews/3165762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
+          "title": "OpenAI高管看好加拿大的数据中心合作潜力",
+          "url": "https://flash.jin10.com/detail/20260916015933220800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时49分"
+        },
+        {
+          "title": "软银承诺向OpenAI投资646亿美元 敞口扩大引发信用担忧",
+          "url": "https://flash.jin10.com/detail/20260916130140072800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时49分"
+        },
+        {
+          "title": "OpenAI的CFO：我并不担心AI开发的进度放缓问题。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3165792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
           "time_info": "08时13分"
+        },
+        {
+          "title": "OpenAI考虑在加拿大建立数据中心，赞赏总理卡尼的计划。",
+          "url": "https://wallstreetcn.com/livenews/3165678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时49分"
         }
       ]
     },
@@ -304,11 +400,12 @@
           "url": "https://www.cls.cn/detail/2484236",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时13分 ~ 13时49分]"
         },
         {
           "title": "美股加密货币与加密货币关联指数收跌6.62%，报68.81点，整体低开低走。 最近24小时，现货比特币跌4.05%，暂报75880美元，整体持续走低，美国参议院针对加密货币立法草案的程序性投票失败之后，出现一波加速下跌行情。 现货以太坊跌6.26%，暂报2405.645美元，整体持续走低。",
@@ -368,70 +465,20 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 4,
       "titles": [
         {
-          "title": "OpenAI考虑在IPO之前一轮融资获得1.2万亿美元估值。 近期，该公司围绕新的资本扩充计划举行了多次对话。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3165771",
-          "source": "华尔街见闻-快讯",
+          "title": "deepseek工程师自嘲被AI取代",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364468&amp;topic_name=deepseek%E5%B7%A5%E7%A8%8B%E5%B8%88%E8%87%AA%E5%98%B2%E8%A2%ABAI%E5%8F%96%E4%BB%A3",
+          "source": "贴吧",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时01分"
-        },
-        {
-          "title": "OpenAI计算主管Sachin Katti：安全的AI将需要部署更多电脑。",
-          "url": "https://wallstreetcn.com/livenews/3165762",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时01分"
-        },
-        {
-          "title": "OpenAI高管看好加拿大的数据中心合作潜力",
-          "url": "https://flash.jin10.com/detail/20260916015933220800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时49分"
-        },
-        {
-          "title": "OpenAI的CFO：我并不担心AI开发的进度放缓问题。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3165792",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时13分"
+          "time_info": "13时49分"
         },
-        {
-          "title": "OpenAI考虑在加拿大建立数据中心，赞赏总理卡尼的计划。",
-          "url": "https://wallstreetcn.com/livenews/3165678",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
         {
           "title": "如何看待 DeepSeek 刘胜与的《我不得不把才华埋葬在昨天》？",
           "url": "https://www.zhihu.com/question/2083123101873844765",
@@ -446,6 +493,17 @@
           "time_info": "[02时49分 ~ 08时13分]"
         },
         {
+          "title": "DeepSeek核心工程师长文刷屏：《我不得不把才华埋葬在昨天》",
+          "url": "https://wallstreetcn.com/articles/3781850",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时49分"
+        },
+        {
           "title": "DeepSeek工程师发长文引热议",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%8F%91%E9%95%BF%E6%96%87%E5%BC%95%E7%83%AD%E8%AE%AE",
           "source": "百度热搜",
@@ -455,6 +513,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "银行消保 金融监管 人民银行",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国人民银行副行长宣昌能会见伦敦证券交易所集团富时罗素首席执行官菲奥娜·巴塞特",
+          "url": "https://wallstreetcn.com/livenews/3165946",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时49分"
         }
       ]
     },
