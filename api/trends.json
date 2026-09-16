@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-09-16T13:49:46.261439+08:00",
-  "total_titles_processed": 740,
+  "generated_at": "2026-09-16T19:13:36.313227+08:00",
+  "total_titles_processed": 945,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "特朗普真急了，一个电话打到黄仁勋那里",
+          "url": "https://news.ifeng.com/c/8wSWne5GO3Z",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时13分 ~ 19时13分]"
+        },
         {
           "title": "美国政坛激辩“AI放缓”：“左右翼”领袖班农、桑德斯都支持，特朗普称“不能踩刹车，美国有“高智商总统”就足够”",
           "url": "https://wallstreetcn.com/articles/3781728",
@@ -18,6 +29,21 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时49分 ~ 08时13分]"
+        },
+        {
+          "title": "能源休战协议破裂：乌克兰无视特朗普警告，袭击俄罗斯炼油厂",
+          "url": "https://wallstreetcn.com/articles/3781803",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            5,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时49分 ~ 19时13分]"
         },
         {
           "title": "黄仁勋发声：“AI末日论”是“不讲科学的哗众取宠”，RSI绝非“失控黑魔法”，特朗普“中途插入”：末日论全是骗局",
@@ -32,17 +58,6 @@
           "time_info": "[02时49分 ~ 08时13分]"
         },
         {
-          "title": "特朗普真急了，一个电话打到黄仁勋那里",
-          "url": "https://news.ifeng.com/c/8wSWne5GO3Z",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时13分 ~ 13时49分]"
-        },
-        {
           "title": "俄商人出资办儿子婚礼？特朗普：没什么大不了",
           "url": "https://news.ifeng.com/c/8wQyUzC7fZx",
           "source": "凤凰网",
@@ -54,20 +69,6 @@
           "time_info": "[02时49分 ~ 06时01分]"
         },
         {
-          "title": "能源休战协议破裂：乌克兰无视特朗普警告，袭击俄罗斯炼油厂",
-          "url": "https://wallstreetcn.com/articles/3781803",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时49分 ~ 13时49分]"
-        },
-        {
           "title": "美国司法部长布兰奇表示，迪根诺瓦辞职后，他此前负责调查特朗普政治对手的案件不会停止，将继续推进。",
           "url": "https://flash.jin10.com/detail/20260916022143176800",
           "source": "金十数据",
@@ -77,6 +78,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
+        },
+        {
+          "title": "伊朗盯住美中期选举，决意不让特朗普获得宣传资本",
+          "url": "https://flash.jin10.com/detail/20260916184603424800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         },
         {
           "title": "黄仁勋论坛现场接特朗普电话：不会让AI减速发生，“AI末日论”没有科学依据",
@@ -127,6 +139,17 @@
           "time_info": "06时01分"
         },
         {
+          "title": "美联储加息风暴倒计时！白宫高官：我和特朗普将尊重沃什的决定",
+          "url": "https://www.cls.cn/detail/2484462",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
+        {
           "title": "美国众议院以232票赞成、147票反对，否决得州民主党众议员阿尔·格林发起的弹劾总统特朗普的提案，这是两年内第三次弹劾尝试失败。",
           "url": "https://wallstreetcn.com/livenews/3165760",
           "source": "华尔街见闻-快讯",
@@ -147,6 +170,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-09-16）",
+          "url": "https://flash.jin10.com/detail/20260916184026862800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         },
         {
           "title": "英国首相伯纳姆下周将在美国纽约会见总统特朗普。 预计两人将在在联合国大会期间讨论乌克兰、中东和能源议题。（英国泰晤士报）",
@@ -188,6 +222,17 @@
       "match_count": 11,
       "titles": [
         {
+          "title": "油价飙升加剧通胀担忧，美债收益率再刷20年新高，美股指连跌两日静待美联储决策",
+          "url": "https://wallstreetcn.com/articles/3781779",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时13分 ~ 19时13分]"
+        },
+        {
           "title": "美联储决议前夕 全球债市抛售加剧：10年期美债收益率创2007年来新高",
           "url": "https://www.cls.cn/detail/2483760",
           "source": "财联社热门",
@@ -199,17 +244,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时49分 ~ 08时13分]"
-        },
-        {
-          "title": "油价飙升加剧通胀担忧，美债收益率再刷20年新高，美股指连跌两日静待美联储决策",
-          "url": "https://wallstreetcn.com/articles/3781779",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时13分 ~ 13时49分]"
         },
         {
           "title": "AI开发放缓担忧升温，美股指全线收跌，芯片指数大跌近6%，10年期美债收益率一度涨破5%",
@@ -249,17 +283,6 @@
           "time_info": "[02时49分 ~ 08时13分]"
         },
         {
-          "title": "20年期美债拍卖收益率创历史新高，10年期美债收益率再刷20年新高",
-          "url": "https://wallstreetcn.com/articles/3781822",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时49分"
-        },
-        {
           "title": "10年期美债突破5%！“两种叙事”萦绕市场：“2023年式短暂见顶”还是“2000年代式引爆金融危机”",
           "url": "https://wallstreetcn.com/articles/3781749",
           "source": "华尔街见闻",
@@ -271,6 +294,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时49分 ~ 08时13分]"
+        },
+        {
+          "title": "20年期美债拍卖收益率创历史新高，10年期美债收益率再刷20年新高",
+          "url": "https://wallstreetcn.com/articles/3781822",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时49分 ~ 19时13分]"
         },
         {
           "title": "贝森特：支持向美国民众发放5000美元的计划 美债回购行动取得了成功",
@@ -313,7 +348,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
         }
@@ -321,7 +356,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "OpenAI考虑在IPO之前一轮融资获得1.2万亿美元估值。 近期，该公司围绕新的资本扩充计划举行了多次对话。（英国金融时报）",
@@ -333,6 +368,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
+        },
+        {
+          "title": "据报道：OpenAI正洽谈以1.2万亿美元估值进行新一轮融资。",
+          "url": "https://wallstreetcn.com/livenews/3166215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         },
         {
           "title": "OpenAI计算主管Sachin Katti：安全的AI将需要部署更多电脑。",
@@ -363,7 +409,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
         },
@@ -377,6 +423,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
+        },
+        {
+          "title": "OpenAI智能体被曝在入侵Hugging Face前两个月曾测试其弱点",
+          "url": "https://wallstreetcn.com/livenews/3166185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         },
         {
           "title": "OpenAI考虑在加拿大建立数据中心，赞赏总理卡尼的计划。",
@@ -393,7 +450,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美股收盘：三大指数集体收跌 投资者聚焦美联储利率决议",
@@ -406,6 +463,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时13分 ~ 13时49分]"
+        },
+        {
+          "title": "美联储加息风暴即将来袭？瑞银：别慌！历史证明美股总能扛过去",
+          "url": "https://www.cls.cn/detail/2484498",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         },
         {
           "title": "美股加密货币与加密货币关联指数收跌6.62%，报68.81点，整体低开低走。 最近24小时，现货比特币跌4.05%，暂报75880美元，整体持续走低，美国参议院针对加密货币立法草案的程序性投票失败之后，出现一波加速下跌行情。 现货以太坊跌6.26%，暂报2405.645美元，整体持续走低。",
@@ -466,18 +534,18 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
-          "title": "deepseek工程师自嘲被AI取代",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364468&amp;topic_name=deepseek%E5%B7%A5%E7%A8%8B%E5%B8%88%E8%87%AA%E5%98%B2%E8%A2%ABAI%E5%8F%96%E4%BB%A3",
-          "source": "贴吧",
+          "title": "DeepSeek研究员文章走红",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E7%A0%94%E7%A9%B6%E5%91%98%E6%96%87%E7%AB%A0%E8%B5%B0%E7%BA%A2",
+          "source": "bilibili 热搜",
           "ranks": [
-            4
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时49分"
+          "time_info": "19时13分"
         },
         {
           "title": "如何看待 DeepSeek 刘胜与的《我不得不把才华埋葬在昨天》？",
@@ -493,15 +561,28 @@
           "time_info": "[02时49分 ~ 08时13分]"
         },
         {
+          "title": "deepseek工程师自嘲被AI取代",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364468&amp;topic_name=deepseek%E5%B7%A5%E7%A8%8B%E5%B8%88%E8%87%AA%E5%98%B2%E8%A2%ABAI%E5%8F%96%E4%BB%A3",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时49分 ~ 19时13分]"
+        },
+        {
           "title": "DeepSeek核心工程师长文刷屏：《我不得不把才华埋葬在昨天》",
           "url": "https://wallstreetcn.com/articles/3781850",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时49分 ~ 19时13分]"
         },
         {
           "title": "DeepSeek工程师发长文引热议",
@@ -517,6 +598,23 @@
       ]
     },
     {
+      "keyword_group": "招商银行 万华化学 福耀玻璃 旗滨集团 苏农银行 奥浦迈 爱美客 美的集团 潍柴动力 苏泊尔 鱼跃医疗 牧原股份 振邦智能 华兰生物 证监会",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "零跑汽车定增获证监会正式批复，一汽股权及金义高新战略入股敲定",
+          "url": "https://wallstreetcn.com/livenews/3166156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        }
+      ]
+    },
+    {
       "keyword_group": "银行消保 金融监管 人民银行",
       "match_count": 1,
       "titles": [
@@ -527,7 +625,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
         }
