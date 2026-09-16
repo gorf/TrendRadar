@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-17T00:33:20.966470+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-09-17T03:56:53.828965+08:00",
+  "total_titles_processed": 427,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "乌外交部：正筹备泽连斯基与特朗普会晤",
-          "url": "https://wallstreetcn.com/livenews/3166373",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
-        },
         {
           "title": "加拿大总理用“特朗普送钥匙”形容美加关系",
           "url": "https://news.ifeng.com/c/8wTGldiMoqm",
           "source": "凤凰网",
           "ranks": [
             5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 03时56分]"
+        },
+        {
+          "title": "乌外交部：正筹备泽连斯基与特朗普会晤",
+          "url": "https://wallstreetcn.com/livenews/3166373",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -50,79 +50,98 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "沃什：关于与特朗普讨论利率的问题，“我无可奉告”",
+          "url": "https://flash.jin10.com/detail/20260917032439399800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
+        },
+        {
+          "title": "特朗普为赢中期选举打现金牌能兑现吗",
+          "url": "https://www.toutiao.com/trending/7686122596324085267/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
+        },
+        {
+          "title": "美联储主席沃什：拒绝置评与美国总统特朗普的任何讨论情况。 对此无可奉告。",
+          "url": "https://wallstreetcn.com/livenews/3166434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "油价飙升加剧通胀担忧，美债收益率再刷20年新高，美股指连跌两日静待美联储决策",
           "url": "https://wallstreetcn.com/articles/3781779",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 03时56分]"
         },
         {
           "title": "美联储决议倒计时，美股走高，存储芯片股、光通信股普涨，10年期美债收益率小幅下行，油价涨势暂歇",
           "url": "https://wallstreetcn.com/articles/3781871",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 03时56分]"
         },
         {
           "title": "20年期美债拍卖收益率创历史新高，10年期美债收益率再刷20年新高",
           "url": "https://wallstreetcn.com/articles/3781822",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "DeepSeek核心工程师长文刷屏：《我不得不把才华埋葬在昨天》",
-          "url": "https://wallstreetcn.com/articles/3781850",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 03时56分]"
         },
         {
-          "title": "deepseek工程师自嘲被AI取代",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364468&amp;topic_name=deepseek%E5%B7%A5%E7%A8%8B%E5%B8%88%E8%87%AA%E5%98%B2%E8%A2%ABAI%E5%8F%96%E4%BB%A3",
-          "source": "贴吧",
+          "title": "美联储主席沃什：美债收益率上涨系多种因素所致，其中包括经济走强。 收益率还与资本竞争、地缘政治有关。",
+          "url": "https://wallstreetcn.com/livenews/3166440",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时33分"
+          "time_info": "03时56分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "谷歌(GOOG.O)：改善出版商的搜索档案。",
@@ -145,6 +164,91 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "市场消息：银团为与黑石集团(BX.N)、谷歌母公司Alphabet(GOOG.O)相关的芯片贷款筹集220亿美元资金。",
+          "url": "https://flash.jin10.com/detail/20260917033931326800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek核心工程师长文刷屏：《我不得不把才华埋葬在昨天》",
+          "url": "https://wallstreetcn.com/articles/3781850",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 03时56分]"
+        },
+        {
+          "title": "deepseek工程师自嘲被AI取代",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364468&amp;topic_name=deepseek%E5%B7%A5%E7%A8%8B%E5%B8%88%E8%87%AA%E5%98%B2%E8%A2%ABAI%E5%8F%96%E4%BB%A3",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 03时56分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美元指数有望创6月17日以来最佳单日表现",
+          "url": "https://wallstreetcn.com/livenews/3166455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
+        },
+        {
+          "title": "美元指数16日上涨",
+          "url": "https://flash.jin10.com/detail/20260917034037525800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股三大股指在沃什发布会结束后继续走低，标普500指数跌1%，创自7月29日以来最大跌幅，道指跌1.65%，纳指跌0.6%。",
+          "url": "https://flash.jin10.com/detail/20260917032953362800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
         }
       ]
     }
