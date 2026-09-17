@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-17T06:48:57.911625+08:00",
-  "total_titles_processed": 522,
+  "generated_at": "2026-09-17T09:14:19.779603+08:00",
+  "total_titles_processed": 686,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 28,
       "titles": [
         {
           "title": "加拿大总理用“特朗普送钥匙”形容美加关系",
@@ -15,19 +15,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 06时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 09时14分]"
         },
         {
           "title": "打脸特朗普！美联储全票通过三年来首次加息，点阵图料年内还将加一次",
           "url": "https://wallstreetcn.com/articles/3781919",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时48分 ~ 09时14分]"
         },
         {
           "title": "美国总统特朗普：重申美联储主席沃什有个难搞的理事会。 利率太高。 已经与沃什谈过。 我跟沃什说了让他做他想做的事。 （被问及是否仍然对沃什有信心）是的。",
@@ -36,9 +37,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时48分"
+        },
+        {
+          "title": "美国总统特朗普：如果我们赢了（中期选举），我们会给你5,000美元。就这么简单。",
+          "url": "https://flash.jin10.com/detail/20260917084443862800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
         },
         {
           "title": "乌外交部：正筹备泽连斯基与特朗普会晤",
@@ -64,6 +76,17 @@
           "time_info": "[03时56分 ~ 06时48分]"
         },
         {
+          "title": "白宫抨击美联储加息决定“相当令人遗憾”，特朗普敦促降息至1%以下、仍对沃什有信心",
+          "url": "https://wallstreetcn.com/articles/3781922",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
           "title": "乌外交部：正筹备泽连斯基与特朗普会晤",
           "url": "https://flash.jin10.com/detail/20260916235725705800",
           "source": "金十数据",
@@ -73,6 +96,72 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "特朗普：若加拿大成欧盟“联席成员”将停止美欧贸易",
+          "url": "https://news.ifeng.com/c/8wU8oPZMulC",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "特朗普谈伊朗：将是一个非常好的结局。",
+          "url": "https://wallstreetcn.com/livenews/3166574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "特朗普不满美联储加息：美国利率应在1%或以下，赶紧降息！",
+          "url": "https://www.cls.cn/detail/2485612",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "特朗普：战争很快就会结束，因为伊朗撑不下去了。",
+          "url": "https://wallstreetcn.com/livenews/3166573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "美国总统特朗普：我是一个高智商的人。",
+          "url": "https://flash.jin10.com/detail/20260917084020073800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "特朗普：我们非常接近与墨西哥达成协议。 我们为什么要带加拿大玩？ 我们不需要欧洲拥有的任何东西。 我们正在努力解决俄罗斯和乌克兰问题，最难结束的是俄乌问题。 乌克兰冲突才是推高柴油价格的原因。",
+          "url": "https://wallstreetcn.com/livenews/3166570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
         },
         {
           "title": "特朗普提名的美国卫生局局长人选：疫苗不会导致自闭症",
@@ -86,6 +175,50 @@
           "time_info": "00时33分"
         },
         {
+          "title": "特朗普：伊朗战争将很快结束。 伊朗还没准备好达成协议。 我们随时都可以达成协议。",
+          "url": "https://wallstreetcn.com/livenews/3166566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "特朗普呼吁美联储赶紧降息",
+          "url": "https://www.douyin.com/hot/2653171",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "美国总统特朗普：美国人正在支付更高的汽油价格，但这相对于美国所取得的成果而言是“非常廉价的代价”。",
+          "url": "https://flash.jin10.com/detail/20260917083343260800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "特朗普称利率应降至1%或更低",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%88%A9%E7%8E%87%E5%BA%94%E9%99%8D%E8%87%B31%25%E6%88%96%E6%9B%B4%E4%BD%8E%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
           "title": "沃什：关于与特朗普讨论利率的问题，“我无可奉告”",
           "url": "https://flash.jin10.com/detail/20260917032439399800",
           "source": "金十数据",
@@ -97,13 +230,35 @@
           "time_info": "03时56分"
         },
         {
+          "title": "特朗普强烈反对美联储加息",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%BA%E7%83%88%E5%8F%8D%E5%AF%B9%E7%BE%8E%E8%81%94%E5%82%A8%E5%8A%A0%E6%81%AF",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "特朗普预计将于下周会见海湾阿拉伯国家合作委员会（GCC）领导人，预计将讨论伊朗问题。（AXIOS）",
+          "url": "https://wallstreetcn.com/livenews/3166556",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
           "title": "美国总统特朗普登上“空军一号”，前往北卡罗来纳州加斯托尼亚，计划在当地发表中期选举演讲。",
           "url": "https://flash.jin10.com/detail/20260917052513774800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时48分"
         },
@@ -119,13 +274,46 @@
           "time_info": "03时56分"
         },
         {
+          "title": "美国总统特朗普：（关于伊朗）预测战争将很快结束，政府已将美国从“黑暗时代”转变为“黄金时代”。",
+          "url": "https://flash.jin10.com/detail/20260917081452980800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "美国总统特朗普：我们在养活欧洲国家。我们所要做的就是告诉他们，‘你知道吗？我们不再和你们做生意了。我们不需要你们的任何东西。’我们有汽车。我们有木材。我们有粮食。我们什么都有。",
+          "url": "https://flash.jin10.com/detail/20260917081307224800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "特朗普：伊朗战争很快结束 特朗普在一切事情上都是对的",
+          "url": "https://flash.jin10.com/detail/20260917081115735800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
           "title": "特朗普称美国利率应降至1%以下，敦促美联储快速降息",
           "url": "https://wallstreetcn.com/livenews/3166486",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时48分"
         }
@@ -133,7 +321,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "油价飙升加剧通胀担忧，美债收益率再刷20年新高，美股指连跌两日静待美联储决策",
@@ -179,9 +367,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时48分"
+        },
+        {
+          "title": "美债海外持仓降至9个月低点，5%收益率能否发挥“吸金力”？",
+          "url": "https://flash.jin10.com/detail/20260917083453818800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
         },
         {
           "title": "美联储主席沃什：美债收益率上涨系多种因素所致，其中包括经济走强。 收益率还与资本竞争、地缘政治有关。",
@@ -201,9 +400,82 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "美股收盘：FED鹰派加息打压市场情绪 三大指数集体走低",
+          "url": "https://www.cls.cn/detail/2485595",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时48分 ~ 09时14分]"
+        },
+        {
+          "title": "【早报】时隔3年多，美联储重启加息；美股、原油、黄金全线跳水；多家A股公司，披露回购进展",
+          "url": "https://www.cls.cn/detail/2485626",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "一文看懂： 美联储三年来首度加息，以史为鉴美股会怎么走？",
+          "url": "https://www.cls.cn/detail/2485638",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "美股科技股大跌",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1%E7%A7%91%E6%8A%80%E8%82%A1%E5%A4%A7%E8%B7%8C&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "美股三大股指在沃什发布会结束后继续走低，标普500指数跌1%，创自7月29日以来最大跌幅，道指跌1.65%，纳指跌0.6%。",
+          "url": "https://flash.jin10.com/detail/20260917032953362800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时56分"
+        },
+        {
+          "title": "美股期货反弹，标普500指数期货上涨0.3%，纳斯达克100指数期货上涨0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3166552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
         }
       ]
     },
@@ -251,7 +523,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时48分"
         },
@@ -262,7 +534,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时48分"
         }
@@ -279,7 +551,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时48分"
         },
@@ -290,7 +562,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时48分"
         },
@@ -301,7 +573,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时48分"
         },
@@ -312,7 +584,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时48分"
         }
@@ -328,11 +600,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 06时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 09时14分]"
         },
         {
           "title": "deepseek工程师自嘲被AI取代",
@@ -343,8 +616,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 06时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 09时14分]"
         }
       ]
     },
@@ -357,11 +630,12 @@
           "url": "https://wallstreetcn.com/articles/3781920",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时48分 ~ 09时14分]"
         },
         {
           "title": "国际金价在美联储加息日跌约0.7%",
@@ -370,37 +644,9 @@
           "ranks": [
             24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美股收盘：FED鹰派加息打压市场情绪 三大指数集体走低",
-          "url": "https://www.cls.cn/detail/2485595",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时48分"
-        },
-        {
-          "title": "美股三大股指在沃什发布会结束后继续走低，标普500指数跌1%，创自7月29日以来最大跌幅，道指跌1.65%，纳指跌0.6%。",
-          "url": "https://flash.jin10.com/detail/20260917032953362800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时56分"
+          "time_info": "06时48分"
         }
       ]
     },
