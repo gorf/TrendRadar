@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-09-18T06:02:30.915824+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2026-09-18T08:10:00.281676+08:00",
+  "total_titles_processed": 543,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "加拿大出绝招“跳槽”欧盟，特朗普万没想到",
+          "url": "https://news.ifeng.com/c/8wVfeC1ASaB",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时09分 ~ 08时10分]"
+        },
         {
           "title": "白宫抨击美联储加息决定“相当令人遗憾”，特朗普敦促降息至1%以下、仍对沃什有信心",
           "url": "https://wallstreetcn.com/articles/3781922",
@@ -26,7 +37,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -42,15 +53,48 @@
           "time_info": "02时05分"
         },
         {
+          "title": "特朗普调侃总统“权力任性” 称能一纸禁令让户外巨头破产",
+          "url": "https://flash.jin10.com/detail/20260918080005536800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        },
+        {
           "title": "美国总统特朗普料将最快于下周会见委内瑞拉代总统Rodriguez。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3167015",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "美国总统特朗普：（谈伊朗）我认为我们最终会赢。我不知道是否通过协议，但我们已经在赢。我觉得我们最终会赢。",
+          "url": "https://flash.jin10.com/detail/20260918075809188800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        },
+        {
+          "title": "特朗普：美伊战争迎来关键节点 我面临一个重大决定",
+          "url": "https://www.cls.cn/detail/2486613",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时09分 ~ 08时10分]"
         },
         {
           "title": "诉状文件显示：迪士尼称，鉴于美国总统特朗普持续发出威胁，美国法官必须阻止美国联邦通信委员会开展牌照提前审查。",
@@ -59,7 +103,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -114,7 +158,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -136,7 +180,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -147,7 +191,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -166,7 +210,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "美联储加息后，美股哪些板块更“抗压”？历史指向能源与科技",
@@ -177,8 +221,30 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时05分 ~ 08时10分]"
+        },
+        {
+          "title": "【早报】美股芯片板块，全线爆发；黄仁勋：英伟达明年芯片销量将翻倍；特朗普：将决定是否恢复对伊朗大规模作战；原油、黄金齐跌",
+          "url": "https://www.cls.cn/detail/2486663",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时05分 ~ 06时02分]"
+          "time_info": "[08时09分 ~ 08时10分]"
+        },
+        {
+          "title": "美股收盘：华尔街走出加息阴霾 科技股集体反弹纳指大涨近1.7%",
+          "url": "https://www.cls.cn/detail/2486633",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时09分 ~ 08时10分]"
         },
         {
           "title": "美联储加息落地，美股高开，纳指涨1.5%，存储芯片、光通信股普涨，布油跌3%，黄金逼近4370",
@@ -201,8 +267,19 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时05分 ~ 08时10分]"
+        },
+        {
+          "title": "美股飙涨！Arm涨超8%英特尔涨超7%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%A3%99%E6%B6%A8%EF%BC%81Arm%E6%B6%A8%E8%B6%858%25%E8%8B%B1%E7%89%B9%E5%B0%94%E6%B6%A8%E8%B6%857%25",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时05分 ~ 06时02分]"
+          "time_info": "[08时09分 ~ 08时10分]"
         },
         {
           "title": "金十图示：2026年09月17日（周四）美股热门股票行情一览（美股收盘）",
@@ -211,7 +288,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -222,7 +299,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -233,7 +310,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -244,7 +321,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -255,7 +332,68 @@
           "ranks": [
             30
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美联储如期加息，美债收益率反弹，美股下跌，美元指数走强，金价跳水",
+          "url": "https://wallstreetcn.com/articles/3781920",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时05分"
+        },
+        {
+          "title": "高盛：尽管昨日美联储加息，我们仍维持2027年底黄金价格预测为5400美元/盎司。 央行持续推行多元化配置，仍是我们看好黄金的主要结构性驱动因素。 依然认为我们的黄金预期面临净上行风险，但在此过程中也将伴随着更大的双向波动性。 金价短期可能下跌并触及约4070美元/盎司的阶段性底部，随后逐步回升，预计在2026年底前迈向4200美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3167055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        },
+        {
+          "title": "高盛：黄金价格可能在短期内跌向4070美元/盎司的支撑位，然后在2026年底逐渐回升至4200美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260918075147480800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        },
+        {
+          "title": "高盛：尽管昨日美联储加息，我们仍维持2027年底黄金价格预测为5400美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260918074905683800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        },
+        {
+          "title": "国际金价涨超1.8%，白银涨超3.5%",
+          "url": "https://wallstreetcn.com/livenews/3167002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         }
@@ -322,35 +460,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美联储如期加息，美债收益率反弹，美股下跌，美元指数走强，金价跳水",
-          "url": "https://wallstreetcn.com/articles/3781920",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
-        },
-        {
-          "title": "国际金价涨超1.8%，白银涨超3.5%",
-          "url": "https://wallstreetcn.com/livenews/3167002",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "06时02分"
         }
@@ -361,24 +471,25 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "美债价格反弹，市场选择“暂时相信”沃什",
+          "url": "https://wallstreetcn.com/articles/3782002",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时02分 ~ 08时10分]"
+        },
+        {
           "title": "10年期美债收益率跌超9个基点，追随国际油价走低的表现",
           "url": "https://wallstreetcn.com/livenews/3167011",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "美债价格反弹，市场选择“暂时相信”沃什",
-          "url": "https://wallstreetcn.com/articles/3782002",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         }
@@ -396,8 +507,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 06时02分]"
+          "appearance_count": 4,
+          "time_info": "[02时05分 ~ 08时10分]"
         }
       ]
     }
