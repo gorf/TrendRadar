@@ -1,22 +1,35 @@
 {
-  "generated_at": "2026-09-18T08:10:00.281676+08:00",
-  "total_titles_processed": 543,
+  "generated_at": "2026-09-18T13:43:06.003432+08:00",
+  "total_titles_processed": 758,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "加拿大出绝招“跳槽”欧盟，特朗普万没想到",
           "url": "https://news.ifeng.com/c/8wVfeC1ASaB",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时09分 ~ 08时10分]"
+          "appearance_count": 4,
+          "time_info": "[08时09分 ~ 13时43分]"
+        },
+        {
+          "title": "特朗普：美伊战争迎来关键节点 我面临一个重大决定",
+          "url": "https://www.cls.cn/detail/2486613",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时09分 ~ 13时43分]"
         },
         {
           "title": "白宫抨击美联储加息决定“相当令人遗憾”，特朗普敦促降息至1%以下、仍对沃什有信心",
@@ -59,7 +72,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -81,20 +94,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
-        },
-        {
-          "title": "特朗普：美伊战争迎来关键节点 我面临一个重大决定",
-          "url": "https://www.cls.cn/detail/2486613",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时09分 ~ 08时10分]"
         },
         {
           "title": "诉状文件显示：迪士尼称，鉴于美国总统特朗普持续发出威胁，美国法官必须阻止美国联邦通信委员会开展牌照提前审查。",
@@ -150,6 +152,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
+        },
+        {
+          "title": "NHK称，日本首相高市早苗正在安排下周联合国大会期间与美国总统特朗普会晤；共同社报道称，正在安排于9月22日举行会晤。",
+          "url": "https://wallstreetcn.com/livenews/3167154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
         },
         {
           "title": "据NewsNation：白宫官员表示，美国总统特朗普今晚（北京时间18日早上7时）将在白宫玫瑰园举行晚宴，邀请超过100名猎人、钓鱼爱好者及户外产业领导者参加。特朗普计划在活动期间签署行政命令，扩大美国民众狩猎和捕鱼机会，并撤销部分拜登政府时期实施的相关限制措施。",
@@ -210,8 +223,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "【早报】美股芯片板块，全线爆发；黄仁勋：英伟达明年芯片销量将翻倍；特朗普：将决定是否恢复对伊朗大规模作战；原油、黄金齐跌",
+          "url": "https://www.cls.cn/detail/2486663",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时09分 ~ 13时43分]"
+        },
         {
           "title": "美联储加息后，美股哪些板块更“抗压”？历史指向能源与科技",
           "url": "https://www.cls.cn/detail/2486411",
@@ -225,26 +249,16 @@
           "time_info": "[02时05分 ~ 08时10分]"
         },
         {
-          "title": "【早报】美股芯片板块，全线爆发；黄仁勋：英伟达明年芯片销量将翻倍；特朗普：将决定是否恢复对伊朗大规模作战；原油、黄金齐跌",
-          "url": "https://www.cls.cn/detail/2486663",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时09分 ~ 08时10分]"
-        },
-        {
           "title": "美股收盘：华尔街走出加息阴霾 科技股集体反弹纳指大涨近1.7%",
           "url": "https://www.cls.cn/detail/2486633",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时09分 ~ 08时10分]"
+          "appearance_count": 4,
+          "time_info": "[08时09分 ~ 13时43分]"
         },
         {
           "title": "美联储加息落地，美股高开，纳指涨1.5%，存储芯片、光通信股普涨，布油跌3%，黄金逼近4370",
@@ -280,6 +294,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时09分 ~ 08时10分]"
+        },
+        {
+          "title": "美股三大指数全线收涨，纳指涨 1.69%，半导体狂飙，英特尔涨 7.67%，科技股集体上涨，如何解读？",
+          "url": "https://www.zhihu.com/question/2084205403479302545",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 13时43分]"
         },
         {
           "title": "金十图示：2026年09月17日（周四）美股热门股票行情一览（美股收盘）",
@@ -340,8 +365,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "国际金价坐上“过山车”",
+          "url": "https://www.toutiao.com/trending/7686691401836285450/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 13时43分]"
+        },
         {
           "title": "美联储如期加息，美债收益率反弹，美股下跌，美元指数走强，金价跳水",
           "url": "https://wallstreetcn.com/articles/3781920",
@@ -360,7 +396,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -371,7 +407,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -382,7 +418,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -439,6 +475,46 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美债价格反弹，市场选择“暂时相信”沃什",
+          "url": "https://wallstreetcn.com/articles/3782002",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时02分 ~ 13时43分]"
+        },
+        {
+          "title": "用鹰派加息终结质疑！一文读懂：沃什成功拯救美债了吗？",
+          "url": "https://www.cls.cn/detail/2486715",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 13时43分]"
+        },
+        {
+          "title": "10年期美债收益率跌超9个基点，追随国际油价走低的表现",
+          "url": "https://wallstreetcn.com/livenews/3167011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
@@ -467,35 +543,6 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美债价格反弹，市场选择“暂时相信”沃什",
-          "url": "https://wallstreetcn.com/articles/3782002",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时02分 ~ 08时10分]"
-        },
-        {
-          "title": "10年期美债收益率跌超9个基点，追随国际油价走低的表现",
-          "url": "https://wallstreetcn.com/livenews/3167011",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -504,11 +551,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364468&amp;topic_name=deepseek%E5%B7%A5%E7%A8%8B%E5%B8%88%E8%87%AA%E5%98%B2%E8%A2%ABAI%E5%8F%96%E4%BB%A3",
           "source": "贴吧",
           "ranks": [
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时05分 ~ 08时10分]"
+          "appearance_count": 6,
+          "time_info": "[02时05分 ~ 13时43分]"
         }
       ]
     }
