@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-18T18:55:58.846916+08:00",
-  "total_titles_processed": 976,
+  "generated_at": "2026-09-18T22:53:59.589179+08:00",
+  "total_titles_processed": 1166,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 23,
       "titles": [
         {
           "title": "加拿大出绝招“跳槽”欧盟，特朗普万没想到",
@@ -132,6 +132,17 @@
           "time_info": "02时05分"
         },
         {
+          "title": "墨西哥总统辛鲍姆：与美国总统特朗普保持着持续的沟通。",
+          "url": "https://flash.jin10.com/detail/20260918222143923800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
           "title": "特朗普政府官员称，伊朗近期至少击落两架美国无人机。（美国媒体CBS）",
           "url": "https://wallstreetcn.com/livenews/3166935",
           "source": "华尔街见闻-快讯",
@@ -165,6 +176,17 @@
           "time_info": "13时43分"
         },
         {
+          "title": "墨西哥总统辛鲍姆：与美国围绕达成贸易协议取得不错的进展。 我持续与美国总统特朗普沟通。 一旦与美方达成最终协议，将公布细节信息。 虽然（墨方与美国、与加拿大）进行双边对话，但希望继续推进对美国墨西哥加拿大贸易协议（USMCA）的评估。",
+          "url": "https://wallstreetcn.com/livenews/3167369",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
           "title": "据NewsNation：白宫官员表示，美国总统特朗普今晚（北京时间18日早上7时）将在白宫玫瑰园举行晚宴，邀请超过100名猎人、钓鱼爱好者及户外产业领导者参加。特朗普计划在活动期间签署行政命令，扩大美国民众狩猎和捕鱼机会，并撤销部分拜登政府时期实施的相关限制措施。",
           "url": "https://flash.jin10.com/detail/20260918040948794800",
           "source": "金十数据",
@@ -174,6 +196,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "墨西哥总统辛鲍姆：在周三与美国总统特朗普进行了交谈。此次通话“非常好”，双方已达成一些协议。",
+          "url": "https://flash.jin10.com/detail/20260918221543432800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
         },
         {
           "title": "美国总统特朗普：我在伊朗战争问题上正接近重大十字路口。 我即将做出一个重大决定。（Axios）",
@@ -209,6 +242,17 @@
           "time_info": "06时02分"
         },
         {
+          "title": "李在明：特朗普金正恩数月内或会晤",
+          "url": "https://www.toutiao.com/trending/7686804726591065663/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
           "title": "特朗普称伊朗战争进入关键节点 将决定是否恢复大规模打击",
           "url": "https://flash.jin10.com/detail/20260918010437255800",
           "source": "金十数据",
@@ -223,7 +267,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "【早报】美股芯片板块，全线爆发；黄仁勋：英伟达明年芯片销量将翻倍；特朗普：将决定是否恢复对伊朗大规模作战；原油、黄金齐跌",
@@ -351,6 +395,17 @@
           "time_info": "06时02分"
         },
         {
+          "title": "美股盘初，主要行业ETF多数下跌，区域银行ETF跌1%，银行业ETF、公用事业ETF跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3167353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
           "title": "周四（9月17日），美股行业ETF普遍收涨，半导体ETF涨2.76%，生物科技指数ETF、全球科技股指数ETF、科技行业ETF至少涨2.25%，网络股指数ETF涨1.02%，能源业ETF涨0.69%，金融业ETF、银行业ETF至多跌0.15%。",
           "url": "https://wallstreetcn.com/livenews/3166985",
           "source": "华尔街见闻-快讯",
@@ -360,6 +415,101 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "谷歌：我们正在使用新的测试框架更新Gemini托管代理。 antigravity‑preview‑09‑2026版本为Google AI Studio以及交互API带来相关工具与行为能力。",
+          "url": "https://wallstreetcn.com/livenews/3166946",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时05分"
+        },
+        {
+          "title": "刚刚，Gemini 4 Pro偷跑上线！碾压Astra和Fable",
+          "url": "https://wallstreetcn.com/articles/3782055",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 22时53分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)：我们正在用全新的工具框架更新Gemini托管代理。新版本“antigravity-preview-09-2026”将Antigravity工具和行为集成至Google AI Studio及Interactions API。",
+          "url": "https://flash.jin10.com/detail/20260918013658433800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时05分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：任命阿努·马德加夫卡尔和丹尼尔·洛克担任人工智能与经济研究主管。",
+          "url": "https://flash.jin10.com/detail/20260918221413641800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：诺贝尔奖得主菲利普·阿吉翁和阿贾伊·阿格拉瓦尔加入谷歌，扩大人工智能与经济团队。",
+          "url": "https://flash.jin10.com/detail/20260918221332492800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
+          "title": "美国纽约市议长Menin：要求Meta、X（原推特）、谷歌公司的CEO们出席AI听证会。",
+          "url": "https://wallstreetcn.com/livenews/3167357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
+          "title": "谷歌A涨3.5%，创六周以来最大涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3167354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
+          "title": "谷歌：在Gemini Notebook中推出专家智能功能。",
+          "url": "https://wallstreetcn.com/livenews/3166915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时05分"
         }
       ]
     },
@@ -436,58 +586,8 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "谷歌：我们正在使用新的测试框架更新Gemini托管代理。 antigravity‑preview‑09‑2026版本为Google AI Studio以及交互API带来相关工具与行为能力。",
-          "url": "https://wallstreetcn.com/livenews/3166946",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
-        },
-        {
-          "title": "刚刚，Gemini 4 Pro偷跑上线！碾压Astra和Fable",
-          "url": "https://wallstreetcn.com/articles/3782055",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：我们正在用全新的工具框架更新Gemini托管代理。新版本“antigravity-preview-09-2026”将Antigravity工具和行为集成至Google AI Studio及Interactions API。",
-          "url": "https://flash.jin10.com/detail/20260918013658433800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
-        },
-        {
-          "title": "谷歌：在Gemini Notebook中推出专家智能功能。",
-          "url": "https://wallstreetcn.com/livenews/3166915",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美债价格反弹，市场选择“暂时相信”沃什",
@@ -501,6 +601,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[06时02分 ~ 18时55分]"
+        },
+        {
+          "title": "人民币兑美元再破 6.7，美国加息、美元走强、美债收益率上行背景下，为何人民币汇率不跌反涨？",
+          "url": "https://www.zhihu.com/question/2084231179130164816",
+          "source": "知乎",
+          "ranks": [
+            13,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 22时53分]"
         },
         {
           "title": "用鹰派加息终结质疑！一文读懂：沃什成功拯救美债了吗？",
@@ -525,22 +637,33 @@
           "time_info": "06时02分"
         },
         {
-          "title": "人民币兑美元再破 6.7，美国加息、美元走强、美债收益率上行背景下，为何人民币汇率不跌反涨？",
-          "url": "https://www.zhihu.com/question/2084231179130164816",
-          "source": "知乎",
+          "title": "美国两年期国债收益率涨至4.743%，创2024年7月以来新高，日内当前涨约8个基点。 10年期美债收益率涨约7.2个基点，刷新日高至5.0043%。 两年期通胀保值国债（TIPS）收益率涨6.93个基点，报2.2649%，逼近7月23日顶部2.3734%。",
+          "url": "https://wallstreetcn.com/livenews/3167374",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时55分"
+          "time_info": "22时53分"
         }
       ]
     },
     {
       "keyword_group": "招商银行 万华化学 福耀玻璃 旗滨集团 苏农银行 奥浦迈 爱美客 美的集团 潍柴动力 苏泊尔 鱼跃医疗 牧原股份 振邦智能 华兰生物 证监会",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "涉嫌信息披露违法违规，3家A股公司被证监会立案",
+          "url": "https://www.cls.cn/detail/2487423",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
         {
           "title": "中国证监会拟对17起案件线索的“吹哨人”给予奖励",
           "url": "https://wallstreetcn.com/livenews/3167290",
@@ -548,7 +671,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -559,7 +682,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -570,7 +693,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         }
@@ -578,7 +701,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "如何看待前 OpenAI 研究员发布的新模型「Jev」 ？这类模型会成为 Agent 的新技术路线吗？",
@@ -590,6 +713,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时05分 ~ 06时02分]"
+        },
+        {
+          "title": "88小时抵一个人思考4000年！OpenAI核心研究员：除了自我进化，更可怕的是AI正学会“隐藏自己”",
+          "url": "https://wallstreetcn.com/articles/3782066",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
         },
         {
           "title": "OpenAI推出面向律师事务所的新型AI模型。",
@@ -609,7 +743,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         }
