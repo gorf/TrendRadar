@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-09-19T05:33:29.429817+08:00",
-  "total_titles_processed": 398,
+  "generated_at": "2026-09-19T08:02:51.502350+08:00",
+  "total_titles_processed": 507,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 31,
       "titles": [
+        {
+          "title": "特朗普称获格陵兰岛安全永久控制权",
+          "url": "https://www.toutiao.com/trending/7687013209366089259/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "美总统特朗普签署针对俄罗斯和伊朗的制裁法案",
+          "url": "https://flash.jin10.com/detail/20260919061129307800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
         {
           "title": "美国总统特朗普：特朗普在共和党内的支持率现已达到95%，创下历史新高。排名第二的是罗纳德·里根，支持率为86%。谢谢！",
           "url": "https://flash.jin10.com/detail/20260919015926925800",
@@ -19,27 +41,51 @@
           "time_info": "02时13分"
         },
         {
-          "title": "美媒：全球为特朗普的历史执念买单",
-          "url": "https://www.toutiao.com/trending/7685735571751272454/",
-          "source": "今日头条",
+          "title": "乌克兰总统泽连斯基感谢美国总统特朗普签署俄罗斯制裁法案，并感谢国会成员对此的支持。",
+          "url": "https://flash.jin10.com/detail/20260919060817824800",
+          "source": "金十数据",
           "ranks": [
-            23,
-            6
+            4
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时13分 ~ 05时33分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "特朗普称获格陵兰岛永久安全控制权",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%8E%B7%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E6%B0%B8%E4%B9%85%E5%AE%89%E5%85%A8%E6%8E%A7%E5%88%B6%E6%9D%83",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         },
         {
           "title": "沃什是如何在不激怒特朗普的情况下加息的",
           "url": "https://wallstreetcn.com/articles/3782071",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时13分 ~ 05时33分]"
+          "appearance_count": 3,
+          "time_info": "[02时13分 ~ 08时02分]"
+        },
+        {
+          "title": "美媒：全球为特朗普的历史执念买单",
+          "url": "https://www.toutiao.com/trending/7685735571751272454/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            6,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时13分 ~ 08时02分]"
         },
         {
           "title": "特朗普再称对伊朗战争将很快结束",
@@ -48,9 +94,53 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
+        },
+        {
+          "title": "美国法官裁定：特朗普政府取消70亿美元太阳能项目违法",
+          "url": "https://wallstreetcn.com/livenews/3167516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "特朗普称美国与丹麦就格陵兰安全协议达成一致",
+          "url": "https://flash.jin10.com/detail/20260919055223697800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "特朗普：已与丹麦达成协议 美国获得对格陵兰岛的永久安全控制权",
+          "url": "https://www.cls.cn/detail/2487690",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "特朗普称伊朗战争将很快结束 丹麦和格陵兰岛将与美签安全协议 | 环球市场",
+          "url": "https://www.cls.cn/detail/2487698",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         },
         {
           "title": "特朗普称美国“轻松赢得”对伊朗战争 预计冲突将很快结束",
@@ -59,9 +149,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
+        },
+        {
+          "title": "白宫：特朗普签署俄罗斯制裁法案，使其正式成为法律。",
+          "url": "https://flash.jin10.com/detail/20260919054532930800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         },
         {
           "title": "美国总统特朗普：美国正与也门胡塞武装对话。 （与伊朗一样）胡塞也希望达成一份协议。（Newsnation）",
@@ -81,7 +182,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
         },
@@ -92,9 +193,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
+        },
+        {
+          "title": "美国总统特朗普下周将在纽约市会见委内瑞拉代总统Rodriguez。",
+          "url": "https://wallstreetcn.com/livenews/3167507",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         },
         {
           "title": "美国总统特朗普回应禁CNN等媒体：不想让他们进入办公室，禁令将扩大。",
@@ -103,7 +215,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
         },
@@ -114,7 +226,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
         },
@@ -125,9 +237,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
+        },
+        {
+          "title": "美国驻联合国大使：特朗普将会见委内瑞拉代总统罗德里格斯。 特朗普将与海湾领导人举行多边会议。",
+          "url": "https://wallstreetcn.com/livenews/3167505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "美国总统特朗普：美国已与丹麦和格陵兰达成协议，美国将获得对格陵兰安全事务及相关需求的“永久控制权”。该协议无需美国承担成本，解决了美国长期以来对格陵兰战略安全的担忧。",
+          "url": "https://flash.jin10.com/detail/20260919051953651800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         },
         {
           "title": "李在明：特朗普金正恩数月内或会晤",
@@ -139,6 +273,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
+        },
+        {
+          "title": "【美总统特朗普签署针对俄罗斯和伊朗的制裁法案】9月18日，美国白宫发布声明表示，美国总统特朗普当日签署了《2026年林赛·格雷厄姆制裁俄罗斯和伊朗法案》。该法案授权并扩大了针对俄罗斯的法定制裁、关税及禁令，并延长了现行针对伊朗的制裁措施。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3167503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "美国民主党参议员沃伦：总统为何要审查媒体？特朗普将美国拖入一场无休止的战争，抬高了从汽油到食品等各类商品的价格。 特朗普想要掩盖自己的败绩。选民会追究他的责任。",
+          "url": "https://wallstreetcn.com/livenews/3167501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "白宫公告：对部分非移民工人实施美国入境限制。 总统特朗普将H-1B签证入境限制延长12个月至2027年9月。",
+          "url": "https://wallstreetcn.com/livenews/3167499",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         },
         {
           "title": "消息人士：美国总统特朗普预计当地时间今天签署针对俄罗斯的制裁法案。",
@@ -158,7 +325,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
         },
@@ -169,26 +336,89 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
+        },
+        {
+          "title": "特朗普：美国已与丹麦达成协议，将永久控制格陵兰岛的安全",
+          "url": "https://wallstreetcn.com/livenews/3167487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "刚刚，Gemini 4 Pro偷跑上线！碾压Astra和Fable",
+          "url": "https://wallstreetcn.com/articles/3782055",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时13分 ~ 08时02分]"
+        },
+        {
+          "title": "Gemini首次出现自主访问外部系统事件 谷歌称未造成实际损害",
+          "url": "https://flash.jin10.com/detail/20260919061946164800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "据华尔街日报：谷歌Gemini模型在网络安全测试中自主攻击3家公司系统，系谷歌AI首次已知自主执行此类行为。",
+          "url": "https://flash.jin10.com/detail/20260919061626069800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "继OpenAI、Anthropic、Meta之后，谷歌也披露AI入侵事件",
+          "url": "https://wallstreetcn.com/livenews/3167504",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "88小时抵一个人思考4000年！OpenAI核心研究员：除了自我进化，更可怕的是AI正学会“隐藏自己”",
           "url": "https://wallstreetcn.com/articles/3782066",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时13分 ~ 05时33分]"
+          "appearance_count": 3,
+          "time_info": "[02时13分 ~ 08时02分]"
         },
         {
           "title": "OpenAI的CEO Altman下周将对联合国安理会讲话。（路透）",
@@ -197,9 +427,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
+        },
+        {
+          "title": "报道：OpenAI到2030年这段时间料将烧钱2800亿美元",
+          "url": "https://wallstreetcn.com/livenews/3167512",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         },
         {
           "title": "据路透：OpenAI首席执行官奥尔特曼将于下周向联合国安全理事会做简报。",
@@ -208,16 +449,66 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
         }
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 2,
+      "keyword_group": "美债",
+      "match_count": 3,
       "titles": [
+        {
+          "title": "“三巫日”叠加10年期美债重回5%，标普、纳指艰难收涨，闪迪大涨11%，油价跌黄金涨",
+          "url": "https://wallstreetcn.com/articles/3782058",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "美债再度承压，美股盘初涨跌互现，纳指涨0.4%，日元下跌，WTI油价小幅转涨",
+          "url": "https://wallstreetcn.com/articles/3782058",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时33分"
+        },
+        {
+          "title": "两年期美债收益率创去年4月底以来新高，周五涨约8个基点，两年期实际收益率本周涨超19个基点",
+          "url": "https://wallstreetcn.com/livenews/3167494",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美股收盘：AI芯片股爆发推动纳指走高 华尔街告别动荡一周",
+          "url": "https://www.cls.cn/detail/2487680",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
         {
           "title": "大豆基金收跌1%，与地产ETF领跌美股大类资产类ETF",
           "url": "https://wallstreetcn.com/livenews/3167468",
@@ -225,7 +516,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
         },
@@ -236,7 +527,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
         }
@@ -244,35 +535,30 @@
     },
     {
       "keyword_group": "招商银行 万华化学 福耀玻璃 旗滨集团 苏农银行 奥浦迈 爱美客 美的集团 潍柴动力 苏泊尔 鱼跃医疗 牧原股份 振邦智能 华兰生物 证监会",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "涉嫌信息披露违法违规，3家A股公司被证监会立案",
           "url": "https://www.cls.cn/detail/2487423",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时13分 ~ 05时33分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
+          "appearance_count": 3,
+          "time_info": "[02时13分 ~ 08时02分]"
+        },
         {
-          "title": "刚刚，Gemini 4 Pro偷跑上线！碾压Astra和Fable",
-          "url": "https://wallstreetcn.com/articles/3782055",
-          "source": "华尔街见闻",
+          "title": "【早报】美国存储股尾盘爆拉；沈鼓集团部分投资者被暂停交易；多家A股上市公司被证监会立案",
+          "url": "https://www.cls.cn/detail/2487701",
+          "source": "财联社热门",
           "ranks": [
-            4
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时13分 ~ 05时33分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         }
       ]
     },
@@ -287,24 +573,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美债再度承压，美股盘初涨跌互现，纳指涨0.4%，日元下跌，WTI油价小幅转涨",
-          "url": "https://wallstreetcn.com/articles/3782058",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
         }
@@ -321,7 +590,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
         }
