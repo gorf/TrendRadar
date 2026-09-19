@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-09-19T18:38:53.385781+08:00",
-  "total_titles_processed": 929,
+  "generated_at": "2026-09-19T22:15:57.654000+08:00",
+  "total_titles_processed": 1119,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
+        {
+          "title": "特朗普：已与丹麦达成协议 美国获得对格陵兰岛的永久安全控制权",
+          "url": "https://www.cls.cn/detail/2487690",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时02分 ~ 22时15分]"
+        },
         {
           "title": "特朗普：将和中方达成许多协议",
           "url": "https://news.ifeng.com/c/8wXTDHLqvEw",
@@ -32,18 +44,6 @@
           "time_info": "[02时13分 ~ 13时37分]"
         },
         {
-          "title": "特朗普：已与丹麦达成协议 美国获得对格陵兰岛的永久安全控制权",
-          "url": "https://www.cls.cn/detail/2487690",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时02分 ~ 18时38分]"
-        },
-        {
           "title": "特朗普：将获得格陵兰岛永久安全控制权",
           "url": "https://news.ifeng.com/c/8wXHwFjsRIx",
           "source": "凤凰网",
@@ -53,6 +53,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时36分 ~ 13时37分]"
+        },
+        {
+          "title": "据CNN：CNN记者当地时间今早被拒绝进入白宫，其记者证也被收走。此前一天，特朗普宣布将“禁止”CNN、MS NOW和Politico媒体进入。",
+          "url": "https://flash.jin10.com/detail/20260919220433327800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         },
         {
           "title": "特朗普称获格陵兰岛安全永久控制权",
@@ -99,6 +110,19 @@
           "time_info": "08时02分"
         },
         {
+          "title": "特朗普称伊朗战争将很快结束 丹麦和格陵兰岛将与美签安全协议 | 环球市场",
+          "url": "https://www.cls.cn/detail/2487698",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时02分 ~ 22时15分]"
+        },
+        {
           "title": "特朗普称获格陵兰岛永久安全控制权",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%8E%B7%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E6%B0%B8%E4%B9%85%E5%AE%89%E5%85%A8%E6%8E%A7%E5%88%B6%E6%9D%83",
           "source": "百度热搜",
@@ -110,28 +134,42 @@
           "time_info": "08时02分"
         },
         {
-          "title": "特朗普称伊朗战争将很快结束 丹麦和格陵兰岛将与美签安全协议 | 环球市场",
-          "url": "https://www.cls.cn/detail/2487698",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时02分 ~ 18时38分]"
-        },
-        {
           "title": "特朗普称美国将获得对格陵兰岛安全「永久控制权」，丹麦称下周签署协议，保留主权，这是变相拿下格陵兰了吗？",
           "url": "https://www.zhihu.com/question/2084546841962603642",
           "source": "知乎",
           "ranks": [
             6,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时36分 ~ 18时38分]"
+          "appearance_count": 4,
+          "time_info": "[13时36分 ~ 22时15分]"
+        },
+        {
+          "title": "特朗普：对伊战争将很快结束 美国正与也门胡塞武装接触",
+          "url": "https://www.cls.cn/detail/2487749",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时36分 ~ 22时15分]"
+        },
+        {
+          "title": "特朗普禁止CNN等多家媒体进入白宫：他们不断报道假新闻",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34102730",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时36分 ~ 22时15分]"
         },
         {
           "title": "美媒：全球为特朗普的历史执念买单",
@@ -147,27 +185,27 @@
           "time_info": "[02时13分 ~ 08时02分]"
         },
         {
-          "title": "特朗普：对伊战争将很快结束 美国正与也门胡塞武装接触",
-          "url": "https://www.cls.cn/detail/2487749",
-          "source": "财联社热门",
+          "title": "特朗普宣布美国丹麦达成格陵兰协议，美将获该岛“永久安全控制权”",
+          "url": "https://wallstreetcn.com/articles/3782114",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            8
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时36分 ~ 18时38分]"
+          "appearance_count": 2,
+          "time_info": "[18时38分 ~ 22时15分]"
         },
         {
-          "title": "特朗普禁止CNN等多家媒体进入白宫：他们不断报道假新闻",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34102730",
+          "title": "特朗普要禁CNN进白宫采访，再点名威胁《纽约时报》",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34102731",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            16,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时36分 ~ 18时38分]"
+          "appearance_count": 2,
+          "time_info": "[18时38分 ~ 22时15分]"
         },
         {
           "title": "特朗普再称对伊朗战争将很快结束",
@@ -192,17 +230,6 @@
           "time_info": "08时02分"
         },
         {
-          "title": "特朗普宣布美国丹麦达成格陵兰协议，美将获该岛“永久安全控制权”",
-          "url": "https://wallstreetcn.com/articles/3782114",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时38分"
-        },
-        {
           "title": "特朗普称美国与丹麦就格陵兰安全协议达成一致",
           "url": "https://flash.jin10.com/detail/20260919055223697800",
           "source": "金十数据",
@@ -212,6 +239,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "一周展望：黄金扛住加息盯4500，特朗普“大决定”将至，沙特危局升温",
+          "url": "https://flash.jin10.com/detail/20260919213004409800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         },
         {
           "title": "特朗普称美国“轻松赢得”对伊朗战争 预计冲突将很快结束",
@@ -324,17 +362,6 @@
           "time_info": "08时02分"
         },
         {
-          "title": "特朗普要禁CNN进白宫采访，再点名威胁《纽约时报》",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34102731",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时38分"
-        },
-        {
           "title": "美国总统特朗普：美国已与丹麦和格陵兰达成协议，美国将获得对格陵兰安全事务及相关需求的“永久控制权”。该协议无需美国承担成本，解决了美国长期以来对格陵兰战略安全的担忧。",
           "url": "https://flash.jin10.com/detail/20260919051953651800",
           "source": "金十数据",
@@ -396,7 +423,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         },
@@ -470,7 +497,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         },
@@ -479,11 +506,23 @@
           "url": "https://www.cls.cn/detail/2487720",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时36分 ~ 18时38分]"
+          "appearance_count": 4,
+          "time_info": "[13时36分 ~ 22时15分]"
+        },
+        {
+          "title": "OpenAI 被曝雪藏数百个 AI 数学证明，这一爆料有哪些依据？人类数学研究的意义何在？",
+          "url": "https://www.zhihu.com/question/2084194257187902845",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时38分 ~ 22时15分]"
         },
         {
           "title": "用魔法打败魔法，OpenAI被Claude“黑了”......",
@@ -492,7 +531,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         },
@@ -517,17 +556,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
-        },
-        {
-          "title": "OpenAI 被曝雪藏数百个 AI 数学证明，这一爆料有哪些依据？人类数学研究的意义何在？",
-          "url": "https://www.zhihu.com/question/2084194257187902845",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时38分"
         },
         {
           "title": "据路透：OpenAI首席执行官奥尔特曼将于下周向联合国安全理事会做简报。",
@@ -606,8 +634,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时02分 ~ 18时38分]"
+          "appearance_count": 5,
+          "time_info": "[08时02分 ~ 22时15分]"
         },
         {
           "title": "美债再度承压，美股盘初涨跌互现，纳指涨0.4%，日元下跌，WTI油价小幅转涨",
@@ -646,8 +674,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时02分 ~ 18时38分]"
+          "appearance_count": 5,
+          "time_info": "[08时02分 ~ 22时15分]"
         },
         {
           "title": "大豆基金收跌1%，与地产ETF领跌美股大类资产类ETF",
@@ -678,6 +706,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "【早报】美国存储股尾盘爆拉；沈鼓集团部分投资者被暂停交易；多家A股上市公司被证监会立案",
+          "url": "https://www.cls.cn/detail/2487701",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时02分 ~ 22时15分]"
+        },
+        {
           "title": "涉嫌信息披露违法违规，3家A股公司被证监会立案",
           "url": "https://www.cls.cn/detail/2487423",
           "source": "财联社热门",
@@ -688,18 +728,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时13分 ~ 08时02分]"
-        },
-        {
-          "title": "【早报】美国存储股尾盘爆拉；沈鼓集团部分投资者被暂停交易；多家A股上市公司被证监会立案",
-          "url": "https://www.cls.cn/detail/2487701",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时02分 ~ 18时38分]"
         }
       ]
     },
