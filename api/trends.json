@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-09-20T06:48:51.778860+08:00",
-  "total_titles_processed": 411,
+  "generated_at": "2026-09-20T08:53:08.921880+08:00",
+  "total_titles_processed": 491,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "“特朗普要对欧洲下狠手：拟撤走一半美军”",
           "url": "https://news.ifeng.com/c/8wYTU4GPY51",
           "source": "凤凰网",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时53分 ~ 06时48分]"
+          "appearance_count": 5,
+          "time_info": "[01时53分 ~ 08时53分]"
         },
         {
           "title": "特朗普：已与丹麦达成协议 美国获得对格陵兰岛的永久安全控制权",
@@ -24,11 +25,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时53分 ~ 06时48分]"
+          "appearance_count": 5,
+          "time_info": "[01时53分 ~ 08时53分]"
         },
         {
           "title": "特朗普称不会限制AI发展 将设立“AI沙皇”负责监管",
@@ -42,18 +44,6 @@
           "time_info": "01时53分"
         },
         {
-          "title": "特朗普在戴维营期间 一架飞机闯入禁飞区遭F-16拦截",
-          "url": "https://flash.jin10.com/detail/20260920034909374800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时21分 ~ 06时48分]"
-        },
-        {
           "title": "特朗普称将组建一支“人工智能部队”",
           "url": "https://wallstreetcn.com/livenews/3167727",
           "source": "华尔街见闻-快讯",
@@ -62,8 +52,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时21分 ~ 06时48分]"
+          "appearance_count": 3,
+          "time_info": "[04时21分 ~ 08时53分]"
         },
         {
           "title": "特朗普禁止CNN等多家媒体进入白宫：他们不断报道假新闻",
@@ -75,8 +65,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时53分 ~ 06时48分]"
+          "appearance_count": 5,
+          "time_info": "[01时53分 ~ 08时53分]"
         },
         {
           "title": "特朗普称美国将获得对格陵兰岛安全「永久控制权」，丹麦称下周签署协议，保留主权，这是变相拿下格陵兰了吗？",
@@ -88,19 +78,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时53分 ~ 06时48分]"
-        },
-        {
-          "title": "特朗普称伊朗战争将很快结束 丹麦和格陵兰岛将与美签安全协议 | 环球市场",
-          "url": "https://www.cls.cn/detail/2487698",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时53分 ~ 06时48分]"
+          "appearance_count": 5,
+          "time_info": "[01时53分 ~ 08时53分]"
         },
         {
           "title": "特朗普要禁CNN进白宫采访，再点名威胁《纽约时报》",
@@ -108,7 +87,57 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            15
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时53分 ~ 08时53分]"
+        },
+        {
+          "title": "特朗普在戴维营期间 一架飞机闯入禁飞区遭F-16拦截",
+          "url": "https://flash.jin10.com/detail/20260920034909374800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时21分 ~ 08时53分]"
+        },
+        {
+          "title": "伊朗称仍在通过调解方向美方传递谈判条件，正等待特朗普的回应",
+          "url": "https://wallstreetcn.com/livenews/3167726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时21分 ~ 08时53分]"
+        },
+        {
+          "title": "市场消息：美国F-16战机拦截一架违反戴维营禁飞区规定的飞机。当时美国总统特朗普正在戴维营内活动。",
+          "url": "https://flash.jin10.com/detail/20260920033313637800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时21分 ~ 08时53分]"
+        },
+        {
+          "title": "特朗普称伊朗战争将很快结束 丹麦和格陵兰岛将与美签安全协议 | 环球市场",
+          "url": "https://www.cls.cn/detail/2487698",
+          "source": "财联社热门",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -137,28 +166,15 @@
           "time_info": "[01时53分 ~ 04时21分]"
         },
         {
-          "title": "市场消息：美国F-16战机拦截一架违反戴维营禁飞区规定的飞机。当时美国总统特朗普正在戴维营内活动。",
-          "url": "https://flash.jin10.com/detail/20260920033313637800",
-          "source": "金十数据",
+          "title": "伊朗已向美方提出停战条件 等待特朗普政府回应",
+          "url": "https://www.cls.cn/detail/2487946",
+          "source": "财联社热门",
           "ranks": [
-            6,
             13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时21分 ~ 06时48分]"
-        },
-        {
-          "title": "伊朗称仍在通过调解方向美方传递谈判条件，正等待特朗普的回应",
-          "url": "https://wallstreetcn.com/livenews/3167726",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时21分 ~ 06时48分]"
+          "time_info": "[08时52分 ~ 08时53分]"
         },
         {
           "title": "美国总统特朗普：计划成立“人工智能工作组”，并将在未来任命一名负责AI事务的“AI沙皇”。",
@@ -219,7 +235,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "据The Information：据一位知情人士透露，OpenAI即将破解霍奇猜想（Hodge Conjecture），这是七大“千禧年大奖难题”中的又一个。",
@@ -243,6 +259,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时53分 ~ 06时48分]"
+        },
+        {
+          "title": "OpenAI预计2030年前累计烧钱逾2780亿美元，同期营收目标达3500亿",
+          "url": "https://wallstreetcn.com/articles/3782117",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时52分 ~ 08时53分]"
         }
       ]
     },
@@ -258,8 +285,25 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时53分 ~ 06时48分]"
+          "appearance_count": 5,
+          "time_info": "[01时53分 ~ 08时53分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Deepseek 用现在的 ds harness 好还是 zcode 好？",
+          "url": "https://www.zhihu.com/question/2081862888633922641",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时52分 ~ 08时53分]"
         }
       ]
     },
@@ -290,11 +334,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时53分 ~ 06时48分]"
+          "appearance_count": 5,
+          "time_info": "[01时53分 ~ 08时53分]"
         }
       ]
     }
