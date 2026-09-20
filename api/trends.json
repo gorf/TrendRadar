@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-20T08:53:08.921880+08:00",
-  "total_titles_processed": 491,
+  "generated_at": "2026-09-20T13:56:23.580396+08:00",
+  "total_titles_processed": 698,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 25,
       "titles": [
         {
           "title": "“特朗普要对欧洲下狠手：拟撤走一半美军”",
@@ -31,6 +31,39 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时53分 ~ 08时53分]"
+        },
+        {
+          "title": "特朗普提前返回白宫，确切原因不明",
+          "url": "https://original.ifeng.com/c/8wZIQaL65A7",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
+        },
+        {
+          "title": "美国总统特朗普：美国保守派记者马修·康蒂内蒂（Matthew Continetti）在马克·莱文节目中关于所谓“AI灾难骗局”的访谈表现非常出色。",
+          "url": "https://flash.jin10.com/detail/20260920131649591800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
+        },
+        {
+          "title": "特朗普究竟是如何逼迫丹麦同意格陵兰协议的？",
+          "url": "https://news.ifeng.com/c/8wZAjw655ET",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
         },
         {
           "title": "特朗普称不会限制AI发展 将设立“AI沙皇”负责监管",
@@ -133,6 +166,18 @@
           "time_info": "[04时21分 ~ 08时53分]"
         },
         {
+          "title": "伊朗已向美方提出停战条件 等待特朗普政府回应",
+          "url": "https://www.cls.cn/detail/2487946",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时52分 ~ 13时56分]"
+        },
+        {
           "title": "特朗普称伊朗战争将很快结束 丹麦和格陵兰岛将与美签安全协议 | 环球市场",
           "url": "https://www.cls.cn/detail/2487698",
           "source": "财联社热门",
@@ -166,17 +211,6 @@
           "time_info": "[01时53分 ~ 04时21分]"
         },
         {
-          "title": "伊朗已向美方提出停战条件 等待特朗普政府回应",
-          "url": "https://www.cls.cn/detail/2487946",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时52分 ~ 08时53分]"
-        },
-        {
           "title": "美国总统特朗普：计划成立“人工智能工作组”，并将在未来任命一名负责AI事务的“AI沙皇”。",
           "url": "https://flash.jin10.com/detail/20260920011442886800",
           "source": "金十数据",
@@ -186,6 +220,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        },
+        {
+          "title": "胡塞武装打到利雅得！沙特首都首次拉响空袭警报，特朗普会出手吗？",
+          "url": "https://flash.jin10.com/detail/20260920122940307800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
+        },
+        {
+          "title": "特朗普称不会限制AI发展 并将成立“AI特别工作组”",
+          "url": "https://www.cls.cn/detail/2487942",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
         },
         {
           "title": "伊朗称已通过卡塔尔向华盛顿转达谈判三大条件 等待特朗普决定",
@@ -230,6 +286,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        },
+        {
+          "title": "特朗普提前返回白宫",
+          "url": "https://wallstreetcn.com/livenews/3167752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
         }
       ]
     },
@@ -274,6 +341,35 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Deepseek 用现在的 ds harness 好还是 zcode 好？",
+          "url": "https://www.zhihu.com/question/2081862888633922641",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时52分 ~ 13时56分]"
+        },
+        {
+          "title": "DeepSeek明确节假日计费规则",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%98%8E%E7%A1%AE%E8%8A%82%E5%81%87%E6%97%A5%E8%AE%A1%E8%B4%B9%E8%A7%84%E5%88%99",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
+        }
+      ]
+    },
+    {
       "keyword_group": "招商银行 万华化学 福耀玻璃 旗滨集团 苏农银行 奥浦迈 爱美客 美的集团 潍柴动力 苏泊尔 鱼跃医疗 牧原股份 振邦智能 华兰生物 证监会",
       "match_count": 1,
       "titles": [
@@ -287,23 +383,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时53分 ~ 08时53分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Deepseek 用现在的 ds harness 好还是 zcode 好？",
-          "url": "https://www.zhihu.com/question/2081862888633922641",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时52分 ~ 08时53分]"
         }
       ]
     },
