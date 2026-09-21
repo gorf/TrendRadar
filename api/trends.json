@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-21T08:01:23.464320+08:00",
-  "total_titles_processed": 481,
+  "generated_at": "2026-09-21T12:47:33.052491+08:00",
+  "total_titles_processed": 695,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 28,
       "titles": [
         {
           "title": "美国和丹麦都宣布“赢了”，特朗普的协议有哪些变化？",
@@ -30,6 +30,17 @@
           "time_info": "[02时36分 ~ 08时01分]"
         },
         {
+          "title": "五角大楼“披萨指数”飙升！特朗普提前返回白宫",
+          "url": "https://news.ifeng.com/c/8wam18kkida",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
           "title": "据Axios：美国总统特朗普将于周二在纽约会见乌克兰总统泽连斯基，此时正值美国努力达成俄乌局势降级协议之际。",
           "url": "https://flash.jin10.com/detail/20260921043845369800",
           "source": "金十数据",
@@ -39,6 +50,32 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "五角大楼疑漏报美军死亡人数，美防长怒喷美媒“恨特朗普超过爱美国”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34108907",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时36分 ~ 12时47分]"
+        },
+        {
+          "title": "特朗普中期选举前景生变：传统“红州”告急，拉美裔支持度下滑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34110440",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时36分 ~ 12时47分]"
         },
         {
           "title": "泽连斯基称与特朗普通话，双方商定在纽约会晤",
@@ -77,37 +114,12 @@
           "time_info": "[02时36分 ~ 08时01分]"
         },
         {
-          "title": "五角大楼疑漏报美军死亡人数，美防长怒喷美媒“恨特朗普超过爱美国”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34108907",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时36分 ~ 08时01分]"
-        },
-        {
           "title": "特朗普说禁就禁：CNN记者现场被没收记者证，只留证件套",
           "url": "https://m.thepaper.cn/newsDetail_forward_34108031",
           "source": "澎湃新闻",
           "ranks": [
             15,
             14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时36分 ~ 08时01分]"
-        },
-        {
-          "title": "特朗普中期选举前景生变：传统“红州”告急，拉美裔支持度下滑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34110440",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            17
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -138,6 +150,39 @@
           "time_info": "[02时36分 ~ 05时21分]"
         },
         {
+          "title": "特朗普：不排除与伊朗总统在联大会面",
+          "url": "https://original.ifeng.com/c/8wamMbA6Au7",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
+          "title": "中东和平现曙光？特朗普称将对伊朗作重大决定 卡塔尔称美国希望达成协议",
+          "url": "https://www.cls.cn/detail/2488469",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
+          "title": "美国柴油首次突破6.5美元，特朗普遇上一个比汽油更棘手的能源难题",
+          "url": "https://flash.jin10.com/detail/20260921120016603800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
           "title": "特朗普要组建“人工智能部队”，此前称“AI安全风险”是“骗局”",
           "url": "https://wallstreetcn.com/articles/3782144",
           "source": "华尔街见闻",
@@ -155,7 +200,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
         },
@@ -166,7 +211,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
         },
@@ -237,6 +282,17 @@
           "time_info": "05时21分"
         },
         {
+          "title": "特朗普将于周一美东时间17:35在纽约会见法国总统马克龙。",
+          "url": "https://wallstreetcn.com/livenews/3167949",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
           "title": "据华尔街日报：特朗普政府准备对国际刑事法院实施制裁。",
           "url": "https://flash.jin10.com/detail/20260921023216745800",
           "source": "金十数据",
@@ -254,7 +310,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
         },
@@ -280,11 +336,12 @@
           "url": "https://wallstreetcn.com/articles/3782152",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时21分 ~ 08时01分]"
+          "appearance_count": 4,
+          "time_info": "[05时21分 ~ 12时47分]"
         },
         {
           "title": "让ChatGPT预测房价哪年见底",
@@ -296,6 +353,51 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "高盛：AI投资热贡献美股近半数盈利增长 但明年这一动力将逐渐消失…",
+          "url": "https://www.cls.cn/detail/2488257",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
+          "title": "美股三大股指期货周一开盘微涨。",
+          "url": "https://flash.jin10.com/detail/20260921060139523800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "招商银行 万华化学 福耀玻璃 旗滨集团 苏农银行 奥浦迈 爱美客 美的集团 潍柴动力 苏泊尔 鱼跃医疗 牧原股份 振邦智能 华兰生物 证监会",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "9月21日投资避雷针：四家上市公司遭证监会立案",
+          "url": "https://www.cls.cn/detail/2488451",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         }
       ]
     },
@@ -318,19 +420,19 @@
       ]
     },
     {
-      "keyword_group": "美股",
+      "keyword_group": "金价",
       "match_count": 1,
       "titles": [
         {
-          "title": "美股三大股指期货周一开盘微涨。",
-          "url": "https://flash.jin10.com/detail/20260921060139523800",
+          "title": "能源压力正快速退潮，本周金价真正难啃的骨头是...",
+          "url": "https://flash.jin10.com/detail/20260921113502073800",
           "source": "金十数据",
           "ranks": [
-            21
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时01分"
+          "time_info": "12时47分"
         }
       ]
     }
