@@ -1,522 +1,138 @@
 {
-  "generated_at": "2026-09-21T18:33:39.073019+08:00",
-  "total_titles_processed": 916,
+  "generated_at": "2026-09-22T00:56:41.511282+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "美国和丹麦都宣布“赢了”，特朗普的协议有哪些变化？",
-          "url": "https://news.ifeng.com/c/8wZn77TYY38",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时36分 ~ 08时01分]"
-        },
-        {
-          "title": "特朗普吼一嗓子《格陵兰岛协议》，中方就“笑不出来了”？",
-          "url": "https://news.ifeng.com/c/8wZnFcitScK",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时36分 ~ 08时01分]"
-        },
-        {
-          "title": "五角大楼“披萨指数”飙升！特朗普提前返回白宫",
-          "url": "https://news.ifeng.com/c/8wam18kkida",
-          "source": "凤凰网",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时47分 ~ 18时33分]"
-        },
-        {
-          "title": "特朗普中期选举前景生变：传统“红州”告急，拉美裔支持度下滑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34110440",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时36分 ~ 18时33分]"
-        },
-        {
-          "title": "美媒称特朗普下令空袭胡塞后又变卦",
-          "url": "https://news.ifeng.com/c/8wbLU7n9HHo",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时33分"
-        },
-        {
-          "title": "据Axios：美国总统特朗普将于周二在纽约会见乌克兰总统泽连斯基，此时正值美国努力达成俄乌局势降级协议之际。",
-          "url": "https://flash.jin10.com/detail/20260921043845369800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "特朗普周日与泽连斯基通了电话，特朗普施压泽连斯基停止对俄罗斯炼油厂的打击。特朗普表示，他对柴油价格不断上涨非常担忧。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3168226",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时33分"
-        },
         {
           "title": "特朗普政府誓要搞垮国际刑事法院，“正酝酿全面制裁”",
           "url": "https://news.ifeng.com/c/8wb657JvMmu",
           "source": "凤凰网",
           "ranks": [
-            5
+            3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时33分"
+          "time_info": "00时56分"
         },
         {
-          "title": "五角大楼疑漏报美军死亡人数，美防长怒喷美媒“恨特朗普超过爱美国”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34108907",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时36分 ~ 12时47分]"
-        },
-        {
-          "title": "泽连斯基称与特朗普通话，双方商定在纽约会晤",
-          "url": "https://wallstreetcn.com/livenews/3167862",
+          "title": "据两名美国高级官员向 News 12 记者透露，特朗普曾考虑在周末下令对也门胡塞武装发动袭击，但目前已决定暂不采取行动。",
+          "url": "https://wallstreetcn.com/livenews/3168416",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            14
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时21分 ~ 08时01分]"
+          "appearance_count": 1,
+          "time_info": "00时56分"
         },
         {
-          "title": "特朗普：也门胡塞武装同意不与美国交战",
-          "url": "https://wallstreetcn.com/livenews/3167850",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            11,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时36分 ~ 08时01分]"
-        },
-        {
-          "title": "特朗普中期选举前景生变：传统“红州”告急，拉美裔支持度下滑",
-          "url": "https://news.ifeng.com/c/8wa2WYqhPkF",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时36分 ~ 08时01分]"
-        },
-        {
-          "title": "特朗普说禁就禁：CNN记者现场被没收记者证，只留证件套",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34108031",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时36分 ~ 08时01分]"
-        },
-        {
-          "title": "特朗普称将对伊朗作出重大决定",
-          "url": "https://wallstreetcn.com/livenews/3167834",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 05时21分]"
-        },
-        {
-          "title": "美国总统特朗普科技顾问Michael Kratsios：AI领袖们无需某个人来放慢（AI模型开发）节奏。 美国工具箱中有工具来应对AI安全问题。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3167830",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 05时21分]"
-        },
-        {
-          "title": "特朗普：不排除与伊朗总统在联大会面",
-          "url": "https://original.ifeng.com/c/8wamMbA6Au7",
-          "source": "凤凰网",
+          "title": "美媒：特朗普在周末曾考虑对胡塞武装发动空袭，但最终决定暂且搁置",
+          "url": "https://flash.jin10.com/detail/20260922002817634800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时47分"
+          "time_info": "00时56分"
         },
         {
-          "title": "中东和平现曙光？特朗普称将对伊朗作重大决定 卡塔尔称美国希望达成协议",
-          "url": "https://www.cls.cn/detail/2488469",
-          "source": "财联社热门",
+          "title": "据Axios：美国两名官员表示，特朗普在周末曾考虑对也门胡塞武装发动空袭，但最终决定暂且搁置。",
+          "url": "https://flash.jin10.com/detail/20260922002244828800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时47分"
+          "time_info": "00时56分"
         },
         {
-          "title": "美国柴油首次突破6.5美元，特朗普遇上一个比汽油更棘手的能源难题",
-          "url": "https://flash.jin10.com/detail/20260921120016603800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时47分"
-        },
-        {
-          "title": "特朗普要组建“人工智能部队”，此前称“AI安全风险”是“骗局”",
-          "url": "https://wallstreetcn.com/articles/3782144",
-          "source": "华尔街见闻",
+          "title": "美国总统特朗普：我只会鼓励AI。 重申AI末日警告是“骗局”。 我们会谨慎行事，如有必要将加以约束。",
+          "url": "https://wallstreetcn.com/livenews/3168407",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时36分"
+          "time_info": "00时56分"
         },
         {
-          "title": "胡塞袭击升级后美伊再放狠话，佩泽希齐扬或在联大与特朗普接触",
-          "url": "https://flash.jin10.com/detail/20260921065834310800",
+          "title": "特朗普：谁赢得人工智能，谁就赢得胜利",
+          "url": "https://flash.jin10.com/detail/20260921235042565800",
           "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "特朗普在联大期间将与哪些领导人会晤？",
-          "url": "https://flash.jin10.com/detail/20260921065017897800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "据纽约时报：美国总统特朗普将于当地时间9月21日（周一）在纽约市与纽约市长马姆达尼会面。",
-          "url": "https://flash.jin10.com/detail/20260921011454179800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时36分"
-        },
-        {
-          "title": "消息人士：柴油价格成为特朗普与泽连斯基通话焦点",
-          "url": "https://flash.jin10.com/detail/20260921034920880800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "哈塞特回应特朗普油价承诺 称政府已尽力降低影响",
-          "url": "https://flash.jin10.com/detail/20260921033031086800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "泽连斯基称与特朗普通话 双方商定在纽约会晤",
-          "url": "https://flash.jin10.com/detail/20260921024209011800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "战机挂弹却被紧急叫停！特朗普为何突然取消轰炸胡塞武装？",
-          "url": "https://flash.jin10.com/detail/20260921174806580800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时33分"
-        },
-        {
-          "title": "特朗普政府拟扩大对国际刑事法院制裁措施",
-          "url": "https://flash.jin10.com/detail/20260921024136095800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "特朗普与纽约市长将于周一会面 讨论纽约事务",
-          "url": "https://flash.jin10.com/detail/20260921023837556800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "特朗普将于周一美东时间17:35在纽约会见法国总统马克龙。",
-          "url": "https://wallstreetcn.com/livenews/3167949",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时47分"
-        },
-        {
-          "title": "据华尔街日报：特朗普政府准备对国际刑事法院实施制裁。",
-          "url": "https://flash.jin10.com/detail/20260921023216745800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "伊媒分析特朗普与伊朗总统的潜在会晤",
-          "url": "https://flash.jin10.com/detail/20260921055537003800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-09-21）",
-          "url": "https://flash.jin10.com/detail/20260921174218568800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时33分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：已与美国总统特朗普通话，双方同意在纽约举行会面。此次会面“可能改变很多事情”。",
-          "url": "https://flash.jin10.com/detail/20260921021802464800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "招商银行 万华化学 福耀玻璃 旗滨集团 苏农银行 奥浦迈 爱美客 美的集团 潍柴动力 苏泊尔 鱼跃医疗 牧原股份 振邦智能 华兰生物 证监会",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "9月21日投资避雷针：四家上市公司遭证监会立案",
-          "url": "https://www.cls.cn/detail/2488451",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时47分"
-        },
-        {
-          "title": "ST椰岛：因涉嫌信息披露违法违规，被证监会立案",
-          "url": "https://flash.jin10.com/detail/20260921175747463800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时33分"
-        },
-        {
-          "title": "ST椰岛：因涉嫌信息披露违法违规，被证监会立案",
-          "url": "https://wallstreetcn.com/livenews/3168197",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "疑谷歌 Gemini4Pro 「偷跑」上线，网传碾压 GPT-6Astra，如何评价？",
-          "url": "https://www.zhihu.com/question/2084432664535241222",
-          "source": "知乎",
-          "ranks": [
-            7,
-            8
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 05时21分]"
-        },
-        {
-          "title": "谷歌因违反位置数据规则被罚4.03亿欧元",
-          "url": "https://flash.jin10.com/detail/20260921180246254800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时33分"
+          "time_info": "00时56分"
         },
         {
-          "title": "爱尔兰监管机构因位置数据处理问题对谷歌处以4.03亿欧元罚款。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3168162",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI又要融资了：1.2万亿美元估值，谁还敢接下一棒？",
-          "url": "https://wallstreetcn.com/articles/3782152",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时21分 ~ 12时47分]"
-        },
-        {
-          "title": "让ChatGPT预测房价哪年见底",
-          "url": "https://s.weibo.com/weibo?q=%E8%AE%A9ChatGPT%E9%A2%84%E6%B5%8B%E6%88%BF%E4%BB%B7%E5%93%AA%E5%B9%B4%E8%A7%81%E5%BA%95&t=31&band_rank=26&Refer=top",
+          "title": "特朗普回应中美元首会晤",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
           "ranks": [
-            26
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时36分"
+          "time_info": "00时56分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
-          "title": "高盛：AI投资热贡献美股近半数盈利增长 但明年这一动力将逐渐消失…",
-          "url": "https://www.cls.cn/detail/2488257",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时47分"
-        },
-        {
-          "title": "美股三大股指期货周一开盘微涨。",
-          "url": "https://flash.jin10.com/detail/20260921060139523800",
+          "title": "金十图示：2026年09月21日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260922003147816800",
           "source": "金十数据",
           "ranks": [
-            21
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时01分"
+          "time_info": "00时56分"
+        },
+        {
+          "title": "金十图示：2026年09月21日（周一）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260922003058348800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时56分"
+        },
+        {
+          "title": "市场聚焦中美对话，美股高开，科技股普涨，英特尔涨超9%，油价四连跌",
+          "url": "https://wallstreetcn.com/articles/3782211",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时56分"
+        },
+        {
+          "title": "油价回落提振风险偏好 美股期指走高 纳指期货涨1% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2489316",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时56分"
         }
       ]
     },
@@ -525,32 +141,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "蔡东出任金融监管总局副局长，此前为吉林省委常委、常务副省长",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34110835",
-          "source": "澎湃新闻",
+          "title": "中国人民银行召开外资金融机构座谈会",
+          "url": "https://www.cls.cn/detail/2489240",
+          "source": "财联社热门",
           "ranks": [
-            19
+            2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时33分"
+          "time_info": "00时56分"
         }
       ]
     },
     {
-      "keyword_group": "金价",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "能源压力正快速退潮，本周金价真正难啃的骨头是...",
-          "url": "https://flash.jin10.com/detail/20260921113502073800",
-          "source": "金十数据",
+          "title": "OpenAI与Anthropic带来高昂成本，迫使初创企业转向开源模型",
+          "url": "https://wallstreetcn.com/livenews/3168413",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时47分"
+          "time_info": "00时56分"
         }
       ]
     }
