@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-22T00:56:41.511282+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-09-22T04:55:41.642984+08:00",
+  "total_titles_processed": 420,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普政府誓要搞垮国际刑事法院，“正酝酿全面制裁”",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 04时55分]"
         },
         {
           "title": "据两名美国高级官员向 News 12 记者透露，特朗普曾考虑在周末下令对也门胡塞武装发动袭击，但目前已决定暂不采取行动。",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        },
+        {
+          "title": "特朗普回应中美元首会晤",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 04时55分]"
         },
         {
           "title": "美媒：特朗普在周末曾考虑对胡塞武装发动空袭，但最终决定暂且搁置",
@@ -52,6 +63,28 @@
           "time_info": "00时56分"
         },
         {
+          "title": "美国总统特朗普：目前身处纽约，正在前往纽约市市长官邸。这些年来，我在那里度过了许多时光，结识过一些杰出的市长、一些平庸的市长，还有一些糟糕的市长。这次受纽约市长曼达尼的邀请，去看看它如今是什么样子，应该会很有意思。我对此充满期待。",
+          "url": "https://flash.jin10.com/detail/20260922035709598800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时55分"
+        },
+        {
+          "title": "特朗普施压泽连斯基：停止袭击俄罗斯炼厂，“都是柴油、柴油、柴油”",
+          "url": "https://wallstreetcn.com/articles/3782225",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时55分"
+        },
+        {
           "title": "美国总统特朗普：我只会鼓励AI。 重申AI末日警告是“骗局”。 我们会谨慎行事，如有必要将加以约束。",
           "url": "https://wallstreetcn.com/livenews/3168407",
           "source": "华尔街见闻-快讯",
@@ -61,6 +94,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        },
+        {
+          "title": "美国总统特朗普：我们一如既往地会提起上诉，因为那些只写负面报道的假新闻人士和媒体，他们利用来源不明的“消息人士”撰写虚假且诽谤性的报道，危害我们国家安全，绝不应被允许进入世界上最重要的办公室。",
+          "url": "https://flash.jin10.com/detail/20260922034438716800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时55分"
+        },
+        {
+          "title": "美国总统特朗普：不出所料，假新闻网站CNN、Politico、以及MSNOW已提起诉讼，要求获得进入白宫及接近总统先生的权限。",
+          "url": "https://flash.jin10.com/detail/20260922034253480800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时55分"
         },
         {
           "title": "特朗普：谁赢得人工智能，谁就赢得胜利",
@@ -74,21 +129,54 @@
           "time_info": "00时56分"
         },
         {
-          "title": "特朗普回应中美元首会晤",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
+          "title": "特朗普登上美国总统的专车前往纽约市市长官邸，他将在那里与纽约市市长会面。",
+          "url": "https://wallstreetcn.com/livenews/3168477",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时55分"
+        },
+        {
+          "title": "特朗普政府拟拨款50亿美元用于重建中东能源设施",
+          "url": "https://flash.jin10.com/detail/20260922033005045800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时55分"
+        },
+        {
+          "title": "据华尔街日报：特朗普政府提议投入50亿美元，启动投资基金以重建海湾能源设施。",
+          "url": "https://flash.jin10.com/detail/20260922031412335800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时55分"
+        },
+        {
+          "title": "报道：特朗普政府提议拨款50亿美元，启动海湾能源设施重建投资基金",
+          "url": "https://wallstreetcn.com/livenews/3168465",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时56分"
+          "time_info": "04时55分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 10,
       "titles": [
         {
           "title": "金十图示：2026年09月21日（周一）美股热门股票行情一览（美股盘中）",
@@ -102,6 +190,28 @@
           "time_info": "00时56分"
         },
         {
+          "title": "金十图示：2026年09月21日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260922040545379800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时55分"
+        },
+        {
+          "title": "纳指ETF收涨将近2.9%，与新兴市场ETF领跑美股大类资产类ETF，布油基金跌2.8%",
+          "url": "https://wallstreetcn.com/livenews/3168494",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时55分"
+        },
+        {
           "title": "金十图示：2026年09月21日（周一）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260922003058348800",
           "source": "金十数据",
@@ -113,9 +223,83 @@
           "time_info": "00时56分"
         },
         {
+          "title": "金十图示：2026年09月21日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260922040524971800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时55分"
+        },
+        {
           "title": "市场聚焦中美对话，美股高开，科技股普涨，英特尔涨超9%，油价四连跌",
           "url": "https://wallstreetcn.com/articles/3782211",
           "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 04时55分]"
+        },
+        {
+          "title": "油价回落提振风险偏好 美股期指走高 纳指期货涨1% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2489316",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 04时55分]"
+        },
+        {
+          "title": "美股收盘：纳指创收盘新高，Meta大涨11%",
+          "url": "https://flash.jin10.com/detail/20260922040317429800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时55分"
+        },
+        {
+          "title": "周一（9月21日），美股行业ETF多数收涨，半导体ETF涨4.02%，网络股指数ETF涨3.02%，全球科技股指数ETF涨2.97%，科技行业ETF涨2.89%，可选消费ETF涨1.3%，日常消费品ETF跌0.41%，区域银行ETF跌0.48%，能源业ETF跌2.3%。",
+          "url": "https://wallstreetcn.com/livenews/3168489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时55分"
+        },
+        {
+          "title": "周一（9月21日），彭博电动汽车价格回报指数涨0.25%，报3265.91点，亚太时段呈现出V形走势，美股时段呈现出V形走势、但整体上延续亚太午盘以来持续走高的表现。",
+          "url": "https://wallstreetcn.com/livenews/3168488",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI与Anthropic带来高昂成本，迫使初创企业转向开源模型",
+          "url": "https://wallstreetcn.com/livenews/3168413",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
@@ -124,15 +308,43 @@
           "time_info": "00时56分"
         },
         {
-          "title": "油价回落提振风险偏好 美股期指走高 纳指期货涨1% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2489316",
-          "source": "财联社热门",
+          "title": "OpenAI被曝开发新功能",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E8%A2%AB%E6%9B%9D%E5%BC%80%E5%8F%91%E6%96%B0%E5%8A%9F%E8%83%BD",
+          "source": "百度热搜",
           "ranks": [
-            6
+            27
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时56分"
+          "time_info": "04时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美元指数21日上涨",
+          "url": "https://flash.jin10.com/detail/20260922030929876800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时55分"
+        },
+        {
+          "title": "周一（9月21日）纽约尾盘，ICE美元指数涨0.19%，报100.411点，日内交投区间为100.179-100.451点，整体持续走高，北京时间100:00、200:00先后出现一波V形反转行情，20:06刷新日低。 彭博美元指数涨0.10%，报1204.30点，日内交投区间为1202.26-1204.81点。",
+          "url": "https://wallstreetcn.com/livenews/3168470",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时55分"
         }
       ]
     },
@@ -145,28 +357,29 @@
           "url": "https://www.cls.cn/detail/2489240",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 04时55分]"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "美债",
       "match_count": 1,
       "titles": [
         {
-          "title": "OpenAI与Anthropic带来高昂成本，迫使初创企业转向开源模型",
-          "url": "https://wallstreetcn.com/livenews/3168413",
+          "title": "长端美债收益率下跌",
+          "url": "https://wallstreetcn.com/livenews/3168479",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时56分"
+          "time_info": "04时55分"
         }
       ]
     }
