@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-21T12:47:33.052491+08:00",
-  "total_titles_processed": 695,
+  "generated_at": "2026-09-21T18:33:39.073019+08:00",
+  "total_titles_processed": 916,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 33,
       "titles": [
         {
           "title": "美国和丹麦都宣布“赢了”，特朗普的协议有哪些变化？",
@@ -34,11 +34,37 @@
           "url": "https://news.ifeng.com/c/8wam18kkida",
           "source": "凤凰网",
           "ranks": [
-            3
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时47分 ~ 18时33分]"
+        },
+        {
+          "title": "特朗普中期选举前景生变：传统“红州”告急，拉美裔支持度下滑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34110440",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时36分 ~ 18时33分]"
+        },
+        {
+          "title": "美媒称特朗普下令空袭胡塞后又变卦",
+          "url": "https://news.ifeng.com/c/8wbLU7n9HHo",
+          "source": "凤凰网",
+          "ranks": [
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时47分"
+          "time_info": "18时33分"
         },
         {
           "title": "据Axios：美国总统特朗普将于周二在纽约会见乌克兰总统泽连斯基，此时正值美国努力达成俄乌局势降级协议之际。",
@@ -52,6 +78,28 @@
           "time_info": "05时21分"
         },
         {
+          "title": "特朗普周日与泽连斯基通了电话，特朗普施压泽连斯基停止对俄罗斯炼油厂的打击。特朗普表示，他对柴油价格不断上涨非常担忧。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3168226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时33分"
+        },
+        {
+          "title": "特朗普政府誓要搞垮国际刑事法院，“正酝酿全面制裁”",
+          "url": "https://news.ifeng.com/c/8wb657JvMmu",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时33分"
+        },
+        {
           "title": "五角大楼疑漏报美军死亡人数，美防长怒喷美媒“恨特朗普超过爱美国”",
           "url": "https://m.thepaper.cn/newsDetail_forward_34108907",
           "source": "澎湃新闻",
@@ -59,19 +107,6 @@
             13,
             14,
             12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时36分 ~ 12时47分]"
-        },
-        {
-          "title": "特朗普中期选举前景生变：传统“红州”告急，拉美裔支持度下滑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34110440",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            17
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -156,7 +191,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
         },
@@ -167,7 +202,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
         },
@@ -178,7 +213,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
         },
@@ -260,6 +295,17 @@
           "time_info": "05时21分"
         },
         {
+          "title": "战机挂弹却被紧急叫停！特朗普为何突然取消轰炸胡塞武装？",
+          "url": "https://flash.jin10.com/detail/20260921174806580800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时33分"
+        },
+        {
           "title": "特朗普政府拟扩大对国际刑事法院制裁措施",
           "url": "https://flash.jin10.com/detail/20260921024136095800",
           "source": "金十数据",
@@ -288,7 +334,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
         },
@@ -315,6 +361,17 @@
           "time_info": "08时01分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-09-21）",
+          "url": "https://flash.jin10.com/detail/20260921174218568800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时33分"
+        },
+        {
           "title": "乌克兰总统泽连斯基：已与美国总统特朗普通话，双方同意在纽约举行会面。此次会面“可能改变很多事情”。",
           "url": "https://flash.jin10.com/detail/20260921021802464800",
           "source": "金十数据",
@@ -324,6 +381,85 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "招商银行 万华化学 福耀玻璃 旗滨集团 苏农银行 奥浦迈 爱美客 美的集团 潍柴动力 苏泊尔 鱼跃医疗 牧原股份 振邦智能 华兰生物 证监会",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "9月21日投资避雷针：四家上市公司遭证监会立案",
+          "url": "https://www.cls.cn/detail/2488451",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
+          "title": "ST椰岛：因涉嫌信息披露违法违规，被证监会立案",
+          "url": "https://flash.jin10.com/detail/20260921175747463800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时33分"
+        },
+        {
+          "title": "ST椰岛：因涉嫌信息披露违法违规，被证监会立案",
+          "url": "https://wallstreetcn.com/livenews/3168197",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "疑谷歌 Gemini4Pro 「偷跑」上线，网传碾压 GPT-6Astra，如何评价？",
+          "url": "https://www.zhihu.com/question/2084432664535241222",
+          "source": "知乎",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 05时21分]"
+        },
+        {
+          "title": "谷歌因违反位置数据规则被罚4.03亿欧元",
+          "url": "https://flash.jin10.com/detail/20260921180246254800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时33分"
+        },
+        {
+          "title": "爱尔兰监管机构因位置数据处理问题对谷歌处以4.03亿欧元罚款。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3168162",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时33分"
         }
       ]
     },
@@ -367,7 +503,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
         },
@@ -385,37 +521,19 @@
       ]
     },
     {
-      "keyword_group": "招商银行 万华化学 福耀玻璃 旗滨集团 苏农银行 奥浦迈 爱美客 美的集团 潍柴动力 苏泊尔 鱼跃医疗 牧原股份 振邦智能 华兰生物 证监会",
+      "keyword_group": "银行消保 金融监管 人民银行",
       "match_count": 1,
       "titles": [
         {
-          "title": "9月21日投资避雷针：四家上市公司遭证监会立案",
-          "url": "https://www.cls.cn/detail/2488451",
-          "source": "财联社热门",
+          "title": "蔡东出任金融监管总局副局长，此前为吉林省委常委、常务副省长",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34110835",
+          "source": "澎湃新闻",
           "ranks": [
-            9
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "疑谷歌 Gemini4Pro 「偷跑」上线，网传碾压 GPT-6Astra，如何评价？",
-          "url": "https://www.zhihu.com/question/2084432664535241222",
-          "source": "知乎",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 05时21分]"
+          "time_info": "18时33分"
         }
       ]
     },
@@ -430,7 +548,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
         }
