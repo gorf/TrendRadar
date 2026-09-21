@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-21T05:21:16.254944+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2026-09-21T08:01:23.464320+08:00",
+  "total_titles_processed": 481,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "美国和丹麦都宣布“赢了”，特朗普的协议有哪些变化？",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 05时21分]"
+          "appearance_count": 4,
+          "time_info": "[02时36分 ~ 08时01分]"
         },
         {
           "title": "特朗普吼一嗓子《格陵兰岛协议》，中方就“笑不出来了”？",
@@ -26,19 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 05时21分]"
-        },
-        {
-          "title": "泽连斯基称与特朗普通话，双方商定在纽约会晤",
-          "url": "https://wallstreetcn.com/livenews/3167862",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时21分"
+          "appearance_count": 4,
+          "time_info": "[02时36分 ~ 08时01分]"
         },
         {
           "title": "据Axios：美国总统特朗普将于周二在纽约会见乌克兰总统泽连斯基，此时正值美国努力达成俄乌局势降级协议之际。",
@@ -47,9 +36,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "泽连斯基称与特朗普通话，双方商定在纽约会晤",
+          "url": "https://wallstreetcn.com/livenews/3167862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 08时01分]"
         },
         {
           "title": "特朗普：也门胡塞武装同意不与美国交战",
@@ -57,11 +58,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            11
+            11,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 05时21分]"
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 08时01分]"
         },
         {
           "title": "特朗普中期选举前景生变：传统“红州”告急，拉美裔支持度下滑",
@@ -71,19 +73,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 05时21分]"
+          "appearance_count": 4,
+          "time_info": "[02时36分 ~ 08时01分]"
         },
         {
           "title": "五角大楼疑漏报美军死亡人数，美防长怒喷美媒“恨特朗普超过爱美国”",
           "url": "https://m.thepaper.cn/newsDetail_forward_34108907",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 05时21分]"
+          "appearance_count": 4,
+          "time_info": "[02时36分 ~ 08时01分]"
         },
         {
           "title": "特朗普说禁就禁：CNN记者现场被没收记者证，只留证件套",
@@ -94,8 +97,21 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 05时21分]"
+          "appearance_count": 4,
+          "time_info": "[02时36分 ~ 08时01分]"
+        },
+        {
+          "title": "特朗普中期选举前景生变：传统“红州”告急，拉美裔支持度下滑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34110440",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时36分 ~ 08时01分]"
         },
         {
           "title": "特朗普称将对伊朗作出重大决定",
@@ -122,18 +138,6 @@
           "time_info": "[02时36分 ~ 05时21分]"
         },
         {
-          "title": "特朗普中期选举前景生变：传统“红州”告急，拉美裔支持度下滑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34110440",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 05时21分]"
-        },
-        {
           "title": "特朗普要组建“人工智能部队”，此前称“AI安全风险”是“骗局”",
           "url": "https://wallstreetcn.com/articles/3782144",
           "source": "华尔街见闻",
@@ -143,6 +147,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
+        },
+        {
+          "title": "胡塞袭击升级后美伊再放狠话，佩泽希齐扬或在联大与特朗普接触",
+          "url": "https://flash.jin10.com/detail/20260921065834310800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "特朗普在联大期间将与哪些领导人会晤？",
+          "url": "https://flash.jin10.com/detail/20260921065017897800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
         },
         {
           "title": "据纽约时报：美国总统特朗普将于当地时间9月21日（周一）在纽约市与纽约市长马姆达尼会面。",
@@ -162,7 +188,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -173,7 +199,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -184,7 +210,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -195,7 +221,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -206,7 +232,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -217,9 +243,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "伊媒分析特朗普与伊朗总统的潜在会晤",
+          "url": "https://flash.jin10.com/detail/20260921055537003800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
         },
         {
           "title": "乌克兰总统泽连斯基：已与美国总统特朗普通话，双方同意在纽约举行会面。此次会面“可能改变很多事情”。",
@@ -228,7 +265,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         }
@@ -245,9 +282,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时21分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时21分 ~ 08时01分]"
         },
         {
           "title": "让ChatGPT预测房价哪年见底",
@@ -277,6 +314,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时36分 ~ 05时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股三大股指期货周一开盘微涨。",
+          "url": "https://flash.jin10.com/detail/20260921060139523800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
         }
       ]
     }
