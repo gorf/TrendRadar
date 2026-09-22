@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-22T07:58:41.482321+08:00",
-  "total_titles_processed": 540,
+  "generated_at": "2026-09-22T12:42:14.307976+08:00",
+  "total_titles_processed": 765,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普政府誓要搞垮国际刑事法院，“正酝酿全面制裁”",
@@ -19,6 +19,28 @@
           "time_info": "[00时56分 ~ 07时58分]"
         },
         {
+          "title": "遭白宫封杀，CNN等起诉特朗普政府",
+          "url": "https://original.ifeng.com/c/8wcWg8Fzt0M",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 12时42分]"
+        },
+        {
+          "title": "凤凰记者：伊朗总统赴美有两个目的，预计不会和特朗普会晤",
+          "url": "https://original.ifeng.com/c/8wcbOB9VdFe",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 12时42分]"
+        },
+        {
           "title": "据两名美国高级官员向 News 12 记者透露，特朗普曾考虑在周末下令对也门胡塞武装发动袭击，但目前已决定暂不采取行动。",
           "url": "https://wallstreetcn.com/livenews/3168416",
           "source": "华尔街见闻-快讯",
@@ -30,6 +52,17 @@
           "time_info": "00时56分"
         },
         {
+          "title": "比尔·盖茨：特朗普对AI的看法反映了社会的认知盲区",
+          "url": "https://flash.jin10.com/detail/20260922122107189800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
           "title": "特朗普施压泽连斯基：停止袭击俄罗斯炼厂，“都是柴油、柴油、柴油”",
           "url": "https://wallstreetcn.com/articles/3782225",
           "source": "华尔街见闻",
@@ -38,8 +71,30 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时55分 ~ 12时42分]"
+        },
+        {
+          "title": "特朗普力推与白俄罗斯达成大规模钾肥交易 欲在贸易战中削弱加拿大优势",
+          "url": "https://www.cls.cn/detail/2489470",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时55分 ~ 07时58分]"
+          "time_info": "[12时41分 ~ 12时42分]"
+        },
+        {
+          "title": "美媒称特朗普下令空袭胡塞后又变卦",
+          "url": "https://www.toutiao.com/trending/7687797930430005290/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 12时42分]"
         },
         {
           "title": "特朗普回应中美元首会晤",
@@ -81,7 +136,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         },
@@ -136,7 +191,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         },
@@ -163,6 +218,17 @@
           "time_info": "04时55分"
         },
         {
+          "title": "特朗普将于当地时间周二上午11:45在纽约会见英国首相，12:30会见日本首相，13:15会见乌克兰总统泽连斯基，14:45会见海湾合作委员会成员，19:40会见委内瑞拉代总统。",
+          "url": "https://wallstreetcn.com/livenews/3168635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
           "title": "特朗普政府拟拨款50亿美元用于重建中东能源设施",
           "url": "https://flash.jin10.com/detail/20260922033005045800",
           "source": "金十数据",
@@ -180,7 +246,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         },
@@ -202,9 +268,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "韩国产业部表示，对美投资计划最终将由特朗普宣布；若美方提出要求，资金需在45天内汇出。（韩联社）",
+          "url": "https://wallstreetcn.com/livenews/3168629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
         },
         {
           "title": "特朗普：今日将开会讨论伊朗问题",
@@ -213,7 +290,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         },
@@ -232,7 +309,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "【早报】美股芯片股，全线暴涨；原油大跌、黄金走弱；宁德时代、江波龙披露回购进展",
@@ -241,20 +318,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时58分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时58分 ~ 12时42分]"
         },
         {
           "title": "美股收盘：纳指涨超2%再创新高 Meta版“龙虾”点燃行情 AMD市值首次突破万亿美元",
           "url": "https://www.cls.cn/detail/2489502",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时58分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时58分 ~ 12时42分]"
         },
         {
           "title": "金十图示：2026年09月21日（周一）美股热门股票行情一览（美股盘中）",
@@ -368,13 +446,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
+        },
+        {
+          "title": "美股历史高位附近“摇曳”，市场把“加息枷锁”当背景音乐",
+          "url": "https://flash.jin10.com/detail/20260922114227812800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "AI智能体之争升温！OpenAI被曝加紧备战Grok Bot与Muse",
+          "url": "https://www.cls.cn/detail/2489489",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 12时42分]"
+        },
+        {
+          "title": "OpenAI称新模型解决100+开放问题",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E7%A7%B0%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%A7%A3%E5%86%B3100%2B%E5%BC%80%E6%94%BE%E9%97%AE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 12时42分]"
+        },
         {
           "title": "OpenAI与Anthropic带来高昂成本，迫使初创企业转向开源模型",
           "url": "https://wallstreetcn.com/livenews/3168413",
@@ -457,7 +568,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         }
@@ -474,7 +585,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         }
