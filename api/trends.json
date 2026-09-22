@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-22T17:45:19.983514+08:00",
-  "total_titles_processed": 983,
+  "generated_at": "2026-09-22T22:33:12.052076+08:00",
+  "total_titles_processed": 1187,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 39,
       "titles": [
         {
           "title": "遭白宫封杀，CNN等起诉特朗普政府",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时41分 ~ 17时45分]"
+          "appearance_count": 5,
+          "time_info": "[12时41分 ~ 22时33分]"
         },
         {
           "title": "凤凰记者：伊朗总统赴美有两个目的，预计不会和特朗普会晤",
@@ -27,8 +27,20 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时41分 ~ 22时33分]"
+        },
+        {
+          "title": "美国五大电视网白宫记者团暂停报道特朗普，三大媒体联合起诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34121849",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时41分 ~ 17时45分]"
+          "time_info": "[17时45分 ~ 22时33分]"
         },
         {
           "title": "特朗普政府誓要搞垮国际刑事法院，“正酝酿全面制裁”",
@@ -42,15 +54,48 @@
           "time_info": "[00时56分 ~ 07时58分]"
         },
         {
+          "title": "美国总统特朗普：想象一下，如果“可恶的”伊朗政权获得核保护伞，并在其掩护下发动袭击，会发生什么。",
+          "url": "https://flash.jin10.com/detail/20260922220845238800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
+          "title": "美国总统特朗普：在其他人无视全球威胁时，我直面了这些威胁。",
+          "url": "https://flash.jin10.com/detail/20260922220728743800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "立陶宛拟继续禁运白俄罗斯钾肥 特朗普“重大交易”面临阻碍",
           "url": "https://flash.jin10.com/detail/20260922173723302800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
+        },
+        {
+          "title": "美国总统特朗普：我运用实力，使美国成为世界上最强大的国家。",
+          "url": "https://flash.jin10.com/detail/20260922220708201800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "据两名美国高级官员向 News 12 记者透露，特朗普曾考虑在周末下令对也门胡塞武装发动袭击，但目前已决定暂不采取行动。",
@@ -75,15 +120,15 @@
           "time_info": "12时42分"
         },
         {
-          "title": "美国五大电视网白宫记者团暂停报道特朗普，三大媒体联合起诉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34121849",
-          "source": "澎湃新闻",
+          "title": "特朗普被问及向普京传达什么信息时称：“结束冲突”。",
+          "url": "https://wallstreetcn.com/livenews/3168993",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时45分"
+          "time_info": "22时33分"
         },
         {
           "title": "特朗普施压泽连斯基：停止袭击俄罗斯炼厂，“都是柴油、柴油、柴油”",
@@ -165,6 +210,17 @@
           "time_info": "07时58分"
         },
         {
+          "title": "特朗普表示他希望结束这场冲突。",
+          "url": "https://wallstreetcn.com/livenews/3168991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "美国总统特朗普：目前身处纽约，正在前往纽约市市长官邸。这些年来，我在那里度过了许多时光，结识过一些杰出的市长、一些平庸的市长，还有一些糟糕的市长。这次受纽约市长曼达尼的邀请，去看看它如今是什么样子，应该会很有意思。我对此充满期待。",
           "url": "https://flash.jin10.com/detail/20260922035709598800",
           "source": "金十数据",
@@ -174,6 +230,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
+        },
+        {
+          "title": "特朗普告诉CNN，他们不应该报道他。",
+          "url": "https://wallstreetcn.com/livenews/3168990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "美国总统特朗普：我只会鼓励AI。 重申AI末日警告是“骗局”。 我们会谨慎行事，如有必要将加以约束。",
@@ -209,6 +276,28 @@
           "time_info": "04时55分"
         },
         {
+          "title": "美国总统特朗普：如有必要，我们将动用无与伦比的军事实力，捍卫美国至关重要的国家利益。",
+          "url": "https://flash.jin10.com/detail/20260922220400282800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
+          "title": "美国总统特朗普：不存在所谓的全球政府，只要我还是总统，就不会有全球性税收。",
+          "url": "https://flash.jin10.com/detail/20260922220343058800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "美国纽约市市长马姆达尼会见特朗普，讨论皇后区Sunnyside Yards住房项目下一阶段推进方案，联邦210亿美元拨款成关键。",
           "url": "https://wallstreetcn.com/livenews/3168512",
           "source": "华尔街见闻-快讯",
@@ -240,6 +329,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
+        },
+        {
+          "title": "美国总统特朗普：美国将不再允许任何对美国构成威胁的势力在西半球任何地方立足。",
+          "url": "https://flash.jin10.com/detail/20260922220151496800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "特朗普将于当地时间周二上午11:45在纽约会见英国首相，12:30会见日本首相，13:15会见乌克兰总统泽连斯基，14:45会见海湾合作委员会成员，19:40会见委内瑞拉代总统。",
@@ -284,6 +384,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
+        },
+        {
+          "title": "特朗普告诉顾问，若条件合适，他希望在纽约会见伊朗官员；伊朗问题会议也可能与特朗普的高级顾问举行。（CNN）",
+          "url": "https://wallstreetcn.com/livenews/3168968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "据国会山报：白宫记者团消息透露，美国总统特朗普正在特朗普大厦会见法国总统马克龙。",
@@ -333,7 +444,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 20,
       "titles": [
         {
           "title": "【早报】美股芯片股，全线暴涨；原油大跌、黄金走弱；宁德时代、江波龙披露回购进展",
@@ -357,6 +468,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时58分 ~ 12时42分]"
+        },
+        {
+          "title": "美股纳指又创新高",
+          "url": "https://www.toutiao.com/trending/7687752914282037311/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时32分 ~ 22时33分]"
         },
         {
           "title": "金十图示：2026年09月21日（周一）美股热门股票行情一览（美股盘中）",
@@ -439,6 +561,29 @@
           "time_info": "[00时56分 ~ 04时55分]"
         },
         {
+          "title": "美股要迎“最后一舞”？知名投资人：标普500料先升破8000点再暴跌",
+          "url": "https://www.cls.cn/detail/2490024",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时45分 ~ 22时33分]"
+        },
+        {
+          "title": "油价回落至100美元下方 美股期指走高 科技股盘前分化 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2490404",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时32分 ~ 22时33分]"
+        },
+        {
           "title": "美股收盘：纳指创收盘新高，Meta大涨11%",
           "url": "https://flash.jin10.com/detail/20260922040317429800",
           "source": "金十数据",
@@ -448,17 +593,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
-        },
-        {
-          "title": "美股要迎“最后一舞”？知名投资人：标普500料先升破8000点再暴跌",
-          "url": "https://www.cls.cn/detail/2490024",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时45分"
         },
         {
           "title": "周一（9月21日），美股行业ETF多数收涨，半导体ETF涨4.02%，网络股指数ETF涨3.02%，全球科技股指数ETF涨2.97%，科技行业ETF涨2.89%，可选消费ETF涨1.3%，日常消费品ETF跌0.41%，区域银行ETF跌0.48%，能源业ETF跌2.3%。",
@@ -483,15 +617,37 @@
           "time_info": "04时55分"
         },
         {
+          "title": "纳斯达克综合指数盘初涨幅扩大至0.34%，报27214.65点，续刷记录新高。 苹果美股盘初一度涨超1.7%，突破历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3168988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "国际原油短线跳水，美股股指期货拉升",
           "url": "https://wallstreetcn.com/livenews/3168824",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
+        },
+        {
+          "title": "美股小幅高开，道指涨0.49%，标普500指数涨0.09%，纳指涨0.19%。苹果涨超1%，甲骨文涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3168981",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "美股历史高位附近“摇曳”，市场把“加息枷锁”当背景音乐",
@@ -503,6 +659,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3168966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         }
       ]
     },
@@ -528,7 +695,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
         },
@@ -572,7 +739,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
         }
@@ -580,8 +747,19 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "对冲基金减少美债基差交易 债券价差收窄削弱套利机会",
+          "url": "https://flash.jin10.com/detail/20260922220508964800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
         {
           "title": "长端美债收益率下跌",
           "url": "https://wallstreetcn.com/livenews/3168479",
@@ -600,7 +778,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
         }
@@ -650,6 +828,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时56分 ~ 07时58分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "高瓴创投原合伙人入职DeepSeek",
+          "url": "https://wallstreetcn.com/livenews/3168973",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         }
       ]
     },
