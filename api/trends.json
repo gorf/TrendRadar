@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-23T05:56:00.346557+08:00",
-  "total_titles_processed": 398,
+  "generated_at": "2026-09-23T08:12:46.736572+08:00",
+  "total_titles_processed": 529,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "美国五大电视网白宫记者团暂停报道特朗普，三大媒体联合起诉",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时40分 ~ 05时56分]"
+          "appearance_count": 4,
+          "time_info": "[02时40分 ~ 08时12分]"
         },
         {
           "title": "特朗普首次会见英国首相，抨击查戈斯协议",
@@ -28,6 +28,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时40分"
+        },
+        {
+          "title": "特朗普联大讲话：美国中选后或与伊朗达成协议、油价或大跌，对AI“只鼓励、不限制”",
+          "url": "https://wallstreetcn.com/articles/3782313",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时55分 ~ 08时12分]"
+        },
+        {
+          "title": "特朗普将敦促泽连斯基达成“能源停火” 称俄罗斯已失去对柴油行业的控制",
+          "url": "https://www.cls.cn/detail/2490453",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时40分 ~ 08时12分]"
         },
         {
           "title": "如何看待特朗普禁止三家媒体进入白宫",
@@ -42,27 +66,26 @@
           "time_info": "[02时40分 ~ 05时56分]"
         },
         {
-          "title": "特朗普将敦促泽连斯基达成“能源停火” 称俄罗斯已失去对柴油行业的控制",
-          "url": "https://www.cls.cn/detail/2490453",
+          "title": "特朗普称美伊会谈“非常有成效” 纳指再创新高 | 环球市场",
+          "url": "https://www.cls.cn/detail/2490617",
           "source": "财联社热门",
           "ranks": [
-            13,
-            12
+            7
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时40分 ~ 05时56分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
         },
         {
-          "title": "特朗普联大讲话：美国中选后或与伊朗达成协议、油价或大跌，对AI“只鼓励、不限制”",
-          "url": "https://wallstreetcn.com/articles/3782313",
+          "title": "“我们无路可退”！中东冲击波蔓延，特朗普农村中选基本盘正在“崩塌”",
+          "url": "https://wallstreetcn.com/articles/3782306",
           "source": "华尔街见闻",
           "ranks": [
             8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时55分 ~ 05时56分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
         },
         {
           "title": "据Axios：两名知情人士透露，美国中东问题特使威特科夫和特朗普高级顾问库什纳当地时间今晚将在纽约会见乌克兰谈判团队以及英国、法国和德国的国家安全顾问，讨论乌克兰关于与俄罗斯达成降级协议的建议。",
@@ -71,7 +94,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
         },
@@ -85,6 +108,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时40分"
+        },
+        {
+          "title": "据华尔街日报：乌克兰总统泽连斯基请求美国总统特朗普提供“冬季装备”军事物资，认为特朗普将寻求就能源基础设施达成停火。",
+          "url": "https://flash.jin10.com/detail/20260923075956567800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
         },
         {
           "title": "美国财长贝森特被特朗普视为“AI主管”人选。（Semafor）",
@@ -181,7 +215,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
         },
@@ -294,19 +328,42 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "【早报】美股存储股，集体上涨；伊外长与美特使在纽约会晤；原油跳水，五连跌；中金公司，今日复牌",
+          "url": "https://www.cls.cn/detail/2490628",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
+        },
+        {
+          "title": "美股收盘：纳指又创新高 Muse概念股继续走强",
+          "url": "https://www.cls.cn/detail/2490610",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
+        },
         {
           "title": "油价回落至100美元下方 美股期指走高 科技股盘前分化 | 今夜看点",
           "url": "https://www.cls.cn/detail/2490404",
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时40分 ~ 05时56分]"
+          "appearance_count": 4,
+          "time_info": "[02时40分 ~ 08时12分]"
         },
         {
           "title": "AI热情叠加中东局势缓和预期，美股高开，纳指涨0.3%创新高，美油跌幅收窄至2%，黄金走低",
@@ -320,13 +377,24 @@
           "time_info": "[05时55分 ~ 05时56分]"
         },
         {
+          "title": "美股收盘：纳指再创历史新高",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E7%BA%B3%E6%8C%87%E5%86%8D%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
+        },
+        {
           "title": "美股大类资产类ETF多数收跌，布油基金跌超1.6%",
           "url": "https://wallstreetcn.com/livenews/3169143",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
         },
@@ -337,7 +405,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
         }
@@ -354,7 +422,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
         }
