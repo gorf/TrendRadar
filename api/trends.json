@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-09-24T00:32:36.898268+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-09-24T04:04:41.570789+08:00",
+  "total_titles_processed": 421,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普：建筑安全规范？我就是规范",
           "url": "https://news.ifeng.com/c/8wf5aoRJiuv",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 04时04分]"
         },
         {
           "title": "美伊举行6月以来首次会谈，特朗普边威胁“迅速摧毁伊朗”，边表态“会谈富有成效”、“不排除中选后达成协议”",
@@ -26,19 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "特朗普7月披露逾千笔证券交易：抛售微软、亚马逊，买入英伟达、Marvell与Salesforce",
-          "url": "https://wallstreetcn.com/articles/3782324",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 04时04分]"
         },
         {
           "title": "特朗普：“人工智能”一词低估了这项技术，将改称“超级智能”",
@@ -48,8 +38,87 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 04时04分]"
+        },
+        {
+          "title": "美国能源部长Wright重申特朗普政府“并没有讨论”出台柴油出口禁令。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3169839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时32分"
+          "time_info": "04时04分"
+        },
+        {
+          "title": "据纽约时报：美国能源部长赖特否认有关特朗普政府准备全面禁止美国柴油出口的报道，重申“没有人在讨论全面禁止或零柴油出口”。",
+          "url": "https://flash.jin10.com/detail/20260924033214219800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
+        },
+        {
+          "title": "据Politico：据知情人士透露，随着共和党在中期选举前对选情担忧加剧，少数白宫官员正在讨论是否减少特朗普此前决定增加的外国牛肉进口量。",
+          "url": "https://flash.jin10.com/detail/20260924033022684800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
+        },
+        {
+          "title": "特朗普政府官员正在考虑取消牛肉进口。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3169837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
+        },
+        {
+          "title": "据国会山报：白宫证实，特朗普将于当地时间周六前往美国田纳西州诺克斯维尔，现场观看田纳西大学对阵德克萨斯大学的美式橄榄球比赛。",
+          "url": "https://flash.jin10.com/detail/20260924032800585800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
+        },
+        {
+          "title": "特朗普7月披露逾千笔证券交易：抛售微软、亚马逊，买入英伟达、Marvell与Salesforce",
+          "url": "https://wallstreetcn.com/articles/3782324",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 04时04分]"
+        },
+        {
+          "title": "特朗普在联合国总部“阴阳”CNN：“说好联合抵制我，怎么又来采访”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34126828",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 04时04分]"
         },
         {
           "title": "特朗普的“和平委员会”迎来第一批认捐，金额超24亿美元",
@@ -63,15 +132,15 @@
           "time_info": "00时32分"
         },
         {
-          "title": "特朗普在联合国总部“阴阳”CNN：“说好联合抵制我，怎么又来采访”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34126828",
-          "source": "澎湃新闻",
+          "title": "消息人士：俄罗斯总统特使德米特里耶夫将前往美国，与特朗普政府成员举行新一轮会谈。",
+          "url": "https://flash.jin10.com/detail/20260924030625683800",
+          "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时32分"
+          "time_info": "04时04分"
         },
         {
           "title": "伊朗外长阿拉格奇与特朗普特使史蒂夫・维特科夫接触，这并未得到伊朗最高国家安全委员会等相关决策机构的授权。（伊朗塔斯尼姆通讯社）",
@@ -94,51 +163,96 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "美国总统特朗普告诉到访的委内瑞拉代总统Rodriguez：委内瑞拉必须举行大选。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3169811",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
         }
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 3,
+      "keyword_group": "chatgpt openai",
+      "match_count": 6,
       "titles": [
         {
-          "title": "不认同美股“崩盘论”！高盛和德银一致看多：标普500有望冲破八千点大关",
-          "url": "https://www.cls.cn/detail/2491306",
-          "source": "财联社热门",
+          "title": "OpenAI将向乌克兰免费提供其人工智能网络防御系统 “黎明”（Daybreak）。",
+          "url": "https://wallstreetcn.com/livenews/3169759",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
         },
         {
-          "title": "市场陷入观望，美股三大股指集体低开、纳指跌0.13%，油价日内反弹1%，现货黄金跌破4300，美元走强",
-          "url": "https://wallstreetcn.com/articles/3782354",
-          "source": "华尔街见闻",
+          "title": "AI“减速”讨论未歇，OpenAI、Anthropic同日上新，竞逐更低成本",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34130539",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 04时04分]"
+        },
+        {
+          "title": "OpenAI的CEO Altman：认为安全发展人工智能存在务实可行的路径。 若要实现人工智能民主化，最核心决策绝不能仅由（美国加州）旧金山的实验室作出。 呼吁将人们置于AI决策的中心。",
+          "url": "https://wallstreetcn.com/livenews/3169835",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时32分"
+          "time_info": "04时04分"
         },
         {
-          "title": "布油重返100美元附近 美股期指小幅下挫 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2491498",
-          "source": "财联社热门",
+          "title": "OpenAI开源MentalHealthBench，填补AI心理健康全场景评测空白",
+          "url": "https://wallstreetcn.com/livenews/3169834",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时32分"
+          "time_info": "04时04分"
+        },
+        {
+          "title": "OpenAI首席执行官奥尔特曼：如果人工智能要实现民主，最重要的决策不能仅由旧金山的实验室来做。",
+          "url": "https://flash.jin10.com/detail/20260924031929030800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
+        },
+        {
+          "title": "OpenAI首席执行官奥尔特曼表示，人工智能的现状“需要格外谨慎”。",
+          "url": "https://flash.jin10.com/detail/20260924031834927800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "Experian：成为首个与谷歌(GOOG.O)Gemini 集成的个人理财应用。",
@@ -161,34 +275,93 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "微软、谷歌直面数据中心扩张引发的反弹",
+          "url": "https://wallstreetcn.com/livenews/3169815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "keyword_group": "美股",
+      "match_count": 3,
       "titles": [
         {
-          "title": "OpenAI将向乌克兰免费提供其人工智能网络防御系统 “黎明”（Daybreak）。",
-          "url": "https://wallstreetcn.com/livenews/3169759",
-          "source": "华尔街见闻-快讯",
+          "title": "不认同美股“崩盘论”！高盛和德银一致看多：标普500有望冲破八千点大关",
+          "url": "https://www.cls.cn/detail/2491306",
+          "source": "财联社热门",
           "ranks": [
+            5,
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 04时04分]"
         },
         {
-          "title": "AI“减速”讨论未歇，OpenAI、Anthropic同日上新，竞逐更低成本",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34130539",
-          "source": "澎湃新闻",
+          "title": "市场陷入观望，美股三大股指集体低开、纳指跌0.13%，油价日内反弹1%，现货黄金跌破4300，美元走强",
+          "url": "https://wallstreetcn.com/articles/3782354",
+          "source": "华尔街见闻",
           "ranks": [
-            8
+            6,
+            2
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 04时04分]"
+        },
+        {
+          "title": "布油重返100美元附近 美股期指小幅下挫 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2491498",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 04时04分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek新论文作者名单超过130人",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%96%B0%E8%AE%BA%E6%96%87%E4%BD%9C%E8%80%85%E5%90%8D%E5%8D%95%E8%B6%85%E8%BF%87130%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时32分"
+          "time_info": "04时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数涨超0.5%，特朗普政府披露周四债券回购安排",
+          "url": "https://wallstreetcn.com/livenews/3169840",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
         }
       ]
     }
