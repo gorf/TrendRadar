@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-25T09:18:53.415684+08:00",
-  "total_titles_processed": 581,
+  "generated_at": "2026-09-25T15:26:56.344725+08:00",
+  "total_titles_processed": 801,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 44,
       "titles": [
         {
           "title": "习近平同特朗普会谈",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时56分 ~ 06时10分]"
+        },
+        {
+          "title": "习近平同美国总统特朗普会谈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34147373",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时18分 ~ 15时26分]"
         },
         {
           "title": "习近平同美国总统特朗普小范围交流",
@@ -42,6 +53,18 @@
           "time_info": "[02时56分 ~ 06时10分]"
         },
         {
+          "title": "大国外交进行时丨特朗普：这是一次“伟大的会晤”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34147964",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时18分 ~ 15时26分]"
+        },
+        {
           "title": "特朗普总统抵达机场，迎接习近平主席到访",
           "url": "https://m.thepaper.cn/newsDetail_forward_34137674",
           "source": "澎湃新闻",
@@ -54,6 +77,28 @@
         },
         {
           "title": "习近平同美国总统特朗普会谈",
+          "url": "https://www.cls.cn/detail/2492836",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时18分 ~ 15时26分]"
+        },
+        {
+          "title": "习近平：与特朗普达成很多新的共识",
+          "url": "https://www.toutiao.com/trending/7688663315194760758/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "习近平同美国总统特朗普会谈",
           "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E8%B0%88",
           "source": "百度热搜",
           "ranks": [
@@ -62,17 +107,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
-        },
-        {
-          "title": "习近平同美国总统特朗普会谈",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34147373",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时18分"
         },
         {
           "title": "特朗普欢迎习近平访美",
@@ -92,7 +126,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
         },
@@ -103,18 +137,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时18分"
-        },
-        {
-          "title": "大国外交进行时丨特朗普：这是一次“伟大的会晤”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34147964",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
         },
@@ -125,7 +148,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
         },
@@ -141,15 +164,37 @@
           "time_info": "02时56分"
         },
         {
+          "title": "特朗普会中文的外孙女出席欢迎仪式",
+          "url": "https://www.toutiao.com/trending/7688663315194809910/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
           "title": "特朗普：这是一次“伟大的会晤”",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E8%BF%99%E6%98%AF%E4%B8%80%E6%AC%A1%E2%80%9C%E4%BC%9F%E5%A4%A7%E7%9A%84%E4%BC%9A%E6%99%A4%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
+        },
+        {
+          "title": "特朗普听到大熊猫将落户美国笑了",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%AC%E5%88%B0%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%B0%86%E8%90%BD%E6%88%B7%E7%BE%8E%E5%9B%BD%E7%AC%91%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         },
         {
           "title": "特朗普总统赴机场，欢迎习近平主席到访",
@@ -163,17 +208,6 @@
           "time_info": "02时56分"
         },
         {
-          "title": "习近平同美国总统特朗普会谈",
-          "url": "https://www.cls.cn/detail/2492836",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时18分"
-        },
-        {
           "title": "特朗普：感谢你们进行这一次具有历史意义的访问",
           "url": "https://wallstreetcn.com/livenews/3170573",
           "source": "华尔街见闻-快讯",
@@ -183,6 +217,51 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "特朗普听到大熊猫将落户美国笑了",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%AC%E5%88%B0%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%B0%86%E8%90%BD%E6%88%B7%E7%BE%8E%E5%9B%BD%E7%AC%91%E4%BA%86&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "习近平在美国总统特朗普举行的欢迎宴会上的祝酒辞（全文）",
+          "url": "https://wallstreetcn.com/articles/3782517",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "学者：白宫国宴中，特朗普的一个细节很有意思",
+          "url": "https://original.ifeng.com/c/8whmAAddUiM",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "特朗普听到大熊猫将落户美国笑了",
+          "url": "https://www.toutiao.com/trending/7689262718079028745/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时18分 ~ 15时26分]"
         },
         {
           "title": "特朗普遗憾欢迎晚宴座位不够多",
@@ -210,6 +289,18 @@
           "time_info": "[02时56分 ~ 09时18分]"
         },
         {
+          "title": "特朗普：这是一次伟大的会晤",
+          "url": "https://www.toutiao.com/trending/7689240553585954350/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时18分 ~ 15时26分]"
+        },
+        {
           "title": "特朗普总统夫妇在下车处迎候",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%BB%E7%BB%9F%E5%A4%AB%E5%A6%87%E5%9C%A8%E4%B8%8B%E8%BD%A6%E5%A4%84%E8%BF%8E%E5%80%99",
           "source": "百度热搜",
@@ -222,24 +313,13 @@
           "time_info": "[02时56分 ~ 06时10分]"
         },
         {
-          "title": "特朗普：这是一次伟大的会晤",
-          "url": "https://www.toutiao.com/trending/7689240553585954350/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时18分"
-        },
-        {
           "title": "习近平出席美国总统特朗普在白宫举行的欢迎仪式",
           "url": "https://wallstreetcn.com/articles/3782488",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
         },
@@ -250,9 +330,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
+        },
+        {
+          "title": "习近平同美国总统特朗普会谈",
+          "url": "https://wallstreetcn.com/articles/3782507",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴",
+          "url": "https://www.cls.cn/detail/2492899",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们没有比美国总统特朗普更重要的合作伙伴，我感谢他。",
@@ -277,15 +379,37 @@
           "time_info": "02时56分"
         },
         {
+          "title": "习近平在美国总统特朗普举行的欢迎宴会上的祝酒辞（全文）",
+          "url": "https://www.cls.cn/detail/2492885",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
           "title": "特朗普与中方随行人员握手脱皮手套",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E4%B8%AD%E6%96%B9%E9%9A%8F%E8%A1%8C%E4%BA%BA%E5%91%98%E6%8F%A1%E6%89%8B%E8%84%B1%E7%9A%AE%E6%89%8B%E5%A5%97%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
+        },
+        {
+          "title": "特朗普说中美关系从未如此融洽",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%E4%BB%8E%E6%9C%AA%E5%A6%82%E6%AD%A4%E8%9E%8D%E6%B4%BD%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         },
         {
           "title": "特朗普：这是一次“伟大的会晤”",
@@ -305,7 +429,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
         },
@@ -316,7 +440,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
         },
@@ -360,26 +484,26 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
         },
         {
-          "title": "特朗普听到大熊猫将落户美国笑了",
-          "url": "https://www.toutiao.com/trending/7689262718079028745/",
-          "source": "今日头条",
+          "title": "日元兑美元短线快速走强。日本财务大臣片山皋月称，特朗普对日元走弱表达了担忧。",
+          "url": "https://wallstreetcn.com/livenews/3170675",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时18分"
+          "time_info": "15时26分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "意外强劲PMI重燃加息预期，美债遭“血洗”！纳指终结四连涨，美元涨黄金跌",
@@ -399,9 +523,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时18分 ~ 15时26分]"
         },
         {
           "title": "美股收盘：美债风暴持续发酵 油价深夜巨震 Meta涨超4%",
@@ -410,9 +534,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时18分 ~ 15时26分]"
         },
         {
           "title": "一文读懂美债\"黑色星期三\"：\"完美风暴\"冲击，\"10月再加息\"风起",
@@ -456,7 +580,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
         },
@@ -483,11 +607,72 @@
           "time_info": "06时10分"
         },
         {
+          "title": "AI如何使美债收益率上涨",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%A6%82%E4%BD%95%E4%BD%BF%E7%BE%8E%E5%80%BA%E6%94%B6%E7%9B%8A%E7%8E%87%E4%B8%8A%E6%B6%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
           "title": "20+年期美债ETF收跌约1.3%，领跌美股大类资产类ETF，布油基金涨超2.4%",
           "url": "https://wallstreetcn.com/livenews/3170608",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "欧洲期货小幅走高，欧洲Stoxx 50指数期货涨0.4%，德国DAX指数期货涨0.4%，英国富时指数期货涨0.2%。 美股期货小幅走低，标普500、纳指期货跌0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3170660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "周四（9月24日）纽约尾盘，现货黄金跌0.37%，报4271.49美元/盎司。 现货白银跌1%，报63.7915美元/盎司。 COMEX铜期货涨0.16%，报6.7645美元/磅。 在美股时段交易的费城金银指数收跌1.53%，报381.05点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌1.75%，报2645.04点，全天处于下跌状态，开盘之前维持微幅下跌状态——持续交投于2680点一线，之后“跳空”下挫并持续低位震荡。 在美股时段交易的原材料指数收跌1.30%，金属与矿业指数收跌0.59%。 State Street金属与矿业ETF收跌1.48%，报107.96美元。",
+          "url": "https://wallstreetcn.com/livenews/3170622",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时10分"
+        },
+        {
+          "title": "瑞讯分析师警告AI叙事成为美股核心支柱，一旦破裂或引发明显回调",
+          "url": "https://flash.jin10.com/detail/20260925144228424800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "周四（9月24日），美股行业ETF多数收跌，公用事业ETF收跌0.98%，科技行业ETF、全球科技股指数ETF、半导体ETF至多跌0.32%，能源业ETF涨0.37%，网络股指数ETF涨0.77%，区域银行ETF涨0.8%，生物科技指数ETF涨1.28%。",
+          "url": "https://wallstreetcn.com/livenews/3170609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -519,7 +704,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
         },
@@ -537,45 +722,6 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "欧洲期货小幅走高，欧洲Stoxx 50指数期货涨0.4%，德国DAX指数期货涨0.4%，英国富时指数期货涨0.2%。 美股期货小幅走低，标普500、纳指期货跌0.2%。",
-          "url": "https://wallstreetcn.com/livenews/3170660",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时18分"
-        },
-        {
-          "title": "周四（9月24日）纽约尾盘，现货黄金跌0.37%，报4271.49美元/盎司。 现货白银跌1%，报63.7915美元/盎司。 COMEX铜期货涨0.16%，报6.7645美元/磅。 在美股时段交易的费城金银指数收跌1.53%，报381.05点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌1.75%，报2645.04点，全天处于下跌状态，开盘之前维持微幅下跌状态——持续交投于2680点一线，之后“跳空”下挫并持续低位震荡。 在美股时段交易的原材料指数收跌1.30%，金属与矿业指数收跌0.59%。 State Street金属与矿业ETF收跌1.48%，报107.96美元。",
-          "url": "https://wallstreetcn.com/livenews/3170622",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "周四（9月24日），美股行业ETF多数收跌，公用事业ETF收跌0.98%，科技行业ETF、全球科技股指数ETF、半导体ETF至多跌0.32%，能源业ETF涨0.37%，网络股指数ETF涨0.77%，区域银行ETF涨0.8%，生物科技指数ETF涨1.28%。",
-          "url": "https://wallstreetcn.com/livenews/3170609",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -584,11 +730,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365570&amp;topic_name=DeepSeek%E5%B0%86%E5%8F%82%E5%8A%A0%E8%81%94%E5%90%88%E5%9B%BD%E4%BC%9A%E8%AE%AE",
           "source": "贴吧",
           "ranks": [
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时56分 ~ 09时18分]"
+          "appearance_count": 4,
+          "time_info": "[02时56分 ~ 15时26分]"
         }
       ]
     },
