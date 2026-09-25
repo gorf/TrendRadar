@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-25T06:10:36.891194+08:00",
-  "total_titles_processed": 407,
+  "generated_at": "2026-09-25T09:18:53.415684+08:00",
+  "total_titles_processed": 581,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 33,
       "titles": [
         {
           "title": "习近平同特朗普会谈",
@@ -59,9 +59,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
+        },
+        {
+          "title": "习近平同美国总统特朗普会谈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34147373",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "特朗普欢迎习近平访美",
@@ -70,9 +81,53 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
+        },
+        {
+          "title": "习近平和彭丽媛出席特朗普总统夫妇举行的欢迎宴会",
+          "url": "https://flive.ifeng.com/live/1017286.html?webkit=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "知情人士：特朗普、约翰逊下周二将会晤AI高管",
+          "url": "https://flash.jin10.com/detail/20260925085632623800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "大国外交进行时丨特朗普：这是一次“伟大的会晤”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34147964",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "新华社：习近平在美国总统特朗普举行的欢迎宴会上的祝酒辞（全文）",
+          "url": "https://wallstreetcn.com/livenews/3170665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "习近平出席特朗普举行的欢迎仪式",
@@ -86,6 +141,17 @@
           "time_info": "02时56分"
         },
         {
+          "title": "特朗普：这是一次“伟大的会晤”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E8%BF%99%E6%98%AF%E4%B8%80%E6%AC%A1%E2%80%9C%E4%BC%9F%E5%A4%A7%E7%9A%84%E4%BC%9A%E6%99%A4%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
           "title": "特朗普总统赴机场，欢迎习近平主席到访",
           "url": "https://wallstreetcn.com/articles/3782407",
           "source": "华尔街见闻",
@@ -95,6 +161,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "习近平同美国总统特朗普会谈",
+          "url": "https://www.cls.cn/detail/2492836",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "特朗普：感谢你们进行这一次具有历史意义的访问",
@@ -112,11 +189,12 @@
           "url": "https://www.toutiao.com/trending/7688270536492781092/",
           "source": "今日头条",
           "ranks": [
-            7
+            7,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时56分 ~ 06时10分]"
+          "appearance_count": 3,
+          "time_info": "[02时56分 ~ 09时18分]"
         },
         {
           "title": "中方回应会否邀请特朗普出席APEC峰会",
@@ -124,11 +202,12 @@
           "source": "今日头条",
           "ranks": [
             18,
-            10
+            10,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时56分 ~ 06时10分]"
+          "appearance_count": 3,
+          "time_info": "[02时56分 ~ 09时18分]"
         },
         {
           "title": "特朗普总统夫妇在下车处迎候",
@@ -141,6 +220,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时56分 ~ 06时10分]"
+        },
+        {
+          "title": "特朗普：这是一次伟大的会晤",
+          "url": "https://www.toutiao.com/trending/7689240553585954350/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "习近平出席美国总统特朗普在白宫举行的欢迎仪式",
+          "url": "https://wallstreetcn.com/articles/3782488",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "特朗普夫妇热情迎接习近平夫妇",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%AB%E5%A6%87%E7%83%AD%E6%83%85%E8%BF%8E%E6%8E%A5%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%A4%AB%E5%A6%87",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们没有比美国总统特朗普更重要的合作伙伴，我感谢他。",
@@ -165,15 +277,48 @@
           "time_info": "02时56分"
         },
         {
+          "title": "特朗普与中方随行人员握手脱皮手套",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E4%B8%AD%E6%96%B9%E9%9A%8F%E8%A1%8C%E4%BA%BA%E5%91%98%E6%8F%A1%E6%89%8B%E8%84%B1%E7%9A%AE%E6%89%8B%E5%A5%97%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
           "title": "特朗普：这是一次“伟大的会晤”",
           "url": "https://flash.jin10.com/detail/20260925050639805800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
+        },
+        {
+          "title": "习近平出席美国总统特朗普举行的欢迎宴会",
+          "url": "https://wallstreetcn.com/livenews/3170652",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "美国总统特朗普、众议院议长约翰逊将于9月29日与科技界CEO们开会，讨论AI问题。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3170647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "特朗普称CNN和MSNBC收视率下滑 批评其“不具公信力”",
@@ -182,7 +327,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
         },
@@ -193,7 +338,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
         },
@@ -207,12 +352,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "习近平和彭丽媛将出席特朗普总统夫妇举行的欢迎宴会",
+          "url": "https://wallstreetcn.com/livenews/3170643",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "特朗普听到大熊猫将落户美国笑了",
+          "url": "https://www.toutiao.com/trending/7689262718079028745/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "意外强劲PMI重燃加息预期，美债遭“血洗”！纳指终结四连涨，美元涨黄金跌",
@@ -224,6 +391,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时56分 ~ 06时10分]"
+        },
+        {
+          "title": "美债抛售加剧，30年期美债收益率创逾20年新高，美股指承压横盘，美元原油齐升",
+          "url": "https://wallstreetcn.com/articles/3782452",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "美股收盘：美债风暴持续发酵 油价深夜巨震 Meta涨超4%",
+          "url": "https://www.cls.cn/detail/2492840",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "一文读懂美债\"黑色星期三\"：\"完美风暴\"冲击，\"10月再加息\"风起",
@@ -261,6 +450,17 @@
           "time_info": "[02时56分 ~ 06时10分]"
         },
         {
+          "title": "美债5%失去震慑力，摩根大通称股市断裂阈值或已升至6%",
+          "url": "https://wallstreetcn.com/articles/3782453",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
           "title": "美国财政部于国债回购操作中获得104.68亿美元投标，接受了40.8亿美元。 财政部长贝森特的回购规模处于9月23日披露区间的低端，美国10年期国债收益率短线从5.16%上扬至5.1769%刷新日高、日内当前涨超6个基点；20年期美债收益率涨超7.6个基点，刷新日高至5.4539%；30年期美债收益率涨超6.5个基点，刷新日高至5.4705%。",
           "url": "https://wallstreetcn.com/livenews/3170564",
           "source": "华尔街见闻-快讯",
@@ -278,7 +478,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
         },
@@ -289,7 +489,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
         }
@@ -297,7 +497,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI、Anthropic掌门人联合国现场双双呼吁警惕AI发展过快风险",
@@ -305,11 +505,23 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时56分 ~ 06时10分]"
+          "appearance_count": 3,
+          "time_info": "[02时56分 ~ 09时18分]"
+        },
+        {
+          "title": "OpenAI正准备在未来几天预览其最新的网络安全专用模型GPT-6 Cyber。 该公司还将发布一款新产品，帮助客户以更安全、自动化的方式部署GPT-6 Cyber。（财富杂志）",
+          "url": "https://wallstreetcn.com/livenews/3170646",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "OpenAI、Anthropic被要求在完成白宫测试之前不能给英国分享新模型",
@@ -326,8 +538,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "欧洲期货小幅走高，欧洲Stoxx 50指数期货涨0.4%，德国DAX指数期货涨0.4%，英国富时指数期货涨0.2%。 美股期货小幅走低，标普500、纳指期货跌0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3170660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
         {
           "title": "周四（9月24日）纽约尾盘，现货黄金跌0.37%，报4271.49美元/盎司。 现货白银跌1%，报63.7915美元/盎司。 COMEX铜期货涨0.16%，报6.7645美元/磅。 在美股时段交易的费城金银指数收跌1.53%，报381.05点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌1.75%，报2645.04点，全天处于下跌状态，开盘之前维持微幅下跌状态——持续交投于2680点一线，之后“跳空”下挫并持续低位震荡。 在美股时段交易的原材料指数收跌1.30%，金属与矿业指数收跌0.59%。 State Street金属与矿业ETF收跌1.48%，报107.96美元。",
           "url": "https://wallstreetcn.com/livenews/3170622",
@@ -335,7 +558,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
         },
@@ -346,7 +569,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
         }
@@ -364,8 +587,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时56分 ~ 06时10分]"
+          "appearance_count": 3,
+          "time_info": "[02时56分 ~ 09时18分]"
         }
       ]
     },
@@ -380,7 +603,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
         }
@@ -397,7 +620,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
         }
