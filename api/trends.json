@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-26T06:08:37.906257+08:00",
-  "total_titles_processed": 410,
+  "generated_at": "2026-09-26T09:21:06.386557+08:00",
+  "total_titles_processed": 544,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 32,
       "titles": [
         {
           "title": "习近平同美国总统特朗普会谈",
@@ -15,8 +15,44 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时23分 ~ 06时08分]"
+          "appearance_count": 5,
+          "time_info": "[02时23分 ~ 09时21分]"
+        },
+        {
+          "title": "习近平在美国总统特朗普举行的欢迎宴会上的祝酒辞（全文）",
+          "url": "https://wallstreetcn.com/articles/3782517",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时23分 ~ 09时21分]"
+        },
+        {
+          "title": "吴心伯：稳定中美关系，是特朗普的“大利所在”",
+          "url": "https://news.ifeng.com/c/8wiO7CsXvep",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时23分 ~ 09时21分]"
+        },
+        {
+          "title": "习近平同美国总统特朗普会谈",
+          "url": "https://www.cls.cn/detail/2492836",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时23分 ~ 09时21分]"
         },
         {
           "title": "习近平主席夫妇同特朗普总统夫妇茶叙",
@@ -30,39 +66,30 @@
           "time_info": "[02时23分 ~ 06时08分]"
         },
         {
-          "title": "习近平在美国总统特朗普举行的欢迎宴会上的祝酒辞（全文）",
-          "url": "https://wallstreetcn.com/articles/3782517",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时23分 ~ 06时08分]"
-        },
-        {
-          "title": "吴心伯：稳定中美关系，是特朗普的“大利所在”",
-          "url": "https://news.ifeng.com/c/8wiO7CsXvep",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时23分 ~ 06时08分]"
-        },
-        {
-          "title": "习近平同美国总统特朗普会谈",
-          "url": "https://www.cls.cn/detail/2492836",
-          "source": "财联社热门",
+          "title": "特朗普赠中方雕像：我亲自参与设计",
+          "url": "https://www.toutiao.com/trending/7689271303358152723/",
+          "source": "今日头条",
           "ranks": [
             4,
-            5
+            7,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时23分 ~ 06时08分]"
+          "appearance_count": 5,
+          "time_info": "[02时23分 ~ 09时21分]"
+        },
+        {
+          "title": "特朗普：今年访华感受到中国人民的热情好客，希望以同样的热情款待各位；马斯克、黄仁勋、苏世民、奥尔特曼等齐聚欢迎宴会",
+          "url": "https://wallstreetcn.com/articles/3782532",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时23分 ~ 09时21分]"
         },
         {
           "title": "习近平主席夫妇同特朗普夫妇茶叙",
@@ -76,6 +103,17 @@
           "time_info": "[02时23分 ~ 02时24分]"
         },
         {
+          "title": "习近平和彭丽媛同美国总统特朗普夫妇茶叙",
+          "url": "https://wallstreetcn.com/articles/3782557",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时20分 ~ 09时21分]"
+        },
+        {
           "title": "报道：特朗普下周二推出AI驱动的新网站America.gov",
           "url": "https://wallstreetcn.com/livenews/3170854",
           "source": "华尔街见闻-快讯",
@@ -85,18 +123,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
-        },
-        {
-          "title": "特朗普赠中方雕像：我亲自参与设计",
-          "url": "https://www.toutiao.com/trending/7689271303358152723/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时23分 ~ 06时08分]"
         },
         {
           "title": "特朗普听到大熊猫将落户美国笑了",
@@ -123,27 +149,63 @@
           "time_info": "[02时23分 ~ 06时08分]"
         },
         {
+          "title": "特朗普：这次访问富有成效",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E8%BF%99%E6%AC%A1%E8%AE%BF%E9%97%AE%E5%AF%8C%E6%9C%89%E6%88%90%E6%95%88",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时23分 ~ 09时21分]"
+        },
+        {
+          "title": "报道：特朗普拒绝伊朗7天停火提议",
+          "url": "https://wallstreetcn.com/livenews/3170943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
           "title": "习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴",
           "url": "https://www.cls.cn/detail/2492899",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时23分 ~ 06时08分]"
+          "appearance_count": 5,
+          "time_info": "[02时23分 ~ 09时21分]"
         },
         {
-          "title": "特朗普：今年访华感受到中国人民的热情好客，希望以同样的热情款待各位；马斯克、黄仁勋、苏世民、奥尔特曼等齐聚欢迎宴会",
-          "url": "https://wallstreetcn.com/articles/3782532",
-          "source": "华尔街见闻",
+          "title": "特朗普展示白宫翻修成果",
+          "url": "https://www.toutiao.com/trending/7688231467637489710/",
+          "source": "今日头条",
           "ranks": [
-            9,
-            8
+            28,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时23分 ~ 06时08分]"
+          "appearance_count": 5,
+          "time_info": "[02时23分 ~ 09时21分]"
+        },
+        {
+          "title": "特朗普会中文的外孙女出席欢迎仪式",
+          "url": "https://www.toutiao.com/trending/7688663315194809910/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时23分 ~ 09时21分]"
         },
         {
           "title": "习近平在美国总统特朗普举行的欢迎宴会上的祝酒辞（全文）",
@@ -169,45 +231,12 @@
           "time_info": "[02时23分 ~ 06时08分]"
         },
         {
-          "title": "特朗普：这次访问富有成效",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E8%BF%99%E6%AC%A1%E8%AE%BF%E9%97%AE%E5%AF%8C%E6%9C%89%E6%88%90%E6%95%88",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时23分 ~ 06时08分]"
-        },
-        {
           "title": "大国外交进行时丨特朗普：这是一次“伟大的会晤”",
           "url": "https://m.thepaper.cn/newsDetail_forward_34147964",
           "source": "澎湃新闻",
           "ranks": [
             15,
             16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时23分 ~ 06时08分]"
-        },
-        {
-          "title": "特朗普会中文的外孙女出席欢迎仪式",
-          "url": "https://www.toutiao.com/trending/7688663315194809910/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时23分 ~ 06时08分]"
-        },
-        {
-          "title": "特朗普展示白宫翻修成果",
-          "url": "https://www.toutiao.com/trending/7688231467637489710/",
-          "source": "今日头条",
-          "ranks": [
-            28
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -225,6 +254,28 @@
           "time_info": "[02时23分 ~ 02时24分]"
         },
         {
+          "title": "特朗普：这次访问富有成效",
+          "url": "https://www.toutiao.com/trending/7689614804578733595/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时20分 ~ 09时21分]"
+        },
+        {
+          "title": "日元强势反攻！日本财务大臣：特朗普对日元贬值表达了担忧，将与美方密切协调",
+          "url": "https://wallstreetcn.com/articles/3782526",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时20分 ~ 09时21分]"
+        },
+        {
           "title": "特朗普致辞专门提到一个中文词",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%87%B4%E8%BE%9E%E4%B8%93%E9%97%A8%E6%8F%90%E5%88%B0%E4%B8%80%E4%B8%AA%E4%B8%AD%E6%96%87%E8%AF%8D",
           "source": "百度热搜",
@@ -234,6 +285,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时23分 ~ 02时24分]"
+        },
+        {
+          "title": "详讯丨习近平和彭丽媛同美国总统特朗普夫妇茶叙",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34151574",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时20分 ~ 09时21分]"
+        },
+        {
+          "title": "特朗普政府就停摆裁员与工会达成和解",
+          "url": "https://wallstreetcn.com/livenews/3170937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         },
         {
           "title": "习近平和彭丽媛同美国总统特朗普夫妇茶叙",
@@ -247,13 +320,35 @@
           "time_info": "02时24分"
         },
         {
+          "title": "美媒：特朗普据悉拒绝伊朗7天计划 考虑中期选举后恢复轰炸",
+          "url": "https://flash.jin10.com/detail/20260926083511547800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
+          "title": "据华尔街日报：美国官员表示，美国总统特朗普已拒绝伊朗提出的七天停火提议计划，并告诉助手们，他预计将在11月中期选举后恢复对伊朗的轰炸。",
+          "url": "https://flash.jin10.com/detail/20260926083051735800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
           "title": "据华尔街日报：特朗普政府支持的北美蓝色能源伙伴公司正加速扩大在委内瑞拉的石油产量，未来数月内可能挑战雪佛龙(CVX.N)在当地最大私人石油生产商的地位。",
           "url": "https://flash.jin10.com/detail/20260926050753249800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -283,18 +378,31 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "美股收盘：美债风暴持续发酵 油价深夜巨震 Meta涨超4%",
           "url": "https://www.cls.cn/detail/2492840",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时23分 ~ 09时21分]"
+        },
+        {
+          "title": "标普震荡反弹，海峡重开前景击落原油，日元盘中反弹逾1%，美债抛售暂歇但全周遭血洗",
+          "url": "https://wallstreetcn.com/articles/3782519",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[02时23分 ~ 06时08分]"
+          "time_info": "[06时08分 ~ 09时21分]"
         },
         {
           "title": "美债抛售加剧，30年期美债收益率创逾20年新高，美股指承压横盘，美元原油齐升",
@@ -319,26 +427,16 @@
           "time_info": "[02时23分 ~ 02时24分]"
         },
         {
-          "title": "标普震荡反弹，海峡重开前景击落原油，日元盘中反弹逾1%，美债抛售暂歇但全周遭血洗",
-          "url": "https://wallstreetcn.com/articles/3782519",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
           "title": "10年期美债收益率继续创2007年以来新高，本周涨超16个基点",
           "url": "https://wallstreetcn.com/livenews/3170929",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时08分 ~ 09时21分]"
         },
         {
           "title": "美债“连遭暴击”！7年期美债拍卖遇冷，财政部回购规模再度低于上限，市政债收益率创15年新高",
@@ -353,13 +451,35 @@
           "time_info": "[02时23分 ~ 06时08分]"
         },
         {
+          "title": "通胀、赤字、AI发债齐施压，超半数市场人士押注30年期美债收益率年底前触及6%",
+          "url": "https://wallstreetcn.com/articles/3782544",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时20分 ~ 09时21分]"
+        },
+        {
+          "title": "美股收盘：美伊谈判消息缓和“美债风暴” 三大指数携手走高",
+          "url": "https://www.cls.cn/detail/2493190",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时20分 ~ 09时21分]"
+        },
+        {
           "title": "美联储哈玛克：美债收益率上涨并非源于通胀信心丧失",
           "url": "https://flash.jin10.com/detail/20260926044449081800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -377,9 +497,92 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 3,
+      "keyword_group": "chatgpt openai",
+      "match_count": 6,
       "titles": [
+        {
+          "title": "OpenAI的模型访问了美国人口普查局和SEC的公开数据",
+          "url": "https://wallstreetcn.com/livenews/3170944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
+          "title": "Codex和Claude Code都跑偏了，前OpenAI研究员称Jev出现前AI世界是个悲剧",
+          "url": "https://wallstreetcn.com/articles/3782531",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时20分 ~ 09时21分]"
+        },
+        {
+          "title": "OpenAI确认其模型访问了美国部分政府网站的信息",
+          "url": "https://flash.jin10.com/detail/20260926082244361800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
+          "title": "OpenAI Codex产品负责人：是的，我们重新上线了，将为所有付费用户重置Codex和ChatGPT的使用限制。抱歉造成了短暂中断。",
+          "url": "https://flash.jin10.com/detail/20260926081647903800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
+          "title": "OpenAI正设法在发生用户数据泄露事故理解AI agent的活动范围。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3170910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时08分"
+        },
+        {
+          "title": "OpenAI称AI智能体引发多起异常事件 调查或持续数月",
+          "url": "https://flash.jin10.com/detail/20260926043709352800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "【早报】美股全线收涨，苹果再创历史收盘新高；原油大跌、黄金上涨；港交所：接纳国债等债券作为非现金抵押品；王兴兴发声，事关机器人核心瓶颈",
+          "url": "https://www.cls.cn/detail/2493196",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时20分 ~ 09时21分]"
+        },
         {
           "title": "金十图示：2026年09月25日（周五）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260926011740344800",
@@ -409,7 +612,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         }
@@ -417,7 +620,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "怎么评价 DeepSeek Harness 桌面版源码正式上线？",
@@ -425,11 +628,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时23分 ~ 06时08分]"
+          "appearance_count": 5,
+          "time_info": "[02时23分 ~ 09时21分]"
         },
         {
           "title": "DeepSeek将参加联合国会议",
@@ -439,36 +643,36 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时23分 ~ 06时08分]"
+          "appearance_count": 5,
+          "time_info": "[02时23分 ~ 09时21分]"
+        },
+        {
+          "title": "DeepSeek Harness出桌面版了！",
+          "url": "https://wallstreetcn.com/articles/3782523",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时20分 ~ 09时21分]"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
       "titles": [
         {
-          "title": "OpenAI正设法在发生用户数据泄露事故理解AI agent的活动范围。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3170910",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
-          "title": "OpenAI称AI智能体引发多起异常事件 调查或持续数月",
-          "url": "https://flash.jin10.com/detail/20260926043709352800",
+          "title": "谷歌(GOOG.O)在威胁情报报告中指出，“ShinyHunters”重启针对甲骨文(ORCL.N)PeopleSoft的大规模攻击行动，其在最近的一次攻击行动中扩大了攻击范围，在全球数十个系统上部署了网页后门程式。",
+          "url": "https://flash.jin10.com/detail/20260926082621279800",
           "source": "金十数据",
           "ranks": [
-            20
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时08分"
+          "time_info": "09时21分"
         }
       ]
     },
@@ -481,11 +685,12 @@
           "url": "https://wallstreetcn.com/livenews/3170915",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时08分 ~ 09时21分]"
         }
       ]
     }
