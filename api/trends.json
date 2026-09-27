@@ -1,433 +1,116 @@
 {
-  "generated_at": "2026-09-27T21:44:37.839175+08:00",
-  "total_titles_processed": 958,
+  "generated_at": "2026-09-28T02:11:44.363171+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 6,
       "titles": [
         {
-          "title": "特朗普拒绝伊朗提议",
-          "url": "https://news.ifeng.com/c/8wk5vWGq1Vb",
+          "title": "特朗普拒绝重开霍尔木兹方案，伊朗军方称做好迎战准备",
+          "url": "https://news.ifeng.com/c/8wldujH90Z0",
           "source": "凤凰网",
           "ranks": [
-            4,
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 09时15分]"
-        },
-        {
-          "title": "报道：特朗普拒绝伊朗7天停火提议，预计中期选举后恢复轰炸",
-          "url": "https://wallstreetcn.com/articles/3782570",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 06时35分]"
-        },
-        {
-          "title": "特朗普第一时间发帖：期待下次会面",
-          "url": "https://www.toutiao.com/trending/7689304243416616490/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 09时15分]"
-        },
-        {
-          "title": "特朗普为何安排超高规格礼遇？",
-          "url": "https://news.ifeng.com/c/8wknHtlEvaY",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时14分 ~ 15时53分]"
-        },
-        {
-          "title": "美国总统特朗普：美国不会给AI“踩刹车”。",
-          "url": "https://wallstreetcn.com/livenews/3171006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            2,
-            6,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 15时53分]"
-        },
-        {
-          "title": "特朗普：美国和古巴将达成协议，不需要动用军队",
-          "url": "https://original.ifeng.com/c/8wkxyKEyoQn",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时53分 ~ 21时44分]"
-        },
-        {
-          "title": "详讯丨习近平和彭丽媛同美国总统特朗普夫妇茶叙",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34151574",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时59分"
-        },
-        {
-          "title": "美国总统特朗普：我们拥有有史以来最出色的财务数据，而假新闻媒体却拒绝报道。",
-          "url": "https://flash.jin10.com/detail/20260927090047076800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时15分"
-        },
-        {
-          "title": "习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴",
-          "url": "https://www.cls.cn/detail/2492899",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 09时15分]"
-        },
-        {
-          "title": "习近平和彭丽媛同美国总统特朗普夫妇茶叙",
-          "url": "https://wallstreetcn.com/articles/3782557",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
-        },
-        {
-          "title": "美国总统特朗普重申，伊朗不可以拥有核武器。",
-          "url": "https://wallstreetcn.com/livenews/3170986",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            11,
-            15,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 15时53分]"
-        },
-        {
-          "title": "特朗普：批准新的燃油经济性标准 废除拜登时代的电动汽车强制令",
-          "url": "https://flash.jin10.com/detail/20260927031908923800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时43分 ~ 06时35分]"
-        },
-        {
-          "title": "美国总统特朗普：批准了新的燃油经济性标准，废除了拜登的电动汽车强制令。",
-          "url": "https://flash.jin10.com/detail/20260927031550189800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时43分 ~ 06时35分]"
-        },
-        {
-          "title": "特朗普称美国经济“史上最佳” 批评媒体和民主党不愿承认",
-          "url": "https://flash.jin10.com/detail/20260927031306217800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时43分 ~ 06时35分]"
-        },
-        {
-          "title": "美国总统特朗普：商业活动蒸蒸日上，美国人的收入达到前所未有的水平，贫困率降至历史最低，出口也在激增！“假新闻”媒体和“蠢民主党人”痛恨这些报告和这些破纪录的数据。",
-          "url": "https://flash.jin10.com/detail/20260927030058388800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时43分 ~ 06时35分]"
-        },
-        {
-          "title": "习近平同美国总统特朗普会谈",
-          "url": "https://www.cls.cn/detail/2492836",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 06时35分]"
-        },
-        {
-          "title": "特朗普：这次访问富有成效",
-          "url": "https://www.toutiao.com/trending/7689614804578733595/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 06时35分]"
-        },
-        {
-          "title": "特朗普演讲中致敬中国五千年历史",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%BC%94%E8%AE%B2%E4%B8%AD%E8%87%B4%E6%95%AC%E4%B8%AD%E5%9B%BD%E4%BA%94%E5%8D%83%E5%B9%B4%E5%8E%86%E5%8F%B2",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 06时35分]"
-        },
-        {
-          "title": "美国总统特朗普：美国经通胀调整后的家庭收入中位数现已达到历史最高水平；美国的贫困率也降至有记录以来的最低点。2026年美国商品出口有望创下历史新高，数以万亿美元计的新投资正源源不断地涌入美国。如果换作其他人担任总统，媒体定会对此大肆报道。",
-          "url": "https://flash.jin10.com/detail/20260927030025573800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时43分 ~ 06时35分]"
-        },
-        {
-          "title": "习近平和彭丽媛同美国总统特朗普夫妇茶叙",
-          "url": "https://www.cls.cn/detail/2493153",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时14分 ~ 09时15分]"
+          "time_info": "02时11分"
         },
         {
           "title": "美国总统特朗普：伊朗战争很快就会结束，届时油价将下跌。 昨晚我们从霍尔木兹海峡抽取了创纪录数量的石油。",
           "url": "https://wallstreetcn.com/livenews/3171062",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
-        },
-        {
-          "title": "特朗普称美国和古巴会达成协议，而媒体报道“美军正检查兵力部署”",
-          "url": "https://wallstreetcn.com/articles/3782591",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
-        },
-        {
-          "title": "美国总统特朗普：如果共和党获胜，所有成年人将获得5000美元红利，而民主党做不到这一点。",
-          "url": "https://flash.jin10.com/detail/20260927081513348800",
-          "source": "金十数据",
-          "ranks": [
-            13
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时15分"
+          "time_info": "02时11分"
         },
         {
-          "title": "美国能源部长赖特： 特朗普决心阻止伊朗获得核武器。",
-          "url": "https://flash.jin10.com/detail/20260927141319053800",
+          "title": "英国基地附近5人被捕 特朗普称嫌疑人企图制造“重大破坏”",
+          "url": "https://flash.jin10.com/detail/20260927235742107800",
           "source": "金十数据",
           "ranks": [
-            15
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时53分"
+          "time_info": "02时11分"
         },
         {
-          "title": "美国总统特朗普：现在在美国工作的人数比我们国家历史上任何时候都要多！",
-          "url": "https://flash.jin10.com/detail/20260927201010346800",
+          "title": "伊朗外长：特朗普面临战争还是谈判的抉择 伊朗准备好应对新的侵略行动",
+          "url": "https://flash.jin10.com/detail/20260927234657989800",
           "source": "金十数据",
           "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
-        },
-        {
-          "title": "美媒：特朗普的铁杆支持群体不觉得存在生活成本问题",
-          "url": "https://flash.jin10.com/detail/20260927022702577800",
-          "source": "金十数据",
-          "ranks": [
-            20
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时43分"
+          "time_info": "02时11分"
+        },
+        {
+          "title": "特朗普计划与Anthropic CEO共进晚餐 双方关系出现缓和信号",
+          "url": "https://flash.jin10.com/detail/20260927233841277800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时11分"
         },
         {
           "title": "特朗普：美国和古巴会达成协议，美方“不需要动用军队”",
           "url": "https://wallstreetcn.com/livenews/3171053",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
-        },
-        {
-          "title": "特朗普两度提及“中国皇后号”",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%A4%E5%BA%A6%E6%8F%90%E5%8F%8A%E2%80%9C%E4%B8%AD%E5%9B%BD%E7%9A%87%E5%90%8E%E5%8F%B7%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            28
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时53分"
+          "time_info": "02时11分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 13,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI自曝：AI模型或已在全网秘密植入自我复制提示词，训练已被迫叫停",
           "url": "https://wallstreetcn.com/articles/3782592",
           "source": "华尔街见闻",
           "ranks": [
-            3,
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时53分 ~ 21时44分]"
+          "appearance_count": 1,
+          "time_info": "02时11分"
         },
         {
           "title": "下周重磅日程：美国非农与中国PMI、OpenAI开发者大会、美光财报",
           "url": "https://wallstreetcn.com/articles/3782598",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时44分"
+          "time_info": "02时11分"
         },
         {
           "title": "入侵美澳政府网站！OpenAI暂停最先进模型训练",
           "url": "https://news.ifeng.com/c/8wlALQRALzW",
           "source": "凤凰网",
           "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时53分 ~ 21时44分]"
-        },
-        {
-          "title": "环球下周看点：美债风暴走向何处？星舰试飞、OpenAI开发者日、美光财报、“会飞的特斯拉”接力亮相",
-          "url": "https://www.cls.cn/detail/2493334",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时53分 ~ 21时44分]"
-        },
-        {
-          "title": "OpenAI再曝大模型越界行为！盖茨加入AI安全论战：足以导致“十亿人死亡”",
-          "url": "https://www.cls.cn/detail/2493223",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时14分 ~ 09时15分]"
-        },
-        {
-          "title": "接连发生失控事件，OpenAI再次暂停其最先进模型训练",
-          "url": "https://wallstreetcn.com/livenews/3171021",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时53分"
-        },
-        {
-          "title": "AI杀入科学家“主场”！OpenAI智能体将挑战人类蛋白质设计，原定“人机大战”临时改赛制",
-          "url": "https://wallstreetcn.com/articles/3782583",
-          "source": "华尔街见闻",
-          "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时53分"
-        },
-        {
-          "title": "美媒：OpenAI与Anthropic正在调查数万起AI相关安全事件",
-          "url": "https://flash.jin10.com/detail/20260927082719732800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时15分"
+          "time_info": "02时11分"
         },
         {
           "title": "沙盒失守！AI智能体接连失控 OpenAI再次叫停前沿模型开发",
@@ -436,192 +119,48 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
-        },
-        {
-          "title": "如何看待据称 OpenAI 、 Anthropic 正调查数万起 AI 安全事件，包括绕过安全护栏、创建留言板等？",
-          "url": "https://www.zhihu.com/question/2087449927274034329",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时53分"
+          "time_info": "02时11分"
         },
         {
-          "title": "OpenAI与Anthropic首席执行官被传唤出席澳大利亚AI调查听证会",
-          "url": "https://flash.jin10.com/detail/20260927140607158800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时53分"
-        },
-        {
-          "title": "OpenAI暂停其最强模型训练",
-          "url": "https://s.weibo.com/weibo?q=%23OpenAI%E6%9A%82%E5%81%9C%E5%85%B6%E6%9C%80%E5%BC%BA%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时53分"
-        },
-        {
-          "title": "OpenAI再暂停最先进模型训练",
-          "url": "https://www.baidu.com/s?wd=OpenAI%E5%86%8D%E6%9A%82%E5%81%9C%E6%9C%80%E5%85%88%E8%BF%9B%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "“Agent vs 美债”——谁将主导美股？",
-          "url": "https://wallstreetcn.com/articles/3782574",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 09时15分]"
-        },
-        {
-          "title": "美股收盘：美伊谈判消息缓和“美债风暴” 三大指数携手走高",
-          "url": "https://www.cls.cn/detail/2493190",
+          "title": "环球下周看点：美债风暴走向何处？星舰试飞、OpenAI开发者日、美光财报、“会飞的特斯拉”接力亮相",
+          "url": "https://www.cls.cn/detail/2493334",
           "source": "财联社热门",
           "ranks": [
-            7,
-            6
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时59分 ~ 21时44分]"
-        },
-        {
-          "title": "标普震荡反弹，海峡重开前景击落原油，日元盘中反弹逾1%，美债抛售暂歇但全周遭血洗",
-          "url": "https://wallstreetcn.com/articles/3782519",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 06时35分]"
-        },
-        {
-          "title": "即便油价下跌，30年期美债收益率依旧突破了5.5%",
-          "url": "https://wallstreetcn.com/articles/3782571",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时34分 ~ 09时15分]"
-        },
-        {
-          "title": "美股收盘：美债风暴持续发酵 油价深夜巨震 Meta涨超4%",
-          "url": "https://www.cls.cn/detail/2492840",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 06时35分]"
+          "appearance_count": 1,
+          "time_info": "02时11分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "【早报】美股全线收涨，苹果再创历史收盘新高；原油大跌、黄金上涨；港交所：接纳国债等债券作为非现金抵押品；王兴兴发声，事关机器人核心瓶颈",
-          "url": "https://www.cls.cn/detail/2493196",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时59分 ~ 21时44分]"
-        },
-        {
-          "title": "冲刺美股史上最大半导体IPO！英特尔曾以90亿美元卖掉的Solidigm，如今估值或达1500亿美元",
-          "url": "https://wallstreetcn.com/articles/3782575",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 09时15分]"
-        },
         {
           "title": "高盛：别等中期选举，“金发姑娘”行情或提前点燃美股年末行情",
           "url": "https://wallstreetcn.com/articles/3782600",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时44分"
+          "time_info": "02时11分"
         },
         {
-          "title": "海外资金疯买美股！过去12个月净流入9420亿美元，创1985年以来纪录",
-          "url": "https://wallstreetcn.com/articles/3782588",
-          "source": "华尔街见闻",
+          "title": "【早报】美股全线收涨，苹果再创历史收盘新高；原油大跌、黄金上涨；港交所：接纳国债等债券作为非现金抵押品；王兴兴发声，事关机器人核心瓶颈",
+          "url": "https://www.cls.cn/detail/2493196",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            4
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时14分 ~ 15时53分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "招商银行 万华化学 福耀玻璃 旗滨集团 苏农银行 奥浦迈 爱美客 美的集团 潍柴动力 苏泊尔 鱼跃医疗 牧原股份 振邦智能 华兰生物 证监会",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "香港证监会就恒大审计问题与普华永道达成和解：普华永道不承认责任但支付10亿港元，该款项非恒大财产，不可用以清偿其债权",
-          "url": "https://wallstreetcn.com/articles/3782573",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时14分 ~ 09时15分]"
+          "appearance_count": 1,
+          "time_info": "02时11分"
         }
       ]
     },
@@ -634,12 +173,28 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365570&amp;topic_name=DeepSeek%E5%B0%86%E5%8F%82%E5%8A%A0%E8%81%94%E5%90%88%E5%9B%BD%E4%BC%9A%E8%AE%AE",
           "source": "贴吧",
           "ranks": [
-            20,
-            23
+            26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时59分 ~ 21时44分]"
+          "appearance_count": 1,
+          "time_info": "02时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股收盘：美伊谈判消息缓和“美债风暴” 三大指数携手走高",
+          "url": "https://www.cls.cn/detail/2493190",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时11分"
         }
       ]
     }
