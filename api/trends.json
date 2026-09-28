@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-28T08:31:52.842828+08:00",
-  "total_titles_processed": 515,
+  "generated_at": "2026-09-28T14:32:40.456393+08:00",
+  "total_titles_processed": 732,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时11分 ~ 05时58分]"
+        },
+        {
+          "title": "【早报】伊朗：已为与美战事重开做好准备；特朗普：预计本周与伊朗谈判；原油高开、黄金下跌；武契奇宣布辞职",
+          "url": "https://www.cls.cn/detail/2493599",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时31分 ~ 14时32分]"
         },
         {
           "title": "美国总统特朗普：将与Anthropic首席执行官Amodei（阿莫代伊）会谈，商讨人工智能议题。",
@@ -39,17 +51,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
-        },
-        {
-          "title": "【早报】伊朗：已为与美战事重开做好准备；特朗普：预计本周与伊朗谈判；原油高开、黄金下跌；武契奇宣布辞职",
-          "url": "https://www.cls.cn/detail/2493599",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时31分"
         },
         {
           "title": "特朗普表示，美国将在与伊朗的军事和经济战中获胜，伊朗通胀率已达318%，并预计战争将“很快”结束、油价将下跌。",
@@ -147,7 +148,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时31分"
         },
@@ -199,7 +200,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "OpenAI自曝：AI模型或已在全网秘密植入自我复制提示词，训练已被迫叫停",
@@ -225,15 +226,38 @@
           "time_info": "[02时11分 ~ 05时58分]"
         },
         {
+          "title": "沙盒失守！AI智能体接连失控 OpenAI再次叫停前沿模型开发",
+          "url": "https://www.cls.cn/detail/2493381",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时11分 ~ 14时32分]"
+        },
+        {
           "title": "下周重磅日程：美国非农与中国PMI、OpenAI开发者大会、美光财报、巴西大选",
           "url": "https://wallstreetcn.com/articles/3782598",
           "source": "华尔街见闻",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时31分"
+        },
+        {
+          "title": "本周重磅日程：美国非农与中国PMI、OpenAI开发者大会、美光财报、巴西大选",
+          "url": "https://wallstreetcn.com/articles/3782598",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
         },
         {
           "title": "入侵美澳政府网站！OpenAI暂停最先进模型训练",
@@ -244,19 +268,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时11分 ~ 08时31分]"
-        },
-        {
-          "title": "沙盒失守！AI智能体接连失控 OpenAI再次叫停前沿模型开发",
-          "url": "https://www.cls.cn/detail/2493381",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时11分 ~ 08时31分]"
+          "appearance_count": 5,
+          "time_info": "[02时11分 ~ 14时32分]"
         },
         {
           "title": "环球下周看点：美债风暴走向何处？星舰试飞、OpenAI开发者日、美光财报、“会飞的特斯拉”接力亮相",
@@ -269,6 +282,57 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时11分 ~ 08时31分]"
+        },
+        {
+          "title": "迎战Meta Muse，OpenAI紧急推出个人助手，预计周二发布",
+          "url": "https://wallstreetcn.com/articles/3782618",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美股收盘：美伊谈判消息缓和“美债风暴” 三大指数携手走高",
+          "url": "https://www.cls.cn/detail/2493190",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时11分 ~ 08时31分]"
+        },
+        {
+          "title": "一文读懂：过去五次美债收益率飙升 美股表现如何？",
+          "url": "https://www.cls.cn/detail/2493722",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
+        {
+          "title": "美债恐慌指数狂飙：长债收益率正从“涨得高”步入“涨得快”？",
+          "url": "https://www.cls.cn/detail/2493646",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
         }
       ]
     },
@@ -284,8 +348,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时11分 ~ 08时31分]"
+          "appearance_count": 5,
+          "time_info": "[02时11分 ~ 14时32分]"
         },
         {
           "title": "【早报】美股全线收涨，苹果再创历史收盘新高；原油大跌、黄金上涨；港交所：接纳国债等债券作为非现金抵押品；王兴兴发声，事关机器人核心瓶颈",
@@ -306,7 +370,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时31分"
         }
@@ -321,11 +385,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365570&amp;topic_name=DeepSeek%E5%B0%86%E5%8F%82%E5%8A%A0%E8%81%94%E5%90%88%E5%9B%BD%E4%BC%9A%E8%AE%AE",
           "source": "贴吧",
           "ranks": [
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时11分 ~ 08时31分]"
+          "appearance_count": 5,
+          "time_info": "[02时11分 ~ 14时32分]"
         }
       ]
     },
@@ -340,27 +405,9 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股收盘：美伊谈判消息缓和“美债风暴” 三大指数携手走高",
-          "url": "https://www.cls.cn/detail/2493190",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时11分 ~ 08时31分]"
         }
       ]
     }
