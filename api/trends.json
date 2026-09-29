@@ -1,35 +1,12 @@
 {
-  "generated_at": "2026-09-29T23:34:52.433421+08:00",
-  "total_titles_processed": 970,
+  "generated_at": "2026-09-30T04:36:15.004380+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 25,
       "titles": [
-        {
-          "title": "特朗普说的“Gung Ho”，源自八路军和游击战",
-          "url": "https://news.ifeng.com/c/8wnBWmkYo4Z",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时44分 ~ 09时40分]"
-        },
-        {
-          "title": "特朗普证实美伊代表已交换信息 普京签署总统令再次扩编俄军 | 环球市场",
-          "url": "https://www.cls.cn/detail/2494687",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时40分 ~ 16时11分]"
-        },
         {
           "title": "美专家：特朗普或将淡化对台军售问题",
           "url": "https://original.ifeng.com/c/8wonFVuW1z6",
@@ -37,584 +14,351 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时34分"
-        },
-        {
-          "title": "美国总统特朗普：Axios刚发布的有关“特朗普愿向伊朗提供制裁缓解和解冻被冻结资金”的报道不属实，我要求该媒体“立即撤回”相关报道。",
-          "url": "https://flash.jin10.com/detail/20260929053550059800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时45分"
+          "appearance_count": 2,
+          "time_info": "[04时35分 ~ 04时36分]"
         },
         {
-          "title": "特朗普否认媒体报道，称：不曾向伊朗提出缓解制裁的方案。",
-          "url": "https://wallstreetcn.com/livenews/3171769",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时45分"
-        },
-        {
-          "title": "据CNN：Palantir(PLTR.N)CEO 亚历克斯·卡普也将参加当地时间周二在白宫举行的特朗普与科技行业高管的会晤。",
-          "url": "https://flash.jin10.com/detail/20260929053136100800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时45分"
-        },
-        {
-          "title": "Palantir的CEO将列席美国总统特朗普周二（与众议长约翰逊）的（午餐）会议。（CNN）",
-          "url": "https://wallstreetcn.com/livenews/3171768",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时45分"
-        },
-        {
-          "title": "美国参议院Grassley：不相信总统特朗普会祭出柴油出口禁令。 特朗普政府在柴油禁令问题上承受着太大的压力。 建议众多石油公司在国内降低（柴油/成品油）价格。",
-          "url": "https://wallstreetcn.com/livenews/3171767",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时45分"
-        },
-        {
-          "title": "日方官员称特朗普表态让日本不舒服",
-          "url": "https://www.toutiao.com/trending/7690028888260444214/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时40分"
-        },
-        {
-          "title": "特朗普评价中美元首会晤：Amazing！",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%84%E4%BB%B7%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%EF%BC%9AAmazing%EF%BC%81",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时40分"
-        },
-        {
-          "title": "特朗普谈为何对伊发动战争",
-          "url": "https://flash.jin10.com/detail/20260929051750537800",
+          "title": "美国总统特朗普：扎克伯格的观点非常中立。",
+          "url": "https://flash.jin10.com/detail/20260930040420220800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时45分"
-        },
-        {
-          "title": "特朗普在中西部净支持率降至-14%！共和党票仓已岌岌可危",
-          "url": "https://www.cls.cn/detail/2494165",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时44分 ~ 05时45分]"
-        },
-        {
-          "title": "特朗普：加拿大或将在数周内取消所有关税",
-          "url": "https://flash.jin10.com/detail/20260929051746499800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时45分"
-        },
-        {
-          "title": "消息人士：英国政府正私下游说特朗普政府，希望在美国实施任何潜在柴油出口禁令时获得豁免。",
-          "url": "https://flash.jin10.com/detail/20260929051301909800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时45分"
-        },
-        {
-          "title": "特朗普签署行政令，推出AI驱动政务网站",
-          "url": "https://flash.jin10.com/detail/20260929225921121800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时34分"
-        },
-        {
-          "title": "中东和平又现曙光？特朗普证实：美伊代表已通过调解方交换信息",
-          "url": "https://www.cls.cn/detail/2494729",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时11分"
-        },
-        {
-          "title": "美国国务卿鲁比奥：只要特朗普总统还在任，我们就绝不会允许古巴成为危害美国利益或威胁美国国家安全的行动基地。这一点我们的立场非常明确。",
-          "url": "https://flash.jin10.com/detail/20260929092707539800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时40分"
-        },
-        {
-          "title": "美国总统特朗普：不会屈服于“科技会影响到美国”的担忧。 赞赏科技能在医疗能与发挥的作用。",
-          "url": "https://wallstreetcn.com/livenews/3172304",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时34分"
-        },
-        {
-          "title": "特朗普评中美会晤：满分10分我打12分",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%84%E4%B8%AD%E7%BE%8E%E4%BC%9A%E6%99%A4%EF%BC%9A%E6%BB%A1%E5%88%8610%E5%88%86%E6%88%91%E6%89%9312%E5%88%86",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时11分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗的情况非常糟糕，（战争）很快就会结束。 油价将大幅下跌。",
-          "url": "https://wallstreetcn.com/livenews/3172302",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时34分"
-        },
-        {
-          "title": "一位匿名伊朗官员表示，目前的主要问题在于特朗普似乎尚未就他究竟希望从谈判中获得什么，确立明确且一贯的立场。",
-          "url": "https://flash.jin10.com/detail/20260929045001790800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时45分"
-        },
-        {
-          "title": "特朗普将于美国东部时间周二中午12:30出席人工智能（AI）主题午餐会。",
-          "url": "https://wallstreetcn.com/livenews/3171807",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时40分"
+          "time_info": "04时36分"
         },
         {
           "title": "特朗普评中美会晤：满分10分我打12分",
           "url": "https://www.toutiao.com/trending/7690091446392651839/",
           "source": "今日头条",
           "ranks": [
-            14
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时35分 ~ 04时36分]"
         },
         {
-          "title": "美国总统特朗普：在未来的岁月里，当人们书写我们国家的历史时，会把针对伊朗的行动列为我们所做过的最重要的事情之一。",
-          "url": "https://flash.jin10.com/detail/20260929224449036800",
+          "title": "美国总统特朗普：Anthropic首席执行官阿莫代伊一直很棒。",
+          "url": "https://flash.jin10.com/detail/20260930040355534800",
           "source": "金十数据",
           "ranks": [
-            14
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时34分"
+          "time_info": "04时36分"
         },
         {
-          "title": "特朗普：将通过行政命令把“人工智能”更名为“超级智能”",
-          "url": "https://wallstreetcn.com/livenews/3172299",
+          "title": "美国总统特朗普对站在身旁的Alphabet首席执行官批评了该公司在芬兰建设数据中心的计划。",
+          "url": "https://wallstreetcn.com/livenews/3172458",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时34分"
+          "time_info": "04时36分"
         },
         {
-          "title": "美国总统特朗普：不要因技术将对我们产生何种影响而屈服于恐惧。",
-          "url": "https://flash.jin10.com/detail/20260929224234173800",
+          "title": "美国总统特朗普谈论AI：既存在自我监管，也存在集体政策。",
+          "url": "https://wallstreetcn.com/livenews/3172457",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        },
+        {
+          "title": "美国总统特朗普：将在接下来的三到四天内任命人工智能负责人。",
+          "url": "https://flash.jin10.com/detail/20260930035938858800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗情况非常糟糕，不知道他们是否会放弃。",
+          "url": "https://flash.jin10.com/detail/20260930035632991800",
           "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时34分"
+          "time_info": "04时36分"
         },
         {
-          "title": "美国总统特朗普称赞科技在医疗领域的贡献。",
-          "url": "https://flash.jin10.com/detail/20260929224227080800",
-          "source": "金十数据",
+          "title": "美国总统特朗普：Anthropic PBC的CEO Amodei非常不错。",
+          "url": "https://wallstreetcn.com/livenews/3172451",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时34分"
+          "time_info": "04时36分"
         },
         {
-          "title": "美国总统特朗普：伊朗正严重溃败，很快就会结束。油价将大幅下跌。",
-          "url": "https://flash.jin10.com/detail/20260929224058317800",
+          "title": "美国总统特朗普：我们将对人工智能进行充分评估。",
+          "url": "https://flash.jin10.com/detail/20260930035444562800",
           "source": "金十数据",
           "ranks": [
             17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时34分"
+          "time_info": "04时36分"
         },
         {
-          "title": "美国总统特朗普：别提什么“假新闻”了。现在我要管它们叫“人工新闻”（Artificial News）。我喜欢这个叫法。",
-          "url": "https://flash.jin10.com/detail/20260929224029971800",
+          "title": "特朗普称赞黄仁勋为“非常帅气的家伙”。",
+          "url": "https://flash.jin10.com/detail/20260930035441789800",
           "source": "金十数据",
           "ranks": [
             18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时34分"
+          "time_info": "04时36分"
         },
         {
-          "title": "美国总统特朗普：感谢马斯克。",
-          "url": "https://wallstreetcn.com/livenews/3172293",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时34分"
-        },
-        {
-          "title": "美国总统特朗普将签署命令，要求各机构与america.gov网站整合。",
-          "url": "https://flash.jin10.com/detail/20260929223950527800",
+          "title": "美国总统特朗普表示，他与科技行业领导者已正式将“人工智能”（AI）的名称改为“超级智能”（Super Intelligence/SI）。",
+          "url": "https://flash.jin10.com/detail/20260930035331168800",
           "source": "金十数据",
           "ranks": [
             19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时34分"
+          "time_info": "04时36分"
         },
         {
-          "title": "美国总统特朗普：（谈人工智能）若被滥用，可能对政体运作产生影响。",
-          "url": "https://flash.jin10.com/detail/20260929223901099800",
+          "title": "美国总统特朗普：人工智能主管人选即将确定，将在未来三到四天内任命。",
+          "url": "https://wallstreetcn.com/livenews/3172446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        },
+        {
+          "title": "美国总统特朗普在谈及数据中心和中期选举时表示：我们必须做正确的事情。",
+          "url": "https://flash.jin10.com/detail/20260930035229731800",
           "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时34分"
+          "time_info": "04时36分"
         },
         {
-          "title": "美国总统特朗普：希望保持人工智能领先地位。",
-          "url": "https://flash.jin10.com/detail/20260929223821232800",
+          "title": "美国总统特朗普被问及AI护栏是否不必要时回答：是的。",
+          "url": "https://flash.jin10.com/detail/20260930035207842800",
           "source": "金十数据",
           "ranks": [
             21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时34分"
+          "time_info": "04时36分"
         },
         {
-          "title": "美国国务卿鲁比奥：特朗普总统采取行动，是为了阻止伊朗达到他所称的“免疫线”，即德黑兰可能积累足够多的导弹、无人机和其他武器，使针对其核计划采取军事行动变得困难得多。",
-          "url": "https://flash.jin10.com/detail/20260929091949218800",
-          "source": "金十数据",
+          "title": "美国总统特朗普：伊朗表现极差，目前尚不清楚他们是否会就此让步。 不知道伊朗（现在）是否会放弃，但他们终究会放弃。",
+          "url": "https://wallstreetcn.com/livenews/3172444",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时40分"
+          "time_info": "04时36分"
         },
         {
-          "title": "美国总统特朗普：绝不会抑制人工智能的增长。",
-          "url": "https://flash.jin10.com/detail/20260929223758500800",
-          "source": "金十数据",
+          "title": "美国总统特朗普被问及“人工智能代理（AI agents）犯罪时，谁该承担责任”，称：这不是人工智能（AI），而是“超级智能”（SI）。",
+          "url": "https://wallstreetcn.com/livenews/3172443",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时34分"
+          "time_info": "04时36分"
         },
         {
-          "title": "日方官员称特朗普表态让日本不舒服",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%96%B9%E5%AE%98%E5%91%98%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E8%A1%A8%E6%80%81%E8%AE%A9%E6%97%A5%E6%9C%AC%E4%B8%8D%E8%88%92%E6%9C%8D",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时40分"
-        },
-        {
-          "title": "美国总统特朗普：将签署关于人工智能的强有力行政令，将人工智能（AI）更名为“超级智能”（SI）。",
-          "url": "https://flash.jin10.com/detail/20260929223527892800",
+          "title": "美国总统特朗普赞扬了英伟达(NVDA.O)的CEO黄仁勋。",
+          "url": "https://flash.jin10.com/detail/20260930034950730800",
           "source": "金十数据",
           "ranks": [
             23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时34分"
+          "time_info": "04时36分"
         },
         {
-          "title": "美国总统特朗普：政府的运作失灵已长达数十年之久，甚至可以说是有数百年了，尽管我们的历史没那么长。而特朗普政府正在着手解决这一问题。",
-          "url": "https://flash.jin10.com/detail/20260929223436883800",
+          "title": "美国总统特朗普：（关于人工智能监管）美国拥有联邦调查局（FBI）、中央情报局（CIA）和司法部（DOJ）等机构。",
+          "url": "https://flash.jin10.com/detail/20260930034655532800",
           "source": "金十数据",
           "ranks": [
             24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时34分"
+          "time_info": "04时36分"
         },
         {
-          "title": "美国总统特朗普：美国国务卿鲁比奥表现出色。",
-          "url": "https://flash.jin10.com/detail/20260929222953851800",
+          "title": "美国总统特朗普：最聪明的人互相观察。",
+          "url": "https://wallstreetcn.com/livenews/3172441",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        },
+        {
+          "title": "美国总统特朗普：如果AI模型不被用于正当目的，我们将对其采取行动。",
+          "url": "https://flash.jin10.com/detail/20260930034626364800",
           "source": "金十数据",
           "ranks": [
             25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时34分"
+          "time_info": "04时36分"
         },
         {
-          "title": "分析：伊朗等待美国回应，但不要过度关注特朗普或鲁比奥的表态",
-          "url": "https://flash.jin10.com/detail/20260929153209766800",
-          "source": "金十数据",
+          "title": "美国总统特朗普被问及AI企业能否自我监管，称：是的。",
+          "url": "https://wallstreetcn.com/livenews/3172439",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        },
+        {
+          "title": "美国总统特朗普被问及AI防护栏是否没有必要，称：是的。",
+          "url": "https://wallstreetcn.com/livenews/3172438",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时11分"
+          "time_info": "04时36分"
+        },
+        {
+          "title": "特朗普：盖茨并未表现出对AI的担忧",
+          "url": "https://wallstreetcn.com/livenews/3172437",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        },
+        {
+          "title": "美国总统特朗普：赞赏黄仁勋。",
+          "url": "https://wallstreetcn.com/livenews/3172436",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时36分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 5,
       "titles": [
         {
-          "title": "特朗普拒绝伊朗停火条件 美股期指下跌 英伟达盘前涨近2% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2494468",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时44分 ~ 09时40分]"
-        },
-        {
-          "title": "高盛警告：美股多数股票已在熊市",
-          "url": "https://www.toutiao.com/trending/7690560556574445092/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时44分 ~ 05时45分]"
-        },
-        {
-          "title": "摩根大通：美股科技七巨头“杀估值”已近尾声，但难再回到“一枝独秀”",
-          "url": "https://wallstreetcn.com/articles/3782662",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时40分"
-        },
-        {
-          "title": "美股三大指数集体收跌",
-          "url": "https://www.toutiao.com/trending/7690723201587875371/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时40分"
-        },
-        {
-          "title": "网络股指数ETF收跌将近2%，领跌美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3171746",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时45分"
-        },
-        {
-          "title": "黄金ETF收跌超3.9%，与大豆基金、新兴市场ETF等领跌美股大类资产类ETF",
-          "url": "https://wallstreetcn.com/livenews/3171745",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时45分"
-        },
-        {
-          "title": "周一（9月28日），彭博电动汽车价格回报指数跌1.41%，报3154.61点，亚太盘初微幅冲高回落，北京时间10:00-美股开盘持稳于3190点一线、之后持续扩大跌幅。 成分股中，Aurora Innovation普拉格动力、安霸、PM材料、“特斯拉劲敌”Rivian领跌，港股地平线收涨2.11%表现第三、吉利汽车控股涨3.65%、速腾聚创科技涨4.31%。",
-          "url": "https://wallstreetcn.com/livenews/3171744",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时45分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨1.12%，报5751.39点，美股早盘持续扩大涨幅，随后持续高位震荡，尾盘回吐部分涨幅。 热门中概股里，网易初步收涨4.8%，华住、再鼎医药涨2.9%，拼多多、理想、B站、亚朵、名创优品、百胜中国、携程至少涨约1.2%，腾讯涨0.8%，小米持平，百度跌0.3%，阿里跌0.8%，日月光半导体跌1.1%。 ETF中，中概互联网指数ETF（KWEB）收涨0.32%，中国科技指数ETF（CQQQ）收跌2.22%。 XtrackersHarvest中证50（ASHS）收跌2.56%，德银嘉实沪深300指数ETF（ASHR）收跌1.75%，MSCI新兴市场ex中国ETF（EMXC）收跌1.40%。",
-          "url": "https://wallstreetcn.com/livenews/3171737",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时45分"
-        },
-        {
-          "title": "金十图示：2026年09月28日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260929040531902800",
+          "title": "金十图示：2026年09月29日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260930040538554800",
           "source": "金十数据",
           "ranks": [
-            29
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时45分"
+          "time_info": "04时36分"
         },
         {
-          "title": "标普500指数收跌59.72点，跌幅0.77%，报7683.69点，美股早盘呈现出V形走势，随后“高位企稳”。 道琼斯工业平均指数收跌347.11点，跌幅0.67%，报51481.51点。 纳斯达克综合指数（纳指）收跌248.336点，跌幅0.92%，报26820.381点。 纳斯达克100指数收跌331.324点，跌幅1.08%，报30276.81点。",
-          "url": "https://wallstreetcn.com/livenews/3171736",
+          "title": "金十图示：2026年09月29日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260930040536182800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        },
+        {
+          "title": "美股收盘：三大股指收跌 金龙指数跌1.5%",
+          "url": "https://flash.jin10.com/detail/20260930040126200800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        },
+        {
+          "title": "周二（9月29日），美股行业ETF涨跌各异，银行业ETF、区域银行ETF至多收跌1.04%，能源业ETF跌0.9%，全球科技股指数ETF涨0.38%，网络股指数ETF涨0.63%，半导体ETF涨1.15%。",
+          "url": "https://wallstreetcn.com/livenews/3172455",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            29
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时45分"
+          "time_info": "04时36分"
+        },
+        {
+          "title": "布油基金收跌超2.6%，领跌美股大类资产类ETF，黄金ETF涨超1.3%",
+          "url": "https://wallstreetcn.com/livenews/3172454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时36分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 8,
+      "match_count": 4,
       "titles": [
         {
           "title": "中东局势不明，原油冲高回落，美股指收跌，10年期美债收益率创2007年来新高，黄金重挫",
           "url": "https://wallstreetcn.com/articles/3782633",
           "source": "华尔街见闻",
           "ranks": [
-            1,
             3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时40分 ~ 23时34分]"
-        },
-        {
-          "title": "伊朗局势恶化，美股指低开，10年期美债收益率创2007年来最高水平，油价涨幅收窄，贵金属全线承压",
-          "url": "https://wallstreetcn.com/articles/3782633",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时44分 ~ 05时45分]"
-        },
-        {
-          "title": "美股收盘：美伊谈判前景不明 美债风暴不息 三大指数集体收跌",
-          "url": "https://www.cls.cn/detail/2494681",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时40分"
-        },
-        {
-          "title": "两年期美债收益率涨向5%关口，10年期美债收益率创2007年以来新高",
-          "url": "https://wallstreetcn.com/livenews/3171766",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时45分"
+          "time_info": "[04时35分 ~ 04时36分]"
         },
         {
           "title": "25年来罕见！10年期美债收益率反超标普500盈利收益率",
@@ -624,164 +368,30 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时40分 ~ 23时34分]"
-        },
-        {
-          "title": "5.27%！10年期美债收益率创2007年以来新高 万物皆在重估？",
-          "url": "https://www.cls.cn/detail/2494747",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时11分"
+          "appearance_count": 2,
+          "time_info": "[04时35分 ~ 04时36分]"
         },
         {
           "title": "美债收益率高位回落 美股期指集体走高 | 今夜看点",
           "url": "https://www.cls.cn/detail/2495520",
           "source": "财联社热门",
           "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时34分"
-        },
-        {
-          "title": "派拉蒙债券供应临近，美债延续熊市趋陡",
-          "url": "https://wallstreetcn.com/livenews/3172286",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "OpenAI：将成立澳大利亚AI网络风险工作组，正在与澳大利亚政府机构紧密合作，正对模型活动进行全面审查；首席战略官将于10月6日前往悉尼。",
-          "url": "https://wallstreetcn.com/livenews/3171819",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时40分"
-        },
-        {
-          "title": "迎战Meta Muse，OpenAI紧急推出个人助手，预计周二发布",
-          "url": "https://wallstreetcn.com/articles/3782618",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时44分 ~ 05时45分]"
+          "time_info": "[04时35分 ~ 04时36分]"
         },
         {
-          "title": "一起呼吁“AI减速”？OpenAI取消最新模型发布，Anthropic却“两连发”！",
-          "url": "https://www.cls.cn/detail/2494709",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时40分 ~ 16时11分]"
-        },
-        {
-          "title": "怎么看 OpenAI 的 Pro 订阅取消 5x 和 20x 的描述？",
-          "url": "https://www.zhihu.com/question/2087607174948186086",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时44分 ~ 05时45分]"
-        },
-        {
-          "title": "甲骨文一度上涨逾8%，报道称OpenAI年化营收接近700亿美元",
-          "url": "https://wallstreetcn.com/livenews/3172290",
+          "title": "美联储威廉姆斯：（美债）收益率与通胀观念转变无关。 油价也是债券收益率的一个影响因素。 美联储在做政策利率决定时不会考虑美国选举因素。 长期债券收益率上涨，这个显现不仅仅存在于美国。 增长前景、AI需求都推动收益率波动。 预计通胀将下降，但问题在于AI影响的持续性。",
+          "url": "https://wallstreetcn.com/livenews/3172452",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时34分"
-        },
-        {
-          "title": "OpenAI年化经常性收入接近700亿美元。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3172287",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时34分"
-        },
-        {
-          "title": "OpenAI：8月中旬的一次审查发现，有相关活动影响了澳大利亚服务局、新南威尔士州犯罪统计与研究局、维多利亚州卫生部等机构。",
-          "url": "https://flash.jin10.com/detail/20260929091815550800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "【早报】美股光通信、存储股，集体走弱；金价大幅跳水；多家A股公司，计划回购股份",
-          "url": "https://www.cls.cn/detail/2494700",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时40分 ~ 16时11分]"
-        },
-        {
-          "title": "国际金价跌4%，逼近4110美元，白银跌约5.7%",
-          "url": "https://wallstreetcn.com/livenews/3171759",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时45分"
-        },
-        {
-          "title": "银价为何比金价更脆弱",
-          "url": "https://www.toutiao.com/trending/7690909664115953206/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时34分"
+          "time_info": "04时36分"
         }
       ]
     },
@@ -790,43 +400,54 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "DeepSeek将参加联合国会议",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365570&amp;topic_name=DeepSeek%E5%B0%86%E5%8F%82%E5%8A%A0%E8%81%94%E5%90%88%E5%9B%BD%E4%BC%9A%E8%AE%AE",
-          "source": "贴吧",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时44分 ~ 09时40分]"
-        },
-        {
           "title": "假如我在 GPT3.5 发布的第三天立刻上线性能对标 DeepSeekV4.1 的模型会怎么样？",
           "url": "https://www.zhihu.com/question/2086464412991371217",
           "source": "知乎",
           "ranks": [
-            15
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时35分 ~ 04时36分]"
+        },
+        {
+          "title": "DeepSeek Harness桌面端上线",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeekHarness%E6%A1%8C%E9%9D%A2%E7%AB%AF%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时35分 ~ 04时36分]"
         }
       ]
     },
     {
-      "keyword_group": "招商银行 万华化学 福耀玻璃 旗滨集团 苏农银行 奥浦迈 爱美客 美的集团 潍柴动力 苏泊尔 鱼跃医疗 牧原股份 振邦智能 华兰生物 证监会",
-      "match_count": 1,
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
       "titles": [
         {
-          "title": "万华化学：烟台产业园MDI装置复产",
-          "url": "https://flash.jin10.com/detail/20260929154438673800",
+          "title": "OpenAI首席财务官：企业业务收入较7月已翻倍。",
+          "url": "https://flash.jin10.com/detail/20260930034546311800",
           "source": "金十数据",
           "ranks": [
-            5
+            26
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时11分"
+          "time_info": "04时36分"
+        },
+        {
+          "title": "OpenAI的CFO Sarah Friar：公司已经使用缓解措施，正在监控错误的恢复情况。 公司“资本（头寸）真的非常不错”。 市场对本公司存在新一轮融资的需求。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3172434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时36分"
         }
       ]
     },
@@ -835,15 +456,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "北美科技软件股指数ETF收跌0.55%，报105.43美元。 Global X网络安全ETF涨1.54%，纳斯达克网络安全ETF涨0.71%，ETFMG网络安全ETF涨0.94%。",
-          "url": "https://wallstreetcn.com/livenews/3171748",
-          "source": "华尔街见闻-快讯",
+          "title": "美元指数29日上涨",
+          "url": "https://flash.jin10.com/detail/20260930040410184800",
+          "source": "金十数据",
           "ranks": [
-            19
+            6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时45分"
+          "time_info": "04时36分"
         }
       ]
     }
