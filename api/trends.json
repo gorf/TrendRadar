@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-29T09:40:22.379373+08:00",
-  "total_titles_processed": 496,
+  "generated_at": "2026-09-29T16:11:26.071345+08:00",
+  "total_titles_processed": 722,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "特朗普说的“Gung Ho”，源自八路军和游击战",
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时44分 ~ 09时40分]"
+        },
+        {
+          "title": "特朗普证实美伊代表已交换信息 普京签署总统令再次扩编俄军 | 环球市场",
+          "url": "https://www.cls.cn/detail/2494687",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时40分 ~ 16时11分]"
         },
         {
           "title": "美国总统特朗普：Axios刚发布的有关“特朗普愿向伊朗提供制裁缓解和解冻被冻结资金”的报道不属实，我要求该媒体“立即撤回”相关报道。",
@@ -80,7 +92,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
         },
@@ -91,18 +103,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时40分"
-        },
-        {
-          "title": "特朗普证实美伊代表已交换信息 普京签署总统令再次扩编俄军 | 环球市场",
-          "url": "https://www.cls.cn/detail/2494687",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
         },
@@ -151,15 +152,37 @@
           "time_info": "05时45分"
         },
         {
+          "title": "中东和平又现曙光？特朗普证实：美伊代表已通过调解方交换信息",
+          "url": "https://www.cls.cn/detail/2494729",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时11分"
+        },
+        {
           "title": "美国国务卿鲁比奥：只要特朗普总统还在任，我们就绝不会允许古巴成为危害美国利益或威胁美国国家安全的行动基地。这一点我们的立场非常明确。",
           "url": "https://flash.jin10.com/detail/20260929092707539800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
+        },
+        {
+          "title": "特朗普评中美会晤：满分10分我打12分",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%84%E4%B8%AD%E7%BE%8E%E4%BC%9A%E6%99%A4%EF%BC%9A%E6%BB%A1%E5%88%8610%E5%88%86%E6%88%91%E6%89%9312%E5%88%86",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时11分"
         },
         {
           "title": "一位匿名伊朗官员表示，目前的主要问题在于特朗普似乎尚未就他究竟希望从谈判中获得什么，确立明确且一贯的立场。",
@@ -179,7 +202,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
         },
@@ -190,7 +213,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
         },
@@ -201,9 +224,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
+        },
+        {
+          "title": "分析：伊朗等待美国回应，但不要过度关注特朗普或鲁比奥的表态",
+          "url": "https://flash.jin10.com/detail/20260929153209766800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时11分"
         }
       ]
     },
@@ -241,7 +275,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
         },
@@ -252,7 +286,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
         },
@@ -325,69 +359,8 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "OpenAI：将成立澳大利亚AI网络风险工作组，正在与澳大利亚政府机构紧密合作，正对模型活动进行全面审查；首席战略官将于10月6日前往悉尼。",
-          "url": "https://wallstreetcn.com/livenews/3171819",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时40分"
-        },
-        {
-          "title": "迎战Meta Muse，OpenAI紧急推出个人助手，预计周二发布",
-          "url": "https://wallstreetcn.com/articles/3782618",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时44分 ~ 05时45分]"
-        },
-        {
-          "title": "怎么看 OpenAI 的 Pro 订阅取消 5x 和 20x 的描述？",
-          "url": "https://www.zhihu.com/question/2087607174948186086",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时44分 ~ 05时45分]"
-        },
-        {
-          "title": "一起呼吁“AI减速”？OpenAI取消最新模型发布，Anthropic却“两连发”！",
-          "url": "https://www.cls.cn/detail/2494709",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时40分"
-        },
-        {
-          "title": "OpenAI：8月中旬的一次审查发现，有相关活动影响了澳大利亚服务局、新南威尔士州犯罪统计与研究局、维多利亚州卫生部等机构。",
-          "url": "https://flash.jin10.com/detail/20260929091815550800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时40分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "伊朗局势恶化，美股指低开，10年期美债收益率创2007年来最高水平，油价涨幅收窄，贵金属全线承压",
@@ -407,9 +380,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时40分 ~ 16时11分]"
         },
         {
           "title": "美股收盘：美伊谈判前景不明 美债风暴不息 三大指数集体收跌",
@@ -418,7 +391,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
         },
@@ -440,7 +413,80 @@
           "ranks": [
             8
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时40分 ~ 16时11分]"
+        },
+        {
+          "title": "5.27%！10年期美债收益率创2007年以来新高 万物皆在重估？",
+          "url": "https://www.cls.cn/detail/2494747",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "OpenAI：将成立澳大利亚AI网络风险工作组，正在与澳大利亚政府机构紧密合作，正对模型活动进行全面审查；首席战略官将于10月6日前往悉尼。",
+          "url": "https://wallstreetcn.com/livenews/3171819",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
+          "title": "迎战Meta Muse，OpenAI紧急推出个人助手，预计周二发布",
+          "url": "https://wallstreetcn.com/articles/3782618",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时44分 ~ 05时45分]"
+        },
+        {
+          "title": "一起呼吁“AI减速”？OpenAI取消最新模型发布，Anthropic却“两连发”！",
+          "url": "https://www.cls.cn/detail/2494709",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时40分 ~ 16时11分]"
+        },
+        {
+          "title": "怎么看 OpenAI 的 Pro 订阅取消 5x 和 20x 的描述？",
+          "url": "https://www.zhihu.com/question/2087607174948186086",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时44分 ~ 05时45分]"
+        },
+        {
+          "title": "OpenAI：8月中旬的一次审查发现，有相关活动影响了澳大利亚服务局、新南威尔士州犯罪统计与研究局、维多利亚州卫生部等机构。",
+          "url": "https://flash.jin10.com/detail/20260929091815550800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
         }
@@ -457,9 +503,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时40分 ~ 16时11分]"
         },
         {
           "title": "国际金价跌4%，逼近4110美元，白银跌约5.7%",
@@ -471,6 +517,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "招商银行 万华化学 福耀玻璃 旗滨集团 苏农银行 奥浦迈 爱美客 美的集团 潍柴动力 苏泊尔 鱼跃医疗 牧原股份 振邦智能 华兰生物 证监会",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "万华化学：烟台产业园MDI装置复产",
+          "url": "https://flash.jin10.com/detail/20260929154438673800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时11分"
         }
       ]
     },
