@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-29T16:11:26.071345+08:00",
-  "total_titles_processed": 722,
+  "generated_at": "2026-09-29T23:34:52.433421+08:00",
+  "total_titles_processed": 970,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 40,
       "titles": [
         {
           "title": "特朗普说的“Gung Ho”，源自八路军和游击战",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时40分 ~ 16时11分]"
+        },
+        {
+          "title": "美专家：特朗普或将淡化对台军售问题",
+          "url": "https://original.ifeng.com/c/8wonFVuW1z6",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "美国总统特朗普：Axios刚发布的有关“特朗普愿向伊朗提供制裁缓解和解冻被冻结资金”的报道不属实，我要求该媒体“立即撤回”相关报道。",
@@ -152,13 +163,24 @@
           "time_info": "05时45分"
         },
         {
+          "title": "特朗普签署行政令，推出AI驱动政务网站",
+          "url": "https://flash.jin10.com/detail/20260929225921121800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
           "title": "中东和平又现曙光？特朗普证实：美伊代表已通过调解方交换信息",
           "url": "https://www.cls.cn/detail/2494729",
           "source": "财联社热门",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         },
@@ -174,15 +196,37 @@
           "time_info": "09时40分"
         },
         {
+          "title": "美国总统特朗普：不会屈服于“科技会影响到美国”的担忧。 赞赏科技能在医疗能与发挥的作用。",
+          "url": "https://wallstreetcn.com/livenews/3172304",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
           "title": "特朗普评中美会晤：满分10分我打12分",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%84%E4%B8%AD%E7%BE%8E%E4%BC%9A%E6%99%A4%EF%BC%9A%E6%BB%A1%E5%88%8610%E5%88%86%E6%88%91%E6%89%9312%E5%88%86",
           "source": "百度热搜",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗的情况非常糟糕，（战争）很快就会结束。 油价将大幅下跌。",
+          "url": "https://wallstreetcn.com/livenews/3172302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "一位匿名伊朗官员表示，目前的主要问题在于特朗普似乎尚未就他究竟希望从谈判中获得什么，确立明确且一贯的立场。",
@@ -207,6 +251,127 @@
           "time_info": "09时40分"
         },
         {
+          "title": "特朗普评中美会晤：满分10分我打12分",
+          "url": "https://www.toutiao.com/trending/7690091446392651839/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
+          "title": "美国总统特朗普：在未来的岁月里，当人们书写我们国家的历史时，会把针对伊朗的行动列为我们所做过的最重要的事情之一。",
+          "url": "https://flash.jin10.com/detail/20260929224449036800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
+          "title": "特朗普：将通过行政命令把“人工智能”更名为“超级智能”",
+          "url": "https://wallstreetcn.com/livenews/3172299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
+          "title": "美国总统特朗普：不要因技术将对我们产生何种影响而屈服于恐惧。",
+          "url": "https://flash.jin10.com/detail/20260929224234173800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
+          "title": "美国总统特朗普称赞科技在医疗领域的贡献。",
+          "url": "https://flash.jin10.com/detail/20260929224227080800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗正严重溃败，很快就会结束。油价将大幅下跌。",
+          "url": "https://flash.jin10.com/detail/20260929224058317800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
+          "title": "美国总统特朗普：别提什么“假新闻”了。现在我要管它们叫“人工新闻”（Artificial News）。我喜欢这个叫法。",
+          "url": "https://flash.jin10.com/detail/20260929224029971800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
+          "title": "美国总统特朗普：感谢马斯克。",
+          "url": "https://wallstreetcn.com/livenews/3172293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
+          "title": "美国总统特朗普将签署命令，要求各机构与america.gov网站整合。",
+          "url": "https://flash.jin10.com/detail/20260929223950527800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
+          "title": "美国总统特朗普：（谈人工智能）若被滥用，可能对政体运作产生影响。",
+          "url": "https://flash.jin10.com/detail/20260929223901099800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
+          "title": "美国总统特朗普：希望保持人工智能领先地位。",
+          "url": "https://flash.jin10.com/detail/20260929223821232800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
           "title": "美国国务卿鲁比奥：特朗普总统采取行动，是为了阻止伊朗达到他所称的“免疫线”，即德黑兰可能积累足够多的导弹、无人机和其他武器，使针对其核计划采取军事行动变得困难得多。",
           "url": "https://flash.jin10.com/detail/20260929091949218800",
           "source": "金十数据",
@@ -216,6 +381,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
+        },
+        {
+          "title": "美国总统特朗普：绝不会抑制人工智能的增长。",
+          "url": "https://flash.jin10.com/detail/20260929223758500800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "日方官员称特朗普表态让日本不舒服",
@@ -229,13 +405,46 @@
           "time_info": "09时40分"
         },
         {
+          "title": "美国总统特朗普：将签署关于人工智能的强有力行政令，将人工智能（AI）更名为“超级智能”（SI）。",
+          "url": "https://flash.jin10.com/detail/20260929223527892800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
+          "title": "美国总统特朗普：政府的运作失灵已长达数十年之久，甚至可以说是有数百年了，尽管我们的历史没那么长。而特朗普政府正在着手解决这一问题。",
+          "url": "https://flash.jin10.com/detail/20260929223436883800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
+          "title": "美国总统特朗普：美国国务卿鲁比奥表现出色。",
+          "url": "https://flash.jin10.com/detail/20260929222953851800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
           "title": "分析：伊朗等待美国回应，但不要过度关注特朗普或鲁比奥的表态",
           "url": "https://flash.jin10.com/detail/20260929153209766800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         }
@@ -360,8 +569,20 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "中东局势不明，原油冲高回落，美股指收跌，10年期美债收益率创2007年来新高，黄金重挫",
+          "url": "https://wallstreetcn.com/articles/3782633",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时40分 ~ 23时34分]"
+        },
         {
           "title": "伊朗局势恶化，美股指低开，10年期美债收益率创2007年来最高水平，油价涨幅收窄，贵金属全线承压",
           "url": "https://wallstreetcn.com/articles/3782633",
@@ -372,17 +593,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时44分 ~ 05时45分]"
-        },
-        {
-          "title": "中东局势不明，原油冲高回落，美股指收跌，10年期美债收益率创2007年来新高，黄金重挫",
-          "url": "https://wallstreetcn.com/articles/3782633",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时40分 ~ 16时11分]"
         },
         {
           "title": "美股收盘：美伊谈判前景不明 美债风暴不息 三大指数集体收跌",
@@ -414,8 +624,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时40分 ~ 16时11分]"
+          "appearance_count": 3,
+          "time_info": "[09时40分 ~ 23时34分]"
         },
         {
           "title": "5.27%！10年期美债收益率创2007年以来新高 万物皆在重估？",
@@ -424,15 +634,37 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
+        },
+        {
+          "title": "美债收益率高位回落 美股期指集体走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2495520",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
+          "title": "派拉蒙债券供应临近，美债延续熊市趋陡",
+          "url": "https://wallstreetcn.com/livenews/3172286",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI：将成立澳大利亚AI网络风险工作组，正在与澳大利亚政府机构紧密合作，正对模型活动进行全面审查；首席战略官将于10月6日前往悉尼。",
@@ -480,6 +712,28 @@
           "time_info": "[05时44分 ~ 05时45分]"
         },
         {
+          "title": "甲骨文一度上涨逾8%，报道称OpenAI年化营收接近700亿美元",
+          "url": "https://wallstreetcn.com/livenews/3172290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
+          "title": "OpenAI年化经常性收入接近700亿美元。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3172287",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
           "title": "OpenAI：8月中旬的一次审查发现，有相关活动影响了澳大利亚服务局、新南威尔士州犯罪统计与研究局、维多利亚州卫生部等机构。",
           "url": "https://flash.jin10.com/detail/20260929091815550800",
           "source": "金十数据",
@@ -494,7 +748,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "【早报】美股光通信、存储股，集体走弱；金价大幅跳水；多家A股公司，计划回购股份",
@@ -517,6 +771,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
+        },
+        {
+          "title": "银价为何比金价更脆弱",
+          "url": "https://www.toutiao.com/trending/7690909664115953206/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek将参加联合国会议",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365570&amp;topic_name=DeepSeek%E5%B0%86%E5%8F%82%E5%8A%A0%E8%81%94%E5%90%88%E5%9B%BD%E4%BC%9A%E8%AE%AE",
+          "source": "贴吧",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时44分 ~ 09时40分]"
+        },
+        {
+          "title": "假如我在 GPT3.5 发布的第三天立刻上线性能对标 DeepSeekV4.1 的模型会怎么样？",
+          "url": "https://www.zhihu.com/question/2086464412991371217",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         }
       ]
     },
@@ -531,26 +824,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek将参加联合国会议",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365570&amp;topic_name=DeepSeek%E5%B0%86%E5%8F%82%E5%8A%A0%E8%81%94%E5%90%88%E5%9B%BD%E4%BC%9A%E8%AE%AE",
-          "source": "贴吧",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时44分 ~ 09时40分]"
         }
       ]
     },
