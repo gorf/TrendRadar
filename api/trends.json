@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-30T14:29:35.112023+08:00",
-  "total_titles_processed": 665,
+  "generated_at": "2026-09-30T21:31:53.494728+08:00",
+  "total_titles_processed": 909,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "美专家：特朗普或将淡化对台军售问题",
@@ -55,6 +55,18 @@
           "time_info": "04时36分"
         },
         {
+          "title": "特朗普拒绝为AI监管立法，签署AI\"道德约束\"协议，力推行业自律监管，将成立监督“委员会”",
+          "url": "https://wallstreetcn.com/articles/3782769",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 21时31分]"
+        },
+        {
           "title": "特朗普会见多家科技企业负责人，签署人工智能相关文件",
           "url": "https://news.ifeng.com/c/8wpgpUOO0vj",
           "source": "凤凰网",
@@ -77,24 +89,13 @@
           "time_info": "[08时12分 ~ 08时13分]"
         },
         {
-          "title": "特朗普拒绝为AI监管立法，签署AI\"道德约束\"协议，力推行业自律监管，将成立监督“委员会”",
-          "url": "https://wallstreetcn.com/articles/3782769",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
-        },
-        {
           "title": "特朗普白宫宴请AI领袖：签署AI协议 提出“自我监管”应对风险",
           "url": "https://www.cls.cn/detail/2495801",
           "source": "财联社热门",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -108,6 +109,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
+        },
+        {
+          "title": "特朗普羞辱CNN记者 扎克伯格笑容消失",
+          "url": "https://www.toutiao.com/trending/7691106948149739570/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
         },
         {
           "title": "美国总统特朗普对站在身旁的Alphabet首席执行官批评了该公司在芬兰建设数据中心的计划。",
@@ -251,6 +263,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
+        },
+        {
+          "title": "马斯克这一改口，为何让特朗普都会谢",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34177856",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
         },
         {
           "title": "美国总统特朗普在谈及数据中心和中期选举时表示：我们必须做正确的事情。",
@@ -399,18 +422,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "OpenAI应战Meta：发布个人AI助手Dots，高端订阅每月500美元，是Muse高阶版的5倍",
           "url": "https://wallstreetcn.com/articles/3782764",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 21时31分]"
         },
         {
           "title": "怎么看 OpenAI 正式官宣 200 美元订阅用量减半？",
@@ -453,7 +477,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -464,9 +488,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
+        },
+        {
+          "title": "如何评价 OpenAI 推出个人 AI 助理 Dot，可全天候自主执行任务并连接 4000 多款应用？",
+          "url": "https://www.zhihu.com/question/2088542369264005449",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
         },
         {
           "title": "速通OpenAI开发者大会",
@@ -475,7 +510,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -504,8 +539,125 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "【早报】特朗普签署AI文件，美股AI硬件股集体爆发；原油大跌、黄金上涨；重磅政策来了！贷款买房，国家贴息",
+          "url": "https://www.cls.cn/detail/2495782",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时12分 ~ 14时29分]"
+        },
+        {
+          "title": "金十图示：2026年09月29日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260930040538554800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        },
+        {
+          "title": "金十图示：2026年09月29日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260930040536182800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3172955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
+        },
+        {
+          "title": "美国8月PCE低于预期 市场削减加息押注 美股期指上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2496575",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
+        },
+        {
+          "title": "美股收盘：三大股指收跌 金龙指数跌1.5%",
+          "url": "https://flash.jin10.com/detail/20260930040126200800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        },
+        {
+          "title": "周二（9月29日），美股行业ETF涨跌各异，银行业ETF、区域银行ETF至多收跌1.04%，能源业ETF跌0.9%，全球科技股指数ETF涨0.38%，网络股指数ETF涨0.63%，半导体ETF涨1.15%。",
+          "url": "https://wallstreetcn.com/livenews/3172455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        },
+        {
+          "title": "布油基金收跌超2.6%，领跌美股大类资产类ETF，黄金ETF涨超1.3%",
+          "url": "https://wallstreetcn.com/livenews/3172454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        },
+        {
+          "title": "美国经济数据公布后，美股股指期货短线拉升",
+          "url": "https://wallstreetcn.com/livenews/3172946",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-09-30）",
+          "url": "https://flash.jin10.com/detail/20260930205628248800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美股三大指数两连跌，30年期美债利率触及2002年高位，原油先涨后跌，黄金反弹",
@@ -513,11 +665,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时12分 ~ 14时29分]"
+          "appearance_count": 4,
+          "time_info": "[08时12分 ~ 21时31分]"
         },
         {
           "title": "中东局势不明，原油冲高回落，美股指收跌，10年期美债收益率创2007年来新高，黄金重挫",
@@ -566,13 +719,24 @@
           "time_info": "[04时35分 ~ 04时36分]"
         },
         {
+          "title": "尽管油价走低、尽管美联储高官“放鸽”，美债收益率依旧在走高",
+          "url": "https://wallstreetcn.com/articles/3782785",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
+        },
+        {
           "title": "创2002年以来最高！30年期美债收益率冲破5.6%",
           "url": "https://www.cls.cn/detail/2495830",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -601,81 +765,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "【早报】特朗普签署AI文件，美股AI硬件股集体爆发；原油大跌、黄金上涨；重磅政策来了！贷款买房，国家贴息",
-          "url": "https://www.cls.cn/detail/2495782",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时12分 ~ 14时29分]"
-        },
-        {
-          "title": "金十图示：2026年09月29日（周二）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260930040538554800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
-          "title": "金十图示：2026年09月29日（周二）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260930040536182800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
-          "title": "美股收盘：三大股指收跌 金龙指数跌1.5%",
-          "url": "https://flash.jin10.com/detail/20260930040126200800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
-          "title": "周二（9月29日），美股行业ETF涨跌各异，银行业ETF、区域银行ETF至多收跌1.04%，能源业ETF跌0.9%，全球科技股指数ETF涨0.38%，网络股指数ETF涨0.63%，半导体ETF涨1.15%。",
-          "url": "https://wallstreetcn.com/livenews/3172455",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
-          "title": "布油基金收跌超2.6%，领跌美股大类资产类ETF，黄金ETF涨超1.3%",
-          "url": "https://wallstreetcn.com/livenews/3172454",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "DeepSeek Harness桌面端上线",
@@ -701,13 +792,46 @@
           "time_info": "[04时35分 ~ 04时36分]"
         },
         {
+          "title": "如何看待 DeepSeek 开源昇腾基础组件？",
+          "url": "https://www.zhihu.com/question/2088571879514714724",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
+        },
+        {
+          "title": "对标英伟达CUDA！DeepSeek开源昇腾版“AI工具箱”，性能接近硬件上限",
+          "url": "https://wallstreetcn.com/articles/3782814",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
+        },
+        {
+          "title": "DeepSeek组件与英伟达对应",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E7%BB%84%E4%BB%B6%E4%B8%8E%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%AF%B9%E5%BA%94&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
+        },
+        {
           "title": "如何评价 DeepSeek Harness 桌面版正式发布？",
           "url": "https://www.zhihu.com/question/2088368253169034470",
           "source": "知乎",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -718,9 +842,26 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价跌回8字头年轻人仍攒金",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E5%9B%9E8%E5%AD%97%E5%A4%B4%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%BB%8D%E6%94%92%E9%87%91%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
         }
       ]
     },
