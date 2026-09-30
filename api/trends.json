@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-30T08:13:06.777893+08:00",
-  "total_titles_processed": 449,
+  "generated_at": "2026-09-30T14:29:35.112023+08:00",
+  "total_titles_processed": 665,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "美专家：特朗普或将淡化对台军售问题",
@@ -19,6 +19,31 @@
           "time_info": "[04时35分 ~ 04时36分]"
         },
         {
+          "title": "特朗普评中美会晤：满分10分我打12分",
+          "url": "https://www.toutiao.com/trending/7690091446392651839/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时35分 ~ 14时29分]"
+        },
+        {
+          "title": "特朗普将把“人工智能”更名为“超级智能” 美国消费者信心跌至十二年以来最低 | 环球市场",
+          "url": "https://www.cls.cn/detail/2495770",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时12分 ~ 14时29分]"
+        },
+        {
           "title": "美国总统特朗普：扎克伯格的观点非常中立。",
           "url": "https://flash.jin10.com/detail/20260930040420220800",
           "source": "金十数据",
@@ -30,29 +55,6 @@
           "time_info": "04时36分"
         },
         {
-          "title": "特朗普评中美会晤：满分10分我打12分",
-          "url": "https://www.toutiao.com/trending/7690091446392651839/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时35分 ~ 08时13分]"
-        },
-        {
-          "title": "特朗普将把“人工智能”更名为“超级智能” 美国消费者信心跌至十二年以来最低 | 环球市场",
-          "url": "https://www.cls.cn/detail/2495770",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时12分 ~ 08时13分]"
-        },
-        {
           "title": "特朗普会见多家科技企业负责人，签署人工智能相关文件",
           "url": "https://news.ifeng.com/c/8wpgpUOO0vj",
           "source": "凤凰网",
@@ -60,8 +62,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时12分 ~ 08时13分]"
+          "appearance_count": 3,
+          "time_info": "[08时12分 ~ 14时29分]"
         },
         {
           "title": "周二，特朗普与六巨头齐聚白宫，决定未来AI发展方向",
@@ -73,6 +75,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时12分 ~ 08时13分]"
+        },
+        {
+          "title": "特朗普拒绝为AI监管立法，签署AI\"道德约束\"协议，力推行业自律监管，将成立监督“委员会”",
+          "url": "https://wallstreetcn.com/articles/3782769",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
+          "title": "特朗普白宫宴请AI领袖：签署AI协议 提出“自我监管”应对风险",
+          "url": "https://www.cls.cn/detail/2495801",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
         },
         {
           "title": "美国总统特朗普：Anthropic首席执行官阿莫代伊一直很棒。",
@@ -103,7 +127,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         },
@@ -147,7 +171,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         },
@@ -180,7 +204,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         },
@@ -224,7 +248,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         },
@@ -356,7 +380,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         },
@@ -374,9 +398,127 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 7,
+      "keyword_group": "chatgpt openai",
+      "match_count": 9,
       "titles": [
+        {
+          "title": "OpenAI应战Meta：发布个人AI助手Dots，高端订阅每月500美元，是Muse高阶版的5倍",
+          "url": "https://wallstreetcn.com/articles/3782764",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
+          "title": "怎么看 OpenAI 正式官宣 200 美元订阅用量减半？",
+          "url": "https://www.zhihu.com/question/2088290387425224090",
+          "source": "知乎",
+          "ranks": [
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时12分 ~ 14时29分]"
+        },
+        {
+          "title": "如何评价 OpenAI 发布的 GPT-6.1 Sol？",
+          "url": "https://www.zhihu.com/question/2088438061877178615",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时12分 ~ 08时13分]"
+        },
+        {
+          "title": "ChatGPT 智能体平台",
+          "url": "https://www.baidu.com/s?wd=ChatGPT+%E6%99%BA%E8%83%BD%E4%BD%93%E5%B9%B3%E5%8F%B0",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时12分 ~ 08时13分]"
+        },
+        {
+          "title": "OpenAI发布AI助手“Dot”：可自主干活，全天候待命",
+          "url": "https://www.cls.cn/detail/2495744",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
+          "title": "OpenAI：正调查ChatGPT Pro和Plus用户错误率上升问题。",
+          "url": "https://wallstreetcn.com/livenews/3172665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
+          "title": "速通OpenAI开发者大会",
+          "url": "https://search.bilibili.com/all?keyword=%E9%80%9F%E9%80%9AOpenAI%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
+          "title": "OpenAI首席财务官：企业业务收入较7月已翻倍。",
+          "url": "https://flash.jin10.com/detail/20260930034546311800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        },
+        {
+          "title": "OpenAI的CFO Sarah Friar：公司已经使用缓解措施，正在监控错误的恢复情况。 公司“资本（头寸）真的非常不错”。 市场对本公司存在新一轮融资的需求。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3172434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "美股三大指数两连跌，30年期美债利率触及2002年高位，原油先涨后跌，黄金反弹",
+          "url": "https://wallstreetcn.com/articles/3782726",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时12分 ~ 14时29分]"
+        },
         {
           "title": "中东局势不明，原油冲高回落，美股指收跌，10年期美债收益率创2007年来新高，黄金重挫",
           "url": "https://wallstreetcn.com/articles/3782633",
@@ -389,15 +531,16 @@
           "time_info": "[04时35分 ~ 04时36分]"
         },
         {
-          "title": "美股三大指数两连跌，30年期美债利率触及2002年高位，原油先涨后跌，黄金反弹",
-          "url": "https://wallstreetcn.com/articles/3782726",
-          "source": "华尔街见闻",
+          "title": "美股收盘：加息预期降温 美债收益率依旧走高 三大指数小幅收跌",
+          "url": "https://www.cls.cn/detail/2495761",
+          "source": "财联社热门",
           "ranks": [
-            4
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时12分 ~ 08时13分]"
+          "appearance_count": 3,
+          "time_info": "[08时12分 ~ 14时29分]"
         },
         {
           "title": "美债收益率高位回落 美股期指集体走高 | 今夜看点",
@@ -412,17 +555,6 @@
           "time_info": "[04时35分 ~ 08时13分]"
         },
         {
-          "title": "美股收盘：加息预期降温 美债收益率依旧走高 三大指数小幅收跌",
-          "url": "https://www.cls.cn/detail/2495761",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时12分 ~ 08时13分]"
-        },
-        {
           "title": "25年来罕见！10年期美债收益率反超标普500盈利收益率",
           "url": "https://wallstreetcn.com/articles/3782689",
           "source": "华尔街见闻",
@@ -432,6 +564,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时35分 ~ 04时36分]"
+        },
+        {
+          "title": "创2002年以来最高！30年期美债收益率冲破5.6%",
+          "url": "https://www.cls.cn/detail/2495830",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
         },
         {
           "title": "美联储威廉姆斯：（美债）收益率与通胀观念转变无关。 油价也是债券收益率的一个影响因素。 美联储在做政策利率决定时不会考虑美国选举因素。 长期债券收益率上涨，这个显现不仅仅存在于美国。 增长前景、AI需求都推动收益率波动。 预计通胀将下降，但问题在于AI影响的持续性。",
@@ -451,7 +594,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         }
@@ -466,11 +609,12 @@
           "url": "https://www.cls.cn/detail/2495782",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时12分 ~ 08时13分]"
+          "appearance_count": 3,
+          "time_info": "[08时12分 ~ 14时29分]"
         },
         {
           "title": "金十图示：2026年09月29日（周二）美股热门股票行情一览（美股收盘）",
@@ -530,69 +674,8 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "怎么看 OpenAI 正式官宣 200 美元订阅用量减半？",
-          "url": "https://www.zhihu.com/question/2088290387425224090",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时12分 ~ 08时13分]"
-        },
-        {
-          "title": "如何评价 OpenAI 发布的 GPT-6.1 Sol？",
-          "url": "https://www.zhihu.com/question/2088438061877178615",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时12分 ~ 08时13分]"
-        },
-        {
-          "title": "ChatGPT 智能体平台",
-          "url": "https://www.baidu.com/s?wd=ChatGPT+%E6%99%BA%E8%83%BD%E4%BD%93%E5%B9%B3%E5%8F%B0",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时12分 ~ 08时13分]"
-        },
-        {
-          "title": "OpenAI首席财务官：企业业务收入较7月已翻倍。",
-          "url": "https://flash.jin10.com/detail/20260930034546311800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
-          "title": "OpenAI的CFO Sarah Friar：公司已经使用缓解措施，正在监控错误的恢复情况。 公司“资本（头寸）真的非常不错”。 市场对本公司存在新一轮融资的需求。（彭博电视）",
-          "url": "https://wallstreetcn.com/livenews/3172434",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "DeepSeek Harness桌面端上线",
@@ -616,6 +699,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时35分 ~ 04时36分]"
+        },
+        {
+          "title": "如何评价 DeepSeek Harness 桌面版正式发布？",
+          "url": "https://www.zhihu.com/question/2088368253169034470",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
+          "title": "DeepSeek 开源昇腾基础组件",
+          "url": "https://wallstreetcn.com/livenews/3172655",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
         }
       ]
     },
