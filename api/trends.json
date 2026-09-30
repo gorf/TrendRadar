@@ -1,884 +1,387 @@
 {
-  "generated_at": "2026-09-30T21:31:53.494728+08:00",
-  "total_titles_processed": 909,
+  "generated_at": "2026-10-01T03:00:44.162427+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 20,
       "titles": [
-        {
-          "title": "美专家：特朗普或将淡化对台军售问题",
-          "url": "https://original.ifeng.com/c/8wonFVuW1z6",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时35分 ~ 04时36分]"
-        },
-        {
-          "title": "特朗普评中美会晤：满分10分我打12分",
-          "url": "https://www.toutiao.com/trending/7690091446392651839/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时35分 ~ 14时29分]"
-        },
-        {
-          "title": "特朗普将把“人工智能”更名为“超级智能” 美国消费者信心跌至十二年以来最低 | 环球市场",
-          "url": "https://www.cls.cn/detail/2495770",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时12分 ~ 14时29分]"
-        },
-        {
-          "title": "美国总统特朗普：扎克伯格的观点非常中立。",
-          "url": "https://flash.jin10.com/detail/20260930040420220800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
         {
           "title": "特朗普拒绝为AI监管立法，签署AI\"道德约束\"协议，力推行业自律监管，将成立监督“委员会”",
           "url": "https://wallstreetcn.com/articles/3782769",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            4
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时29分 ~ 21时31分]"
+          "time_info": "[02时59分 ~ 03时00分]"
         },
         {
-          "title": "特朗普会见多家科技企业负责人，签署人工智能相关文件",
-          "url": "https://news.ifeng.com/c/8wpgpUOO0vj",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：如果我治理委内瑞拉，我会做与被我掳走的总统马杜罗完全相同的事。",
+          "url": "https://wallstreetcn.com/livenews/3173120",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            3
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时12分 ~ 14时29分]"
-        },
-        {
-          "title": "周二，特朗普与六巨头齐聚白宫，决定未来AI发展方向",
-          "url": "https://wallstreetcn.com/articles/3782709",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时12分 ~ 08时13分]"
-        },
-        {
-          "title": "特朗普白宫宴请AI领袖：签署AI协议 提出“自我监管”应对风险",
-          "url": "https://www.cls.cn/detail/2495801",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时29分"
+          "time_info": "03时00分"
         },
         {
-          "title": "美国总统特朗普：Anthropic首席执行官阿莫代伊一直很棒。",
-          "url": "https://flash.jin10.com/detail/20260930040355534800",
-          "source": "金十数据",
+          "title": "特朗普政府推出AI政务网站America.gov，聊天机器人上线即“唱反调”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34177257",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 03时00分]"
+        },
+        {
+          "title": "美国总统特朗普赞赏礼来制药、Merck、辉瑞制药的投资。",
+          "url": "https://wallstreetcn.com/livenews/3173115",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时36分"
+          "time_info": "03时00分"
         },
         {
-          "title": "特朗普羞辱CNN记者 扎克伯格笑容消失",
-          "url": "https://www.toutiao.com/trending/7691106948149739570/",
-          "source": "今日头条",
+          "title": "美国总统特朗普：加拿大已经利用了美国许多年。",
+          "url": "https://wallstreetcn.com/livenews/3173114",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时31分"
+          "time_info": "03时00分"
         },
         {
-          "title": "美国总统特朗普对站在身旁的Alphabet首席执行官批评了该公司在芬兰建设数据中心的计划。",
-          "url": "https://wallstreetcn.com/livenews/3172458",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：加拿大多年来一直占美国的便宜。",
+          "url": "https://flash.jin10.com/detail/20261001022424592800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时36分"
+          "time_info": "03时00分"
         },
         {
-          "title": "美伊谈判几无进展：双方都不让步，特朗普中期选举后或重启大规模战事",
-          "url": "https://flash.jin10.com/detail/20260930074243759800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时13分"
-        },
-        {
-          "title": "美国总统特朗普谈论AI：既存在自我监管，也存在集体政策。",
-          "url": "https://wallstreetcn.com/livenews/3172457",
+          "title": "美国总统特朗普谈及古巴：你们就看着鲁比奥对古巴采取的行动吧。看看他会怎么对付古巴。",
+          "url": "https://wallstreetcn.com/livenews/3173112",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时36分"
+          "time_info": "03时00分"
         },
         {
-          "title": "美国总统特朗普：将在接下来的三到四天内任命人工智能负责人。",
-          "url": "https://flash.jin10.com/detail/20260930035938858800",
-          "source": "金十数据",
+          "title": "美国总统特朗普谈及伊拉克：当年他们（小布什政府时期美国官员）遣散了伊拉克所有人员，包括士兵、将军、警察。 伊拉克陷入无人治理的局面，ISIS就此崛起。 我们的做法会截然不同。 我们吸取了当年在伊拉克犯下的愚蠢错误的教训。",
+          "url": "https://wallstreetcn.com/livenews/3173110",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时36分"
+          "time_info": "03时00分"
         },
         {
-          "title": "美国总统特朗普：伊朗情况非常糟糕，不知道他们是否会放弃。",
-          "url": "https://flash.jin10.com/detail/20260930035632991800",
+          "title": "美国总统特朗普：我拒绝说白宫很破，但我可以告诉你，它当时状况很糟糕。我让这座建筑比以往任何时候都更加美丽。总得有人去做这件事。",
+          "url": "https://flash.jin10.com/detail/20261001020547427800",
           "source": "金十数据",
           "ranks": [
-            15
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时36分"
+          "time_info": "03时00分"
         },
         {
-          "title": "反AI情绪升温，特朗普竟给AI改名“SI”：拒绝加监管，转向企业自律",
-          "url": "https://flash.jin10.com/detail/20260930072807848800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时13分"
-        },
-        {
-          "title": "美国总统特朗普：Anthropic PBC的CEO Amodei非常不错。",
-          "url": "https://wallstreetcn.com/livenews/3172451",
+          "title": "美国总统特朗普：最近三天，霍尔木兹海峡的石油通行量达到历史性水平。",
+          "url": "https://wallstreetcn.com/livenews/3173107",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时36分"
+          "time_info": "03时00分"
         },
         {
-          "title": "美国总统特朗普：我们将对人工智能进行充分评估。",
-          "url": "https://flash.jin10.com/detail/20260930035444562800",
-          "source": "金十数据",
+          "title": "特朗普：最后一批美军正在撤离伊拉克",
+          "url": "https://wallstreetcn.com/livenews/3173106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时00分"
+        },
+        {
+          "title": "美国总统特朗普谈及伊朗，宣称：你们将看到事情发展得相当迅速。",
+          "url": "https://wallstreetcn.com/livenews/3173105",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时36分"
+          "time_info": "03时00分"
         },
         {
-          "title": "特朗普回应比尔·盖茨“AI或致10亿人死亡”言论",
-          "url": "https://flash.jin10.com/detail/20260930072423669800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时13分"
-        },
-        {
-          "title": "特朗普称赞黄仁勋为“非常帅气的家伙”。",
-          "url": "https://flash.jin10.com/detail/20260930035441789800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
-          "title": "美国总统特朗普表示，他与科技行业领导者已正式将“人工智能”（AI）的名称改为“超级智能”（Super Intelligence/SI）。",
-          "url": "https://flash.jin10.com/detail/20260930035331168800",
+          "title": "美国总统特朗普：我是唯一一个捐出自己薪水的总统。",
+          "url": "https://flash.jin10.com/detail/20261001020125207800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时36分"
+          "time_info": "03时00分"
         },
         {
-          "title": "美国总统特朗普：人工智能主管人选即将确定，将在未来三到四天内任命。",
-          "url": "https://wallstreetcn.com/livenews/3172446",
+          "title": "美国加州州长纽森发图显示：昨天《白宫超级智能协定》特朗普签名下的“Unites States”出现最简单的拼写错误，发文嘲讽“超级智能” 的黄金时代。",
+          "url": "https://wallstreetcn.com/livenews/3173103",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时36分"
+          "time_info": "03时00分"
         },
         {
-          "title": "特朗普政府推出人工智能驱动的政府网站",
-          "url": "https://wallstreetcn.com/livenews/3172515",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时13分"
-        },
-        {
-          "title": "马斯克这一改口，为何让特朗普都会谢",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34177856",
-          "source": "澎湃新闻",
+          "title": "美国总统特朗普：我们做得很好。我们做得不好的地方是，我们没有把这个信息传达出去。",
+          "url": "https://flash.jin10.com/detail/20261001015859140800",
+          "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时31分"
+          "time_info": "03时00分"
         },
         {
-          "title": "美国总统特朗普在谈及数据中心和中期选举时表示：我们必须做正确的事情。",
-          "url": "https://flash.jin10.com/detail/20260930035229731800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
-          "title": "美国总统特朗普被问及AI护栏是否不必要时回答：是的。",
-          "url": "https://flash.jin10.com/detail/20260930035207842800",
+          "title": "美国总统特朗普：（关于伊朗）我们损失了18人，但他们损失了4500人。",
+          "url": "https://flash.jin10.com/detail/20261001015732068800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时36分"
+          "time_info": "03时00分"
         },
         {
-          "title": "美国总统特朗普：伊朗表现极差，目前尚不清楚他们是否会就此让步。 不知道伊朗（现在）是否会放弃，但他们终究会放弃。",
-          "url": "https://wallstreetcn.com/livenews/3172444",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
-          "title": "美国总统特朗普被问及“人工智能代理（AI agents）犯罪时，谁该承担责任”，称：这不是人工智能（AI），而是“超级智能”（SI）。",
-          "url": "https://wallstreetcn.com/livenews/3172443",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
-          "title": "美国总统特朗普赞扬了英伟达(NVDA.O)的CEO黄仁勋。",
-          "url": "https://flash.jin10.com/detail/20260930034950730800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
-          "title": "美国总统特朗普：（关于人工智能监管）美国拥有联邦调查局（FBI）、中央情报局（CIA）和司法部（DOJ）等机构。",
-          "url": "https://flash.jin10.com/detail/20260930034655532800",
+          "title": "美国总统特朗普：过去三天，霍尔木兹海峡的石油流量创下历史新高。",
+          "url": "https://flash.jin10.com/detail/20261001015021508800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时36分"
+          "time_info": "03时00分"
         },
         {
-          "title": "美国总统特朗普：最聪明的人互相观察。",
-          "url": "https://wallstreetcn.com/livenews/3172441",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
-          "title": "美国总统特朗普：如果AI模型不被用于正当目的，我们将对其采取行动。",
-          "url": "https://flash.jin10.com/detail/20260930034626364800",
+          "title": "美国总统特朗普：我们几乎完全控制霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20261001014918533800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时36分"
+          "time_info": "03时00分"
         },
         {
-          "title": "美国总统特朗普被问及AI企业能否自我监管，称：是的。",
-          "url": "https://wallstreetcn.com/livenews/3172439",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：（关于伊朗）你们很快会看到事情发生。",
+          "url": "https://flash.jin10.com/detail/20261001014851910800",
+          "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时36分"
+          "time_info": "03时00分"
         },
         {
-          "title": "美国总统特朗普被问及AI防护栏是否没有必要，称：是的。",
-          "url": "https://wallstreetcn.com/livenews/3172438",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
-          "title": "特朗普：盖茨并未表现出对AI的担忧",
-          "url": "https://wallstreetcn.com/livenews/3172437",
+          "title": "美国总统特朗普：支持伊拉克总理al-Zaidi。 我们离开伊拉克时，伊拉克迎来了一位非常出色的新总理。 最后一批美国军队正在离开伊拉克，结束美国在伊拉克的军事存在。",
+          "url": "https://wallstreetcn.com/livenews/3173093",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
-          "title": "特朗普会见多家科企负责人，签署人工智能相关文件",
-          "url": "https://wallstreetcn.com/livenews/3172506",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时13分"
-        },
-        {
-          "title": "美国总统特朗普：赞赏黄仁勋。",
-          "url": "https://wallstreetcn.com/livenews/3172436",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时36分"
+          "time_info": "03时00分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 10,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "如何评价 OpenAI 发布的 GPT-6.1 SOL？",
+          "url": "https://www.zhihu.com/question/2088438691786246011",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 03时00分]"
+        },
         {
           "title": "OpenAI应战Meta：发布个人AI助手Dots，高端订阅每月500美元，是Muse高阶版的5倍",
           "url": "https://wallstreetcn.com/articles/3782764",
           "source": "华尔街见闻",
           "ranks": [
-            5,
-            3
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时29分 ~ 21时31分]"
+          "time_info": "[02时59分 ~ 03时00分]"
         },
         {
-          "title": "怎么看 OpenAI 正式官宣 200 美元订阅用量减半？",
-          "url": "https://www.zhihu.com/question/2088290387425224090",
-          "source": "知乎",
+          "title": "据NBC新闻：OpenAI首席执行官奥尔特曼将缺席美国国会关于失控人工智能代理的听证会。",
+          "url": "https://flash.jin10.com/detail/20261001024940292800",
+          "source": "金十数据",
           "ranks": [
-            11,
-            19
+            1
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时12分 ~ 14时29分]"
-        },
-        {
-          "title": "如何评价 OpenAI 发布的 GPT-6.1 Sol？",
-          "url": "https://www.zhihu.com/question/2088438061877178615",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时12分 ~ 08时13分]"
-        },
-        {
-          "title": "ChatGPT 智能体平台",
-          "url": "https://www.baidu.com/s?wd=ChatGPT+%E6%99%BA%E8%83%BD%E4%BD%93%E5%B9%B3%E5%8F%B0",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时12分 ~ 08时13分]"
-        },
-        {
-          "title": "OpenAI发布AI助手“Dot”：可自主干活，全天候待命",
-          "url": "https://www.cls.cn/detail/2495744",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时29分"
-        },
-        {
-          "title": "OpenAI：正调查ChatGPT Pro和Plus用户错误率上升问题。",
-          "url": "https://wallstreetcn.com/livenews/3172665",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时29分"
+          "time_info": "03时00分"
         },
         {
           "title": "如何评价 OpenAI 推出个人 AI 助理 Dot，可全天候自主执行任务并连接 4000 多款应用？",
           "url": "https://www.zhihu.com/question/2088542369264005449",
           "source": "知乎",
           "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时31分"
-        },
-        {
-          "title": "速通OpenAI开发者大会",
-          "url": "https://search.bilibili.com/all?keyword=%E9%80%9F%E9%80%9AOpenAI%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时29分"
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 03时00分]"
         },
         {
-          "title": "OpenAI首席财务官：企业业务收入较7月已翻倍。",
-          "url": "https://flash.jin10.com/detail/20260930034546311800",
+          "title": "OpenAI与半导体设计软件公司新思科技宣布达成多年战略合作，共同开发专用于芯片设计的AI模型GPT-Synopsys。",
+          "url": "https://flash.jin10.com/detail/20261001023512395800",
           "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
-          "title": "OpenAI的CFO Sarah Friar：公司已经使用缓解措施，正在监控错误的恢复情况。 公司“资本（头寸）真的非常不错”。 市场对本公司存在新一轮融资的需求。（彭博电视）",
-          "url": "https://wallstreetcn.com/livenews/3172434",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "【早报】特朗普签署AI文件，美股AI硬件股集体爆发；原油大跌、黄金上涨；重磅政策来了！贷款买房，国家贴息",
-          "url": "https://www.cls.cn/detail/2495782",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时12分 ~ 14时29分]"
-        },
-        {
-          "title": "金十图示：2026年09月29日（周二）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260930040538554800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
-          "title": "金十图示：2026年09月29日（周二）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260930040536182800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
-          "title": "周三美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3172955",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时31分"
-        },
-        {
-          "title": "美国8月PCE低于预期 市场削减加息押注 美股期指上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2496575",
-          "source": "财联社热门",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时31分"
+          "time_info": "03时00分"
         },
         {
-          "title": "美股收盘：三大股指收跌 金龙指数跌1.5%",
-          "url": "https://flash.jin10.com/detail/20260930040126200800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
-          "title": "周二（9月29日），美股行业ETF涨跌各异，银行业ETF、区域银行ETF至多收跌1.04%，能源业ETF跌0.9%，全球科技股指数ETF涨0.38%，网络股指数ETF涨0.63%，半导体ETF涨1.15%。",
-          "url": "https://wallstreetcn.com/livenews/3172455",
+          "title": "新思科技与OpenAI达成多年期芯片设计模型框架合作",
+          "url": "https://wallstreetcn.com/livenews/3173116",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
-          "title": "布油基金收跌超2.6%，领跌美股大类资产类ETF，黄金ETF涨超1.3%",
-          "url": "https://wallstreetcn.com/livenews/3172454",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
-          "title": "美国经济数据公布后，美股股指期货短线拉升",
-          "url": "https://wallstreetcn.com/livenews/3172946",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时31分"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2026-09-30）",
-          "url": "https://flash.jin10.com/detail/20260930205628248800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "美股三大指数两连跌，30年期美债利率触及2002年高位，原油先涨后跌，黄金反弹",
-          "url": "https://wallstreetcn.com/articles/3782726",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时12分 ~ 21时31分]"
-        },
-        {
-          "title": "中东局势不明，原油冲高回落，美股指收跌，10年期美债收益率创2007年来新高，黄金重挫",
-          "url": "https://wallstreetcn.com/articles/3782633",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时35分 ~ 04时36分]"
-        },
-        {
-          "title": "美股收盘：加息预期降温 美债收益率依旧走高 三大指数小幅收跌",
-          "url": "https://www.cls.cn/detail/2495761",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时12分 ~ 14时29分]"
-        },
-        {
-          "title": "美债收益率高位回落 美股期指集体走高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2495520",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时35分 ~ 08时13分]"
-        },
-        {
-          "title": "25年来罕见！10年期美债收益率反超标普500盈利收益率",
-          "url": "https://wallstreetcn.com/articles/3782689",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时35分 ~ 04时36分]"
-        },
-        {
-          "title": "尽管油价走低、尽管美联储高官“放鸽”，美债收益率依旧在走高",
-          "url": "https://wallstreetcn.com/articles/3782785",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时31分"
-        },
-        {
-          "title": "创2002年以来最高！30年期美债收益率冲破5.6%",
-          "url": "https://www.cls.cn/detail/2495830",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时29分"
-        },
-        {
-          "title": "美联储威廉姆斯：（美债）收益率与通胀观念转变无关。 油价也是债券收益率的一个影响因素。 美联储在做政策利率决定时不会考虑美国选举因素。 长期债券收益率上涨，这个显现不仅仅存在于美国。 增长前景、AI需求都推动收益率波动。 预计通胀将下降，但问题在于AI影响的持续性。",
-          "url": "https://wallstreetcn.com/livenews/3172452",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
-          "title": "美债收益率持续走高，机构资产配置寻找更多支点",
-          "url": "https://wallstreetcn.com/livenews/3172514",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时13分"
+          "time_info": "03时00分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 7,
+      "match_count": 3,
       "titles": [
         {
-          "title": "DeepSeek Harness桌面端上线",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeekHarness%E6%A1%8C%E9%9D%A2%E7%AB%AF%E4%B8%8A%E7%BA%BF",
-          "source": "bilibili 热搜",
+          "title": "剑指英伟达CUDA！DeepSeek开源华为昇腾全套组件",
+          "url": "https://www.cls.cn/detail/2496566",
+          "source": "财联社热门",
           "ranks": [
-            18,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时35分 ~ 08时13分]"
-        },
-        {
-          "title": "假如我在 GPT3.5 发布的第三天立刻上线性能对标 DeepSeekV4.1 的模型会怎么样？",
-          "url": "https://www.zhihu.com/question/2086464412991371217",
-          "source": "知乎",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时35分 ~ 04时36分]"
+          "time_info": "[02时59分 ~ 03时00分]"
         },
         {
-          "title": "如何看待 DeepSeek 开源昇腾基础组件？",
-          "url": "https://www.zhihu.com/question/2088571879514714724",
-          "source": "知乎",
+          "title": "DeepSeek开源昇腾适配组件",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E6%BA%90%E6%98%87%E8%85%BE%E9%80%82%E9%85%8D%E7%BB%84%E4%BB%B6",
+          "source": "bilibili 热搜",
           "ranks": [
-            6
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 03时00分]"
         },
         {
           "title": "对标英伟达CUDA！DeepSeek开源昇腾版“AI工具箱”，性能接近硬件上限",
           "url": "https://wallstreetcn.com/articles/3782814",
           "source": "华尔街见闻",
           "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时31分"
-        },
-        {
-          "title": "DeepSeek组件与英伟达对应",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E7%BB%84%E4%BB%B6%E4%B8%8E%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%AF%B9%E5%BA%94&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时31分"
-        },
-        {
-          "title": "如何评价 DeepSeek Harness 桌面版正式发布？",
-          "url": "https://www.zhihu.com/question/2088368253169034470",
-          "source": "知乎",
-          "ranks": [
-            11
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时29分"
-        },
-        {
-          "title": "DeepSeek 开源昇腾基础组件",
-          "url": "https://wallstreetcn.com/livenews/3172655",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时29分"
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 03时00分]"
         }
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 1,
+      "keyword_group": "美债",
+      "match_count": 2,
       "titles": [
         {
-          "title": "金价跌回8字头年轻人仍攒金",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E5%9B%9E8%E5%AD%97%E5%A4%B4%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%BB%8D%E6%94%92%E9%87%91%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
+          "title": "美股三大指数两连跌，30年期美债利率触及2002年高位，原油先涨后跌，黄金反弹",
+          "url": "https://wallstreetcn.com/articles/3782726",
+          "source": "华尔街见闻",
           "ranks": [
-            20
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 03时00分]"
+        },
         {
-          "title": "美元指数29日上涨",
-          "url": "https://flash.jin10.com/detail/20260930040410184800",
-          "source": "金十数据",
+          "title": "PCE低于预期，加息预期降温，美股高开，2年期美债收益率下行，布油涨超2%，黄金涨幅收窄",
+          "url": "https://wallstreetcn.com/articles/3782819",
+          "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时36分"
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 03时00分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国8月PCE低于预期 市场削减加息押注 美股期指上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2496575",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 03时00分]"
         }
       ]
     }
