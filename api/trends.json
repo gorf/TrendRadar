@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-01T06:57:57.186208+08:00",
-  "total_titles_processed": 424,
+  "generated_at": "2026-10-01T10:02:03.142537+08:00",
+  "total_titles_processed": 607,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普拒绝为AI监管立法，签署AI\"道德约束\"协议，力推行业自律监管，将成立监督“委员会”",
@@ -13,11 +13,23 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时59分 ~ 06时57分]"
+          "appearance_count": 5,
+          "time_info": "[02时59分 ~ 10时02分]"
+        },
+        {
+          "title": "美国总统特朗普周四日程一览",
+          "url": "https://flash.jin10.com/detail/20261001093641935800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         },
         {
           "title": "美国总统特朗普：如果我治理委内瑞拉，我会做与被我掳走的总统马杜罗完全相同的事。",
@@ -97,6 +109,17 @@
           "time_info": "03时00分"
         },
         {
+          "title": "美国总统特朗普将于美国中部时间下午6点发表讲话。",
+          "url": "https://wallstreetcn.com/livenews/3173224",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
           "title": "美国总统特朗普：我拒绝说白宫很破，但我可以告诉你，它当时状况很糟糕。我让这座建筑比以往任何时候都更加美丽。总得有人去做这件事。",
           "url": "https://flash.jin10.com/detail/20261001020547427800",
           "source": "金十数据",
@@ -152,6 +175,17 @@
           "time_info": "03时00分"
         },
         {
+          "title": "据华尔街日报：民主党参议员在致鲁比奥、赫格塞思和赖特的信中表示，美国国防部与委内瑞拉达成的石油协议不利于民主过渡，要求特朗普政府官员就委内瑞拉石油项目回答相关问题。",
+          "url": "https://flash.jin10.com/detail/20261001092137038800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
           "title": "美国加州州长纽森发图显示：昨天《白宫超级智能协定》特朗普签名下的“Unites States”出现最简单的拼写错误，发文嘲讽“超级智能” 的黄金时代。",
           "url": "https://wallstreetcn.com/livenews/3173103",
           "source": "华尔街见闻-快讯",
@@ -172,6 +206,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时00分"
+        },
+        {
+          "title": "据华尔街日报：美国民主党参议员质疑特朗普官员关于美国国防部与委内瑞拉石油交易的情况。民主党参议员表示美国国防部与委内瑞拉的石油交易法律依据存疑。",
+          "url": "https://flash.jin10.com/detail/20261001092054367800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         },
         {
           "title": "美国总统特朗普：（关于伊朗）我们损失了18人，但他们损失了4500人。",
@@ -224,7 +269,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时57分"
         },
@@ -246,7 +291,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时57分"
         }
@@ -326,7 +371,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股三大指数两连跌，30年期美债利率触及2002年高位，原油先涨后跌，黄金反弹",
@@ -338,6 +383,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时59分 ~ 06时57分]"
+        },
+        {
+          "title": "通胀数据难挡美债压力，标普、道指三连跌，10年期收益率突破5.3%，全球债市Q3重挫",
+          "url": "https://wallstreetcn.com/articles/3782819",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
         },
         {
           "title": "PCE低于预期，加息预期降温，美股高开，2年期美债收益率下行，布油涨超2%，黄金涨幅收窄",
@@ -357,7 +413,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时57分"
         },
@@ -368,7 +424,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时57分"
         }
@@ -384,11 +440,25 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时59分 ~ 06时57分]"
+          "appearance_count": 5,
+          "time_info": "[02时59分 ~ 10时02分]"
+        },
+        {
+          "title": "对标英伟达CUDA！DeepSeek开源昇腾版“AI工具箱”，性能接近硬件上限",
+          "url": "https://wallstreetcn.com/articles/3782814",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时59分 ~ 10时02分]"
         },
         {
           "title": "DeepSeek开源昇腾适配组件",
@@ -397,18 +467,6 @@
           "ranks": [
             8,
             9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时59分 ~ 06时57分]"
-        },
-        {
-          "title": "对标英伟达CUDA！DeepSeek开源昇腾版“AI工具箱”，性能接近硬件上限",
-          "url": "https://wallstreetcn.com/articles/3782814",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -426,11 +484,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时59分 ~ 06时57分]"
+          "appearance_count": 5,
+          "time_info": "[02时59分 ~ 10时02分]"
         },
         {
           "title": "通胀数据难挡收益率压力，美股指承压，标普录得6月以来最差月度表现，黄金倒V",
@@ -439,7 +498,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时57分"
         },
@@ -448,11 +507,29 @@
           "url": "https://www.cls.cn/detail/2496732",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时57分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时57分 ~ 10时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价 10 月 1 号发布的 Gemini 4 Argon？",
+          "url": "https://www.zhihu.com/question/2088845041045337914",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
         }
       ]
     }
