@@ -1,22 +1,300 @@
 {
-  "generated_at": "2026-10-02T00:16:49.655130+08:00",
-  "total_titles_processed": 305,
+  "generated_at": "2026-10-02T05:43:35.019542+08:00",
+  "total_titles_processed": 420,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美债",
-      "match_count": 4,
+      "keyword_group": "特朗普",
+      "match_count": 12,
       "titles": [
+        {
+          "title": "特朗普催账，韩国先掏2000亿美元",
+          "url": "https://news.ifeng.com/c/8wsMzIb2Ot9",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 05时43分]"
+        },
+        {
+          "title": "特朗普计划邀请普京出席G20峰会，波兰外长批评",
+          "url": "https://news.ifeng.com/c/8ws8CkGQnAO",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 05时43分]"
+        },
+        {
+          "title": "特朗普：如果鲍威尔不辞职，美国政府就应该以起诉他",
+          "url": "https://news.ifeng.com/c/8wsCYJXj4Sx",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 05时43分]"
+        },
+        {
+          "title": "乘客称凭借电视节目知识万米高空救机，特朗普直呼“不可思议”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34185315",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 05时43分]"
+        },
+        {
+          "title": "美国财长贝森特：伊朗9月未向油轮装载原油，特朗普政府正切断伊朗政权主要收入来源。",
+          "url": "https://flash.jin10.com/detail/20261002042954772800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "金十提示：美国总统特朗普结束对记者的讲话。",
+          "url": "https://flash.jin10.com/detail/20261002042528527800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗问题将很快结束，无论以何种方式。",
+          "url": "https://flash.jin10.com/detail/20261002042043455800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "当被问及伊朗是否参与英国军事基地时，特朗普回答说：“看起来是这样。”",
+          "url": "https://flash.jin10.com/detail/20261002041948666800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "美国总统特朗普：油价将会回落。",
+          "url": "https://flash.jin10.com/detail/20261002041852137800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "美国总统特朗普：可能要求欧洲国家释放柴油库存。",
+          "url": "https://flash.jin10.com/detail/20261002041746600800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "美国总统特朗普被问及柴油价格时表示，油价将会回落。 或将要求欧洲释放柴油储备。",
+          "url": "https://wallstreetcn.com/livenews/3173499",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "美国总统特朗普被问及伊朗是否涉入英国基地事件时表示，看起来是这样。 伊朗的局面很快就会尘埃落定，无论以何种方式。",
+          "url": "https://wallstreetcn.com/livenews/3173498",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "AI热潮顶住债市风暴！美股指数期货重拾涨势，欧股跌幅收窄，美元触及三个月高点",
+          "url": "https://wallstreetcn.com/articles/3782859",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 05时43分]"
+        },
+        {
+          "title": "美股收盘：通胀不及预期缓解加息担忧 三大指数涨跌不一",
+          "url": "https://www.cls.cn/detail/2496732",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 05时43分]"
+        },
+        {
+          "title": "美国8月PCE低于预期 市场削减加息押注 美股期指上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2496575",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 05时43分]"
+        },
+        {
+          "title": "通信应用程序编程接口供应商Twilio美股盘后涨2%，该公司将被纳入标普500指数。",
+          "url": "https://wallstreetcn.com/livenews/3173520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "周四（10月1日），美股行业ETF多数收涨，能源业ETF涨1.95%，半导体ETF、全球科技股指数ETF、科技行业ETF至多涨1.45%，全球航空业ETF跌0.46%，医疗业ETF跌1.32%，生物科技指数ETF跌2.17%。",
+          "url": "https://wallstreetcn.com/livenews/3173501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "布油基金收涨超4.7%，领跑美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/3173500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "耐克第一财季营收112.1亿美元，分析师预期113.3亿美元。 第一财季总体耐克品牌营收109.5亿美元，分析师预期110.9亿美元。 第一财季每股收益（EPS）为0.48美元，上年同期0.49美元。 第一财季库存78亿美元，分析师预期79.6亿美元。 第一财季大中华区EBIT为2.48亿美元，分析师预期3.122亿美元。 预计营收将在2027财年实现高个位数百分比增幅。 耐克（NKE）美股盘后跌5%。",
+          "url": "https://wallstreetcn.com/livenews/3173495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "美股三大股指跳水 美光科技跌近3%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E8%B7%B3%E6%B0%B4+%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E8%B7%8C%E8%BF%913%25",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "两年期美债收益率跌超9.5个基点，10年期美债收益率一度创2002年以来新高",
+          "url": "https://wallstreetcn.com/livenews/3173481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
         {
           "title": "通胀数据难挡美债压力，标普、道指三连跌，10年期收益率突破5.3%，全球债市Q3重挫",
           "url": "https://wallstreetcn.com/articles/3782819",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            6
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 05时43分]"
+        },
+        {
+          "title": "华尔街机构警告：美联储犯下“原罪”，十年期美债收益率或将迈向8%",
+          "url": "https://wallstreetcn.com/articles/3782880",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 05时43分]"
+        },
+        {
+          "title": "美债收益率直冲24年高位 新交易月伊始美股期指上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2497008",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 05时43分]"
+        },
+        {
+          "title": "30 年期美债收益率冲破 5.6%，到底会带来哪些影响，会如何影响中国资产定价，全球范围内又如何？",
+          "url": "https://www.zhihu.com/question/2088560263545078106",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时16分"
+          "time_info": "05时43分"
         },
         {
           "title": "美国建筑商股下跌，10年期美债收益率一度创2002年以来高位",
@@ -30,115 +308,71 @@
           "time_info": "00时16分"
         },
         {
-          "title": "华尔街机构警告：美联储犯下“原罪”，十年期美债收益率或将迈向8%",
-          "url": "https://wallstreetcn.com/articles/3782880",
+          "title": "全球债市抛售潮加剧！美债收益率触及2002年高位，英债突破6%创1998年新高",
+          "url": "https://wallstreetcn.com/articles/3782875",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "美债收益率直冲24年高位 新交易月伊始美股期指上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2497008",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "time_info": "05时43分"
         }
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 4,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
       "titles": [
         {
-          "title": "特朗普催账，韩国先掏2000亿美元",
-          "url": "https://news.ifeng.com/c/8wsMzIb2Ot9",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "特朗普计划邀请普京出席G20峰会，波兰外长批评",
-          "url": "https://news.ifeng.com/c/8ws8CkGQnAO",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "特朗普：如果鲍威尔不辞职，美国政府就应该以起诉他",
-          "url": "https://news.ifeng.com/c/8wsCYJXj4Sx",
-          "source": "凤凰网",
+          "title": "谷歌Gemini 4 Argon多指标SOTA！输出上限破百万token，推广期价格仅竞品1/5",
+          "url": "https://wallstreetcn.com/articles/3782853",
+          "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 05时43分]"
         },
         {
-          "title": "乘客称凭借电视节目知识万米高空救机，特朗普直呼“不可思议”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34185315",
-          "source": "澎湃新闻",
+          "title": "谷歌因广告技术垄断面临逾32亿美元损害赔偿请求",
+          "url": "https://wallstreetcn.com/livenews/3173497",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时16分"
+          "time_info": "05时43分"
         }
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 3,
+      "keyword_group": "美元",
+      "match_count": 2,
       "titles": [
         {
-          "title": "AI热潮顶住债市风暴！美股指数期货重拾涨势，欧股跌幅收窄，美元触及三个月高点",
-          "url": "https://wallstreetcn.com/articles/3782859",
-          "source": "华尔街见闻",
+          "title": "彭博美元指数涨0.6%，刷新日高。",
+          "url": "https://wallstreetcn.com/livenews/3173422",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
         },
         {
-          "title": "美股收盘：通胀不及预期缓解加息担忧 三大指数涨跌不一",
-          "url": "https://www.cls.cn/detail/2496732",
-          "source": "财联社热门",
+          "title": "美元指数1日上涨",
+          "url": "https://flash.jin10.com/detail/20261002042455727800",
+          "source": "金十数据",
           "ranks": [
-            7
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "美国8月PCE低于预期 市场削减加息押注 美股期指上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2496575",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "time_info": "05时43分"
         }
       ]
     },
@@ -154,42 +388,42 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 05时43分]"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "谷歌Gemini 4 Argon多指标SOTA！输出上限破百万token，推广期价格仅竞品1/5",
-          "url": "https://wallstreetcn.com/articles/3782853",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "彭博美元指数涨0.6%，刷新日高。",
-          "url": "https://wallstreetcn.com/livenews/3173422",
+          "title": "报道：OpenAI解雇三名研究员，指其不当分享敏感信息",
+          "url": "https://wallstreetcn.com/livenews/3173434",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时16分"
+          "time_info": "05时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国际金价涨约0.5%，费城金银指数收跌0.9%",
+          "url": "https://wallstreetcn.com/livenews/3173510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
         }
       ]
     }
