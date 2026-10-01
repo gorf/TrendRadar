@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-01T10:02:03.142537+08:00",
-  "total_titles_processed": 607,
+  "generated_at": "2026-10-01T16:47:55.785251+08:00",
+  "total_titles_processed": 827,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普拒绝为AI监管立法，签署AI\"道德约束\"协议，力推行业自律监管，将成立监督“委员会”",
@@ -27,7 +27,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -115,7 +115,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -164,6 +164,17 @@
           "time_info": "03时00分"
         },
         {
+          "title": "乘客称凭借电视节目知识万米高空救机，特朗普直呼“不可思议”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34185315",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        },
+        {
           "title": "美国总统特朗普：我是唯一一个捐出自己薪水的总统。",
           "url": "https://flash.jin10.com/detail/20261001020125207800",
           "source": "金十数据",
@@ -181,7 +192,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -214,7 +225,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -228,6 +239,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时00分"
+        },
+        {
+          "title": "日本首相高市早苗：将综合考虑初期预算和补充预算，适当控制年度国债总发行量。 外汇市场由多种因素决定。 日本经济政策并非旨在操纵外汇。 我们的政策旨在提升日本经济的竞争力，这将增强市场对日元的信任。 已向特朗普总统表示日元低估是一个问题。 预计食品消费税减免将体现在销售价格上。 政府追求强劲经济和财政可持续性的立场没有变化。",
+          "url": "https://wallstreetcn.com/livenews/3173297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
         },
         {
           "title": "美国总统特朗普：过去三天，霍尔木兹海峡的石油流量创下历史新高。",
@@ -298,8 +320,107 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "美国8月PCE低于预期 市场削减加息押注 美股期指上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2496575",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时59分 ~ 16时47分]"
+        },
+        {
+          "title": "美光科技美股盘前转跌，现跌0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3173317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        },
+        {
+          "title": "美股收盘：通胀不及预期缓解加息担忧 三大指数涨跌不一",
+          "url": "https://www.cls.cn/detail/2496732",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时57分 ~ 16时47分]"
+        },
+        {
+          "title": "通胀数据难挡收益率压力，美股指承压，标普录得6月以来最差月度表现，黄金倒V",
+          "url": "https://wallstreetcn.com/articles/3782819",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时57分"
+        },
+        {
+          "title": "睡着觉也能炒股？“美股散户大本营”Robinhood开放AI智能体，可24小时自动盯盘交易",
+          "url": "https://wallstreetcn.com/articles/3782833",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        },
+        {
+          "title": "美股存储股盘前走高，美光科技(MU.O)盘前涨0.6%，Q4营收同比增近四倍、下一财年Q1指引超预期；SK海力士(SKHY.O)涨1.5%，闪迪(SNDK.O)涨1.7%，西部数据(WDC.O)涨1.2%。",
+          "url": "https://flash.jin10.com/detail/20261001160354873800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        },
+        {
+          "title": "美股盘前，存储股集体走高，美光科技盘前涨0.61%，美光Q4营收同比增近四倍、Q1指引超预期；SK海力士涨1.54%，闪迪涨1.81%，西部数据涨0.88%。光通信股普涨，Lumentum涨1.72%，康宁涨1.46%。",
+          "url": "https://wallstreetcn.com/livenews/3173304",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        },
+        {
+          "title": "美股股指期货涨幅收窄，布伦特原油突破100美元",
+          "url": "https://wallstreetcn.com/livenews/3173294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "如何评价 OpenAI 发布的 GPT-6.1 SOL？",
@@ -346,6 +467,17 @@
           "time_info": "[02时59分 ~ 03时00分]"
         },
         {
+          "title": "OpenAI智能体入侵澳政府网站",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%99%BA%E8%83%BD%E4%BD%93%E5%85%A5%E4%BE%B5%E6%BE%B3%E6%94%BF%E5%BA%9C%E7%BD%91%E7%AB%99",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        },
+        {
           "title": "OpenAI与半导体设计软件公司新思科技宣布达成多年战略合作，共同开发专用于芯片设计的AI模型GPT-Synopsys。",
           "url": "https://flash.jin10.com/detail/20261001023512395800",
           "source": "金十数据",
@@ -370,9 +502,83 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "如何评价 10 月 1 号发布的 Gemini 4 Argon？",
+          "url": "https://www.zhihu.com/question/2088845041045337914",
+          "source": "知乎",
+          "ranks": [
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时01分 ~ 16时47分]"
+        },
+        {
+          "title": "谷歌Gemini 4 Argon多指标SOTA！输出上限破百万token，推广期价格仅竞品1/5",
+          "url": "https://wallstreetcn.com/articles/3782853",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        },
+        {
+          "title": "谷歌推出Gemini 4旗舰AI模型后，Alphabet盘前股价上涨2.6%。",
+          "url": "https://wallstreetcn.com/livenews/3173306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        },
+        {
+          "title": "Alphabet(GOOGL.O)盘前上涨2.6%，此前发布Gemini 4旗舰模型。",
+          "url": "https://flash.jin10.com/detail/20261001160439505800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        },
+        {
+          "title": "谷歌发布Gemini4",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83Gemini4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 5,
       "titles": [
+        {
+          "title": "通胀数据难挡美债压力，标普、道指三连跌，10年期收益率突破5.3%，全球债市Q3重挫",
+          "url": "https://wallstreetcn.com/articles/3782819",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时01分 ~ 16时47分]"
+        },
         {
           "title": "美股三大指数两连跌，30年期美债利率触及2002年高位，原油先涨后跌，黄金反弹",
           "url": "https://wallstreetcn.com/articles/3782726",
@@ -383,17 +589,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时59分 ~ 06时57分]"
-        },
-        {
-          "title": "通胀数据难挡美债压力，标普、道指三连跌，10年期收益率突破5.3%，全球债市Q3重挫",
-          "url": "https://wallstreetcn.com/articles/3782819",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
         },
         {
           "title": "PCE低于预期，加息预期降温，美股高开，2年期美债收益率下行，布油涨超2%，黄金涨幅收窄",
@@ -444,8 +639,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时59分 ~ 10时02分]"
+          "appearance_count": 6,
+          "time_info": "[02时59分 ~ 16时47分]"
         },
         {
           "title": "对标英伟达CUDA！DeepSeek开源昇腾版“AI工具箱”，性能接近硬件上限",
@@ -475,61 +670,19 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美国8月PCE低于预期 市场削减加息押注 美股期指上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2496575",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时59分 ~ 10时02分]"
-        },
-        {
-          "title": "通胀数据难挡收益率压力，美股指承压，标普录得6月以来最差月度表现，黄金倒V",
-          "url": "https://wallstreetcn.com/articles/3782819",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时57分"
-        },
-        {
-          "title": "美股收盘：通胀不及预期缓解加息担忧 三大指数涨跌不一",
-          "url": "https://www.cls.cn/detail/2496732",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时57分 ~ 10时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "美元",
       "match_count": 1,
       "titles": [
         {
-          "title": "如何评价 10 月 1 号发布的 Gemini 4 Argon？",
-          "url": "https://www.zhihu.com/question/2088845041045337914",
-          "source": "知乎",
+          "title": "美元指数上涨0.3%，触及三个月高点。",
+          "url": "https://wallstreetcn.com/livenews/3173316",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            2
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
         }
       ]
     }
