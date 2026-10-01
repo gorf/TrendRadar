@@ -1,671 +1,178 @@
 {
-  "generated_at": "2026-10-01T16:47:55.785251+08:00",
-  "total_titles_processed": 827,
+  "generated_at": "2026-10-02T00:16:49.655130+08:00",
+  "total_titles_processed": 305,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 28,
-      "titles": [
-        {
-          "title": "特朗普拒绝为AI监管立法，签署AI\"道德约束\"协议，力推行业自律监管，将成立监督“委员会”",
-          "url": "https://wallstreetcn.com/articles/3782769",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时59分 ~ 10时02分]"
-        },
-        {
-          "title": "美国总统特朗普周四日程一览",
-          "url": "https://flash.jin10.com/detail/20261001093641935800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "美国总统特朗普：如果我治理委内瑞拉，我会做与被我掳走的总统马杜罗完全相同的事。",
-          "url": "https://wallstreetcn.com/livenews/3173120",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时00分"
-        },
-        {
-          "title": "特朗普政府推出AI政务网站America.gov，聊天机器人上线即“唱反调”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34177257",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时59分 ~ 03时00分]"
-        },
-        {
-          "title": "美国总统特朗普赞赏礼来制药、Merck、辉瑞制药的投资。",
-          "url": "https://wallstreetcn.com/livenews/3173115",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时00分"
-        },
-        {
-          "title": "美国总统特朗普：加拿大已经利用了美国许多年。",
-          "url": "https://wallstreetcn.com/livenews/3173114",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时00分"
-        },
-        {
-          "title": "美国总统特朗普：加拿大多年来一直占美国的便宜。",
-          "url": "https://flash.jin10.com/detail/20261001022424592800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时00分"
-        },
-        {
-          "title": "美国总统特朗普谈及古巴：你们就看着鲁比奥对古巴采取的行动吧。看看他会怎么对付古巴。",
-          "url": "https://wallstreetcn.com/livenews/3173112",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时00分"
-        },
-        {
-          "title": "美国总统特朗普谈及伊拉克：当年他们（小布什政府时期美国官员）遣散了伊拉克所有人员，包括士兵、将军、警察。 伊拉克陷入无人治理的局面，ISIS就此崛起。 我们的做法会截然不同。 我们吸取了当年在伊拉克犯下的愚蠢错误的教训。",
-          "url": "https://wallstreetcn.com/livenews/3173110",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时00分"
-        },
-        {
-          "title": "美国总统特朗普将于美国中部时间下午6点发表讲话。",
-          "url": "https://wallstreetcn.com/livenews/3173224",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "美国总统特朗普：我拒绝说白宫很破，但我可以告诉你，它当时状况很糟糕。我让这座建筑比以往任何时候都更加美丽。总得有人去做这件事。",
-          "url": "https://flash.jin10.com/detail/20261001020547427800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时00分"
-        },
-        {
-          "title": "美国总统特朗普：最近三天，霍尔木兹海峡的石油通行量达到历史性水平。",
-          "url": "https://wallstreetcn.com/livenews/3173107",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时00分"
-        },
-        {
-          "title": "特朗普：最后一批美军正在撤离伊拉克",
-          "url": "https://wallstreetcn.com/livenews/3173106",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时00分"
-        },
-        {
-          "title": "美国总统特朗普谈及伊朗，宣称：你们将看到事情发展得相当迅速。",
-          "url": "https://wallstreetcn.com/livenews/3173105",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时00分"
-        },
-        {
-          "title": "乘客称凭借电视节目知识万米高空救机，特朗普直呼“不可思议”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34185315",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时47分"
-        },
-        {
-          "title": "美国总统特朗普：我是唯一一个捐出自己薪水的总统。",
-          "url": "https://flash.jin10.com/detail/20261001020125207800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时00分"
-        },
-        {
-          "title": "据华尔街日报：民主党参议员在致鲁比奥、赫格塞思和赖特的信中表示，美国国防部与委内瑞拉达成的石油协议不利于民主过渡，要求特朗普政府官员就委内瑞拉石油项目回答相关问题。",
-          "url": "https://flash.jin10.com/detail/20261001092137038800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "美国加州州长纽森发图显示：昨天《白宫超级智能协定》特朗普签名下的“Unites States”出现最简单的拼写错误，发文嘲讽“超级智能” 的黄金时代。",
-          "url": "https://wallstreetcn.com/livenews/3173103",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时00分"
-        },
-        {
-          "title": "美国总统特朗普：我们做得很好。我们做得不好的地方是，我们没有把这个信息传达出去。",
-          "url": "https://flash.jin10.com/detail/20261001015859140800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时00分"
-        },
-        {
-          "title": "据华尔街日报：美国民主党参议员质疑特朗普官员关于美国国防部与委内瑞拉石油交易的情况。民主党参议员表示美国国防部与委内瑞拉的石油交易法律依据存疑。",
-          "url": "https://flash.jin10.com/detail/20261001092054367800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "美国总统特朗普：（关于伊朗）我们损失了18人，但他们损失了4500人。",
-          "url": "https://flash.jin10.com/detail/20261001015732068800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时00分"
-        },
-        {
-          "title": "日本首相高市早苗：将综合考虑初期预算和补充预算，适当控制年度国债总发行量。 外汇市场由多种因素决定。 日本经济政策并非旨在操纵外汇。 我们的政策旨在提升日本经济的竞争力，这将增强市场对日元的信任。 已向特朗普总统表示日元低估是一个问题。 预计食品消费税减免将体现在销售价格上。 政府追求强劲经济和财政可持续性的立场没有变化。",
-          "url": "https://wallstreetcn.com/livenews/3173297",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时47分"
-        },
-        {
-          "title": "美国总统特朗普：过去三天，霍尔木兹海峡的石油流量创下历史新高。",
-          "url": "https://flash.jin10.com/detail/20261001015021508800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时00分"
-        },
-        {
-          "title": "美国总统特朗普：我们几乎完全控制霍尔木兹海峡。",
-          "url": "https://flash.jin10.com/detail/20261001014918533800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时00分"
-        },
-        {
-          "title": "美国总统特朗普：（关于伊朗）你们很快会看到事情发生。",
-          "url": "https://flash.jin10.com/detail/20261001014851910800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时00分"
-        },
-        {
-          "title": "美国总统特朗普：美国完全控制着霍尔木兹海峡。",
-          "url": "https://wallstreetcn.com/livenews/3173174",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时57分"
-        },
-        {
-          "title": "美国总统特朗普：支持伊拉克总理al-Zaidi。 我们离开伊拉克时，伊拉克迎来了一位非常出色的新总理。 最后一批美国军队正在离开伊拉克，结束美国在伊拉克的军事存在。",
-          "url": "https://wallstreetcn.com/livenews/3173093",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时00分"
-        },
-        {
-          "title": "美国总统特朗普谈及出台柴油出口禁令的可能性，声称：正在研究。",
-          "url": "https://wallstreetcn.com/livenews/3173173",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "美国8月PCE低于预期 市场削减加息押注 美股期指上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2496575",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时59分 ~ 16时47分]"
-        },
-        {
-          "title": "美光科技美股盘前转跌，现跌0.4%。",
-          "url": "https://wallstreetcn.com/livenews/3173317",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时47分"
-        },
-        {
-          "title": "美股收盘：通胀不及预期缓解加息担忧 三大指数涨跌不一",
-          "url": "https://www.cls.cn/detail/2496732",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时57分 ~ 16时47分]"
-        },
-        {
-          "title": "通胀数据难挡收益率压力，美股指承压，标普录得6月以来最差月度表现，黄金倒V",
-          "url": "https://wallstreetcn.com/articles/3782819",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时57分"
-        },
-        {
-          "title": "睡着觉也能炒股？“美股散户大本营”Robinhood开放AI智能体，可24小时自动盯盘交易",
-          "url": "https://wallstreetcn.com/articles/3782833",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时47分"
-        },
-        {
-          "title": "美股存储股盘前走高，美光科技(MU.O)盘前涨0.6%，Q4营收同比增近四倍、下一财年Q1指引超预期；SK海力士(SKHY.O)涨1.5%，闪迪(SNDK.O)涨1.7%，西部数据(WDC.O)涨1.2%。",
-          "url": "https://flash.jin10.com/detail/20261001160354873800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时47分"
-        },
-        {
-          "title": "美股盘前，存储股集体走高，美光科技盘前涨0.61%，美光Q4营收同比增近四倍、Q1指引超预期；SK海力士涨1.54%，闪迪涨1.81%，西部数据涨0.88%。光通信股普涨，Lumentum涨1.72%，康宁涨1.46%。",
-          "url": "https://wallstreetcn.com/livenews/3173304",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时47分"
-        },
-        {
-          "title": "美股股指期货涨幅收窄，布伦特原油突破100美元",
-          "url": "https://wallstreetcn.com/livenews/3173294",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "如何评价 OpenAI 发布的 GPT-6.1 SOL？",
-          "url": "https://www.zhihu.com/question/2088438691786246011",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时59分 ~ 03时00分]"
-        },
-        {
-          "title": "OpenAI应战Meta：发布个人AI助手Dots，高端订阅每月500美元，是Muse高阶版的5倍",
-          "url": "https://wallstreetcn.com/articles/3782764",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时59分 ~ 03时00分]"
-        },
-        {
-          "title": "据NBC新闻：OpenAI首席执行官奥尔特曼将缺席美国国会关于失控人工智能代理的听证会。",
-          "url": "https://flash.jin10.com/detail/20261001024940292800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时00分"
-        },
-        {
-          "title": "如何评价 OpenAI 推出个人 AI 助理 Dot，可全天候自主执行任务并连接 4000 多款应用？",
-          "url": "https://www.zhihu.com/question/2088542369264005449",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时59分 ~ 03时00分]"
-        },
-        {
-          "title": "OpenAI智能体入侵澳政府网站",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%99%BA%E8%83%BD%E4%BD%93%E5%85%A5%E4%BE%B5%E6%BE%B3%E6%94%BF%E5%BA%9C%E7%BD%91%E7%AB%99",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时47分"
-        },
-        {
-          "title": "OpenAI与半导体设计软件公司新思科技宣布达成多年战略合作，共同开发专用于芯片设计的AI模型GPT-Synopsys。",
-          "url": "https://flash.jin10.com/detail/20261001023512395800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时00分"
-        },
-        {
-          "title": "新思科技与OpenAI达成多年期芯片设计模型框架合作",
-          "url": "https://wallstreetcn.com/livenews/3173116",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时00分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "如何评价 10 月 1 号发布的 Gemini 4 Argon？",
-          "url": "https://www.zhihu.com/question/2088845041045337914",
-          "source": "知乎",
-          "ranks": [
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时01分 ~ 16时47分]"
-        },
-        {
-          "title": "谷歌Gemini 4 Argon多指标SOTA！输出上限破百万token，推广期价格仅竞品1/5",
-          "url": "https://wallstreetcn.com/articles/3782853",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时47分"
-        },
-        {
-          "title": "谷歌推出Gemini 4旗舰AI模型后，Alphabet盘前股价上涨2.6%。",
-          "url": "https://wallstreetcn.com/livenews/3173306",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时47分"
-        },
-        {
-          "title": "Alphabet(GOOGL.O)盘前上涨2.6%，此前发布Gemini 4旗舰模型。",
-          "url": "https://flash.jin10.com/detail/20261001160439505800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时47分"
-        },
-        {
-          "title": "谷歌发布Gemini4",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83Gemini4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时47分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 4,
       "titles": [
         {
           "title": "通胀数据难挡美债压力，标普、道指三连跌，10年期收益率突破5.3%，全球债市Q3重挫",
           "url": "https://wallstreetcn.com/articles/3782819",
           "source": "华尔街见闻",
           "ranks": [
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时01分 ~ 16时47分]"
+          "appearance_count": 1,
+          "time_info": "00时16分"
         },
         {
-          "title": "美股三大指数两连跌，30年期美债利率触及2002年高位，原油先涨后跌，黄金反弹",
-          "url": "https://wallstreetcn.com/articles/3782726",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时59分 ~ 06时57分]"
-        },
-        {
-          "title": "PCE低于预期，加息预期降温，美股高开，2年期美债收益率下行，布油涨超2%，黄金涨幅收窄",
-          "url": "https://wallstreetcn.com/articles/3782819",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时59分 ~ 03时00分]"
-        },
-        {
-          "title": "10年期美债收益率自2007年以来首次涨穿5.3%，两年期美债收益率三季度涨超71个基点",
-          "url": "https://wallstreetcn.com/livenews/3173195",
+          "title": "美国建筑商股下跌，10年期美债收益率一度创2002年以来高位",
+          "url": "https://wallstreetcn.com/livenews/3173421",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "华尔街机构警告：美联储犯下“原罪”，十年期美债收益率或将迈向8%",
+          "url": "https://wallstreetcn.com/articles/3782880",
+          "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时57分"
+          "time_info": "00时16分"
         },
         {
-          "title": "尽管油价走低、尽管美联储高官“放鸽”，美债收益率依旧在走高",
-          "url": "https://wallstreetcn.com/articles/3782785",
-          "source": "华尔街见闻",
+          "title": "美债收益率直冲24年高位 新交易月伊始美股期指上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2497008",
+          "source": "财联社热门",
           "ranks": [
-            10
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时57分"
+          "time_info": "00时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "特朗普催账，韩国先掏2000亿美元",
+          "url": "https://news.ifeng.com/c/8wsMzIb2Ot9",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "特朗普计划邀请普京出席G20峰会，波兰外长批评",
+          "url": "https://news.ifeng.com/c/8ws8CkGQnAO",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "特朗普：如果鲍威尔不辞职，美国政府就应该以起诉他",
+          "url": "https://news.ifeng.com/c/8wsCYJXj4Sx",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "乘客称凭借电视节目知识万米高空救机，特朗普直呼“不可思议”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34185315",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "AI热潮顶住债市风暴！美股指数期货重拾涨势，欧股跌幅收窄，美元触及三个月高点",
+          "url": "https://wallstreetcn.com/articles/3782859",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "美股收盘：通胀不及预期缓解加息担忧 三大指数涨跌不一",
+          "url": "https://www.cls.cn/detail/2496732",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "美国8月PCE低于预期 市场削减加息押注 美股期指上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2496575",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "剑指英伟达CUDA！DeepSeek开源华为昇腾全套组件",
           "url": "https://www.cls.cn/detail/2496566",
           "source": "财联社热门",
           "ranks": [
-            6,
-            3,
-            4
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时59分 ~ 16时47分]"
-        },
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "对标英伟达CUDA！DeepSeek开源昇腾版“AI工具箱”，性能接近硬件上限",
-          "url": "https://wallstreetcn.com/articles/3782814",
+          "title": "谷歌Gemini 4 Argon多指标SOTA！输出上限破百万token，推广期价格仅竞品1/5",
+          "url": "https://wallstreetcn.com/articles/3782853",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            8,
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时59分 ~ 10时02分]"
-        },
-        {
-          "title": "DeepSeek开源昇腾适配组件",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E6%BA%90%E6%98%87%E8%85%BE%E9%80%82%E9%85%8D%E7%BB%84%E4%BB%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时59分 ~ 06时57分]"
+          "appearance_count": 1,
+          "time_info": "00时16分"
         }
       ]
     },
@@ -674,15 +181,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "美元指数上涨0.3%，触及三个月高点。",
-          "url": "https://wallstreetcn.com/livenews/3173316",
+          "title": "彭博美元指数涨0.6%，刷新日高。",
+          "url": "https://wallstreetcn.com/livenews/3173422",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时47分"
+          "time_info": "00时16分"
         }
       ]
     }
