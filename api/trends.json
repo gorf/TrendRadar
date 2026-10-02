@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-02T09:28:47.571877+08:00",
-  "total_titles_processed": 587,
+  "generated_at": "2026-10-02T16:14:28.246388+08:00",
+  "total_titles_processed": 814,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普催账，韩国先掏2000亿美元",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时16分 ~ 09时28分]"
+        },
+        {
+          "title": "马斯克重返特朗普政府，参与未来战争研究",
+          "url": "https://original.ifeng.com/c/8wtHCbJFK5R",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
         },
         {
           "title": "特朗普：如果鲍威尔不辞职，美国政府就应该以起诉他",
@@ -53,13 +64,25 @@
           "time_info": "[00时16分 ~ 09时28分]"
         },
         {
+          "title": "诺贝尔和平奖揭晓倒计时一周，特朗普再获提名",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34186526",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时28分 ~ 16时14分]"
+        },
+        {
           "title": "特朗普的“AI自我监管”意味着什么？老黄“大获全胜”，幕后带头质问Anthropic Amodei",
           "url": "https://wallstreetcn.com/articles/3782862",
           "source": "华尔街见闻",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
@@ -70,9 +93,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
+        },
+        {
+          "title": "特朗普提议人工智能改称SI，斯洛文尼亚域名注册量暴涨",
+          "url": "https://news.ifeng.com/c/8wtPqcA1csW",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
         },
         {
           "title": "金十提示：特朗普正在俄克拉荷马州举行中期选举竞选集会。",
@@ -81,9 +115,42 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
+        },
+        {
+          "title": "局势升级！特朗普称中期选举后或加大对伊轰炸 美军大举增兵中东",
+          "url": "https://www.cls.cn/detail/2497157",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
+          "title": "特朗普对伊朗下通牒：不签协议就“不复存在”，美向中东派第三艘航母、增兵或万人",
+          "url": "https://wallstreetcn.com/articles/3782903",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
+          "title": "康奈尔大学“性侵案”重启刑事调查，特朗普：这是所好学校",
+          "url": "https://news.ifeng.com/c/8wtJd969xpi",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
         },
         {
           "title": "美国参议院少数党领袖舒默：特朗普正争取成为有史以来最腐败的人。",
@@ -92,7 +159,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
@@ -106,17 +173,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
-        },
-        {
-          "title": "诺贝尔和平奖揭晓倒计时一周，特朗普再获提名",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34186526",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时28分"
         },
         {
           "title": "金十提示：美国总统特朗普结束对记者的讲话。",
@@ -202,7 +258,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         }
@@ -210,7 +266,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "AI热潮顶住债市风暴！美股指数期货重拾涨势，欧股跌幅收窄，美元触及三个月高点",
@@ -229,22 +285,46 @@
           "url": "https://www.cls.cn/detail/2497140",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时28分 ~ 16时14分]"
+        },
+        {
+          "title": "耐克美股盘前延续跌势，跌超8%，公司第一财季营收不及预期。",
+          "url": "https://wallstreetcn.com/livenews/3173630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时28分"
+          "time_info": "16时14分"
+        },
+        {
+          "title": "耐克(NKE.N)美股盘前跌超8%，公司预测全年营收下滑，2027财年第一季度销售额不及预期。",
+          "url": "https://flash.jin10.com/detail/20261002160125480800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
         },
         {
           "title": "美股收盘：通胀不及预期缓解加息担忧 三大指数涨跌不一",
           "url": "https://www.cls.cn/detail/2496732",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 09时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 16时14分]"
         },
         {
           "title": "美国8月PCE低于预期 市场削减加息押注 美股期指上涨 | 今夜看点",
@@ -267,6 +347,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
+        },
+        {
+          "title": "美股收盘：光通信、存储概念双双走强 三大指数集体微涨",
+          "url": "https://www.cls.cn/detail/2497130",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
         },
         {
           "title": "周四（10月1日），美股行业ETF多数收涨，能源业ETF涨1.95%，半导体ETF、全球科技股指数ETF、科技行业ETF至多涨1.45%，全球航空业ETF跌0.46%，医疗业ETF跌1.32%，生物科技指数ETF跌2.17%。",
@@ -319,7 +410,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         }
@@ -327,8 +418,21 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "华尔街机构警告：美联储犯下“原罪”，十年期美债收益率或将迈向8%",
+          "url": "https://wallstreetcn.com/articles/3782880",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 16时14分]"
+        },
         {
           "title": "美股10月惊险开门红，美联储二把手放鸽，美债收益率暂别多年高位，美元站上102，油金齐涨",
           "url": "https://wallstreetcn.com/articles/3782859",
@@ -336,9 +440,20 @@
           "ranks": [
             1
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时28分 ~ 16时14分]"
+        },
+        {
+          "title": "法国债务风险压低美债收益率，今晚非农或决定短端定价方向 | 每日市场观察10.02",
+          "url": "https://flash.jin10.com/detail/20261002160243897800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时28分"
+          "time_info": "16时14分"
         },
         {
           "title": "两年期美债收益率跌超9.5个基点，10年期美债收益率一度创2002年以来新高",
@@ -350,18 +465,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
-        },
-        {
-          "title": "华尔街机构警告：美联储犯下“原罪”，十年期美债收益率或将迈向8%",
-          "url": "https://wallstreetcn.com/articles/3782880",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 09时28分]"
         },
         {
           "title": "通胀数据难挡美债压力，标普、道指三连跌，10年期收益率突破5.3%，全球债市Q3重挫",
@@ -383,8 +486,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 09时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 16时14分]"
         },
         {
           "title": "全球债市抛售潮加剧！美债收益率触及2002年高位，英债突破6%创1998年新高",
@@ -392,11 +495,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时43分 ~ 09时28分]"
+          "appearance_count": 3,
+          "time_info": "[05时43分 ~ 16时14分]"
         },
         {
           "title": "30 年期美债收益率冲破 5.6%，到底会带来哪些影响，会如何影响中国资产定价，全球范围内又如何？",
@@ -421,15 +525,54 @@
           "time_info": "00时16分"
         },
         {
+          "title": "欧洲市场“陷入恐慌”：美债风暴传染，欧债遭遇“黑色星期四”",
+          "url": "https://wallstreetcn.com/articles/3782907",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
           "title": "就业数据或难改加息预期 美债收益率仍有上行压力",
           "url": "https://flash.jin10.com/detail/20261002083758466800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "剑指英伟达CUDA！DeepSeek开源华为昇腾全套组件",
+          "url": "https://www.cls.cn/detail/2496566",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 05时43分]"
+        },
+        {
+          "title": "如何看待 DeepSeek 2026 年 10 月 02 日 03:40 起崩溃（性能下降）？",
+          "url": "https://www.zhihu.com/question/2089208749558965172",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
         }
       ]
     },
@@ -462,6 +605,62 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "大空头“剑指”Anthropic和OpenAI：市场应狠狠下跌，阻止它们上市！",
+          "url": "https://www.cls.cn/detail/2496950",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
+          "title": "报道：OpenAI解雇三名研究员，指其不当分享敏感信息",
+          "url": "https://wallstreetcn.com/livenews/3173434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "国际金价涨约0.5%，费城金银指数收跌0.9%",
+          "url": "https://wallstreetcn.com/livenews/3173510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "国际金价银价上涨",
+          "url": "https://www.toutiao.com/trending/7691230087659831359/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -482,57 +681,6 @@
           "source": "金十数据",
           "ranks": [
             18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "剑指英伟达CUDA！DeepSeek开源华为昇腾全套组件",
-          "url": "https://www.cls.cn/detail/2496566",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 05时43分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "报道：OpenAI解雇三名研究员，指其不当分享敏感信息",
-          "url": "https://wallstreetcn.com/livenews/3173434",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国际金价涨约0.5%，费城金银指数收跌0.9%",
-          "url": "https://wallstreetcn.com/livenews/3173510",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 1,
