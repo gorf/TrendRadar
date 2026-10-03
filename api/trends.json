@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-03T08:19:32.513588+08:00",
-  "total_titles_processed": 429,
+  "generated_at": "2026-10-03T14:16:00.729303+08:00",
+  "total_titles_processed": 643,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 28,
       "titles": [
         {
           "title": "普京谈与特朗普关系",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时33分 ~ 08时19分]"
+        },
+        {
+          "title": "美国不禁运柴油了，特朗普：小小G7，轻松拿捏",
+          "url": "https://news.ifeng.com/c/8wui8KprllQ",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时15分 ~ 14时16分]"
         },
         {
           "title": "美国总统特朗普：在韩国对美投资问题上，我没有操之过急。",
@@ -36,9 +47,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时19分"
+        },
+        {
+          "title": "局势升级！特朗普称中期选举后或加大对伊轰炸 美军大举增兵中东",
+          "url": "https://www.cls.cn/detail/2497157",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时33分 ~ 14时16分]"
         },
         {
           "title": "金十提示：美国总统特朗普结束在白宫的讲话。",
@@ -101,18 +124,6 @@
           "time_info": "[04时34分 ~ 08时19分]"
         },
         {
-          "title": "局势升级！特朗普称中期选举后或加大对伊轰炸 美军大举增兵中东",
-          "url": "https://www.cls.cn/detail/2497157",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时33分 ~ 08时19分]"
-        },
-        {
           "title": "特朗普很不爽：我提名的大法官，怎么老反对我",
           "url": "https://news.ifeng.com/c/8wteAEPWoAT",
           "source": "凤凰网",
@@ -171,6 +182,17 @@
           "time_info": "[04时34分 ~ 08时19分]"
         },
         {
+          "title": "曝特朗普抓马杜罗前曾咨询Grok数小时",
+          "url": "https://www.toutiao.com/trending/7691663537861771290/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时15分 ~ 14时16分]"
+        },
+        {
           "title": "特朗普对伊朗下通牒：不签协议就“不复存在”，美向中东派第三艘航母、增兵或万人",
           "url": "https://wallstreetcn.com/articles/3782903",
           "source": "华尔街见闻",
@@ -205,15 +227,81 @@
           "time_info": "[04时33分 ~ 04时34分]"
         },
         {
+          "title": "特朗普：与伊朗的战事将“很快结束”",
+          "url": "https://www.toutiao.com/trending/7692226568457817642/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时15分 ~ 14时16分]"
+        },
+        {
           "title": "特朗普：不会实施柴油出口禁令 欧洲将增加柴油供应",
           "url": "https://flash.jin10.com/detail/20261003051221230800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时19分"
+        },
+        {
+          "title": "美媒：特朗普核心内阁成员在戴维营密会数小时，讨论伊朗及胡塞冲突下一步行动",
+          "url": "https://flash.jin10.com/detail/20261003111318434800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时16分"
+        },
+        {
+          "title": "据Axios：特朗普的高级内阁成员周五在戴维营聚集数小时，讨论伊朗战争以及沙特-胡塞冲突的下一步行动。",
+          "url": "https://flash.jin10.com/detail/20261003111034370800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时16分"
+        },
+        {
+          "title": "美国总统特朗普称将向2000多万老年人发放约100美元的医保补贴支票。",
+          "url": "https://flash.jin10.com/detail/20261003105911281800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时16分"
+        },
+        {
+          "title": "美国总统特朗普表示，将很快用委内瑞拉石油填满战略石油储备。",
+          "url": "https://wallstreetcn.com/livenews/3173840",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时16分"
+        },
+        {
+          "title": "特朗普：与伊朗的战事将“很快结束”",
+          "url": "https://wallstreetcn.com/livenews/3173839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时16分"
         },
         {
           "title": "特朗普威胁韩国要求其投资阿拉斯加LNG管道项目",
@@ -222,9 +310,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时19分"
+        },
+        {
+          "title": "美国总统特朗普周六日程一览",
+          "url": "https://flash.jin10.com/detail/20261003093325664800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时16分"
         }
       ]
     },
@@ -240,8 +339,32 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时33分 ~ 14时16分]"
+        },
+        {
+          "title": "马克龙呼吁G7协调联合抛储，油价应声跳水，欧美股市集体上涨，10年德债收益率跌至三周低位",
+          "url": "https://wallstreetcn.com/articles/3782926",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[04时33分 ~ 08时19分]"
+          "time_info": "[08时19分 ~ 14时16分]"
+        },
+        {
+          "title": "美国9月非农大幅低于预期 美股三大期指集体上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2497348",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时33分 ~ 14时16分]"
         },
         {
           "title": "美股收盘：三大股指收涨 SpaceX涨超7%",
@@ -256,16 +379,16 @@
           "time_info": "[04时34分 ~ 08时19分]"
         },
         {
-          "title": "美国9月非农大幅低于预期 美股三大期指集体上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2497348",
+          "title": "美股收盘：英伟达盘中破纪录 纳斯达克100指数收新高",
+          "url": "https://www.cls.cn/detail/2497450",
           "source": "财联社热门",
           "ranks": [
-            8,
-            7
+            13,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[04时33分 ~ 08时19分]"
+          "time_info": "[08时19分 ~ 14时16分]"
         },
         {
           "title": "美股收盘：光通信、存储概念双双走强 三大指数集体微涨",
@@ -279,35 +402,13 @@
           "time_info": "[04时33分 ~ 08时19分]"
         },
         {
-          "title": "马克龙呼吁G7协调联合抛储，油价应声跳水，欧美股市集体上涨，10年德债收益率跌至三周低位",
-          "url": "https://wallstreetcn.com/articles/3782926",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时19分"
-        },
-        {
           "title": "“表面平静”的美股：指数距离新高“一步之遥”，但几乎所有板块都遭重创",
           "url": "https://wallstreetcn.com/articles/3782909",
           "source": "华尔街见闻",
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时19分"
-        },
-        {
-          "title": "美股收盘：英伟达盘中破纪录 纳斯达克100指数收新高",
-          "url": "https://www.cls.cn/detail/2497450",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时19分"
         },
@@ -318,7 +419,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时19分"
         },
@@ -329,7 +430,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时19分"
         },
@@ -340,7 +441,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时19分"
         },
@@ -351,7 +452,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时19分"
         }
@@ -359,7 +460,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "非农大幅低于预期！美国9月新增就业2.9万，预期9万，美债收益率下行，美股期货上涨",
@@ -369,8 +470,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时33分 ~ 08时19分]"
+          "appearance_count": 5,
+          "time_info": "[04时33分 ~ 14时16分]"
         },
         {
           "title": "欧洲市场“陷入恐慌”：美债风暴传染，欧债遭遇“黑色星期四”",
@@ -396,6 +497,40 @@
           "time_info": "[04时33分 ~ 04时34分]"
         },
         {
+          "title": "非农爆冷挫伤加息预期，美股续涨、英伟达盘中新高，美债收益率走V，G7释储重创原油，金银全周大跌",
+          "url": "https://wallstreetcn.com/articles/3782953",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时15分 ~ 14时16分]"
+        },
+        {
+          "title": "非农爆冷，美债收益率却跌不动：华尔街真正担心的事来了",
+          "url": "https://wallstreetcn.com/articles/3782957",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时15分 ~ 14时16分]"
+        },
+        {
+          "title": "两年期美债收益率于非农日涨超3个基点，10年期美债收益率本周涨11个基点",
+          "url": "https://wallstreetcn.com/livenews/3173827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时19分 ~ 14时16分]"
+        },
+        {
           "title": "美债一夜掉头 抛压退了吗",
           "url": "https://www.toutiao.com/trending/7692050248549535241/",
           "source": "今日头条",
@@ -405,46 +540,48 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时33分 ~ 04时34分]"
-        },
-        {
-          "title": "两年期美债收益率于非农日涨超3个基点，10年期美债收益率本周涨11个基点",
-          "url": "https://wallstreetcn.com/livenews/3173827",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时19分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "OpenAI的CEO Altman：Cerebras是一个紧密的合作伙伴。",
-          "url": "https://wallstreetcn.com/livenews/3173834",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时19分"
-        },
         {
           "title": "大空头“剑指”Anthropic和OpenAI：市场应狠狠下跌，阻止它们上市！",
           "url": "https://www.cls.cn/detail/2496950",
           "source": "财联社热门",
           "ranks": [
             13,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时33分 ~ 14时16分]"
+        },
+        {
+          "title": "OpenAI的CEO Altman：Cerebras是一个紧密的合作伙伴。",
+          "url": "https://wallstreetcn.com/livenews/3173834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时19分 ~ 14时16分]"
+        },
+        {
+          "title": "OpenAI模型又闯祸，澳政府机构再遭入侵",
+          "url": "https://news.ifeng.com/c/8wuutZ7kLU3",
+          "source": "凤凰网",
+          "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时33分 ~ 08时19分]"
+          "appearance_count": 2,
+          "time_info": "[14时15分 ~ 14时16分]"
         },
         {
           "title": "OpenAI聘请曾担任过美国总统特朗普AI官员的Thomas Lind。（The Information）",
@@ -460,6 +597,34 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌搭载AI芯片测试卫星发射升空",
+          "url": "https://wallstreetcn.com/livenews/3173863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时16分"
+        },
+        {
+          "title": "Gemini调整用户模型访问权限",
+          "url": "https://search.bilibili.com/all?keyword=Gemini%E8%B0%83%E6%95%B4%E7%94%A8%E6%88%B7%E6%A8%A1%E5%9E%8B%E8%AE%BF%E9%97%AE%E6%9D%83%E9%99%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时15分 ~ 14时16分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -470,7 +635,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时19分"
         },
@@ -498,7 +663,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时19分"
         }
