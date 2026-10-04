@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-05T01:23:39.322211+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-10-05T05:07:17.306207+08:00",
+  "total_titles_processed": 381,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 05时07分]"
         },
         {
           "title": "选情不容乐观！特朗普又承诺发钱",
@@ -26,19 +26,32 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 05时07分]"
         },
         {
           "title": "特朗普提名约翰·科尔为美总统人质事务特使",
           "url": "https://wallstreetcn.com/livenews/3173968",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 05时07分]"
+        },
+        {
+          "title": "“特朗普因素”如何介入巴西大选",
+          "url": "https://www.toutiao.com/trending/7692796638749789750/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 05时07分]"
         },
         {
           "title": "白宫AI峰会“权力图谱”：扎克伯格最受特朗普认可，马斯克刻意疏离，Amodei焦虑藏不住",
@@ -48,19 +61,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 05时07分]"
         },
         {
           "title": "特朗普宣布成立“超级智能特别工作组”",
           "url": "https://wallstreetcn.com/livenews/3173963",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 05时07分]"
         },
         {
           "title": "特朗普谈对伊朗下一步行动",
@@ -83,17 +97,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
-        },
-        {
-          "title": "“特朗普因素”如何介入巴西大选",
-          "url": "https://www.toutiao.com/trending/7692796638749789750/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
         }
       ]
     },
@@ -109,8 +112,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 05时07分]"
         },
         {
           "title": "贝森特“灭火”：美债收益率上升属全球现象，驳斥AI泡沫担忧",
@@ -120,8 +123,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 05时07分]"
         }
       ]
     },
@@ -137,8 +140,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 05时07分]"
         }
       ]
     },
@@ -154,8 +157,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 05时07分]"
         }
       ]
     }
