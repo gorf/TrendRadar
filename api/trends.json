@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-07T09:19:46.535777+08:00",
-  "total_titles_processed": 573,
+  "generated_at": "2026-10-07T16:24:16.780887+08:00",
+  "total_titles_processed": 790,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "美军紧急撤回12架轰炸机，特朗普：不想让它们诱敌",
@@ -18,6 +18,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时40分 ~ 09时19分]"
+        },
+        {
+          "title": "对伊军事行动如何收尾？特朗普再释放强硬信号",
+          "url": "https://original.ifeng.com/c/8x1jE3AnRUj",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 16时24分]"
+        },
+        {
+          "title": "特朗普称可让伊朗摧毁洛杉矶或圣迭戈，加州州长斥责",
+          "url": "https://original.ifeng.com/c/8x1bAPMGpbB",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 16时24分]"
         },
         {
           "title": "特朗普：可以让伊朗摧毁洛杉矶或圣迭戈，这只是一个很小的代价",
@@ -169,7 +191,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
         },
@@ -188,7 +210,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "【早报】美股科技股普涨，纳指创收盘新高；美国10年期国债收益率创2002年以来新高",
@@ -199,8 +221,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 09时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 16时24分]"
         },
         {
           "title": "金十图示：2026年10月06日（周二）热门中概股行情一览（美股盘中）",
@@ -214,6 +236,29 @@
           "time_info": "00时40分"
         },
         {
+          "title": "美股盘前，部分科技股走低，阿里巴巴(BABA.N)跌1.66%、阿斯麦(ASML.O)跌1.31%、台积电(TSM.N)跌1%。",
+          "url": "https://flash.jin10.com/detail/20261007160324830800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
+          "title": "美股收盘：标普、纳指均创历史新高 市场焦点转向财报季",
+          "url": "https://www.cls.cn/detail/2498401",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时19分 ~ 16时24分]"
+        },
+        {
           "title": "美股收盘：纳指创下历史新高 SpaceX股价大涨近8% 马斯克身家再度突破1万亿美元",
           "url": "https://www.cls.cn/detail/2498075",
           "source": "财联社热门",
@@ -222,8 +267,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 09时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 16时24分]"
         },
         {
           "title": "美股三大股指集体收涨，纳指创收盘新高，纳斯达克金龙中国指数涨1.71%",
@@ -239,24 +284,13 @@
           "time_info": "[00时40分 ~ 09时19分]"
         },
         {
-          "title": "美股收盘：标普、纳指均创历史新高 市场焦点转向财报季",
-          "url": "https://www.cls.cn/detail/2498401",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时19分"
-        },
-        {
           "title": "新闻交易员：美股新高不代表没风险，只是风险藏得更深",
           "url": "https://flash.jin10.com/detail/20261007082830139800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
         },
@@ -297,8 +331,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "数学大爆炸！OpenAI 一夜攻克722个数学难题，准黎曼猜想已被证明",
+          "url": "https://wallstreetcn.com/articles/3783101",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 16时24分]"
+        },
         {
           "title": "OpenAI或将发布400个重大数学成果",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83400%E4%B8%AA%E9%87%8D%E5%A4%A7%E6%95%B0%E5%AD%A6%E6%88%90%E6%9E%9C",
@@ -312,13 +357,35 @@
           "time_info": "[00时40分 ~ 05时31分]"
         },
         {
+          "title": "如何看待 OpenAI 公开 722 份数学手稿，宣布解决包含「准黎曼猜想」的数百个数学问题？",
+          "url": "https://www.zhihu.com/question/2091064625987170716",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 16时24分]"
+        },
+        {
+          "title": "OpenAI发布722篇数学论文",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83722%E7%AF%87%E6%95%B0%E5%AD%A6%E8%AE%BA%E6%96%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 16时24分]"
+        },
+        {
           "title": "OpenAI宣布GPT-6提速50%，额度却被锤只有Claude的1/5",
           "url": "https://wallstreetcn.com/articles/3783044",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
         },
@@ -340,7 +407,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
         },
@@ -351,7 +418,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
         }
