@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-10-07T05:31:50.916738+08:00",
-  "total_titles_processed": 420,
+  "generated_at": "2026-10-07T09:19:46.535777+08:00",
+  "total_titles_processed": 573,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美军紧急撤回12架轰炸机，特朗普：不想让它们诱敌",
           "url": "https://original.ifeng.com/c/8x0Kd7TFi3I",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 05时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 09时19分]"
+        },
+        {
+          "title": "特朗普：可以让伊朗摧毁洛杉矶或圣迭戈，这只是一个很小的代价",
+          "url": "https://news.ifeng.com/c/8x057HlG52b",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 09时19分]"
         },
         {
           "title": "特朗普竞选集会现场签行政令：拿上来，我就在这里签",
@@ -30,24 +42,13 @@
           "time_info": "[00时40分 ~ 05时31分]"
         },
         {
-          "title": "特朗普：可以让伊朗摧毁洛杉矶或圣迭戈，这只是一个很小的代价",
-          "url": "https://news.ifeng.com/c/8x057HlG52b",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 05时31分]"
-        },
-        {
           "title": "特朗普：各国领导人打电话感谢我对伊开战",
           "url": "https://flash.jin10.com/detail/20261007043607626800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
         },
@@ -58,7 +59,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
         },
@@ -69,7 +70,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
         },
@@ -80,7 +81,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
         },
@@ -91,7 +92,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
         },
@@ -102,7 +103,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
         },
@@ -113,7 +114,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
         },
@@ -124,7 +125,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
         },
@@ -135,7 +136,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
         },
@@ -146,7 +147,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
         },
@@ -157,9 +158,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
+        },
+        {
+          "title": "美国总统特朗普：已安排与俄罗斯总统普京通话。",
+          "url": "https://wallstreetcn.com/livenews/3174648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
         },
         {
           "title": "美国总统特朗普声称：法国当下的情况完全就是失控的大规模移民问题。 这无关学校，而是伊斯兰势力想要接管这个曾经伟大的国家。",
@@ -176,18 +188,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "【早报】美股科技股普涨，纳指创收盘新高；美国10年期国债收益率创2002年以来新高",
           "url": "https://www.cls.cn/detail/2498089",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 05时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 09时19分]"
         },
         {
           "title": "金十图示：2026年10月06日（周二）热门中概股行情一览（美股盘中）",
@@ -209,8 +222,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 05时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 09时19分]"
         },
         {
           "title": "美股三大股指集体收涨，纳指创收盘新高，纳斯达克金龙中国指数涨1.71%",
@@ -218,11 +231,34 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 05时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 09时19分]"
+        },
+        {
+          "title": "美股收盘：标普、纳指均创历史新高 市场焦点转向财报季",
+          "url": "https://www.cls.cn/detail/2498401",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "新闻交易员：美股新高不代表没风险，只是风险藏得更深",
+          "url": "https://flash.jin10.com/detail/20261007082830139800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
         },
         {
           "title": "美股三大期指几无变动 油市多空消息轮番来袭|今夜看点",
@@ -231,7 +267,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
         },
@@ -242,7 +278,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
         },
@@ -253,9 +289,71 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "OpenAI或将发布400个重大数学成果",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83400%E4%B8%AA%E9%87%8D%E5%A4%A7%E6%95%B0%E5%AD%A6%E6%88%90%E6%9E%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 05时31分]"
+        },
+        {
+          "title": "OpenAI宣布GPT-6提速50%，额度却被锤只有Claude的1/5",
+          "url": "https://wallstreetcn.com/articles/3783044",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "OpenAI：本公司与Atlassian拓展合作伙伴关系。 根据新协议，OpenAI前沿模型将为Atlassian全平台以及Rovo的智能代理提供算力支持。 该协议将扩大Atlassian对OpenAI最新前沿模型的使用权限，包括GPT‑6 Astra以及GPT‑5.6系列。",
+          "url": "https://wallstreetcn.com/livenews/3174541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时40分"
+        },
+        {
+          "title": "OpenAI通过前沿模型发布新的数学成果",
+          "url": "https://wallstreetcn.com/livenews/3174665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "OpenAI：我们将发布由内部前沿模型得出的一系列全新数学研究成果。我们一直与普林斯顿高等研究院数学与人工智能独立顾问组保持沟通，并参考其意见与公开建议，以此作为发布这些成果的依据。",
+          "url": "https://flash.jin10.com/detail/20261007074525195800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
         }
       ]
     },
@@ -271,8 +369,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 05时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 09时19分]"
         },
         {
           "title": "科技股力挺纳指又创盘中新高，美债抛售持续，欧元创17个月新低，布油“过山车”",
@@ -294,19 +392,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 05时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 09时19分]"
         },
         {
           "title": "美债期货细则暗藏玄机：30年期收益率逼近6%或引发连锁调仓压力",
           "url": "https://wallstreetcn.com/articles/3783043",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 05时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 09时19分]"
         }
       ]
     },
@@ -332,7 +431,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
         },
@@ -350,35 +449,6 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI或将发布400个重大数学成果",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83400%E4%B8%AA%E9%87%8D%E5%A4%A7%E6%95%B0%E5%AD%A6%E6%88%90%E6%9E%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 05时31分]"
-        },
-        {
-          "title": "OpenAI：本公司与Atlassian拓展合作伙伴关系。 根据新协议，OpenAI前沿模型将为Atlassian全平台以及Rovo的智能代理提供算力支持。 该协议将扩大Atlassian对OpenAI最新前沿模型的使用权限，包括GPT‑6 Astra以及GPT‑5.6系列。",
-          "url": "https://wallstreetcn.com/livenews/3174541",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -388,11 +458,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 05时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 09时19分]"
         }
       ]
     },
