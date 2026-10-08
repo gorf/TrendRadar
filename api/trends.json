@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-08T09:40:57.281026+08:00",
-  "total_titles_processed": 607,
+  "generated_at": "2026-10-08T16:58:03.790549+08:00",
+  "total_titles_processed": 841,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "假期要闻汇总：特朗普称对伊军事行动 “必须收尾了”；央行连续第23个月增持黄金",
@@ -21,6 +21,28 @@
           "time_info": "[00时14分 ~ 09时40分]"
         },
         {
+          "title": "特朗普批准：枪决",
+          "url": "https://news.ifeng.com/c/8x2u6oJQ1bt",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时40分 ~ 16时58分]"
+        },
+        {
+          "title": "特朗普称对伊朗军事行动 “必须收尾了”，媒体爆料美军制定“中选前打击方案”，油价应声上涨",
+          "url": "https://wallstreetcn.com/articles/3783137",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 16时58分]"
+        },
+        {
           "title": "日方爆料：高市早苗请求特朗普，劝金正恩同意与她会谈",
           "url": "https://news.ifeng.com/c/8x2Kis6OnpU",
           "source": "凤凰网",
@@ -32,6 +54,17 @@
           "time_info": "[00时14分 ~ 05时51分]"
         },
         {
+          "title": "美媒：特朗普将向马斯克、黄仁勋等科技领袖颁发国家奖章",
+          "url": "https://original.ifeng.com/c/8x38gGZvIzh",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 16时58分]"
+        },
+        {
           "title": "特朗普“建议”伊朗摧毁洛杉矶？CNN罕见“辟谣”",
           "url": "https://news.ifeng.com/c/8x2MOFFt6hO",
           "source": "凤凰网",
@@ -41,17 +74,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时14分 ~ 05时51分]"
-        },
-        {
-          "title": "特朗普批准：枪决",
-          "url": "https://news.ifeng.com/c/8x2u6oJQ1bt",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时40分"
         },
         {
           "title": "特朗普称其配得上诺贝尔和平奖",
@@ -82,7 +104,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
         },
@@ -126,7 +148,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
         },
@@ -137,7 +159,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
         },
@@ -166,125 +188,8 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "数学大爆炸！OpenAI 一夜攻克722个数学难题，准黎曼猜想已被证明",
-          "url": "https://wallstreetcn.com/articles/3783101",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 09时40分]"
-        },
-        {
-          "title": "OpenAI在ChatGPT中新增了青少年大学规划工具。",
-          "url": "https://flash.jin10.com/detail/20261008000131455800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
-        },
-        {
-          "title": "美媒：博通为OpenAI定制芯片研发寻求逾500亿美元融资",
-          "url": "https://flash.jin10.com/detail/20261008051159387800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时51分"
-        },
-        {
-          "title": "OpenAI：面向青少年的ChatGPT即将上线大学规划工具，助力学生开启大学申请流程。 青少年版ChatGPT用户发送的学习相关消息平均比非用户多270万条。 青少年平均每日使用ChatGPT时长不足15分钟，仅有不到2%的青少年会连续使用超过3小时。",
-          "url": "https://wallstreetcn.com/livenews/3174901",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
-        },
-        {
-          "title": "OpenAI：帮助青少年学习、规划和塑造人工智能的未来。",
-          "url": "https://flash.jin10.com/detail/20261008000120299800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
-        },
-        {
-          "title": "如何看待 OpenAI 公开 722 份数学手稿，宣布解决包含「准黎曼猜想」的数百个数学问题？",
-          "url": "https://www.zhihu.com/question/2091064625987170716",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 05时51分]"
-        },
-        {
-          "title": "据华尔街日报：博通(AVGO.O)为OpenAI定制AI芯片寻求逾500亿美元融资。",
-          "url": "https://flash.jin10.com/detail/20261008050438360800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时51分"
-        },
-        {
-          "title": "报道：博通正设法为OpenAI所需的芯片安排超过500亿美元融资",
-          "url": "https://wallstreetcn.com/livenews/3175004",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时51分"
-        },
-        {
-          "title": "OpenAI全面上线GPT-6",
-          "url": "https://www.baidu.com/s?wd=OpenAI%E5%85%A8%E9%9D%A2%E4%B8%8A%E7%BA%BFGPT-6",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时40分"
-        },
-        {
-          "title": "ChatGPT免费版将升级为GPT-6模型",
-          "url": "https://flash.jin10.com/detail/20261008040926369800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时51分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "【早报】美股热门科技股，上演“冰火两重天”；原油黄金，双双收跌；伊朗：很快将封锁霍尔木兹海峡的“非法”通道",
@@ -293,9 +198,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时40分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时40分 ~ 16时58分]"
         },
         {
           "title": "美股加密货币与加密货币关联指数跌5.05%，报69.01点，跳空低开之后持续低位窄幅震荡。 最近24小时，现货比特币跌2.65%，暂报83348.19美元，期内持续下跌、北京时间09:51出现一波短线加速下跌行情。 现货以太坊跌4.68%，报2571.064美元。 MarketVectorTM数字资产100小盘指数跌1.54%，MarketVectorTM数字资产100中盘指数跌0.32%，MarketVector数字资产100指数跌1.03%。",
@@ -320,13 +225,35 @@
           "time_info": "[00时14分 ~ 05时51分]"
         },
         {
+          "title": "10月8日投资避雷针：这家A股创新药III期临床失利 合作伙伴美股单日暴跌47%",
+          "url": "https://www.cls.cn/detail/2498910",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 16时58分]"
+        },
+        {
+          "title": "美股光通信板块盘前走低，Coherent跌超3%，Lumentum、Credo跌超2%，康宁、迈威尔科技跌近2%。",
+          "url": "https://wallstreetcn.com/livenews/3175295",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
+        },
+        {
           "title": "美国经济增长韧性有助于美股消化高利率压力",
           "url": "https://flash.jin10.com/detail/20261008091833773800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
         },
@@ -399,8 +326,136 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "数学大爆炸！OpenAI 一夜攻克722个数学难题，准黎曼猜想已被证明",
+          "url": "https://wallstreetcn.com/articles/3783101",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 09时40分]"
+        },
+        {
+          "title": "OpenAI在ChatGPT中新增了青少年大学规划工具。",
+          "url": "https://flash.jin10.com/detail/20261008000131455800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时14分"
+        },
+        {
+          "title": "美媒：博通为OpenAI定制芯片研发寻求逾500亿美元融资",
+          "url": "https://flash.jin10.com/detail/20261008051159387800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时51分"
+        },
+        {
+          "title": "OpenAI：面向青少年的ChatGPT即将上线大学规划工具，助力学生开启大学申请流程。 青少年版ChatGPT用户发送的学习相关消息平均比非用户多270万条。 青少年平均每日使用ChatGPT时长不足15分钟，仅有不到2%的青少年会连续使用超过3小时。",
+          "url": "https://wallstreetcn.com/livenews/3174901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时14分"
+        },
+        {
+          "title": "OpenAI：帮助青少年学习、规划和塑造人工智能的未来。",
+          "url": "https://flash.jin10.com/detail/20261008000120299800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时14分"
+        },
+        {
+          "title": "如何看待 OpenAI 公开 722 份数学手稿，宣布解决包含「准黎曼猜想」的数百个数学问题？",
+          "url": "https://www.zhihu.com/question/2091064625987170716",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 05时51分]"
+        },
+        {
+          "title": "OpenAI的722篇论文含金量如何",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E7%9A%84722%E7%AF%87%E8%AE%BA%E6%96%87%E5%90%AB%E9%87%91%E9%87%8F%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 16时58分]"
+        },
+        {
+          "title": "据华尔街日报：博通(AVGO.O)为OpenAI定制AI芯片寻求逾500亿美元融资。",
+          "url": "https://flash.jin10.com/detail/20261008050438360800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时51分"
+        },
+        {
+          "title": "报道：博通正设法为OpenAI所需的芯片安排超过500亿美元融资",
+          "url": "https://wallstreetcn.com/livenews/3175004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时51分"
+        },
+        {
+          "title": "OpenAI全面上线GPT-6",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E5%85%A8%E9%9D%A2%E4%B8%8A%E7%BA%BFGPT-6",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
+          "title": "ChatGPT免费版将升级为GPT-6模型",
+          "url": "https://flash.jin10.com/detail/20261008040926369800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时51分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "美债重启抛售、收益率创2002年来新高，美股高位承压，早盘道指跌超1%，布油盘中涨2%",
@@ -418,11 +473,34 @@
           "url": "https://www.cls.cn/detail/2498861",
           "source": "财联社热门",
           "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时40分 ~ 16时58分]"
+        },
+        {
+          "title": "债券风暴笼罩：10年期拍卖拯救美债， 欧债“深陷泥潭”",
+          "url": "https://wallstreetcn.com/articles/3783136",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 16时58分]"
+        },
+        {
+          "title": "一文读懂：美债“日日啼血” 美股缘何还能“夜夜笙歌”？",
+          "url": "https://www.cls.cn/detail/2499205",
+          "source": "财联社热门",
+          "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 16时58分]"
         },
         {
           "title": "美国10年期国债收益率短线持稳于5.3%上方，纽约联储发布美国消费者通胀预期报告之前，曾在北京时间21:27刷新日高至5.3624%，16:00以来呈现出冲高回落走势。 两年期美债收益率保持微幅下跌状态，暂时持稳于（通胀预期月报披露前刷新的）日低4.7766%附近，21:27也曾涨至4.8352%。 2/10年期美债收益率利差维持大约3.8个基点的涨幅，持稳于+52个基点附近，日内迄今持续上扬的势头出现反转。 道指维持大约550点、或约1.1%的跌幅，标普目前跌0.6%，纳指跌0.7%，半导体指数跌1.9%，银行指数跌1.8%。",
@@ -462,6 +540,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "招商银行 万华化学 福耀玻璃 旗滨集团 苏农银行 奥浦迈 爱美客 美的集团 潍柴动力 苏泊尔 鱼跃医疗 牧原股份 振邦智能 华兰生物 证监会",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "万华化学：乙烯二期装置2026年10月10日起停产检修约60天",
+          "url": "https://flash.jin10.com/detail/20261008163030069800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
         }
       ]
     },
