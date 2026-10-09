@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-10T00:01:45.269257+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-10-10T04:48:33.768420+08:00",
+  "total_titles_processed": 428,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
           "title": "特朗普改口，宣布11月3日中期选举前不打伊朗",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时00分 ~ 04时48分]"
         },
         {
           "title": "据华盛顿邮报：一名特朗普政府高级官员称，我们与盟友讨论了他们对对伊朗经济施压行动持续时间的担忧。我们希望尽快达成解决方案。",
@@ -25,7 +25,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
         },
@@ -47,7 +47,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
         },
@@ -59,8 +59,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时00分 ~ 04时48分]"
+        },
+        {
+          "title": "特朗普为什么非要给AI改名字",
+          "url": "https://www.toutiao.com/trending/7694540783252147775/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
         },
         {
           "title": "美国总统特朗普：（关于伊朗问题）无论如何，很快就会结束。 伊朗战争结束之后，（美国的能源）价格将会下降。 昨天从霍尔木兹海峡运走2800万桶石油。",
@@ -69,7 +80,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
         },
@@ -80,7 +91,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
         },
@@ -91,26 +102,83 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
+        },
+        {
+          "title": "美国总统特朗普：任命凯蒂·扎卡里亚为白宫新闻秘书。",
+          "url": "https://wallstreetcn.com/livenews/3176423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：（特朗普）给普京的礼物不会带来和平，也不会给文明世界带来任何好处。 允许俄罗斯出售石油产品，就是在投资一场必须结束、而非拖延的冲突。 如果俄罗斯停止摧毁我们的能源基础设施，乌克兰就不会再纵火袭击俄罗斯炼油厂。 这正是我们向美国提议的那类协议，我们相信美国有足够实力促成这样的妥协。",
+          "url": "https://wallstreetcn.com/livenews/3176420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "芝加哥玉米期货创2023年以来最大跌幅，特朗普政府意外地上调产量预期",
+          "url": "https://wallstreetcn.com/livenews/3176412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "相差200亿！OpenAI营收被爆巨大预期差，AI板块遭重创，甲骨文跌逾5%，应用光电跌超10%",
           "url": "https://wallstreetcn.com/articles/3783220",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时00分 ~ 04时48分]"
+        },
+        {
+          "title": "OpenAI营收逊色重创AI股，标普、纳指两连跌，芯片指数跌超3%，原油一度涨逾5%",
+          "url": "https://wallstreetcn.com/articles/3783173",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时00分 ~ 04时48分]"
+        },
+        {
+          "title": "OpenAI 爆冷，1-9 月年化营收低于预期 200 亿，美股、日经科技板块重挫，如何看其业绩影响？",
+          "url": "https://www.zhihu.com/question/2091810817008259841",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时00分 ~ 04时48分]"
         },
         {
           "title": "陶哲轩转发多位数学家抵制 OpenAI 的文章，怎么看待该观点？这将对 AI 数学研究带来哪些改变？",
@@ -118,17 +186,6 @@
           "source": "知乎",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
-        },
-        {
-          "title": "OpenAI营收逊色重创AI股，标普、纳指两连跌，芯片指数跌超3%，原油一度涨逾5%",
-          "url": "https://wallstreetcn.com/articles/3783173",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -146,26 +203,27 @@
           "time_info": "[00时00分 ~ 00时01分]"
         },
         {
-          "title": "OpenAI 爆冷，1-9 月年化营收低于预期 200 亿，美股、日经科技板块重挫，如何看其业绩影响？",
-          "url": "https://www.zhihu.com/question/2091810817008259841",
-          "source": "知乎",
+          "title": "OpenAI狂发论文,数学家炮轰",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366794&amp;topic_name=OpenAI%E7%8B%82%E5%8F%91%E8%AE%BA%E6%96%87%2C%E6%95%B0%E5%AD%A6%E5%AE%B6%E7%82%AE%E8%BD%B0",
+          "source": "贴吧",
           "ranks": [
-            3
+            4
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
         },
         {
           "title": "OpenAI营收冲击暂告段落 科技牛股集体反弹 | 今夜看点",
           "url": "https://www.cls.cn/detail/2500829",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时00分 ~ 04时48分]"
         },
         {
           "title": "人类数学协会抵制OpenAI公开论文",
@@ -177,6 +235,96 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时00分 ~ 00时01分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "黄金ETF收涨将近1.6%，与地产ETF、新兴市场ETF领跑美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/3176436",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "AI回报疑虑缓解，美股高开，光通信股普涨，Lumentum涨超6%，油价回落，铁矿石连跌三周",
+          "url": "https://wallstreetcn.com/articles/3783254",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时00分 ~ 04时48分]"
+        },
+        {
+          "title": "周五（10月9日），美股行业ETF普遍收涨，生物科技指数ETF涨3%，网络股指数ETF涨2.15%，科技行业ETF涨0.51%，能源业ETF跌0.25%，半导体ETF跌0.65%，银行业ETF、区域银行ETF至多跌0.83%。",
+          "url": "https://wallstreetcn.com/livenews/3176433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "美股盘前涨4%！Lumentum CEO：公司光学器件售罄至2029年，部分产品需求缺口达70%",
+          "url": "https://wallstreetcn.com/articles/3783261",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "金十图示：2026年10月09日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20261010040537406800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "金十图示：2026年10月09日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20261010040534426800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "招商银行 万华化学 福耀玻璃 旗滨集团 苏农银行 奥浦迈 爱美客 美的集团 潍柴动力 苏泊尔 鱼跃医疗 牧原股份 振邦智能 华兰生物 证监会",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "香港证监会：港股“T+1”改革正陆续推进 将就延长交易时段发讨论文件",
+          "url": "https://www.cls.cn/detail/2500824",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
         }
       ]
     },
@@ -209,25 +357,25 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时00分 ~ 04时48分]"
         }
       ]
     },
     {
-      "keyword_group": "美股",
+      "keyword_group": "美元",
       "match_count": 1,
       "titles": [
         {
-          "title": "AI回报疑虑缓解，美股高开，光通信股普涨，Lumentum涨超6%，油价回落，铁矿石连跌三周",
-          "url": "https://wallstreetcn.com/articles/3783254",
-          "source": "华尔街见闻",
+          "title": "美元指数本周涨约0.3%",
+          "url": "https://wallstreetcn.com/livenews/3176424",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            17
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
         }
       ]
     }
