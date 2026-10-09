@@ -1,587 +1,233 @@
 {
-  "generated_at": "2026-10-09T16:45:14.446113+08:00",
-  "total_titles_processed": 840,
+  "generated_at": "2026-10-10T00:01:45.269257+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 14,
+      "keyword_group": "特朗普",
+      "match_count": 8,
       "titles": [
         {
-          "title": "OpenAI营收逊色重创AI股，标普、纳指两连跌，芯片指数跌超3%，原油一度涨逾5%",
-          "url": "https://wallstreetcn.com/articles/3783173",
-          "source": "华尔街见闻",
+          "title": "特朗普改口，宣布11月3日中期选举前不打伊朗",
+          "url": "https://news.ifeng.com/c/8x4dLLeVPpO",
+          "source": "凤凰网",
           "ranks": [
-            1
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时53分 ~ 16时45分]"
+          "appearance_count": 2,
+          "time_info": "[00时00分 ~ 00时01分]"
         },
+        {
+          "title": "据华盛顿邮报：一名特朗普政府高级官员称，我们与盟友讨论了他们对对伊朗经济施压行动持续时间的担忧。我们希望尽快达成解决方案。",
+          "url": "https://flash.jin10.com/detail/20261009232820439800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时01分"
+        },
+        {
+          "title": "据华盛顿邮报：一名特朗普政府高级官员称，对伊朗的封锁增强了制裁的有效性，并使其无法依赖石油收入。",
+          "url": "https://flash.jin10.com/detail/20261009232754509800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时01分"
+        },
+        {
+          "title": "据华盛顿邮报：一名特朗普政府高级官员称，在封锁伊朗以及重创其经济的时间表问题上，时间对我们有利。",
+          "url": "https://flash.jin10.com/detail/20261009232740220800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时01分"
+        },
+        {
+          "title": "高市早苗公开反对特朗普",
+          "url": "https://news.ifeng.com/c/8x5CxeV6pMm",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时00分 ~ 00时01分]"
+        },
+        {
+          "title": "美国总统特朗普：（关于伊朗问题）无论如何，很快就会结束。 伊朗战争结束之后，（美国的能源）价格将会下降。 昨天从霍尔木兹海峡运走2800万桶石油。",
+          "url": "https://wallstreetcn.com/livenews/3176319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时01分"
+        },
+        {
+          "title": "美国总统特朗普：即将就柴油问题发布重大消息。",
+          "url": "https://wallstreetcn.com/livenews/3176318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时01分"
+        },
+        {
+          "title": "美国联邦通信委员会（FCC）主席Brendan Carr：我估计（最近两年的）频段交易规模超过1000亿美元。 市场上还将出现“明显更多的频段（销售/供应）”。 对迪士尼（面临的来自特朗普政府的）诉讼案的现状“感觉良好”。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3176312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 7,
+      "titles": [
         {
           "title": "相差200亿！OpenAI营收被爆巨大预期差，AI板块遭重创，甲骨文跌逾5%，应用光电跌超10%",
           "url": "https://wallstreetcn.com/articles/3783220",
           "source": "华尔街见闻",
           "ranks": [
-            5,
-            2
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时53分 ~ 16时45分]"
+          "appearance_count": 2,
+          "time_info": "[00时00分 ~ 00时01分]"
         },
         {
-          "title": "OpenAI预计到2026年底年化收入将达到700亿美元",
-          "url": "https://wallstreetcn.com/livenews/3175954",
-          "source": "华尔街见闻-快讯",
+          "title": "陶哲轩转发多位数学家抵制 OpenAI 的文章，怎么看待该观点？这将对 AI 数学研究带来哪些改变？",
+          "url": "https://www.zhihu.com/question/2091831158468244988",
+          "source": "知乎",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
+          "appearance_count": 2,
+          "time_info": "[00时00分 ~ 00时01分]"
         },
         {
-          "title": "“AI鬼故事”再现？OpenAI营收低于此前报道 AI概念股纷纷跳水",
-          "url": "https://www.cls.cn/detail/2499956",
-          "source": "财联社热门",
+          "title": "OpenAI营收逊色重创AI股，标普、纳指两连跌，芯片指数跌超3%，原油一度涨逾5%",
+          "url": "https://wallstreetcn.com/articles/3783173",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
+          "appearance_count": 2,
+          "time_info": "[00时00分 ~ 00时01分]"
+        },
+        {
+          "title": "怎么看OpenAI数学论文撤稿",
+          "url": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8BOpenAI%E6%95%B0%E5%AD%A6%E8%AE%BA%E6%96%87%E6%92%A4%E7%A8%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时00分 ~ 00时01分]"
+        },
+        {
+          "title": "OpenAI 爆冷，1-9 月年化营收低于预期 200 亿，美股、日经科技板块重挫，如何看其业绩影响？",
+          "url": "https://www.zhihu.com/question/2091810817008259841",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时00分 ~ 00时01分]"
+        },
+        {
+          "title": "OpenAI营收冲击暂告段落 科技牛股集体反弹 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2500829",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时00分 ~ 00时01分]"
         },
         {
           "title": "人类数学协会抵制OpenAI公开论文",
           "url": "https://search.bilibili.com/all?keyword=%E6%95%B0%E5%AD%A6%E5%8D%8F%E4%BC%9A%E6%8A%B5%E5%88%B6OpenAI%E5%85%AC%E5%BC%80%E8%AE%BA%E6%96%87",
           "source": "bilibili 热搜",
           "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时44分 ~ 16时45分]"
-        },
-        {
-          "title": "OpenAI数学突破震惊币圈：密码学危机在量子时代前就将上演？",
-          "url": "https://www.cls.cn/detail/2500328",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时44分 ~ 16时45分]"
-        },
-        {
-          "title": "OpenAI的722篇论文含金量如何",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E7%9A%84722%E7%AF%87%E8%AE%BA%E6%96%87%E5%90%AB%E9%87%91%E9%87%8F%E5%A6%82%E4%BD%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时55分 ~ 09时53分]"
-        },
-        {
-          "title": "OpenAI为何撤回3篇数学论文",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E4%B8%BA%E4%BD%95%E6%92%A4%E5%9B%9E3%E7%AF%87%E6%95%B0%E5%AD%A6%E8%AE%BA%E6%96%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时44分 ~ 16时45分]"
-        },
-        {
-          "title": "美股收盘：OpenAI年化营收低于此前报道 AI概念股承压 纳指跌逾1%",
-          "url": "https://www.cls.cn/detail/2499973",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
-          "title": "OpenAI发布722篇数学手稿",
-          "url": "https://www.douyin.com/hot/2686054",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
-          "title": "OpenAI发布可交互界面",
-          "url": "https://s.weibo.com/weibo?q=OpenAI%E5%8F%91%E5%B8%83%E5%8F%AF%E4%BA%A4%E4%BA%92%E7%95%8C%E9%9D%A2&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
-          "title": "OpenAI推出GPT-6.1 Sol Ultrafast版",
-          "url": "https://www.baidu.com/s?wd=OpenAI%E6%8E%A8%E5%87%BAGPT-6.1+Sol+Ultrafast%E7%89%88",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
-          "title": "软银股价下跌逾6%，受OpenAI营收担忧影响。",
-          "url": "https://wallstreetcn.com/livenews/3175923",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
-          "title": "美股收盘：OpenAI预警加剧泡沫担忧，纳斯达克100指数下跌1.4%",
-          "url": "https://wallstreetcn.com/livenews/3175838",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "中东冲突再升级：沙特机场遇袭、波斯湾油轮中弹，特朗普拟对伊朗再动手，布油站上102美元",
-          "url": "https://wallstreetcn.com/articles/3783182",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 09时53分]"
-        },
-        {
-          "title": "特朗普改口，宣布11月3日中期选举前不打伊朗",
-          "url": "https://news.ifeng.com/c/8x4dLLeVPpO",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时44分 ~ 16时45分]"
-        },
-        {
-          "title": "白宫：美国总统特朗普将于周五前往纽约州锡拉丘兹。 特朗普将于周五美国东部时间上午11点主持哥伦布日庆祝活动。",
-          "url": "https://wallstreetcn.com/livenews/3175869",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
-        },
-        {
-          "title": "特朗普8月证券交易金额达数亿美元？最高2500万美元买入Meta，签署太空政策前买入SpaceX票据",
-          "url": "https://wallstreetcn.com/articles/3783209",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时55分 ~ 16时45分]"
-        },
-        {
-          "title": "特朗普称对伊朗军事行动 “必须收尾了”，媒体爆料美军制定“中选前打击方案”，油价应声上涨",
-          "url": "https://wallstreetcn.com/articles/3783137",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 05时55分]"
-        },
-        {
-          "title": "高市早苗公开反对特朗普",
-          "url": "https://www.cls.cn/detail/2500272",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时44分 ~ 16时45分]"
-        },
-        {
-          "title": "报道：美军积极筹备中东武力方案，特朗普多次否决",
-          "url": "https://wallstreetcn.com/livenews/3175860",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
-        },
-        {
-          "title": "美媒：美军积极筹备中东武力方案 特朗普多次否决",
-          "url": "https://flash.jin10.com/detail/20261009050014373800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
-        },
-        {
-          "title": "特朗普：美国不会在中期选举之前攻击伊朗",
-          "url": "https://www.cls.cn/detail/2499941",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
-          "title": "据纽约时报：据美国官员透露，尽管特朗普对重启对伊朗的战争态度依然摇摆不定，但美国军方正在准备重启对伊朗大规模作战行动的方案。美国国防部制定了针对伊朗的三天打击新计划 ，三艘航空母舰即将部署在中东。",
-          "url": "https://flash.jin10.com/detail/20261009044546397800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
-        },
-        {
-          "title": "纽约联储报告：若无特朗普关税，许多日常商品价格本应下降",
-          "url": "https://www.cls.cn/detail/2499890",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
-          "title": "美国总统特朗普周五日程一览",
-          "url": "https://flash.jin10.com/detail/20261009093153650800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "【早报】美股存储、半导体板块，全线重挫；原油飙升、黄金收涨；多家A股公司三季报预增",
-          "url": "https://www.cls.cn/detail/2499995",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
-          "title": "美股盘前，光通信龙头Lumentum涨4%，公司CEO称光学元件产能已“售罄”至2029年初。存储概念股普涨，SK海力士、闪迪和美光科技涨超2%。SpaceX涨3.6%，此前该公司达成协议收购美国全国性低频段频谱资产包。",
-          "url": "https://wallstreetcn.com/livenews/3176108",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时45分"
-        },
-        {
-          "title": "周四（10月8日），美股行业ETF涨跌各异，半导体ETF收跌2.84%，全球科技股指数ETF跌2.01%，科技行业ETF跌1.79%，金融业ETF、区域银行ETF、银行业ETF至多涨1.05%。",
-          "url": "https://wallstreetcn.com/livenews/3175852",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
-        },
-        {
-          "title": "美股大类资产类ETF涨跌各异，新兴市场ETF跌约1.9%，布油基金涨超2.8%",
-          "url": "https://wallstreetcn.com/livenews/3175850",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
-        },
-        {
-          "title": "金十图示：2026年10月08日（周四）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20261009040552391800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
-        },
-        {
-          "title": "金十图示：2026年10月08日（周四）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20261009040549276800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
+          "time_info": "[00时00分 ~ 00时01分]"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
-          "title": "美联储放鹰金价克价跌至890元",
-          "url": "https://www.douyin.com/hot/2686866",
-          "source": "抖音",
+          "title": "金价下跌金店忙疯",
+          "url": "https://www.toutiao.com/trending/7694600654412795418/",
+          "source": "今日头条",
           "ranks": [
-            5
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时44分 ~ 16时45分]"
-        },
-        {
-          "title": "国际金价涨0.5%",
-          "url": "https://wallstreetcn.com/livenews/3175862",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
-        },
-        {
-          "title": "金价大跌水贝掀买金热潮",
-          "url": "https://www.douyin.com/hot/2685239",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
-          "title": "金价跌回8字头仍可能继续下跌",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E5%9B%9E8%E5%AD%97%E5%A4%B4%E4%BB%8D%E5%8F%AF%E8%83%BD%E7%BB%A7%E7%BB%AD%E4%B8%8B%E8%B7%8C%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
+          "time_info": "[00时00分 ~ 00时01分]"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
-          "title": "信号突变！美债死循环瓦解、看涨期权激增，转折点要来？",
-          "url": "https://www.cls.cn/detail/2500055",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时53分 ~ 16时45分]"
-        },
-        {
-          "title": "油价持续飙涨引爆通胀忧虑，美股低开，光通信板块走低、Coherent跌超4%，美债收益率走高",
-          "url": "https://wallstreetcn.com/articles/3783173",
+          "title": "法债是第一个牺牲品，接着是美债？全球感受“日本加息”的效果了吗？",
+          "url": "https://wallstreetcn.com/articles/3783232",
           "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 05时55分]"
-        },
-        {
-          "title": "债券风暴笼罩：10年期拍卖拯救美债， 欧债“深陷泥潭”",
-          "url": "https://wallstreetcn.com/articles/3783136",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 05时55分]"
-        },
-        {
-          "title": "美债收益率下跌，日本国债收益率全线走低",
-          "url": "https://flash.jin10.com/detail/20261009093926408800",
-          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "如何评价字节 Seed 团队发现 DeepSeek 性能漂移？",
-          "url": "https://www.zhihu.com/question/2091513666864682278",
-          "source": "知乎",
-          "ranks": [
-            6,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 09时53分]"
-        },
-        {
-          "title": "如何看待 DeepSeek 估值已接近 5000 亿元？",
-          "url": "https://www.zhihu.com/question/2091466415639196511",
-          "source": "知乎",
-          "ranks": [
-            10,
-            14
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时55分 ~ 09时53分]"
-        },
-        {
-          "title": "DeepSeek“抽风”原因曝光",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E2%80%9C%E6%8A%BD%E9%A3%8E%E2%80%9D%E5%8E%9F%E5%9B%A0%E6%9B%9D%E5%85%89",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
+          "time_info": "[00时00分 ~ 00时01分]"
         }
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美元指数8日下跌",
-          "url": "https://flash.jin10.com/detail/20261009051945977800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
-        },
-        {
-          "title": "美元指数DXY跌破102，日内跌0.12%。",
-          "url": "https://flash.jin10.com/detail/20261009093239244800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "银行消保 金融监管 人民银行",
+      "keyword_group": "美股",
       "match_count": 1,
       "titles": [
         {
-          "title": "中国人民银行关于人民币汇率的政策立场：中国没有必要，也无意通过汇率贬值获取贸易竞争优势",
-          "url": "https://www.cls.cn/detail/2499620",
-          "source": "财联社热门",
+          "title": "AI回报疑虑缓解，美股高开，光通信股普涨，Lumentum涨超6%，油价回落，铁矿石连跌三周",
+          "url": "https://wallstreetcn.com/articles/3783254",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            11
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时16分 ~ 05时55分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "多国主权债券继续“啼血” 谷歌、Wolfspeed异动拉涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2499776",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 05时55分]"
+          "time_info": "[00时00分 ~ 00时01分]"
         }
       ]
     }
