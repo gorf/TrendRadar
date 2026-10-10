@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-10T04:48:33.768420+08:00",
-  "total_titles_processed": 428,
+  "generated_at": "2026-10-10T08:39:04.216712+08:00",
+  "total_titles_processed": 568,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普改口，宣布11月3日中期选举前不打伊朗",
@@ -15,8 +15,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时00分 ~ 04时48分]"
+          "appearance_count": 5,
+          "time_info": "[00时00分 ~ 08时39分]"
+        },
+        {
+          "title": "普京特朗普通话 俄将向全球供应石油",
+          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%AF%9D+%E4%BF%84%E5%B0%86%E5%90%91%E5%85%A8%E7%90%83%E4%BE%9B%E5%BA%94%E7%9F%B3%E6%B2%B9",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时38分 ~ 08时39分]"
         },
         {
           "title": "据华盛顿邮报：一名特朗普政府高级官员称，我们与盟友讨论了他们对对伊朗经济施压行动持续时间的担忧。我们希望尽快达成解决方案。",
@@ -28,6 +39,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
+        },
+        {
+          "title": "高市早苗公开反对特朗普",
+          "url": "https://news.ifeng.com/c/8x5CxeV6pMm",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时00分 ~ 08时39分]"
         },
         {
           "title": "据华盛顿邮报：一名特朗普政府高级官员称，对伊朗的封锁增强了制裁的有效性，并使其无法依赖石油收入。",
@@ -52,26 +74,38 @@
           "time_info": "00时01分"
         },
         {
-          "title": "高市早苗公开反对特朗普",
-          "url": "https://news.ifeng.com/c/8x5CxeV6pMm",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时00分 ~ 04时48分]"
-        },
-        {
           "title": "特朗普为什么非要给AI改名字",
           "url": "https://www.toutiao.com/trending/7694540783252147775/",
           "source": "今日头条",
           "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时48分 ~ 08时39分]"
+        },
+        {
+          "title": "特朗普称与普京达成协议：俄罗斯将向美国及全球市场供应大量柴油",
+          "url": "https://www.cls.cn/detail/2500977",
+          "source": "财联社热门",
+          "ranks": [
             6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时38分 ~ 08时39分]"
+        },
+        {
+          "title": "特朗普请求美国最高法院复审其被驳回的诉讼，该诉讼指控希拉里·克林顿在2016年大选中密谋。",
+          "url": "https://flash.jin10.com/detail/20261010080922619800",
+          "source": "金十数据",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时48分"
+          "time_info": "08时39分"
         },
         {
           "title": "美国总统特朗普：（关于伊朗问题）无论如何，很快就会结束。 伊朗战争结束之后，（美国的能源）价格将会下降。 昨天从霍尔木兹海峡运走2800万桶石油。",
@@ -85,6 +119,17 @@
           "time_info": "00时01分"
         },
         {
+          "title": "特朗普与普京达成的柴油协议被指违反俄罗斯制裁法",
+          "url": "https://wallstreetcn.com/livenews/3176479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时39分"
+        },
+        {
           "title": "美国总统特朗普：即将就柴油问题发布重大消息。",
           "url": "https://wallstreetcn.com/livenews/3176318",
           "source": "华尔街见闻-快讯",
@@ -94,6 +139,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
+        },
+        {
+          "title": "据华尔街日报：预测市场平台Kalshi已就其平台上涉及特朗普总统新任白宫新闻秘书人选的一系列可疑交易展开调查。",
+          "url": "https://flash.jin10.com/detail/20261010054902743800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时39分"
         },
         {
           "title": "美国联邦通信委员会（FCC）主席Brendan Carr：我估计（最近两年的）频段交易规模超过1000亿美元。 市场上还将出现“明显更多的频段（销售/供应）”。 对迪士尼（面临的来自特朗普政府的）诉讼案的现状“感觉良好”。（CNBC）",
@@ -107,15 +163,37 @@
           "time_info": "00时01分"
         },
         {
+          "title": "特朗普：与俄罗斯的石油协议是笔大交易 我要感谢普京",
+          "url": "https://flash.jin10.com/detail/20261010054038495800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时39分"
+        },
+        {
           "title": "美国总统特朗普：任命凯蒂·扎卡里亚为白宫新闻秘书。",
           "url": "https://wallstreetcn.com/livenews/3176423",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
+        },
+        {
+          "title": "特朗普宣布任命凯蒂·扎卡里亚出任白宫新闻秘书",
+          "url": "https://flash.jin10.com/detail/20261010052512778800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时39分"
         },
         {
           "title": "乌克兰总统泽连斯基：（特朗普）给普京的礼物不会带来和平，也不会给文明世界带来任何好处。 允许俄罗斯出售石油产品，就是在投资一场必须结束、而非拖延的冲突。 如果俄罗斯停止摧毁我们的能源基础设施，乌克兰就不会再纵火袭击俄罗斯炼油厂。 这正是我们向美国提议的那类协议，我们相信美国有足够实力促成这样的妥协。",
@@ -124,9 +202,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
+        },
+        {
+          "title": "特朗普改口！称：“可能会”在美国中期选举之前对伊朗采取行动",
+          "url": "https://wallstreetcn.com/livenews/3176450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时39分"
         },
         {
           "title": "芝加哥玉米期货创2023年以来最大跌幅，特朗普政府意外地上调产量预期",
@@ -135,7 +224,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
         }
@@ -143,7 +232,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "相差200亿！OpenAI营收被爆巨大预期差，AI板块遭重创，甲骨文跌逾5%，应用光电跌超10%",
@@ -170,15 +259,27 @@
           "time_info": "[00时00分 ~ 04时48分]"
         },
         {
+          "title": "OpenAI狂发论文,数学家炮轰",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366794&amp;topic_name=OpenAI%E7%8B%82%E5%8F%91%E8%AE%BA%E6%96%87%2C%E6%95%B0%E5%AD%A6%E5%AE%B6%E7%82%AE%E8%BD%B0",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时48分 ~ 08时39分]"
+        },
+        {
           "title": "OpenAI 爆冷，1-9 月年化营收低于预期 200 亿，美股、日经科技板块重挫，如何看其业绩影响？",
           "url": "https://www.zhihu.com/question/2091810817008259841",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时00分 ~ 04时48分]"
+          "appearance_count": 5,
+          "time_info": "[00时00分 ~ 08时39分]"
         },
         {
           "title": "陶哲轩转发多位数学家抵制 OpenAI 的文章，怎么看待该观点？这将对 AI 数学研究带来哪些改变？",
@@ -196,22 +297,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8BOpenAI%E6%95%B0%E5%AD%A6%E8%AE%BA%E6%96%87%E6%92%A4%E7%A8%BF",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
-        },
-        {
-          "title": "OpenAI狂发论文,数学家炮轰",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366794&amp;topic_name=OpenAI%E7%8B%82%E5%8F%91%E8%AE%BA%E6%96%87%2C%E6%95%B0%E5%AD%A6%E5%AE%B6%E7%82%AE%E8%BD%B0",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时48分"
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 08时39分]"
         },
         {
           "title": "OpenAI营收冲击暂告段落 科技牛股集体反弹 | 今夜看点",
@@ -222,8 +313,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时00分 ~ 04时48分]"
+          "appearance_count": 5,
+          "time_info": "[00时00分 ~ 08时39分]"
         },
         {
           "title": "人类数学协会抵制OpenAI公开论文",
@@ -235,12 +326,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时00分 ~ 00时01分]"
+        },
+        {
+          "title": "OpenAI为解雇研究人员决定辩护：这些决定并非因为提出安全担忧或公开发声",
+          "url": "https://wallstreetcn.com/livenews/3176478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时39分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "黄金ETF收涨将近1.6%，与地产ETF、新兴市场ETF领跑美股大类资产类ETF",
@@ -249,9 +351,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
+        },
+        {
+          "title": "美股盘前涨4%！Lumentum CEO：公司光学器件售罄至2029年，部分产品需求缺口达70%",
+          "url": "https://wallstreetcn.com/articles/3783261",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时48分 ~ 08时39分]"
         },
         {
           "title": "AI回报疑虑缓解，美股高开，光通信股普涨，Lumentum涨超6%，油价回落，铁矿石连跌三周",
@@ -266,24 +380,24 @@
           "time_info": "[00时00分 ~ 04时48分]"
         },
         {
+          "title": "美股收盘：道指涨逾400点 三大指数周线齐涨 市场静待银行财报与通胀数据",
+          "url": "https://www.cls.cn/detail/2500993",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时38分 ~ 08时39分]"
+        },
+        {
           "title": "周五（10月9日），美股行业ETF普遍收涨，生物科技指数ETF涨3%，网络股指数ETF涨2.15%，科技行业ETF涨0.51%，能源业ETF跌0.25%，半导体ETF跌0.65%，银行业ETF、区域银行ETF至多跌0.83%。",
           "url": "https://wallstreetcn.com/livenews/3176433",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时48分"
-        },
-        {
-          "title": "美股盘前涨4%！Lumentum CEO：公司光学器件售罄至2029年，部分产品需求缺口达70%",
-          "url": "https://wallstreetcn.com/articles/3783261",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
         },
@@ -294,7 +408,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
         },
@@ -305,9 +419,77 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金价下跌女儿买10万黄金送父母",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E5%A5%B3%E5%84%BF%E4%B9%B010%E4%B8%87%E9%BB%84%E9%87%91%E9%80%81%E7%88%B6%E6%AF%8D",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时38分 ~ 08时39分]"
+        },
+        {
+          "title": "金价下跌金店忙疯",
+          "url": "https://www.toutiao.com/trending/7694600654412795418/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时00分 ~ 00时01分]"
+        },
+        {
+          "title": "国际金价周五涨1.5%",
+          "url": "https://wallstreetcn.com/livenews/3176449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "法债是第一个牺牲品，接着是美债？全球感受“日本加息”的效果了吗？",
+          "url": "https://wallstreetcn.com/articles/3783232",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时00分 ~ 08时39分]"
+        },
+        {
+          "title": "两年期美债收益率周五涨超2.9个基点，本周与10年期累跌超3个基点",
+          "url": "https://wallstreetcn.com/livenews/3176460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时39分"
         }
       ]
     },
@@ -320,45 +502,12 @@
           "url": "https://www.cls.cn/detail/2500824",
           "source": "财联社热门",
           "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价下跌金店忙疯",
-          "url": "https://www.toutiao.com/trending/7694600654412795418/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "法债是第一个牺牲品，接着是美债？全球感受“日本加息”的效果了吗？",
-          "url": "https://wallstreetcn.com/articles/3783232",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
+            11,
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时00分 ~ 04时48分]"
+          "time_info": "[04时48分 ~ 08时39分]"
         }
       ]
     },
@@ -373,7 +522,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
         }
