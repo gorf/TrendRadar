@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-11T06:22:03.387446+08:00",
-  "total_titles_processed": 388,
+  "generated_at": "2026-10-11T09:44:37.636716+08:00",
+  "total_titles_processed": 542,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 45,
       "titles": [
         {
           "title": "特朗普：与普京通话非常成功，全世界的柴油价格都将大幅、快速下跌！俄方表态；泽连斯基回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时22分 ~ 06时22分]"
+          "appearance_count": 4,
+          "time_info": "[02时22分 ~ 09时44分]"
         },
         {
           "title": "特朗普的中期选举策略：发钱，发钱，还是发钱",
@@ -52,6 +52,28 @@
           "time_info": "[02时22分 ~ 06时22分]"
         },
         {
+          "title": "沙特首都机场遇袭，特朗普发声",
+          "url": "https://original.ifeng.com/c/8x7wkojLzLk",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时44分"
+        },
+        {
+          "title": "外媒：特朗普称胡塞武装袭击利雅得机场“不可接受”，将与沙特王储“对话”",
+          "url": "https://wallstreetcn.com/livenews/3176607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时44分"
+        },
+        {
           "title": "美媒：特朗普要求撤换泽连斯基，双方关系陷入去年白宫争吵以来最严重危机",
           "url": "https://flash.jin10.com/detail/20261011013543054800",
           "source": "金十数据",
@@ -69,20 +91,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
         {
-          "title": "特朗普调侃第一夫人电影走红：一家只能有一个明星",
-          "url": "https://flash.jin10.com/detail/20261011052802812800",
-          "source": "金十数据",
+          "title": "特朗普：还没决定是否直播处决，但这样做能以儆效尤",
+          "url": "https://news.ifeng.com/c/8x7zpJfdZuP",
+          "source": "凤凰网",
           "ranks": [
-            3
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时22分"
+          "time_info": "09时44分"
         },
         {
           "title": "特朗普谈胡德堡枪手处决直播",
@@ -94,6 +116,42 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
+        },
+        {
+          "title": "特朗普调侃第一夫人电影走红：一家只能有一个明星",
+          "url": "https://flash.jin10.com/detail/20261011052802812800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 09时44分]"
+        },
+        {
+          "title": "美国总统特朗普：我认为法国总统马克龙最近不太高兴。",
+          "url": "https://flash.jin10.com/detail/20261011050909657800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 09时44分]"
+        },
+        {
+          "title": "美国总统特朗普：（谈加拿大）加拿大从来没有给予我们应有的尊重。他们认为自己理所当然地享有某些东西。但他们并没有这种特权。我们不需要他们拥有的任何东西。",
+          "url": "https://flash.jin10.com/detail/20261011050259483800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 09时44分]"
         },
         {
           "title": "普京向特朗普转达伊朗方面解决冲突构想",
@@ -108,6 +166,66 @@
           "time_info": "[02时22分 ~ 06时22分]"
         },
         {
+          "title": "美国总统特朗普：这太不可思议了。我可以说出最愚蠢的话，而你们却鼓掌。",
+          "url": "https://flash.jin10.com/detail/20261011044834911800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 09时44分]"
+        },
+        {
+          "title": "美国总统特朗普：我此前考虑改名大西洋或太平洋。我们可以称它为“特朗普洋”（Trump Ocean）或者“美洲洋”（Ocean of the Americas）。",
+          "url": "https://flash.jin10.com/detail/20261011044032435800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 09时44分]"
+        },
+        {
+          "title": "美国总统特朗普：伊朗可能会在选举前采取更多行动，他们认为这些行动会伤害我们，但我们能够迅速结束这件事。",
+          "url": "https://flash.jin10.com/detail/20261011043639240800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 09时44分]"
+        },
+        {
+          "title": "美国总统特朗普：我们正在考虑将霍尔木兹海峡重新命名为“特朗普海峡”。",
+          "url": "https://flash.jin10.com/detail/20261011043605753800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 09时44分]"
+        },
+        {
+          "title": "美国总统特朗普：（谈伊朗）我们可以很快结束这件事。他们根本不知道我一直对他们多好。",
+          "url": "https://flash.jin10.com/detail/20261011043522483800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 09时44分]"
+        },
+        {
           "title": "特朗普宣布新任白宫新闻秘书",
           "url": "https://www.douyin.com/hot/2688763",
           "source": "抖音",
@@ -119,17 +237,6 @@
           "time_info": "[06时21分 ~ 06时22分]"
         },
         {
-          "title": "美国总统特朗普：我认为法国总统马克龙最近不太高兴。",
-          "url": "https://flash.jin10.com/detail/20261011050909657800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
           "title": "特朗普找到新“援军”：普京同意俄罗斯向全球市场释放数百万吨柴油",
           "url": "https://wallstreetcn.com/articles/3783298",
           "source": "华尔街见闻",
@@ -139,17 +246,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
-        },
-        {
-          "title": "美国总统特朗普：（谈加拿大）加拿大从来没有给予我们应有的尊重。他们认为自己理所当然地享有某些东西。但他们并没有这种特权。我们不需要他们拥有的任何东西。",
-          "url": "https://flash.jin10.com/detail/20261011050259483800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
         },
         {
           "title": "特朗普：俄乌战争因决策无能而爆发",
@@ -174,26 +270,26 @@
           "time_info": "02时22分"
         },
         {
-          "title": "美国总统特朗普：这太不可思议了。我可以说出最愚蠢的话，而你们却鼓掌。",
-          "url": "https://flash.jin10.com/detail/20261011044834911800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "美国总统特朗普：我此前考虑改名大西洋或太平洋。我们可以称它为“特朗普洋”（Trump Ocean）或者“美洲洋”（Ocean of the Americas）。",
-          "url": "https://flash.jin10.com/detail/20261011044032435800",
+          "title": "美国总统特朗普：对沙特阿拉伯的攻击是可怕的，沙特有能力捍卫自己的国家。我们与胡塞武装有联系，我们将看看会发生什么，但他们所做的事情非常糟糕。我还没有与沙特王储交谈，但我会这样做，发生的事情是不可接受的。",
+          "url": "https://flash.jin10.com/detail/20261011082057024800",
           "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时22分"
+          "time_info": "09时44分"
+        },
+        {
+          "title": "特朗普：乌克兰该换总统了 泽连斯基阻碍俄乌达成和平协议",
+          "url": "https://www.cls.cn/detail/2501388",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时44分"
         },
         {
           "title": "特朗普：可能参与沙特对胡塞武装的打击行动",
@@ -207,26 +303,26 @@
           "time_info": "02时22分"
         },
         {
-          "title": "美国总统特朗普：伊朗可能会在选举前采取更多行动，他们认为这些行动会伤害我们，但我们能够迅速结束这件事。",
-          "url": "https://flash.jin10.com/detail/20261011043639240800",
+          "title": "美国总统特朗普：俄罗斯方面希望就乌克兰战争达成协议。",
+          "url": "https://flash.jin10.com/detail/20261011082019217800",
           "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时22分"
+          "time_info": "09时44分"
         },
         {
-          "title": "美国总统特朗普：我们正在考虑将霍尔木兹海峡重新命名为“特朗普海峡”。",
-          "url": "https://flash.jin10.com/detail/20261011043605753800",
+          "title": "美国总统特朗普：但泽连斯基不想达成协议，他曾有多次机会实现这一目标。",
+          "url": "https://flash.jin10.com/detail/20261011082007408800",
           "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时22分"
+          "time_info": "09时44分"
         },
         {
           "title": "特朗普承诺接受中期选举结果 但强调不容许舞弊",
@@ -240,15 +336,15 @@
           "time_info": "02时22分"
         },
         {
-          "title": "美国总统特朗普：（谈伊朗）我们可以很快结束这件事。他们根本不知道我一直对他们多好。",
-          "url": "https://flash.jin10.com/detail/20261011043522483800",
+          "title": "美国总统特朗普：乌克兰应该举行选举，泽连斯基本可以多次达成协议。",
+          "url": "https://flash.jin10.com/detail/20261011081956490800",
           "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时22分"
+          "time_info": "09时44分"
         },
         {
           "title": "据《华盛顿邮报》：特朗普正在白宫发表讲话，他贬低了诺贝尔和平奖得主，并表示：“我认识的人中，没有一个听说过她。”“挪威有些不对劲。”",
@@ -268,9 +364,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        },
+        {
+          "title": "美司法部调查五大电视网对特朗普的共享采访报道模式",
+          "url": "https://flash.jin10.com/detail/20261011081203665800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时44分"
         },
         {
           "title": "美国总统特朗普：（就伊朗及相关袭击事件）我们会研究一下情况。",
@@ -290,7 +397,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -312,7 +419,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -334,7 +441,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -361,13 +468,46 @@
           "time_info": "02时22分"
         },
         {
+          "title": "特朗普：建议乌克兰总统换人",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%BB%BA%E8%AE%AE%E4%B9%8C%E5%85%8B%E5%85%B0%E6%80%BB%E7%BB%9F%E6%8D%A2%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时44分"
+        },
+        {
+          "title": "特朗普：认为泽连斯基应该举行选举。 泽连斯基不想达成协议。 对沙特的袭击“太糟糕了”。 最高法院的裁决对国家非常不利。 与胡塞武装有沟通，将观望事态发展。 沙特发生的事“不可接受”。",
+          "url": "https://wallstreetcn.com/livenews/3176577",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时44分"
+        },
+        {
+          "title": "特朗普任命Katie Bailey为立法事务主任。James Braid退出立法事务职位。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3176576",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时44分"
+        },
+        {
           "title": "乌克兰外交部长：（回应特朗普关于泽连斯基的言论）泽连斯基值得获得支持。",
           "url": "https://flash.jin10.com/detail/20261011030707203800",
           "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         }
@@ -375,7 +515,7 @@
     },
     {
       "keyword_group": "招商银行 万华化学 福耀玻璃 旗滨集团 苏农银行 奥浦迈 爱美客 美的集团 潍柴动力 苏泊尔 鱼跃医疗 牧原股份 振邦智能 华兰生物 证监会",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "这次证监会专家座谈会内容有何不同？历次会后，A股怎么走？",
@@ -386,8 +526,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时22分 ~ 06时22分]"
+          "appearance_count": 4,
+          "time_info": "[02时22分 ~ 09时44分]"
         },
         {
           "title": "中国证监会召开资本市场和金融形势专家座谈会",
@@ -398,8 +538,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时22分 ~ 06时22分]"
+          "appearance_count": 4,
+          "time_info": "[02时22分 ~ 09时44分]"
+        },
+        {
+          "title": "【早报】证监会召开重磅座谈会，吴清发声；沙特利雅得机场遭袭造成12人死亡309人受伤",
+          "url": "https://www.cls.cn/detail/2501397",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时44分"
         },
         {
           "title": "证监会召开座谈会：发展壮大耐心资，推动加大分红回购力度，优化发行上市制度",
@@ -407,11 +558,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时22分 ~ 06时22分]"
+          "appearance_count": 4,
+          "time_info": "[02时22分 ~ 09时44分]"
         },
         {
           "title": "中国证监会召开资本市场和金融形势专家座谈会",
@@ -422,8 +574,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时22分 ~ 06时22分]"
+          "appearance_count": 4,
+          "time_info": "[02时22分 ~ 09时44分]"
         },
         {
           "title": "中国证监会召开资本市场和金融形势专家座谈会",
@@ -441,18 +593,47 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "OpenAI狂发论文,数学家炮轰",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366794&amp;topic_name=OpenAI%E7%8B%82%E5%8F%91%E8%AE%BA%E6%96%87%2C%E6%95%B0%E5%AD%A6%E5%AE%B6%E7%82%AE%E8%BD%B0",
           "source": "贴吧",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时22分 ~ 06时22分]"
+          "appearance_count": 4,
+          "time_info": "[02时22分 ~ 09时44分]"
+        },
+        {
+          "title": "万亿估值背后的“数字口径游戏”：OpenAI与Anthropic的营收竟然无法直接比较",
+          "url": "https://wallstreetcn.com/articles/3783309",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "十年期美债收益率逼近5.4%，AI光环难掩标普500\"虚胖\"隐忧",
+          "url": "https://wallstreetcn.com/articles/3783317",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时44分"
         }
       ]
     },
@@ -466,11 +647,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时22分 ~ 06时22分]"
+          "appearance_count": 4,
+          "time_info": "[02时22分 ~ 09时44分]"
         }
       ]
     }
