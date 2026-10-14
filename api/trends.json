@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-10-14T15:20:40.603511+08:00",
-  "total_titles_processed": 685,
-  "failed_sources": [],
+  "generated_at": "2026-10-14T21:31:35.289745+08:00",
+  "total_titles_processed": 926,
+  "failed_sources": [
+    "toutiao"
+  ],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "财报季开局银行股分化，美股指收跌，存储股续跌打压科技股，苹果盘中市值突破5万亿",
@@ -15,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 15时20分]"
+          "appearance_count": 5,
+          "time_info": "[09时01分 ~ 21时31分]"
         },
         {
           "title": "财报季乐观预期与中东风险交织，美股指涨跌互现，存储芯片股重挫，油价走高，黄金下跌",
@@ -64,6 +66,29 @@
           "time_info": "[05时06分 ~ 09时02分]"
         },
         {
+          "title": "传奇投资者Paul Tudor Jones：当前美股类似2000年科网泡沫破灭前夕，我明年将全年做空",
+          "url": "https://wallstreetcn.com/articles/3783579",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时20分 ~ 21时31分]"
+        },
+        {
+          "title": "美CPI反弹幅度超预期 美股三大期指集体走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2504896",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时30分 ~ 21时31分]"
+        },
+        {
           "title": "华尔街传奇投资人警告：2027年对美股来说将是极其艰难的一年",
           "url": "https://www.cls.cn/detail/2503871",
           "source": "财联社热门",
@@ -97,17 +122,6 @@
           "time_info": "05时07分"
         },
         {
-          "title": "传奇投资者Paul Tudor Jones：当前美股类似2000年科网泡沫破灭前夕，我明年将全年做空",
-          "url": "https://wallstreetcn.com/articles/3783579",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时20分"
-        },
-        {
           "title": "标普500指数初步收跌不到0.1%，保健板块跌1.3%，科技板块持平，电信板块涨超0.9%，能源板块涨1.7%。生物科技指数跌2.4%。 纳斯达克100指数初步收跌0.3%，成分股中，应用材料初步收跌6.9%，VRTX跌4.2%，铿腾电子、SpaceX跌4.1%，美光科技跌3.9%，阿斯麦ADR跌2.1%，西部数据跌1.9%，新思科技跌1.4%，拼多多、英特尔、高通、Diamondback Energy、AMD、ADI至少涨1.3%，德州仪器涨2.1%，Meta涨2.6%。 美股费城半导体指数跌0.5%，存储芯片指数跌超3%。",
           "url": "https://wallstreetcn.com/livenews/3178184",
           "source": "华尔街见闻-快讯",
@@ -117,6 +131,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3178730",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
+        },
+        {
+          "title": "美国银行美股盘前跌近8%，公司三季度财报不及预期",
+          "url": "https://wallstreetcn.com/livenews/3178729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
         },
         {
           "title": "金十图示：2026年10月13日（周二）美股热门股票行情一览（美股收盘）",
@@ -144,8 +180,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "特朗普忙“划清界限”：她不是我的家庭成员",
+          "url": "https://news.ifeng.com/c/8xDZ9NqdItH",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时30分 ~ 21时31分]"
+        },
         {
           "title": "美国总统特朗普正在阿拉斯加州瓦西拉举行的竞选集会上发表讲话。",
           "url": "https://flash.jin10.com/detail/20261014082750794800",
@@ -164,7 +211,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -180,6 +227,28 @@
           "time_info": "[05时06分 ~ 09时02分]"
         },
         {
+          "title": "“特朗普下令：赴美生子，倒查6年”",
+          "url": "https://news.ifeng.com/c/8xDhkZPXY9v",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时30分 ~ 21时31分]"
+        },
+        {
+          "title": "特朗普或拉土耳其入伙打击胡塞武装",
+          "url": "https://news.ifeng.com/c/8xDWGl4Al1D",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时30分 ~ 21时31分]"
+        },
+        {
           "title": "中方回应特朗普称不相信中俄在帮伊朗",
           "url": "https://www.toutiao.com/trending/7695661082907610687/",
           "source": "今日头条",
@@ -191,13 +260,35 @@
           "time_info": "[05时06分 ~ 05时07分]"
         },
         {
+          "title": "特朗普下令严查赴美生子",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E4%B8%A5%E6%9F%A5%E8%B5%B4%E7%BE%8E%E7%94%9F%E5%AD%90%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时30分 ~ 21时31分]"
+        },
+        {
+          "title": "特朗普下令严查赴美生子 追溯至6年前",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E4%B8%A5%E6%9F%A5%E8%B5%B4%E7%BE%8E%E7%94%9F%E5%AD%90+%E8%BF%BD%E6%BA%AF%E8%87%B36%E5%B9%B4%E5%89%8D",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时30分 ~ 21时31分]"
+        },
+        {
           "title": "美大使被撤内幕：曾谎称短信是AI生成，特朗普最终失去耐心",
           "url": "https://original.ifeng.com/c/8xDPEjCKxGM",
           "source": "凤凰网",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -208,7 +299,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -282,7 +373,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         }
@@ -290,7 +381,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "Gemini 4 Argon或将开放",
@@ -317,6 +408,17 @@
           "time_info": "[09时01分 ~ 15时20分]"
         },
         {
+          "title": "谷歌发布了 AI 游戏创作平台 Playground，一句话可以直接生成游戏，这对于游戏行业有什么影响？",
+          "url": "https://www.zhihu.com/question/2092979490284646694",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时30分 ~ 21时31分]"
+        },
+        {
           "title": "Gemini 4全球上线",
           "url": "https://www.baidu.com/s?wd=Gemini+4%E5%85%A8%E7%90%83%E4%B8%8A%E7%BA%BF",
           "source": "百度热搜",
@@ -334,7 +436,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         }
@@ -342,8 +444,30 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "怎么看 OpenAI 的 NS 数学证明被发现其实没遵循 Spanish program？",
+          "url": "https://www.zhihu.com/question/2093654423369152454",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时30分 ~ 21时31分]"
+        },
+        {
+          "title": "数学家如何评价OpenAI公开论文",
+          "url": "https://search.bilibili.com/all?keyword=%E6%95%B0%E5%AD%A6%E5%AE%B6%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7OpenAI%E5%85%AC%E5%BC%80%E8%AE%BA%E6%96%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时30分 ~ 21时31分]"
+        },
         {
           "title": "OpenAI狂发论文,数学家炮轰",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366794&amp;topic_name=OpenAI%E7%8B%82%E5%8F%91%E8%AE%BA%E6%96%87%2C%E6%95%B0%E5%AD%A6%E5%AE%B6%E7%82%AE%E8%BD%B0",
@@ -362,7 +486,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -376,6 +500,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "DWS：美债收益率近期上升后吸引力增强，未来12个月收益率或小幅下行",
+          "url": "https://flash.jin10.com/detail/20261014150913516800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
+          "title": "美国CPI超预期加剧加息押注，美股美债双双下挫，美元上涨，现货黄金走低",
+          "url": "https://wallstreetcn.com/articles/3783586",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时30分 ~ 21时31分]"
+        },
+        {
+          "title": "长周末归来，中长期美债收益率下跌",
+          "url": "https://wallstreetcn.com/livenews/3178181",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时07分"
+        },
+        {
+          "title": "美国CPI数据公布后，美元指数、美债收益率拉升，美股期货短线走低",
+          "url": "https://wallstreetcn.com/livenews/3178720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
         }
       ]
     },
@@ -433,34 +607,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "DWS：美债收益率近期上升后吸引力增强，未来12个月收益率或小幅下行",
-          "url": "https://flash.jin10.com/detail/20261014150913516800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时20分"
-        },
-        {
-          "title": "长周末归来，中长期美债收益率下跌",
-          "url": "https://wallstreetcn.com/livenews/3178181",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时07分"
         }
       ]
     },
