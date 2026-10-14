@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-15T02:25:39.079949+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-10-15T06:09:31.434386+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普忙“划清界限”：她不是我的家庭成员",
@@ -15,8 +15,30 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 06时09分]"
+        },
+        {
+          "title": "美国总统特朗普：由于油价如此之高，我们国家现在赚的钱比以往任何时候都多。",
+          "url": "https://flash.jin10.com/detail/20261015053447768800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时25分"
+          "time_info": "06时09分"
+        },
+        {
+          "title": "美国总统特朗普：糟糕的美联储故意让利率偏高。",
+          "url": "https://flash.jin10.com/detail/20261015052502379800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时09分"
         },
         {
           "title": "“特朗普下令：赴美生子，倒查6年”",
@@ -26,8 +48,108 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 06时09分]"
+        },
+        {
+          "title": "特朗普发与老虎嬉戏AI视频遭痛骂",
+          "url": "https://www.toutiao.com/trending/7696297015865081910/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 06时09分]"
+        },
+        {
+          "title": "美国总统特朗普：糟糕的美联储故意让利率偏高。",
+          "url": "https://wallstreetcn.com/livenews/3178923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时25分"
+          "time_info": "06时09分"
+        },
+        {
+          "title": "据华盛顿邮报：特朗普的“真实社交”平台用户数量急剧下降。据数字情报公司Similarweb分析，截至9月的一年内，“真实社交”的访问量下降逾30%。今年9月，该平台日均用户约26万人，低于2025年6月42万人的峰值。",
+          "url": "https://flash.jin10.com/detail/20261015051620436800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时09分"
+        },
+        {
+          "title": "美国总统特朗普：我们攻击伊朗的原因其实是出于防御，因为我们不想让他们拥有能一击炸死数百万人的武器。",
+          "url": "https://flash.jin10.com/detail/20261015051617621800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时09分"
+        },
+        {
+          "title": "美国总统特朗普：刚刚与台积电高管通电话。",
+          "url": "https://wallstreetcn.com/livenews/3178919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时09分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗如果拥有核武器就会对美国西海岸实施核打击，因为其领导人“疯了”。",
+          "url": "https://flash.jin10.com/detail/20261015050759119800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时09分"
+        },
+        {
+          "title": "据Axios：美国官员称，特朗普政府与所谓的“星链”服务受限问题毫无关系。",
+          "url": "https://flash.jin10.com/detail/20261015045726860800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时09分"
+        },
+        {
+          "title": "美国总统特朗普的政府与针对乌克兰的星链（StarLink）服务限制无关。（美国媒体Axios）",
+          "url": "https://wallstreetcn.com/livenews/3178912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时09分"
+        },
+        {
+          "title": "据NewsNation：美国总统特朗普表示，他曾亲自致电卡塔尔埃米尔，请求借用或使用一架波音747飞机，随后卡塔尔便将这架飞机赠予美国，作为新的“空军一号”。",
+          "url": "https://flash.jin10.com/detail/20261015044905313800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时09分"
         },
         {
           "title": "特朗普：美国迎来又一笔210亿美元的巨额投资",
@@ -35,17 +157,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
-          "title": "特朗普发与老虎嬉戏AI视频遭痛骂",
-          "url": "https://www.toutiao.com/trending/7696297015865081910/",
-          "source": "今日头条",
-          "ranks": [
-            22
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -77,7 +188,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 12,
       "titles": [
         {
           "title": "美CPI反弹幅度超预期 美股三大期指集体走低 | 今夜看点",
@@ -87,30 +198,65 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 06时09分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周三（10月14日），美国科技股七巨头（Magnificent 7）指数跌1.73%，报235.99点，大致平开之后持续下跌，持续脱离周二所创盘中历史新高241.53点和收盘历史最高位。 “超大”市值科技股指数收跌2.54%，报465.73点。",
+          "url": "https://wallstreetcn.com/livenews/3178927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时25分"
+          "time_info": "06时09分"
+        },
+        {
+          "title": "美股加密货币与加密货币关联指数收跌8.06%，报59.99点。 最近24小时，现货比特币跌2.04%，暂报81658.81美元，美国CPI通胀数据发布后转跌。 现货以太坊跌3.81%，暂报2412.308美元。",
+          "url": "https://wallstreetcn.com/livenews/3178924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时09分"
         },
         {
           "title": "财报季开局银行股分化，美股指收跌，存储股续跌打压科技股，苹果盘中市值突破5万亿",
           "url": "https://wallstreetcn.com/articles/3783492",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 06时09分]"
         },
         {
           "title": "传奇投资者Paul Tudor Jones：当前美股类似2000年科网泡沫破灭前夕，我明年将全年做空",
           "url": "https://wallstreetcn.com/articles/3783579",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 06时09分]"
+        },
+        {
+          "title": "内存崩溃，高盛：谁高位接盘了美股科技？",
+          "url": "https://wallstreetcn.com/articles/3783632",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时25分"
+          "time_info": "06时09分"
         },
         {
           "title": "美股三大指数集体低开",
@@ -124,6 +270,28 @@
           "time_info": "02时25分"
         },
         {
+          "title": "Northlight Asset Management首席投资官Chris Zaccarelli表示：（美股）一些涨幅过大的股票，如芯片制造商和AI基础设施股票，正在失去部分上涨动力。 美国9月通胀数据加剧了人们对美联储进一步加息的担忧。 市场原本希望9月通胀只是“一次性”冲高，但今早公布的数据使这种情景的可能性大大降低。",
+          "url": "https://wallstreetcn.com/livenews/3178910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时09分"
+        },
+        {
+          "title": "美股大类资产类ETF多数下跌，可转债ETF收跌2.9%，新兴市场ETF跌2%",
+          "url": "https://wallstreetcn.com/livenews/3178906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时09分"
+        },
+        {
           "title": "美股费城半导体指数跌幅扩大至4.01%，英伟达跌3.11%，博通跌2.89%，美光跌3.40%，英特尔跌4.48%，AMD跌5.74%，高通跌2.89%，台积电跌3.06%，阿斯麦跌1.44%。",
           "url": "https://wallstreetcn.com/livenews/3178837",
           "source": "华尔街见闻-快讯",
@@ -133,40 +301,86 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
+        },
+        {
+          "title": "周三（10月14日），美股行业ETF多数收跌，半导体ETF收跌3.98%，全球航空业ETF跌3.58%，全球科技股指数ETF、科技行业ETF、网络股指数ETF跌3.01%-2.81%，区域银行ETF、银行业ETF至少跌0.7%，生物科技指数ETF涨1.61%，医疗业ETF涨2.53%。",
+          "url": "https://wallstreetcn.com/livenews/3178903",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时09分"
+        },
+        {
+          "title": "周三（10月14日），彭博电动汽车价格回报指数跌0.72%，报3053.81点。 亚太盘初以来，至美股开盘处于上涨状态，美股开盘后延续北京时间13:00以来的持续下挫走势。",
+          "url": "https://wallstreetcn.com/livenews/3178899",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时09分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "怎么看 OpenAI 的 NS 数学证明被发现其实没遵循 Spanish program？",
-          "url": "https://www.zhihu.com/question/2093654423369152454",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
         {
           "title": "数学家如何评价OpenAI公开论文",
           "url": "https://search.bilibili.com/all?keyword=%E6%95%B0%E5%AD%A6%E5%AE%B6%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7OpenAI%E5%85%AC%E5%BC%80%E8%AE%BA%E6%96%87",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 06时09分]"
+        },
+        {
+          "title": "美国八个州因用户安全问题起诉OpenAI",
+          "url": "https://flash.jin10.com/detail/20261015052727779800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时25分"
+          "time_info": "06时09分"
+        },
+        {
+          "title": "怎么看 OpenAI 的 NS 数学证明被发现其实没遵循 Spanish program？",
+          "url": "https://www.zhihu.com/question/2093654423369152454",
+          "source": "知乎",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 06时09分]"
+        },
+        {
+          "title": "OpenAI窃听案嫌疑人被捕前曾为家人预订飞往沙特阿拉伯的单程机票",
+          "url": "https://wallstreetcn.com/livenews/3178911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时09分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "美CPI重燃加息押注，美股低开、AI交易受挫，美银盘中跌近9%，短期美债跳水、美元拉升",
@@ -176,8 +390,47 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 06时09分]"
+        },
+        {
+          "title": "美债收益率在CPI后冲高回落 市场评估通胀数据与美联储官员讲话",
+          "url": "https://flash.jin10.com/detail/20261015052650279800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时25分"
+          "time_info": "06时09分"
+        },
+        {
+          "title": "美债收益率在美国CPI发布后冲高回落，两年期实际收益率跌约6.3个基点，市场权衡通胀数据与美联储官员讲话",
+          "url": "https://wallstreetcn.com/livenews/3178922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国际金价跌约1.4%，白银跌超6%",
+          "url": "https://wallstreetcn.com/livenews/3178914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时09分"
         }
       ]
     }
