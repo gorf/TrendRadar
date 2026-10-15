@@ -1,44 +1,23 @@
 {
-  "generated_at": "2026-10-16T02:08:21.294206+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-10-16T06:02:54.195753+08:00",
+  "total_titles_processed": 413,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "DeepSeek宣布故障补偿方案",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%A3%E5%B8%83%E6%95%85%E9%9A%9C%E8%A1%A5%E5%81%BF%E6%96%B9%E6%A1%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时07分 ~ 02时08分]"
-        },
         {
           "title": "如何评价 DeepSeek 停摆 5 小时后，按最近七日 api 消耗向用户发放补偿赠金？",
           "url": "https://www.zhihu.com/question/2094116217489450760",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时07分 ~ 02时08分]"
-        },
-        {
-          "title": "DeepSeek公布补偿方案",
-          "url": "https://www.toutiao.com/trending/7696824974037221402/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时07分 ~ 02时08分]"
+          "appearance_count": 3,
+          "time_info": "[02时07分 ~ 06时02分]"
         },
         {
           "title": "已恢复!DeepSeek发故障补偿",
@@ -48,19 +27,44 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时07分 ~ 02时08分]"
+          "appearance_count": 3,
+          "time_info": "[02时07分 ~ 06时02分]"
+        },
+        {
+          "title": "DeepSeek公布补偿方案",
+          "url": "https://www.toutiao.com/trending/7696824974037221402/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时07分 ~ 06时02分]"
+        },
+        {
+          "title": "DeepSeek宣布故障补偿方案",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%A3%E5%B8%83%E6%95%85%E9%9A%9C%E8%A1%A5%E5%81%BF%E6%96%B9%E6%A1%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时07分 ~ 06时02分]"
         },
         {
           "title": "DeepSeek发布补偿方案",
           "url": "https://www.douyin.com/hot/2697185",
           "source": "抖音",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时07分 ~ 02时08分]"
+          "appearance_count": 3,
+          "time_info": "[02时07分 ~ 06时02分]"
         },
         {
           "title": "DeepSeek致歉，补偿方案公布",
@@ -70,25 +74,37 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时07分 ~ 02时08分]"
+          "appearance_count": 3,
+          "time_info": "[02时07分 ~ 06时02分]"
+        },
+        {
+          "title": "DeepSeek优化27倍token教程",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BC%98%E5%8C%9627%E5%80%8Dtoken%E6%95%99%E7%A8%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "英国首相伯纳姆表示，他将试图帮助「修复」特朗普和泽连斯基二人之间的「（关系）桥梁」。他能做到吗？",
           "url": "https://www.zhihu.com/question/2093925846901862591",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时07分 ~ 02时08分]"
+          "appearance_count": 3,
+          "time_info": "[02时07分 ~ 06时02分]"
         },
         {
           "title": "美国总统特朗普：希望对任何杀害消防员的人判处死刑。",
@@ -97,7 +113,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
         },
@@ -108,9 +124,42 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
+        },
+        {
+          "title": "特朗普政府起诉加州，试图阻止2万张选票被计入",
+          "url": "https://flash.jin10.com/detail/20261016052101575800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "据Axios：特朗普政府正在起诉加利福尼亚州以及两名选举官员。理由是，据称有一些不符合资格的选民收到了用于11月选举的邮寄选票。",
+          "url": "https://flash.jin10.com/detail/20261016051554430800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "美方称特朗普并未下令限制乌克兰使用SpaceX卫星服务",
+          "url": "https://wallstreetcn.com/livenews/3179701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
         },
         {
           "title": "特朗普称不会直播对胡德堡枪击案凶手的枪决",
@@ -119,35 +168,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "Meta Platforms(META.O)：Muse Spark Open的模型权重现已开放下载，可通过亚马逊SageMaker AI、谷歌云Model Garden、Hugging Face及微软Foundry Models获取。",
-          "url": "https://flash.jin10.com/detail/20261016012044653800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时08分"
-        },
-        {
-          "title": "CNN与谷歌达成多年合作，探索生成式AI提升新闻内容触达",
-          "url": "https://wallstreetcn.com/livenews/3179629",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
         }
@@ -155,7 +176,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 6,
       "titles": [
         {
           "title": "AI担忧刺激美股轮动，标普道指反弹，芯片指数一度跌超4%，CoreWeave信用风险创新高",
@@ -169,21 +190,133 @@
           "time_info": "[02时07分 ~ 02时08分]"
         },
         {
+          "title": "AI担忧激发美股轮动，道指反弹超1%，芯片指数一度跌超4%，黄仁勋力挺、CoreWeave拉升转涨",
+          "url": "https://wallstreetcn.com/articles/3783663",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
           "title": "美股",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=10&Refer=top",
           "source": "微博",
           "ranks": [
-            10
+            10,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时07分 ~ 02时08分]"
+          "appearance_count": 3,
+          "time_info": "[02时07分 ~ 06时02分]"
+        },
+        {
+          "title": "周四（10月15日），美股行业ETF多数收涨，全球航空业ETF收涨2.79%，生物科技指数ETF涨2.05%，医疗业ETF、区域银行ETF、可选消费ETF等至多涨1.86%，科技行业ETF收跌0.65%，全球科技股指数ETF跌0.84%，半导体ETF跌1.04%。",
+          "url": "https://wallstreetcn.com/livenews/3179699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "美股大类资产类ETF多数收涨，黄金ETF涨约1.8%，大豆基金跌超0.9%",
+          "url": "https://wallstreetcn.com/livenews/3179697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨1.96%，报5770.91点，美股早盘显著上涨，多数交易时间高位窄幅震荡。 热门中概股里，宝尊电商初步收涨9.7%，逸仙电商涨5.4%，小米涨5.1%，新东方涨4.9%，蔚来、京东、网易、小鹏至多涨2.7%，腾讯涨0.7%，阿里大致持平，日月光半导体跌5.3%。 ETF中，中概互联网指数ETF（KWEB）收涨0.41%，中国科技指数ETF（CQQQ）收跌0.05%。德银嘉实沪深300指数ETF（ASHR）收涨0.41%，MSCI新兴市场ex中国ETF（EMXC）收跌1.10%，XtrackersHarvest中证50（ASHS）收跌1.36%。",
+          "url": "https://wallstreetcn.com/livenews/3179689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "谷歌Gemini 4 Argon 实测",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CGemini%204%20Argon%20%E5%AE%9E%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "Meta Platforms(META.O)：Muse Spark Open的模型权重现已开放下载，可通过亚马逊SageMaker AI、谷歌云Model Garden、Hugging Face及微软Foundry Models获取。",
+          "url": "https://flash.jin10.com/detail/20261016012044653800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时08分"
+        },
+        {
+          "title": "CNN与谷歌达成多年合作，探索生成式AI提升新闻内容触达",
+          "url": "https://wallstreetcn.com/livenews/3179629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI ：推出Rosalind学术计划，符合条件的高校实验室可免费使用GPT-Rosalind。 Rosalind学术计划的数据默认不会用于模型训练。 Rosalind学术计划提供最多30个Business Standard免费席位，有效期12个月。首期Rosalind学术计划不含API访问权限。 Rosalind学术计划目前面向美国高校的学术实验室开放。",
+          "url": "https://wallstreetcn.com/livenews/3179713",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "数学家如何评价OpenAI公开论文",
+          "url": "https://search.bilibili.com/all?keyword=%E6%95%B0%E5%AD%A6%E5%AE%B6%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7OpenAI%E5%85%AC%E5%BC%80%E8%AE%BA%E6%96%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "博主：油价是金价下跌的核心推动力",
@@ -195,6 +328,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时07分 ~ 02时08分]"
+        },
+        {
+          "title": "国际金价涨超1.5%，白银涨3.3%",
+          "url": "https://wallstreetcn.com/livenews/3179714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周四（10月15日，美国CPI通胀数据发布次日）纽约尾盘，美国10年期基准国债收益率跌12.74个基点，报5.0580%，日内交投于5.1561%-5.0351%区间，亚太盘初跳空低开，在持续下跌的行情中、（美国PPI数据发布之后）北京时间21:58逼近9月23日底部4.9307%，10:00以来主要交投于5.1%关口附近。 两年期美债收益率跌6.13个基点，报4.7382%，日内交投于4.7848%-4.6791%区间，PPI数据发布后上蹿下跳——刷新日高之后迅速刷新日低。",
+          "url": "https://wallstreetcn.com/livenews/3179719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
         }
       ]
     },
@@ -210,8 +371,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时07分 ~ 02时08分]"
+          "appearance_count": 3,
+          "time_info": "[02时07分 ~ 06时02分]"
         }
       ]
     }
