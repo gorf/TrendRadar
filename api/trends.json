@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-15T09:19:59.548685+08:00",
-  "total_titles_processed": 579,
+  "generated_at": "2026-10-15T15:12:11.640809+08:00",
+  "total_titles_processed": 793,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普忙“划清界限”：她不是我的家庭成员",
@@ -52,6 +52,28 @@
           "time_info": "[02时25分 ~ 09时19分]"
         },
         {
+          "title": "承认自己“过火”，特朗普承诺不再斩首伊朗领导人",
+          "url": "https://news.ifeng.com/c/8xF4NVTrNk0",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时11分 ~ 15时12分]"
+        },
+        {
+          "title": "英国男子闯虎栏身亡后，特朗普发与老虎嬉戏AI视频遭网友痛骂",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34249940",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时11分 ~ 15时12分]"
+        },
+        {
           "title": "特朗普发与老虎嬉戏AI视频遭痛骂",
           "url": "https://www.toutiao.com/trending/7696297015865081910/",
           "source": "今日头条",
@@ -81,7 +103,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
         },
@@ -199,7 +221,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股科技题材全线下挫 纳指跌近2%",
@@ -208,7 +230,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
         },
@@ -222,6 +244,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
+        },
+        {
+          "title": "美股收盘：科技题材全线下挫 纳指跌近2% 伯克希尔十连涨",
+          "url": "https://www.cls.cn/detail/2505098",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时19分 ~ 15时12分]"
         },
         {
           "title": "美CPI反弹幅度超预期 美股三大期指集体走低 | 今夜看点",
@@ -264,11 +298,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时09分 ~ 09时19分]"
+          "appearance_count": 4,
+          "time_info": "[06时09分 ~ 15时12分]"
         },
         {
           "title": "传奇投资者Paul Tudor Jones：当前美股类似2000年科网泡沫破灭前夕，我明年将全年做空",
@@ -283,24 +318,13 @@
           "time_info": "[02时25分 ~ 06时09分]"
         },
         {
-          "title": "美股收盘：科技题材全线下挫 纳指跌近2% 伯克希尔十连涨",
-          "url": "https://www.cls.cn/detail/2505098",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时19分"
-        },
-        {
           "title": "美股三大指数集体收跌",
           "url": "https://www.douyin.com/hot/2695848",
           "source": "抖音",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
         },
@@ -338,6 +362,17 @@
           "time_info": "06时09分"
         },
         {
+          "title": "台积电美股夜盘跌幅收窄至0.6%，此前一度跌近3%。",
+          "url": "https://wallstreetcn.com/livenews/3179185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
+        },
+        {
           "title": "美股费城半导体指数跌幅扩大至4.01%，英伟达跌3.11%，博通跌2.89%，美光跌3.40%，英特尔跌4.48%，AMD跌5.74%，高通跌2.89%，台积电跌3.06%，阿斯麦跌1.44%。",
           "url": "https://wallstreetcn.com/livenews/3178837",
           "source": "华尔街见闻-快讯",
@@ -366,7 +401,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
         },
@@ -406,7 +441,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
         },
@@ -428,7 +463,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
         },
@@ -451,7 +486,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
         },
@@ -470,7 +505,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美CPI重燃加息押注，美股低开、AI交易受挫，美银盘中跌近9%，短期美债跳水、美元拉升",
@@ -495,6 +530,17 @@
           "time_info": "06时09分"
         },
         {
+          "title": "股市走低叠加收益率吸引 美债避险交易卷土重来",
+          "url": "https://wallstreetcn.com/livenews/3179215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
+        },
+        {
           "title": "美债收益率在美国CPI发布后冲高回落，两年期实际收益率跌约6.3个基点，市场权衡通胀数据与美联储官员讲话",
           "url": "https://wallstreetcn.com/livenews/3178922",
           "source": "华尔街见闻-快讯",
@@ -512,7 +558,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
         },
@@ -523,7 +569,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
         },
@@ -534,7 +580,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
         }
@@ -542,8 +588,41 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "大肥鱼罢工!DeepSeek又崩了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367231&amp;topic_name=%E5%A4%A7%E8%82%A5%E9%B1%BC%E7%BD%A2%E5%B7%A5%21DeepSeek%E5%8F%88%E5%B4%A9%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时11分 ~ 15时12分]"
+        },
+        {
+          "title": "10 月 15 日 DeepSeek 网页和 App 显示「服务器暂时不可用」，可能是哪些原因导致的？",
+          "url": "https://www.zhihu.com/question/2093997001205445814",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时11分 ~ 15时12分]"
+        },
+        {
+          "title": "DeepSeek恢复服务",
+          "url": "https://www.toutiao.com/trending/7696697739286941247/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时11分 ~ 15时12分]"
+        },
         {
           "title": "DeepSeek崩了",
           "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=15&Refer=top",
@@ -551,7 +630,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
         }
@@ -559,8 +638,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "AI交易退潮、芯片股重挫，韩股收跌7.6%，SK海力士暴跌11%，台积电跌3%，金价反弹",
+          "url": "https://wallstreetcn.com/articles/3783663",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时11分 ~ 15时12分]"
+        },
         {
           "title": "国际金价跌约1.4%，白银跌超6%",
           "url": "https://wallstreetcn.com/livenews/3178914",
@@ -585,9 +675,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时19分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时19分 ~ 15时12分]"
         }
       ]
     }
