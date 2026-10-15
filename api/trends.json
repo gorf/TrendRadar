@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-15T06:09:31.434386+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2026-10-15T09:19:59.548685+08:00",
+  "total_titles_processed": 579,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普忙“划清界限”：她不是我的家庭成员",
@@ -25,7 +25,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -48,8 +48,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时25分 ~ 06时09分]"
+          "appearance_count": 3,
+          "time_info": "[02时25分 ~ 09时19分]"
         },
         {
           "title": "特朗普发与老虎嬉戏AI视频遭痛骂",
@@ -70,9 +70,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
+        },
+        {
+          "title": "中期选举迫近特朗普发起“悲情动员”",
+          "url": "https://www.toutiao.com/trending/7696654687000333875/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
         },
         {
           "title": "据华盛顿邮报：特朗普的“真实社交”平台用户数量急剧下降。据数字情报公司Similarweb分析，截至9月的一年内，“真实社交”的访问量下降逾30%。今年9月，该平台日均用户约26万人，低于2025年6月42万人的峰值。",
@@ -81,7 +92,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -92,7 +103,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -103,7 +114,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -114,7 +125,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -125,7 +136,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -136,7 +147,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -147,7 +158,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -188,18 +199,18 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
-          "title": "美CPI反弹幅度超预期 美股三大期指集体走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2504896",
-          "source": "财联社热门",
+          "title": "美股科技题材全线下挫 纳指跌近2%",
+          "url": "https://www.toutiao.com/trending/7696664319009754667/",
+          "source": "今日头条",
           "ranks": [
-            4
+            2
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时25分 ~ 06时09分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
         },
         {
           "title": "美股七巨头收盘播报｜周三（10月14日），美国科技股七巨头（Magnificent 7）指数跌1.73%，报235.99点，大致平开之后持续下跌，持续脱离周二所创盘中历史新高241.53点和收盘历史最高位。 “超大”市值科技股指数收跌2.54%，报465.73点。",
@@ -208,9 +219,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
+        },
+        {
+          "title": "美CPI反弹幅度超预期 美股三大期指集体走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2504896",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时25分 ~ 09时19分]"
         },
         {
           "title": "美股加密货币与加密货币关联指数收跌8.06%，报59.99点。 最近24小时，现货比特币跌2.04%，暂报81658.81美元，美国CPI通胀数据发布后转跌。 现货以太坊跌3.81%，暂报2412.308美元。",
@@ -219,7 +242,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -236,6 +259,18 @@
           "time_info": "[02时25分 ~ 06时09分]"
         },
         {
+          "title": "内存崩溃，高盛：谁高位接盘了美股科技？",
+          "url": "https://wallstreetcn.com/articles/3783632",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时09分 ~ 09时19分]"
+        },
+        {
           "title": "传奇投资者Paul Tudor Jones：当前美股类似2000年科网泡沫破灭前夕，我明年将全年做空",
           "url": "https://wallstreetcn.com/articles/3783579",
           "source": "华尔街见闻",
@@ -248,15 +283,26 @@
           "time_info": "[02时25分 ~ 06时09分]"
         },
         {
-          "title": "内存崩溃，高盛：谁高位接盘了美股科技？",
-          "url": "https://wallstreetcn.com/articles/3783632",
-          "source": "华尔街见闻",
+          "title": "美股收盘：科技题材全线下挫 纳指跌近2% 伯克希尔十连涨",
+          "url": "https://www.cls.cn/detail/2505098",
+          "source": "财联社热门",
           "ranks": [
-            9
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时09分"
+          "time_info": "09时19分"
+        },
+        {
+          "title": "美股三大指数集体收跌",
+          "url": "https://www.douyin.com/hot/2695848",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
         },
         {
           "title": "美股三大指数集体低开",
@@ -276,7 +322,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -287,7 +333,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -309,9 +355,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
+        },
+        {
+          "title": "知名对冲基金经理全面看空美股",
+          "url": "https://www.toutiao.com/trending/7696553378100284982/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
         },
         {
           "title": "周三（10月14日），彭博电动汽车价格回报指数跌0.72%，报3053.81点。 亚太盘初以来，至美股开盘处于上涨状态，美股开盘后延续北京时间13:00以来的持续下挫走势。",
@@ -320,7 +377,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         }
@@ -328,7 +385,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "数学家如何评价OpenAI公开论文",
@@ -343,15 +400,37 @@
           "time_info": "[02时25分 ~ 06时09分]"
         },
         {
+          "title": "OpenAI称攻克NS方程问题为何引争议",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E7%A7%B0%E6%94%BB%E5%85%8BNS%E6%96%B9%E7%A8%8B%E9%97%AE%E9%A2%98%E4%B8%BA%E4%BD%95%E5%BC%95%E4%BA%89%E8%AE%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
           "title": "美国八个州因用户安全问题起诉OpenAI",
           "url": "https://flash.jin10.com/detail/20261015052727779800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
+        },
+        {
+          "title": "OpenAI 员工涉嫌在高管会议室安装窃听器，结果被自家 AI 协助破案，如何评价这起事件？",
+          "url": "https://www.zhihu.com/question/2093575542540875135",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
         },
         {
           "title": "怎么看 OpenAI 的 NS 数学证明被发现其实没遵循 Spanish program？",
@@ -366,13 +445,24 @@
           "time_info": "[02时25分 ~ 06时09分]"
         },
         {
+          "title": "我觉得 openai 最近这段时间写出来的所有论文，全部都是错误的，这难道不是很明显的吗？",
+          "url": "https://www.zhihu.com/question/2092058455427359070",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
           "title": "OpenAI窃听案嫌疑人被捕前曾为家人预订飞往沙特阿拉伯的单程机票",
           "url": "https://wallstreetcn.com/livenews/3178911",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         }
@@ -380,7 +470,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "美CPI重燃加息押注，美股低开、AI交易受挫，美银盘中跌近9%，短期美债跳水、美元拉升",
@@ -400,7 +490,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -411,9 +501,59 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
+        },
+        {
+          "title": "股市下跌打击风险情绪 美债全线上涨",
+          "url": "https://flash.jin10.com/detail/20261015084046502800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "美债全线上涨，10年期收益率下行3个基点至5.15%。",
+          "url": "https://wallstreetcn.com/livenews/3178963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "41万亿美债真相是什么",
+          "url": "https://www.toutiao.com/trending/7696651717982555698/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek崩了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
         }
       ]
     },
@@ -428,9 +568,26 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美CPI重燃加息押注，纳指跌近2%，芯片指数六连跌，CoreWeave暴跌15%，美元创18个月新高",
+          "url": "https://wallstreetcn.com/articles/3783586",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
         }
       ]
     }
