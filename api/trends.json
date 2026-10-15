@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-15T15:12:11.640809+08:00",
-  "total_titles_processed": 793,
+  "generated_at": "2026-10-15T21:14:11.798597+08:00",
+  "total_titles_processed": 1010,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "特朗普忙“划清界限”：她不是我的家庭成员",
@@ -41,6 +41,18 @@
           "time_info": "06时09分"
         },
         {
+          "title": "承认自己“过火”，特朗普承诺不再斩首伊朗领导人",
+          "url": "https://news.ifeng.com/c/8xF4NVTrNk0",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时11分 ~ 21时14分]"
+        },
+        {
           "title": "“特朗普下令：赴美生子，倒查6年”",
           "url": "https://news.ifeng.com/c/8xDhkZPXY9v",
           "source": "凤凰网",
@@ -52,15 +64,26 @@
           "time_info": "[02时25分 ~ 09时19分]"
         },
         {
-          "title": "承认自己“过火”，特朗普承诺不再斩首伊朗领导人",
-          "url": "https://news.ifeng.com/c/8xF4NVTrNk0",
-          "source": "凤凰网",
+          "title": "特朗普会牺牲“忠臣”赫格塞斯吗",
+          "url": "https://www.toutiao.com/trending/7696849535011655187/",
+          "source": "今日头条",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时11分 ~ 15时12分]"
+          "time_info": "[21时13分 ~ 21时14分]"
+        },
+        {
+          "title": "特朗普考虑介入对胡塞打击，胡塞威胁把在中东美国人纳入攻击目标",
+          "url": "https://www.cls.cn/detail/2505549",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时13分 ~ 21时14分]"
         },
         {
           "title": "英国男子闯虎栏身亡后，特朗普发与老虎嬉戏AI视频遭网友痛骂",
@@ -207,6 +230,17 @@
           "time_info": "02时25分"
         },
         {
+          "title": "特朗普表示他可能支持暂停联邦柴油税。（NBC）",
+          "url": "https://wallstreetcn.com/livenews/3179478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
+        },
+        {
           "title": "泽连斯基为何罕见怒怼特朗普",
           "url": "https://www.toutiao.com/trending/7696431919977729555/",
           "source": "今日头条",
@@ -221,7 +255,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股科技题材全线下挫 纳指跌近2%",
@@ -244,6 +278,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3179510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
         },
         {
           "title": "美股收盘：科技题材全线下挫 纳指跌近2% 伯克希尔十连涨",
@@ -368,7 +413,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
         },
@@ -415,6 +460,239 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "大肥鱼罢工!DeepSeek又崩了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367231&amp;topic_name=%E5%A4%A7%E8%82%A5%E9%B1%BC%E7%BD%A2%E5%B7%A5%21DeepSeek%E5%8F%88%E5%B4%A9%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时11分 ~ 21时14分]"
+        },
+        {
+          "title": "10 月 15 日 DeepSeek 网页和 App 显示「服务器暂时不可用」，可能是哪些原因导致的？",
+          "url": "https://www.zhihu.com/question/2093997001205445814",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时11分 ~ 15时12分]"
+        },
+        {
+          "title": "10 月 15 日 DeepSeek 网页和 App 显示「服务器暂时不可用」，后发布补偿方案，可能是啥原因导致的？",
+          "url": "https://www.zhihu.com/question/2093997001205445814",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时13分 ~ 21时14分]"
+        },
+        {
+          "title": "DeepSeek宣布故障补偿方案",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%A3%E5%B8%83%E6%95%85%E9%9A%9C%E8%A1%A5%E5%81%BF%E6%96%B9%E6%A1%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时13分 ~ 21时14分]"
+        },
+        {
+          "title": "DeepSeek故障补偿",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%95%85%E9%9A%9C%E8%A1%A5%E5%81%BF%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时13分 ~ 21时14分]"
+        },
+        {
+          "title": "DeepSeek发布补偿方案",
+          "url": "https://www.douyin.com/hot/2697185",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时13分 ~ 21时14分]"
+        },
+        {
+          "title": "DeepSeek恢复服务",
+          "url": "https://www.toutiao.com/trending/7696697739286941247/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时11分 ~ 15时12分]"
+        },
+        {
+          "title": "如何评价 DeepSeek 停摆 5 小时后，按最近七日 api 消耗向用户发放补偿赠金？",
+          "url": "https://www.zhihu.com/question/2094116217489450760",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时13分 ~ 21时14分]"
+        },
+        {
+          "title": "如何看待 opencode go 将 deepseek v4.1 flash 单独提到了 80 美元额度支持？",
+          "url": "https://www.zhihu.com/question/2093027350602593089",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时13分 ~ 21时14分]"
+        },
+        {
+          "title": "DeepSeek宣布故障补偿方案",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%AE%A3%E5%B8%83%E6%95%85%E9%9A%9C%E8%A1%A5%E5%81%BF%E6%96%B9%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时13分 ~ 21时14分]"
+        },
+        {
+          "title": "DeepSeek崩了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "美CPI重燃加息押注，美股低开、AI交易受挫，美银盘中跌近9%，短期美债跳水、美元拉升",
+          "url": "https://wallstreetcn.com/articles/3783586",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 06时09分]"
+        },
+        {
+          "title": "AI交易退潮、芯片股重挫，美股期货短线小幅走低，SK海力士盘前跌约6%，美债涨幅扩大",
+          "url": "https://wallstreetcn.com/articles/3783663",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时13分 ~ 21时14分]"
+        },
+        {
+          "title": "美债收益率在CPI后冲高回落 市场评估通胀数据与美联储官员讲话",
+          "url": "https://flash.jin10.com/detail/20261015052650279800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时09分"
+        },
+        {
+          "title": "股市走低叠加收益率吸引 美债避险交易卷土重来",
+          "url": "https://wallstreetcn.com/livenews/3179215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时12分"
+        },
+        {
+          "title": "本月第二次！AI领域上演“砸塌美债收益率”式大跌",
+          "url": "https://www.cls.cn/detail/2505522",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时13分 ~ 21时14分]"
+        },
+        {
+          "title": "美债收益率在美国CPI发布后冲高回落，两年期实际收益率跌约6.3个基点，市场权衡通胀数据与美联储官员讲话",
+          "url": "https://wallstreetcn.com/livenews/3178922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时09分"
+        },
+        {
+          "title": "股市下跌打击风险情绪 美债全线上涨",
+          "url": "https://flash.jin10.com/detail/20261015084046502800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "美债全线上涨，10年期收益率下行3个基点至5.15%。",
+          "url": "https://wallstreetcn.com/livenews/3178963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "41万亿美债真相是什么",
+          "url": "https://www.toutiao.com/trending/7696651717982555698/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时19分"
         }
       ]
     },
@@ -504,139 +782,6 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "美CPI重燃加息押注，美股低开、AI交易受挫，美银盘中跌近9%，短期美债跳水、美元拉升",
-          "url": "https://wallstreetcn.com/articles/3783586",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时25分 ~ 06时09分]"
-        },
-        {
-          "title": "美债收益率在CPI后冲高回落 市场评估通胀数据与美联储官员讲话",
-          "url": "https://flash.jin10.com/detail/20261015052650279800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时09分"
-        },
-        {
-          "title": "股市走低叠加收益率吸引 美债避险交易卷土重来",
-          "url": "https://wallstreetcn.com/livenews/3179215",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时12分"
-        },
-        {
-          "title": "美债收益率在美国CPI发布后冲高回落，两年期实际收益率跌约6.3个基点，市场权衡通胀数据与美联储官员讲话",
-          "url": "https://wallstreetcn.com/livenews/3178922",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时09分"
-        },
-        {
-          "title": "股市下跌打击风险情绪 美债全线上涨",
-          "url": "https://flash.jin10.com/detail/20261015084046502800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
-        },
-        {
-          "title": "美债全线上涨，10年期收益率下行3个基点至5.15%。",
-          "url": "https://wallstreetcn.com/livenews/3178963",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
-        },
-        {
-          "title": "41万亿美债真相是什么",
-          "url": "https://www.toutiao.com/trending/7696651717982555698/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "大肥鱼罢工!DeepSeek又崩了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367231&amp;topic_name=%E5%A4%A7%E8%82%A5%E9%B1%BC%E7%BD%A2%E5%B7%A5%21DeepSeek%E5%8F%88%E5%B4%A9%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时11分 ~ 15时12分]"
-        },
-        {
-          "title": "10 月 15 日 DeepSeek 网页和 App 显示「服务器暂时不可用」，可能是哪些原因导致的？",
-          "url": "https://www.zhihu.com/question/2093997001205445814",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时11分 ~ 15时12分]"
-        },
-        {
-          "title": "DeepSeek恢复服务",
-          "url": "https://www.toutiao.com/trending/7696697739286941247/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时11分 ~ 15时12分]"
-        },
-        {
-          "title": "DeepSeek崩了",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
@@ -666,7 +811,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美CPI重燃加息押注，纳指跌近2%，芯片指数六连跌，CoreWeave暴跌15%，美元创18个月新高",
@@ -676,8 +821,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时19分 ~ 15时12分]"
+          "appearance_count": 5,
+          "time_info": "[09时19分 ~ 21时14分]"
+        },
+        {
+          "title": "美国PPI数据公布后，美元指数短线走高，现货黄金短线走低",
+          "url": "https://wallstreetcn.com/livenews/3179502",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
         }
       ]
     }
