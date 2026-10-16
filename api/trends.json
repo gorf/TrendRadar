@@ -1,11 +1,260 @@
 {
-  "generated_at": "2026-10-16T06:02:54.195753+08:00",
-  "total_titles_processed": 413,
+  "generated_at": "2026-10-16T09:05:50.978050+08:00",
+  "total_titles_processed": 572,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "特朗普",
+      "match_count": 22,
+      "titles": [
+        {
+          "title": "美国总统特朗普：俄罗斯是一个幅员辽阔的国家。俄罗斯可以折损一百万人，而且他们还有数以百万计的其他人。乌克兰没有这样的人力。",
+          "url": "https://flash.jin10.com/detail/20261016083635930800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "美国总统特朗普：除了炼油厂，乌克兰方面（对俄）还有很多其他目标可以打击。",
+          "url": "https://flash.jin10.com/detail/20261016083023971800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "特朗普表示不会对伊朗用核武，称不认为会在伊朗部署地面部队",
+          "url": "https://wallstreetcn.com/livenews/3179767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及是否信任内塔尼亚胡）我不信任任何人。",
+          "url": "https://flash.jin10.com/detail/20261016083009504800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及民主党人）他们唯一能用来弹劾我的理由，就是我让我们的国家变得真正强大。",
+          "url": "https://flash.jin10.com/detail/20261016082927926800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "英国首相伯纳姆表示，他将试图帮助「修复」特朗普和泽连斯基二人之间的「（关系）桥梁」。他能做到吗？",
+          "url": "https://www.zhihu.com/question/2093925846901862591",
+          "source": "知乎",
+          "ranks": [
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时07分 ~ 06时02分]"
+        },
+        {
+          "title": "美国总统特朗普：（谈及前总统拜登赦免了多人）我可以自行赦免自己。我不希望为我工作的人经历多年的无谓折腾。",
+          "url": "https://flash.jin10.com/detail/20261016082407219800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "特朗普：乌克兰需要举行选举。 在炼油厂之外有很多其他目标可以打击。",
+          "url": "https://wallstreetcn.com/livenews/3179760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "美国总统特朗普：希望对任何杀害消防员的人判处死刑。",
+          "url": "https://flash.jin10.com/detail/20261016012720335800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时08分"
+        },
+        {
+          "title": "美国总统特朗普：泽连斯基不是个好对付的人。他比普京更难对付。",
+          "url": "https://flash.jin10.com/detail/20261016081751333800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "特朗普：不会对伊朗使用核弹。",
+          "url": "https://wallstreetcn.com/livenews/3179756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "美国总统特朗普：（被问及“炸弹之母”有关报道）这是一枚威力极大的炸弹。它就像一枚小型核弹。",
+          "url": "https://flash.jin10.com/detail/20261016081744737800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "美国总统特朗普： 墨西哥应该打击贩毒集团，但他们做不到。",
+          "url": "https://flash.jin10.com/detail/20261016012404494800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时08分"
+        },
+        {
+          "title": "特朗普政府起诉加州，试图阻止2万张选票被计入",
+          "url": "https://flash.jin10.com/detail/20261016052101575800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "美国总统特朗普：与俄罗斯等讨论去核化问题。",
+          "url": "https://flash.jin10.com/detail/20261016081533615800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "据Axios：特朗普政府正在起诉加利福尼亚州以及两名选举官员。理由是，据称有一些不符合资格的选民收到了用于11月选举的邮寄选票。",
+          "url": "https://flash.jin10.com/detail/20261016051554430800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "美国总统特朗普：不认为会向伊朗派遣地面部队。",
+          "url": "https://flash.jin10.com/detail/20261016081521793800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "美国总统特朗普：不会对伊朗动用核武器。",
+          "url": "https://flash.jin10.com/detail/20261016081416521800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "特朗普11月赴菲律宾出席东盟峰会",
+          "url": "https://www.toutiao.com/trending/7696312285712154650/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "美国总统特朗普：（就众议员奥马尔美公民身份遭审查一事）未参与其中。",
+          "url": "https://flash.jin10.com/detail/20261016081227097800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "美方称特朗普并未下令限制乌克兰使用SpaceX卫星服务",
+          "url": "https://wallstreetcn.com/livenews/3179701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "特朗普称不会直播对胡德堡枪击案凶手的枪决",
+          "url": "https://wallstreetcn.com/livenews/3179615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时08分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "如何评价 DeepSeek 停摆 5 小时后，按最近七日 api 消耗向用户发放补偿赠金？",
@@ -13,22 +262,24 @@
           "source": "知乎",
           "ranks": [
             3,
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时07分 ~ 06时02分]"
+          "appearance_count": 4,
+          "time_info": "[02时07分 ~ 09时05分]"
         },
         {
           "title": "已恢复!DeepSeek发故障补偿",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367231&amp;topic_name=%E5%B7%B2%E6%81%A2%E5%A4%8D%21DeepSeek%E5%8F%91%E6%95%85%E9%9A%9C%E8%A1%A5%E5%81%BF",
           "source": "贴吧",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时07分 ~ 06时02分]"
+          "appearance_count": 4,
+          "time_info": "[02时07分 ~ 09时05分]"
         },
         {
           "title": "DeepSeek公布补偿方案",
@@ -36,11 +287,12 @@
           "source": "今日头条",
           "ranks": [
             5,
-            6
+            6,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时07分 ~ 06时02分]"
+          "appearance_count": 4,
+          "time_info": "[02时07分 ~ 09时05分]"
         },
         {
           "title": "DeepSeek宣布故障补偿方案",
@@ -63,19 +315,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时07分 ~ 06时02分]"
+          "appearance_count": 4,
+          "time_info": "[02时07分 ~ 09时05分]"
         },
         {
           "title": "DeepSeek致歉，补偿方案公布",
           "url": "https://news.ifeng.com/c/8xFNuMcEhvB",
           "source": "凤凰网",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时07分 ~ 06时02分]"
+          "appearance_count": 4,
+          "time_info": "[02时07分 ~ 09时05分]"
         },
         {
           "title": "DeepSeek优化27倍token教程",
@@ -84,99 +337,26 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 7,
-      "titles": [
+        },
         {
-          "title": "英国首相伯纳姆表示，他将试图帮助「修复」特朗普和泽连斯基二人之间的「（关系）桥梁」。他能做到吗？",
-          "url": "https://www.zhihu.com/question/2093925846901862591",
-          "source": "知乎",
+          "title": "DeepSeek宕机5小时：一上新就崩？影响有多大？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34257535",
+          "source": "澎湃新闻",
           "ranks": [
-            17,
             20
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时07分 ~ 06时02分]"
-        },
-        {
-          "title": "美国总统特朗普：希望对任何杀害消防员的人判处死刑。",
-          "url": "https://flash.jin10.com/detail/20261016012720335800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时08分"
-        },
-        {
-          "title": "美国总统特朗普： 墨西哥应该打击贩毒集团，但他们做不到。",
-          "url": "https://flash.jin10.com/detail/20261016012404494800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时08分"
-        },
-        {
-          "title": "特朗普政府起诉加州，试图阻止2万张选票被计入",
-          "url": "https://flash.jin10.com/detail/20261016052101575800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "据Axios：特朗普政府正在起诉加利福尼亚州以及两名选举官员。理由是，据称有一些不符合资格的选民收到了用于11月选举的邮寄选票。",
-          "url": "https://flash.jin10.com/detail/20261016051554430800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "美方称特朗普并未下令限制乌克兰使用SpaceX卫星服务",
-          "url": "https://wallstreetcn.com/livenews/3179701",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "特朗普称不会直播对胡德堡枪击案凶手的枪决",
-          "url": "https://wallstreetcn.com/livenews/3179615",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时08分"
+          "time_info": "09时05分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "AI担忧刺激美股轮动，标普道指反弹，芯片指数一度跌超4%，CoreWeave信用风险创新高",
@@ -196,9 +376,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "美股收盘：惊魂逆转！科技股深夜上演绝境反击",
+          "url": "https://www.cls.cn/detail/2506261",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
         },
         {
           "title": "美股",
@@ -219,7 +410,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -230,7 +421,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -241,7 +432,57 @@
           "ranks": [
             29
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "OpenAI ：推出Rosalind学术计划，符合条件的高校实验室可免费使用GPT-Rosalind。 Rosalind学术计划的数据默认不会用于模型训练。 Rosalind学术计划提供最多30个Business Standard免费席位，有效期12个月。首期Rosalind学术计划不含API访问权限。 Rosalind学术计划目前面向美国高校的学术实验室开放。",
+          "url": "https://wallstreetcn.com/livenews/3179713",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "美银：AI泡沫破裂或引发美股、美债收益率同步下跌，OpenAI收入事件已提前预演",
+          "url": "https://wallstreetcn.com/articles/3783700",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "美国八州联手起诉OpenAI，称ChatGPT危害儿童和老年人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34254005",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "数学家如何评价OpenAI公开论文",
+          "url": "https://search.bilibili.com/all?keyword=%E6%95%B0%E5%AD%A6%E5%AE%B6%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7OpenAI%E5%85%AC%E5%BC%80%E8%AE%BA%E6%96%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         }
@@ -258,7 +499,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -287,34 +528,6 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI ：推出Rosalind学术计划，符合条件的高校实验室可免费使用GPT-Rosalind。 Rosalind学术计划的数据默认不会用于模型训练。 Rosalind学术计划提供最多30个Business Standard免费席位，有效期12个月。首期Rosalind学术计划不含API访问权限。 Rosalind学术计划目前面向美国高校的学术实验室开放。",
-          "url": "https://wallstreetcn.com/livenews/3179713",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "数学家如何评价OpenAI公开论文",
-          "url": "https://search.bilibili.com/all?keyword=%E6%95%B0%E5%AD%A6%E5%AE%B6%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7OpenAI%E5%85%AC%E5%BC%80%E8%AE%BA%E6%96%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
@@ -336,7 +549,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         }
@@ -344,8 +557,19 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "黄仁勋力挺CoreWeave，纳指惊险收涨，道指反弹超1%，芯片指数七连跌，欧美债市涨",
+          "url": "https://wallstreetcn.com/articles/3783663",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
         {
           "title": "周四（10月15日，美国CPI通胀数据发布次日）纽约尾盘，美国10年期基准国债收益率跌12.74个基点，报5.0580%，日内交投于5.1561%-5.0351%区间，亚太盘初跳空低开，在持续下跌的行情中、（美国PPI数据发布之后）北京时间21:58逼近9月23日底部4.9307%，10:00以来主要交投于5.1%关口附近。 两年期美债收益率跌6.13个基点，报4.7382%，日内交投于4.7848%-4.6791%区间，PPI数据发布后上蹿下跳——刷新日高之后迅速刷新日低。",
           "url": "https://wallstreetcn.com/livenews/3179719",
@@ -353,7 +577,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         }
