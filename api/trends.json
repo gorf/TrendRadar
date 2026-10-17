@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-17T16:26:12.701303+08:00",
-  "total_titles_processed": 865,
+  "generated_at": "2026-10-17T20:50:26.627777+08:00",
+  "total_titles_processed": 1059,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 34,
       "titles": [
         {
           "title": "俄乌“能源停火”破裂，俄专家：特朗普调停能力减弱",
@@ -30,6 +30,39 @@
           "time_info": "[16时25分 ~ 16时26分]"
         },
         {
+          "title": "“特朗普暂停对俄制裁，是历史性时刻”",
+          "url": "https://news.ifeng.com/c/8xIg4YWs1S4",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
+          "title": "特朗普新闻秘书上任五天被解职，美媒：一瓶牛奶保质期比这都长",
+          "url": "https://flash.jin10.com/detail/20261017202606160800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
+          "title": "特朗普：我不知道普京是否会来参加G20峰会，但我希望能见到他",
+          "url": "https://wallstreetcn.com/livenews/3180574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
           "title": "美国总统特朗普：拜登向乌克兰提供了价值3500亿美元的装备和现金。这不好，非常不好，实在太糟糕了。",
           "url": "https://flash.jin10.com/detail/20261017053548187800",
           "source": "金十数据",
@@ -39,6 +72,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "特朗普：我不知道普京是否会来参加G20峰会，但我希望能见到他",
+          "url": "https://news.ifeng.com/c/8xIg9fCOn9f",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
         },
         {
           "title": "特朗普称可能打击伊朗镐山核设施",
@@ -52,22 +96,23 @@
           "time_info": "[01时15分 ~ 07时23分]"
         },
         {
-          "title": "特朗普：我化妆很淡，都是自己动手，因为不化妆看起来像个死人",
-          "url": "https://v.ifeng.com/c/8xI38csArPf",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时48分 ~ 16时26分]"
-        },
-        {
           "title": "上任仅5天 白宫新闻秘书遭特朗普“劝退”",
           "url": "https://www.cls.cn/detail/2507355",
           "source": "财联社热门",
           "ranks": [
             10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时48分 ~ 20时50分]"
+        },
+        {
+          "title": "特朗普：我化妆很淡，都是自己动手，因为不化妆看起来像个死人",
+          "url": "https://v.ifeng.com/c/8xI38csArPf",
+          "source": "凤凰网",
+          "ranks": [
             9
           ],
           "is_new": false,
@@ -227,7 +272,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -249,9 +294,42 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
+        },
+        {
+          "title": "俄官员称特朗普放松对俄制裁有“历史意义”",
+          "url": "https://flash.jin10.com/detail/20261017194041071800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
+          "title": "俄官员称特朗普放松对俄制裁有“历史意义”",
+          "url": "https://wallstreetcn.com/livenews/3180561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
+          "title": "特朗普签署行政令豁免对俄多项制裁",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34269052",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
         },
         {
           "title": "美国总统特朗普：伊朗问题很快就会结束。",
@@ -263,6 +341,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "AI改名SI：特朗普无厘头操作背后的科技、外交和政治心机",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34263975",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
         },
         {
           "title": "美国总统特朗普周六日程一览",
@@ -301,7 +390,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股收盘：科技重挫纳指跌超2% 红利、能源巨头再创新高",
@@ -313,8 +402,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时22分 ~ 16时26分]"
+          "appearance_count": 6,
+          "time_info": "[07时22分 ~ 20时50分]"
         },
         {
           "title": "沃什IMF年会上未释放加息信号 美股三大期指窄幅震荡 | 今夜看点",
@@ -324,11 +413,12 @@
             5,
             7,
             11,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时15分 ~ 16时26分]"
+          "appearance_count": 9,
+          "time_info": "[01时15分 ~ 20时50分]"
         },
         {
           "title": "AI交易忧虑压垮美股，纳指跌超2%、CoreWeave暴跌12%，VIX一度升破22，布油涨破110",
@@ -338,8 +428,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时48分 ~ 16时26分]"
+          "appearance_count": 4,
+          "time_info": "[11时48分 ~ 20时50分]"
         },
         {
           "title": "【早报】美股纳指大跌超500点，半导体、存储股全线跳水；黄仁勋谈“AI市场震荡”；国际油价大涨；胜宏科技、豪威集团等计划回购股份",
@@ -349,8 +439,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时48分 ~ 16时26分]"
+          "appearance_count": 4,
+          "time_info": "[11时48分 ~ 20时50分]"
         },
         {
           "title": "AI交易忧虑压垮美股，纳指跌超2%、CoreWeave暴跌12%，芯片指数八连跌，布油涨破110",
@@ -362,6 +452,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时22分 ~ 07时23分]"
+        },
+        {
+          "title": "美股最危险的分化：普通股票已经跌惨，AI巨头还能撑多久？",
+          "url": "https://wallstreetcn.com/articles/3783832",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
         },
         {
           "title": "AI交易忧虑压垮美股，盘中纳指跌超2%、CoreWeave跌超10%，芯片指数八连跌",
@@ -488,7 +589,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "已恢复!DeepSeek发故障补偿",
@@ -497,11 +598,36 @@
           "ranks": [
             9,
             14,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时15分 ~ 16时26分]"
+          "appearance_count": 9,
+          "time_info": "[01时15分 ~ 20时50分]"
+        },
+        {
+          "title": "如何评价 DeepSeek V4.1 Flash 1017?",
+          "url": "https://www.zhihu.com/question/2094773240036061683",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
+          "title": "用DeepSeek翻唱人是猫",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8DeepSeek%E7%BF%BB%E5%94%B1%E4%BA%BA%E6%98%AF%E7%8C%AB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            23,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时15分 ~ 20时50分]"
         },
         {
           "title": "DeepSeek 将整合多团队成立产品部，崔添翼任负责人，怎样看待这一调整？会带来哪些影响？",
@@ -516,18 +642,6 @@
           "time_info": "[07时22分 ~ 11时48分]"
         },
         {
-          "title": "用DeepSeek翻唱人是猫",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8DeepSeek%E7%BF%BB%E5%94%B1%E4%BA%BA%E6%98%AF%E7%8C%AB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时15分 ~ 16时26分]"
-        },
-        {
           "title": "如何看待网友说 DeepSeek 在爱里长大？",
           "url": "https://www.zhihu.com/question/2093751116613866755",
           "source": "知乎",
@@ -539,6 +653,17 @@
           "time_info": "[01时15分 ~ 07时23分]"
         },
         {
+          "title": "Deepseek V4.1 Flash新版本发布",
+          "url": "https://search.bilibili.com/all?keyword=Deepseek%20V4.1%20Flash",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
           "title": "DeepSeek上线搜索抓取API",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%B8%8A%E7%BA%BF%E6%90%9C%E7%B4%A2%E6%8A%93%E5%8F%96API",
           "source": "bilibili 热搜",
@@ -548,6 +673,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
+        },
+        {
+          "title": "DeepSeek新版本 许愿式编程一键成真",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%96%B0%E7%89%88%E6%9C%AC+%E8%AE%B8%E6%84%BF%E5%BC%8F%E7%BC%96%E7%A8%8B%E4%B8%80%E9%94%AE%E6%88%90%E7%9C%9F",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
+          "title": "DeepSeek V4.1 Flash发布新版本",
+          "url": "https://wallstreetcn.com/livenews/3180557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
         }
       ]
     },
@@ -613,6 +760,59 @@
       ]
     },
     {
+      "keyword_group": "招商银行 万华化学 福耀玻璃 旗滨集团 苏农银行 奥浦迈 爱美客 美的集团 潍柴动力 苏泊尔 鱼跃医疗 牧原股份 振邦智能 华兰生物 证监会",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "证监会开出2张巨额罚单，3名自然人被合计罚没逾5亿元",
+          "url": "https://www.cls.cn/detail/2507088",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时15分 ~ 16时26分]"
+        },
+        {
+          "title": "证监会开出巨额罚单：3名自然人因操纵市场及内幕交易，合计被罚没超5亿元",
+          "url": "https://flash.jin10.com/detail/20261017110312553800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时48分"
+        },
+        {
+          "title": "证监会开出两张巨额罚单，金额共计超过5亿元",
+          "url": "https://wallstreetcn.com/livenews/3180523",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 16时26分]"
+        },
+        {
+          "title": "3名牛散被证监会罚没超5亿",
+          "url": "https://www.toutiao.com/trending/7696677750280077338/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 4,
       "titles": [
@@ -665,44 +865,41 @@
       ]
     },
     {
-      "keyword_group": "招商银行 万华化学 福耀玻璃 旗滨集团 苏农银行 奥浦迈 爱美客 美的集团 潍柴动力 苏泊尔 鱼跃医疗 牧原股份 振邦智能 华兰生物 证监会",
+      "keyword_group": "银行消保 金融监管 人民银行",
       "match_count": 3,
       "titles": [
         {
-          "title": "证监会开出2张巨额罚单，3名自然人被合计罚没逾5亿元",
-          "url": "https://www.cls.cn/detail/2507088",
-          "source": "财联社热门",
+          "title": "中国人民银行行长潘功胜会见相关国家央行行长",
+          "url": "https://wallstreetcn.com/livenews/3180544",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时15分 ~ 16时26分]"
-        },
-        {
-          "title": "证监会开出巨额罚单：3名自然人因操纵市场及内幕交易，合计被罚没超5亿元",
-          "url": "https://flash.jin10.com/detail/20261017110312553800",
-          "source": "金十数据",
-          "ranks": [
-            5
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时48分"
+          "time_info": "16时26分"
         },
         {
-          "title": "证监会开出两张巨额罚单，金额共计超过5亿元",
-          "url": "https://wallstreetcn.com/livenews/3180523",
+          "title": "中国人民银行行长潘功胜出席第54届国际货币与金融委员会会议",
+          "url": "https://wallstreetcn.com/livenews/3180556",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            24
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
+          "title": "中国人民银行行长潘功胜会见相关国家央行行长",
+          "url": "https://flash.jin10.com/detail/20261017140333581800",
+          "source": "金十数据",
+          "ranks": [
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时48分 ~ 16时26分]"
+          "appearance_count": 1,
+          "time_info": "16时26分"
         }
       ]
     },
@@ -746,34 +943,6 @@
       ]
     },
     {
-      "keyword_group": "银行消保 金融监管 人民银行",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "中国人民银行行长潘功胜会见相关国家央行行长",
-          "url": "https://wallstreetcn.com/livenews/3180544",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
-        },
-        {
-          "title": "中国人民银行行长潘功胜会见相关国家央行行长",
-          "url": "https://flash.jin10.com/detail/20261017140333581800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 1,
       "titles": [
@@ -799,11 +968,12 @@
           "url": "https://wallstreetcn.com/articles/3783830",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 16时26分]"
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 20时50分]"
         }
       ]
     },
