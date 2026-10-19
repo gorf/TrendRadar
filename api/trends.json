@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-19T08:59:45.532214+08:00",
-  "total_titles_processed": 585,
+  "generated_at": "2026-10-19T14:02:02.121488+08:00",
+  "total_titles_processed": 799,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "公开施压！泽连斯基称“星链”限速“有意为之，仅针对乌克兰”，特朗普签署行政令豁免对俄多项制裁",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时56分 ~ 08时59分]"
+        },
+        {
+          "title": "特朗普：你不愿结束战争，泽连斯基：你逼乌克兰投降",
+          "url": "https://news.ifeng.com/c/8xLGtqVJ3MX",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时01分 ~ 14时02分]"
         },
         {
           "title": "特朗普发文支持内塔尼亚胡竞选连任总理 能扭转选情吗？",
@@ -66,6 +77,17 @@
           "time_info": "[01时56分 ~ 06时55分]"
         },
         {
+          "title": "特朗普新任白宫发言人上任仅 5 天就被解雇，创下史上最短纪录，为什么会这样？",
+          "url": "https://www.zhihu.com/question/2094636010722411929",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时59分 ~ 14时02分]"
+        },
+        {
           "title": "特朗普：一直打算支持内塔尼亚胡，只是不想太早表态",
           "url": "https://flash.jin10.com/detail/20261019012501322800",
           "source": "金十数据",
@@ -111,17 +133,6 @@
           "time_info": "06时55分"
         },
         {
-          "title": "特朗普新任白宫发言人上任仅 5 天就被解雇，创下史上最短纪录，为什么会这样？",
-          "url": "https://www.zhihu.com/question/2094636010722411929",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
           "title": "伊朗军方高层嘲讽特朗普“老到站不起身”，警告美以勿再误判",
           "url": "https://flash.jin10.com/detail/20261019024923039800",
           "source": "金十数据",
@@ -131,6 +142,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        },
+        {
+          "title": "一名亲特朗普商人扩大亚美尼亚铜矿投资",
+          "url": "https://flash.jin10.com/detail/20261019133528562800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "特朗普呼吁法国关闭边境",
@@ -146,6 +168,81 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "【早报】两部门：支持体育运动进影院；DeepSeek新模型登场",
+          "url": "https://www.cls.cn/detail/2507548",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 08时59分]"
+        },
+        {
+          "title": "梁文锋和 DeepSeek，为什么配得上 「 国运级 」 三个字？",
+          "url": "https://www.zhihu.com/question/2093628371448217836",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时01分 ~ 14时02分]"
+        },
+        {
+          "title": "网传 DeepSeek V4.1 Flash 1017 指纹测出 GPT-6 Astra，这是怎么回事？",
+          "url": "https://www.zhihu.com/question/2094959269275878409",
+          "source": "知乎",
+          "ranks": [
+            13,
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时56分 ~ 06时55分]"
+        },
+        {
+          "title": "Deepseek 对百度搜索的冲击有多大？",
+          "url": "https://www.zhihu.com/question/13453602540",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时01分 ~ 14时02分]"
+        },
+        {
+          "title": "Deepseek公布API网页搜索与抓取费用：每1000次成功请求5元",
+          "url": "https://wallstreetcn.com/livenews/3180663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时56分 ~ 04时24分]"
+        },
+        {
+          "title": "如何评价 DeepSeek 开放自研搜索 API，单价为每 1000 次成功请求 5 元？",
+          "url": "https://www.zhihu.com/question/2094892066190915387",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时01分 ~ 14时02分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "银行消保 金融监管 人民银行",
       "match_count": 3,
       "titles": [
@@ -156,9 +253,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时59分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时59分 ~ 14时02分]"
         },
         {
           "title": "四家金融监管部门负责人将发声！金融街论坛年会今日开幕",
@@ -181,48 +278,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "【早报】两部门：支持体育运动进影院；DeepSeek新模型登场",
-          "url": "https://www.cls.cn/detail/2507548",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时56分 ~ 08时59分]"
-        },
-        {
-          "title": "网传 DeepSeek V4.1 Flash 1017 指纹测出 GPT-6 Astra，这是怎么回事？",
-          "url": "https://www.zhihu.com/question/2094959269275878409",
-          "source": "知乎",
-          "ranks": [
-            13,
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 06时55分]"
-        },
-        {
-          "title": "Deepseek公布API网页搜索与抓取费用：每1000次成功请求5元",
-          "url": "https://wallstreetcn.com/livenews/3180663",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时56分 ~ 04时24分]"
         }
       ]
     },
@@ -268,6 +323,34 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌将 TPU AI 芯片送入太空，每次执行约 15 分钟运算，之后必须暂停散热，太空算力中心前景如何？",
+          "url": "https://www.zhihu.com/question/2094251044960211894",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时01分 ~ 14时02分]"
+        },
+        {
+          "title": "谷歌将 TPU 送上太空却因散热难题停机，太空算力中心前景如何？",
+          "url": "https://www.zhihu.com/question/2094251044960211894",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -289,24 +372,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌将 TPU 送上太空却因散热难题停机，太空算力中心前景如何？",
-          "url": "https://www.zhihu.com/question/2094251044960211894",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
         }
