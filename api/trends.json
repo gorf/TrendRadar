@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-10-19T14:02:02.121488+08:00",
-  "total_titles_processed": 799,
+  "generated_at": "2026-10-19T22:30:28.487942+08:00",
+  "total_titles_processed": 1046,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "特朗普：你不愿结束战争，泽连斯基：你逼乌克兰投降",
+          "url": "https://news.ifeng.com/c/8xLGtqVJ3MX",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时01分 ~ 22时30分]"
+        },
         {
           "title": "公开施压！泽连斯基称“星链”限速“有意为之，仅针对乌克兰”，特朗普签署行政令豁免对俄多项制裁",
           "url": "https://wallstreetcn.com/articles/3783843",
@@ -18,17 +30,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时56分 ~ 08时59分]"
-        },
-        {
-          "title": "特朗普：你不愿结束战争，泽连斯基：你逼乌克兰投降",
-          "url": "https://news.ifeng.com/c/8xLGtqVJ3MX",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时01分 ~ 14时02分]"
         },
         {
           "title": "特朗普发文支持内塔尼亚胡竞选连任总理 能扭转选情吗？",
@@ -51,6 +52,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        },
+        {
+          "title": "特朗普新任白宫发言人上任仅 5 天就被解雇，创下史上最短纪录，为什么会这样？",
+          "url": "https://www.zhihu.com/question/2094636010722411929",
+          "source": "知乎",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时59分 ~ 22时30分]"
         },
         {
           "title": "美国能源部长Wright：俄罗斯帮助世界的唯一方式就是（与乌克兰）实现能源停火。 总统特朗普暂停对俄制裁是一种创新。 对（美国市场的）汽油价格不满意，但乐见油价正在下跌。 汽油价格、柴油价格已经在数周前见顶，我们希望价格继续下跌。 那些反对美国对俄实施豁免的态度根本就是错误的。",
@@ -77,15 +90,15 @@
           "time_info": "[01时56分 ~ 06时55分]"
         },
         {
-          "title": "特朗普新任白宫发言人上任仅 5 天就被解雇，创下史上最短纪录，为什么会这样？",
-          "url": "https://www.zhihu.com/question/2094636010722411929",
-          "source": "知乎",
+          "title": "不满豁免对俄制裁，担心更坏事情发生，美媒称泽连斯基决定“公开对抗特朗普”",
+          "url": "https://wallstreetcn.com/articles/3783873",
+          "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时59分 ~ 14时02分]"
+          "appearance_count": 2,
+          "time_info": "[22时29分 ~ 22时30分]"
         },
         {
           "title": "特朗普：一直打算支持内塔尼亚胡，只是不想太早表态",
@@ -150,7 +163,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
         },
@@ -168,122 +181,8 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "【早报】两部门：支持体育运动进影院；DeepSeek新模型登场",
-          "url": "https://www.cls.cn/detail/2507548",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时56分 ~ 08时59分]"
-        },
-        {
-          "title": "梁文锋和 DeepSeek，为什么配得上 「 国运级 」 三个字？",
-          "url": "https://www.zhihu.com/question/2093628371448217836",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时01分 ~ 14时02分]"
-        },
-        {
-          "title": "网传 DeepSeek V4.1 Flash 1017 指纹测出 GPT-6 Astra，这是怎么回事？",
-          "url": "https://www.zhihu.com/question/2094959269275878409",
-          "source": "知乎",
-          "ranks": [
-            13,
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 06时55分]"
-        },
-        {
-          "title": "Deepseek 对百度搜索的冲击有多大？",
-          "url": "https://www.zhihu.com/question/13453602540",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时01分 ~ 14时02分]"
-        },
-        {
-          "title": "Deepseek公布API网页搜索与抓取费用：每1000次成功请求5元",
-          "url": "https://wallstreetcn.com/livenews/3180663",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时56分 ~ 04时24分]"
-        },
-        {
-          "title": "如何评价 DeepSeek 开放自研搜索 API，单价为每 1000 次成功请求 5 元？",
-          "url": "https://www.zhihu.com/question/2094892066190915387",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时01分 ~ 14时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "银行消保 金融监管 人民银行",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "【早报】金融街论坛今日开幕，四家金融监管部门负责人将发声；科技龙头股，密集回购",
-          "url": "https://www.cls.cn/detail/2507781",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时59分 ~ 14时02分]"
-        },
-        {
-          "title": "四家金融监管部门负责人将发声！金融街论坛年会今日开幕",
-          "url": "https://wallstreetcn.com/livenews/3180701",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时55分"
-        },
-        {
-          "title": "四家金融监管部门负责人将发声！金融街论坛年会今日开幕",
-          "url": "https://flash.jin10.com/detail/20261019051837894800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时55分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 8,
       "titles": [
         {
           "title": "【早报】美股纳指大跌超500点，半导体、存储股全线跳水；黄仁勋谈“AI市场震荡”；国际油价大涨；胜宏科技、豪威集团等计划回购股份",
@@ -319,6 +218,310 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时55分"
+        },
+        {
+          "title": "美股科技题材集体反弹 关键半导体指数有望结束连跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2508914",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时29分 ~ 22时30分]"
+        },
+        {
+          "title": "美股盘初：纳指涨1.1%，费城半导体指数涨超3%，存储芯片股、光通信股普涨",
+          "url": "https://wallstreetcn.com/livenews/3181247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时30分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3181235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时30分"
+        },
+        {
+          "title": "金十图示：2026年10月19日（周一）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20261019214443987800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时30分"
+        },
+        {
+          "title": "X-energy美股盘前涨超13%，公司与美国电力公司AEP、亚马逊合作开发960兆瓦先进核电项目",
+          "url": "https://wallstreetcn.com/livenews/3181227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "【早报】两部门：支持体育运动进影院；DeepSeek新模型登场",
+          "url": "https://www.cls.cn/detail/2507548",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 08时59分]"
+        },
+        {
+          "title": "梁文锋和 DeepSeek，为什么配得上 「 国运级 」 三个字？",
+          "url": "https://www.zhihu.com/question/2093628371448217836",
+          "source": "知乎",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时01分 ~ 22时30分]"
+        },
+        {
+          "title": "网传 DeepSeek V4.1 Flash 1017 指纹测出 GPT-6 Astra，这是怎么回事？",
+          "url": "https://www.zhihu.com/question/2094959269275878409",
+          "source": "知乎",
+          "ranks": [
+            13,
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时56分 ~ 06时55分]"
+        },
+        {
+          "title": "如何评价 DeepSeek 开放自研搜索 API，单价为每 1000 次成功请求 5 元？",
+          "url": "https://www.zhihu.com/question/2094892066190915387",
+          "source": "知乎",
+          "ranks": [
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时01分 ~ 22时30分]"
+        },
+        {
+          "title": "Deepseek 对百度搜索的冲击有多大？",
+          "url": "https://www.zhihu.com/question/13453602540",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时01分 ~ 14时02分]"
+        },
+        {
+          "title": "Deepseek公布API网页搜索与抓取费用：每1000次成功请求5元",
+          "url": "https://wallstreetcn.com/livenews/3180663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时56分 ~ 04时24分]"
+        },
+        {
+          "title": "Deepseek对传统搜索的冲击有多大？",
+          "url": "https://www.zhihu.com/question/13453602540",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时29分 ~ 22时30分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "招商银行 万华化学 福耀玻璃 旗滨集团 苏农银行 奥浦迈 爱美客 美的集团 潍柴动力 苏泊尔 鱼跃医疗 牧原股份 振邦智能 华兰生物 证监会",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "证监会：全力应对多重超预期输入性风险挑战",
+          "url": "https://www.cls.cn/detail/2508614",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时29分 ~ 22时30分]"
+        },
+        {
+          "title": "证监会发文：规范“违规转让证券”的认定、处罚",
+          "url": "https://www.cls.cn/detail/2508803",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时29分 ~ 22时30分]"
+        },
+        {
+          "title": "李大霄谈证监会四项新措施",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88%E8%AF%81%E7%9B%91%E4%BC%9A%E5%9B%9B%E9%A1%B9%E6%96%B0%E6%8E%AA%E6%96%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时29分 ~ 22时30分]"
+        },
+        {
+          "title": "证监会：稳步推出北证50ETF",
+          "url": "https://www.toutiao.com/trending/7698306569678701083/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时29分 ~ 22时30分]"
+        },
+        {
+          "title": "证监会发布证券市场先行赔付指导意见",
+          "url": "https://www.toutiao.com/trending/7698330606808121865/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时29分 ~ 22时30分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "银行消保 金融监管 人民银行",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "【早报】金融街论坛今日开幕，四家金融监管部门负责人将发声；科技龙头股，密集回购",
+          "url": "https://www.cls.cn/detail/2507781",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时59分 ~ 14时02分]"
+        },
+        {
+          "title": "金融监管总局：依法将所有金融活动全部纳入监管",
+          "url": "https://www.cls.cn/detail/2508596",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时29分 ~ 22时30分]"
+        },
+        {
+          "title": "四家金融监管部门负责人将发声！金融街论坛年会今日开幕",
+          "url": "https://wallstreetcn.com/livenews/3180701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时55分"
+        },
+        {
+          "title": "金融监管总局：整治无序竞争取得成效",
+          "url": "https://www.toutiao.com/trending/7698172410423574555/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时29分 ~ 22时30分]"
+        },
+        {
+          "title": "四家金融监管部门负责人将发声！金融街论坛年会今日开幕",
+          "url": "https://flash.jin10.com/detail/20261019051837894800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "马斯克反思白宫往事 称美债问题只能靠AI和机器人解决",
+          "url": "https://www.cls.cn/detail/2507535",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 08时59分]"
+        },
+        {
+          "title": "芯片股反弹，纳指开盘涨1.3%，费城半导体指数涨超3%，油价高位回落，美债走高",
+          "url": "https://wallstreetcn.com/articles/3783911",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时29分 ~ 22时30分]"
+        },
+        {
+          "title": "AI投资从“通胀引擎”变“需求拖累”？美债对冲功能重获青睐",
+          "url": "https://flash.jin10.com/detail/20261019081145351800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
         }
       ]
     },
@@ -343,34 +546,6 @@
           "source": "知乎",
           "ranks": [
             14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "马斯克反思白宫往事 称美债问题只能靠AI和机器人解决",
-          "url": "https://www.cls.cn/detail/2507535",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时56分 ~ 08时59分]"
-        },
-        {
-          "title": "AI投资从“通胀引擎”变“需求拖累”？美债对冲功能重获青睐",
-          "url": "https://flash.jin10.com/detail/20261019081145351800",
-          "source": "金十数据",
-          "ranks": [
-            15
           ],
           "is_new": false,
           "appearance_count": 1,
