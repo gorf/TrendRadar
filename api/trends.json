@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-21T12:05:36.906927+08:00",
-  "total_titles_processed": 757,
+  "generated_at": "2026-10-21T17:56:03.238735+08:00",
+  "total_titles_processed": 972,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
-        {
-          "title": "特朗普对与中俄举行三方会谈态度积极，外交部回应",
-          "url": "https://news.ifeng.com/c/8xNT3u1JB1s",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 12时05分]"
-        },
         {
           "title": "特朗普：也许泽连斯基是时候找别人来谈判了",
           "url": "https://news.ifeng.com/c/8xMyNrph5V3",
           "source": "凤凰网",
           "ranks": [
             3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 17时56分]"
+        },
+        {
+          "title": "特朗普对与中俄举行三方会谈态度积极，外交部回应",
+          "url": "https://news.ifeng.com/c/8xNT3u1JB1s",
+          "source": "凤凰网",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -89,6 +89,28 @@
           "time_info": "[00时38分 ~ 07时42分]"
         },
         {
+          "title": "特朗普称美援乌数千亿却一无所获",
+          "url": "https://www.toutiao.com/trending/7698961639017546278/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 17时56分]"
+        },
+        {
+          "title": "特朗普为何突然改变对乌克兰的态度",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E4%BD%95%E7%AA%81%E7%84%B6%E6%94%B9%E5%8F%98%E5%AF%B9%E4%B9%8C%E5%85%8B%E5%85%B0%E7%9A%84%E6%80%81%E5%BA%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 17时56分]"
+        },
+        {
           "title": "马斯克向特朗普账户捐80亿美元的图谋",
           "url": "https://www.toutiao.com/trending/7698722328774970934/",
           "source": "今日头条",
@@ -139,7 +161,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
         },
@@ -150,7 +172,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
         },
@@ -205,7 +227,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
         },
@@ -488,7 +510,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
         },
@@ -578,7 +600,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
         }
