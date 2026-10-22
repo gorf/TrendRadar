@@ -1,61 +1,11 @@
 {
-  "generated_at": "2026-10-23T03:10:54.962814+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-10-23T07:07:59.009261+08:00",
+  "total_titles_processed": 408,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "如何评价 SemiAnalysis 认为 DeepSeek 与华为已形成共生关系？",
-          "url": "https://www.zhihu.com/question/2096603053763846842",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时10分"
-        },
-        {
-          "title": "DeepSeek完成1000亿融资",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%8C%E6%88%901000%E4%BA%BF%E8%9E%8D%E8%B5%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时10分"
-        },
-        {
-          "title": "“DeepSeek才是真正的OpenAI”",
-          "url": "https://news.ifeng.com/c/8xQqgcTDXjq",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时10分"
-        },
-        {
-          "title": "曝DeepSeek拟筹得约1000亿元融资",
-          "url": "https://www.toutiao.com/trending/7699466374275403307/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时10分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 11,
       "titles": [
         {
           "title": "阿克曼敦促特朗普政府放行房利美、房地美",
@@ -80,6 +30,17 @@
           "time_info": "03时10分"
         },
         {
+          "title": "特朗普与加密公司被诉，遭指从外国政府获利",
+          "url": "https://wallstreetcn.com/livenews/3184003",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
           "title": "特朗普要求马斯克解除对乌星链限速",
           "url": "https://wallstreetcn.com/livenews/3183919",
           "source": "华尔街见闻-快讯",
@@ -91,6 +52,17 @@
           "time_info": "03时10分"
         },
         {
+          "title": "特朗普暂缓对风机加征关税，180天磋商期为后续留余地",
+          "url": "https://flash.jin10.com/detail/20261023053858916800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
           "title": "美国总统特朗普致电马斯克，要求其取消在乌克兰的星链项目限制。",
           "url": "https://wallstreetcn.com/livenews/3183914",
           "source": "华尔街见闻-快讯",
@@ -100,13 +72,79 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
+        },
+        {
+          "title": "特朗普援引《国防生产法》支持美国石油产业扩能",
+          "url": "https://flash.jin10.com/detail/20261023045519594800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "美国总统特朗普再度威胁对伊朗采取军事行动：已经狠狠打击了他们，可能还会进一步升级",
+          "url": "https://wallstreetcn.com/livenews/3183984",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "美国总统特朗普援引《国防生产法》第303条，支持美国国内石油生产。",
+          "url": "https://flash.jin10.com/detail/20261023044814627800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "美国总统特朗普在备忘录中认定，美国国内石油生产、炼油及其他相关活动对国防至关重要。",
+          "url": "https://flash.jin10.com/detail/20261023044700102800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "美国总统特朗普向美国国防部长赫格塞思发送了一份关于《国防生产法》及石油问题的备忘录。",
+          "url": "https://flash.jin10.com/detail/20261023044659683800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "美股芯片巨头指数收跌超5.4%，逼近200日均线",
+          "url": "https://wallstreetcn.com/livenews/3184006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
         {
           "title": "AI交易熄火、中东局势恶化，美股跌幅扩大，费城半导体跌近6%，CoreWeave大跌8%",
           "url": "https://wallstreetcn.com/articles/3784189",
@@ -119,22 +157,131 @@
           "time_info": "03时10分"
         },
         {
-          "title": "美股芯片、光通信股深夜跳水",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E3%80%81%E5%85%89%E9%80%9A%E4%BF%A1%E8%82%A1%E6%B7%B1%E5%A4%9C%E8%B7%B3%E6%B0%B4",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时10分"
-        },
-        {
           "title": "美股",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=19&Refer=top",
           "source": "微博",
           "ranks": [
-            19
+            19,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时10分 ~ 07时07分]"
+        },
+        {
+          "title": "美股芯片、光通信股深夜跳水",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E3%80%81%E5%85%89%E9%80%9A%E4%BF%A1%E8%82%A1%E6%B7%B1%E5%A4%9C%E8%B7%B3%E6%B0%B4",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时10分 ~ 07时07分]"
+        },
+        {
+          "title": "美股收盘：芯片、存储、光概念大幅回落 纳指重挫2.6％",
+          "url": "https://www.cls.cn/detail/2512879",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "Crown Castle Inc.美股盘后涨9%，AT&T则跌5%。",
+          "url": "https://wallstreetcn.com/livenews/3183990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "美股市场重新评估AI热潮的可持续性，纳指创6月以来最大跌幅",
+          "url": "https://flash.jin10.com/detail/20261023044233847800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "美股科技巨头全线崩盘",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4%E5%85%A8%E7%BA%BF%E5%B4%A9%E7%9B%98%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "西部数据美股盘后跌幅扩大至6.8%，希捷科技跌5%。",
+          "url": "https://wallstreetcn.com/livenews/3183974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "如何评价 SemiAnalysis 认为 DeepSeek 与华为已形成共生关系？",
+          "url": "https://www.zhihu.com/question/2096603053763846842",
+          "source": "知乎",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时10分 ~ 07时07分]"
+        },
+        {
+          "title": "DeepSeek完成1000亿融资",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%8C%E6%88%901000%E4%BA%BF%E8%9E%8D%E8%B5%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时10分 ~ 07时07分]"
+        },
+        {
+          "title": "“DeepSeek才是真正的OpenAI”",
+          "url": "https://news.ifeng.com/c/8xQqgcTDXjq",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时10分 ~ 07时07分]"
+        },
+        {
+          "title": "曝DeepSeek拟筹得约1000亿元融资",
+          "url": "https://www.toutiao.com/trending/7699466374275403307/",
+          "source": "今日头条",
+          "ranks": [
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -143,9 +290,81 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 1,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
       "titles": [
+        {
+          "title": "周四（10月22日），标普500指数的11个板块涨跌各异，电信板块收跌3.01%——21只成分股中有七只收跌（回声星通信跌7.39%、Meta跌6.98%、谷歌A跌3.15%跌幅第三大），信息技术/科技板块跌3%，可选消费板块跌1.71%，能源板块跌0.74%，公用事业板块则涨1.98%，日用消费品板块涨3.11%。",
+          "url": "https://wallstreetcn.com/livenews/3183995",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：宣布在谷歌云上正式推出由Anthropic管理的Claude模型部署选项。",
+          "url": "https://flash.jin10.com/detail/20261023051036182800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "Claude：现在，谷歌云上面可以使用Anthropic旗下Claude平台。",
+          "url": "https://wallstreetcn.com/livenews/3183985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "谷歌宣布，Google Cloud（谷歌云）上由Anthropic负责托管部署的Claude模型选项正式全面可用。",
+          "url": "https://wallstreetcn.com/livenews/3183978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "AI融资担忧重创科技股，纳指跌超2%，10年期美债收益率跌破5%，黄金重挫，原油大涨",
+          "url": "https://wallstreetcn.com/articles/3784189",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "2/10年期美债收益率周四跌超16个基点，抛售AI概念股让投资者寻求避险",
+          "url": "https://wallstreetcn.com/livenews/3183991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
         {
           "title": "加拿大皇家银行：民主党若中期选举横扫两院，AI监管风险或推动美债上涨",
           "url": "https://wallstreetcn.com/livenews/3183910",
@@ -156,6 +375,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国际金价跌2.7%，逼近4000美元整数位心理关口",
+          "url": "https://wallstreetcn.com/livenews/3183987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
         }
       ]
     }
