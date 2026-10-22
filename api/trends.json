@@ -1,217 +1,33 @@
 {
-  "generated_at": "2026-10-22T23:03:47.718969+08:00",
-  "total_titles_processed": 1069,
+  "generated_at": "2026-10-23T03:10:54.962814+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "泽连斯基和特朗普，彻底决裂了？",
-          "url": "https://news.ifeng.com/c/8xPKsnXuGn8",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时14分 ~ 07时08分]"
-        },
-        {
-          "title": "亚马逊向数百万美国消费者退款 支票写上特朗普的名字",
-          "url": "https://flash.jin10.com/detail/20261022115916290800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
-          "title": "普京：不排除与特朗普赴华会晤可能性",
-          "url": "https://www.toutiao.com/trending/7698752765752868873/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
-          "title": "加拿大总理卡尼：周三与美国总统特朗普进行了相当长时间的交谈。",
-          "url": "https://flash.jin10.com/detail/20261022030459344800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "加拿大总理卡尼：与美国总统特朗普讨论了广泛议题，包括伊朗问题。",
-          "url": "https://flash.jin10.com/detail/20261022030449083800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "加拿大总理卡尼：周三与美国总统特朗普进行了长时间通话。 与特朗普讨论了包括伊朗在内的广泛议题。",
-          "url": "https://wallstreetcn.com/livenews/3182914",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "克林顿嘲讽特朗普诺贝尔奖言论",
-          "url": "https://www.douyin.com/hot/2707583",
-          "source": "抖音",
-          "ranks": [
-            20,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时59分 ~ 23时03分]"
-        },
-        {
-          "title": "特朗普施压泽连斯基能否推动俄乌停战",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%BD%E5%8E%8B%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E8%83%BD%E5%90%A6%E6%8E%A8%E5%8A%A8%E4%BF%84%E4%B9%8C%E5%81%9C%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
-          "title": "据NewsNation：特朗普已抵达南卡罗来纳州。",
-          "url": "https://flash.jin10.com/detail/20261022061709840800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时08分"
-        },
-        {
-          "title": "默茨：对华政策，我们跟特朗普不一样",
-          "url": "https://news.ifeng.com/c/8xQF4vpHREI",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时59分"
-        },
-        {
-          "title": "特朗普仍在进行地缘豪赌：乌克兰危局正是其中一环！",
-          "url": "https://flash.jin10.com/detail/20261022172930511800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时59分"
-        },
-        {
-          "title": "马克龙点名抨击特朗普",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%85%8B%E9%BE%99%E7%82%B9%E5%90%8D%E6%8A%A8%E5%87%BB%E7%89%B9%E6%9C%97%E6%99%AE%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
-          "title": "据国会山报：共和党全国委员会宣布，美国特朗普总统将于当地时间10月28日在俄亥俄州奇利科西参加集会活动。",
-          "url": "https://flash.jin10.com/detail/20261022022413260800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "美国总统特朗普：我们在对抗伊朗方面非常顺利。",
-          "url": "https://wallstreetcn.com/livenews/3183119",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 7,
+      "match_count": 4,
       "titles": [
         {
-          "title": "“DeepSeek才是真正的OpenAI”",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9CDeepSeek%E6%89%8D%E6%98%AF%E7%9C%9F%E6%AD%A3%E7%9A%84OpenAI%E2%80%9D",
-          "source": "百度热搜",
+          "title": "如何评价 SemiAnalysis 认为 DeepSeek 与华为已形成共生关系？",
+          "url": "https://www.zhihu.com/question/2096603053763846842",
+          "source": "知乎",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时59分"
+          "time_info": "03时10分"
         },
         {
           "title": "DeepSeek完成1000亿融资",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%8C%E6%88%901000%E4%BA%BF%E8%9E%8D%E8%B5%84",
           "source": "bilibili 热搜",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时03分"
-        },
-        {
-          "title": "如何评价 SemiAnalysis 认为 DeepSeek 与华为已形成共生关系？",
-          "url": "https://www.zhihu.com/question/2096603053763846842",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时03分"
-        },
-        {
-          "title": "腾讯姚顺雨想把DeepSeek卷到加班",
-          "url": "https://www.toutiao.com/trending/7697961005829668883/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            25
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时14分 ~ 12时06分]"
+          "appearance_count": 1,
+          "time_info": "03时10分"
         },
         {
           "title": "“DeepSeek才是真正的OpenAI”",
@@ -220,211 +36,109 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时03分"
+          "time_info": "03时10分"
         },
         {
-          "title": "美国政府指示各机构停用 DeepSeek ，外交部表示反对将科技经贸问题政治化，美国此举有何意图？",
-          "url": "https://www.zhihu.com/question/2095898196539073291",
-          "source": "知乎",
+          "title": "曝DeepSeek拟筹得约1000亿元融资",
+          "url": "https://www.toutiao.com/trending/7699466374275403307/",
+          "source": "今日头条",
           "ranks": [
-            19
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时59分"
-        },
-        {
-          "title": "报道：DeepSeek完成1000亿元融资 宁德时代和腾讯参投",
-          "url": "https://wallstreetcn.com/livenews/3183128",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
+          "time_info": "03时10分"
         }
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 7,
+      "keyword_group": "特朗普",
+      "match_count": 4,
       "titles": [
         {
-          "title": "【早报】科技股火力全开，纳指领涨美股；中办、国办发文！事关人工智能；泽连斯基：愿在保留至少75%领土控制权的基础上达成和平协议",
-          "url": "https://www.cls.cn/detail/2511640",
-          "source": "财联社热门",
+          "title": "阿克曼敦促特朗普政府放行房利美、房地美",
+          "url": "https://flash.jin10.com/detail/20261023030504882800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时06分"
+          "time_info": "03时10分"
         },
         {
-          "title": "AI交易熄火、中东局势恶化，美股低开，光通信、存储芯片股普跌，CoreWeave跌约5%",
-          "url": "https://wallstreetcn.com/articles/3784189",
-          "source": "华尔街见闻",
+          "title": "据黎巴嫩AlMayadeen电视台：伊朗一名高级安全与政治官员表示，伊朗将把美国和以色列的利益设施视为合法打击目标，以捍卫自身利益。如果特朗普支持内塔尼亚胡对伊朗发动的任何侵略行动，就意味着伊朗将不再区分美国和以色列目标，予以一视同仁地打击。",
+          "url": "https://flash.jin10.com/detail/20261023030326705800",
+          "source": "金十数据",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时03分"
-        },
-        {
-          "title": "强劲季报提振AI交易，美股开盘走高，SpaceX涨幅扩大至10%，英伟达涨约2%，油价再度走高",
-          "url": "https://wallstreetcn.com/articles/3784116",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时14分 ~ 07时08分]"
-        },
-        {
-          "title": "美股收盘：芯片、存储、光集体走强 纳指升超1%领涨三大指数",
-          "url": "https://www.cls.cn/detail/2511618",
-          "source": "财联社热门",
-          "ranks": [
-            6,
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时08分 ~ 12时06分]"
+          "appearance_count": 1,
+          "time_info": "03时10分"
         },
         {
-          "title": "周四亚太盘初，纳斯达克100股指期货跌0.3%，标普股指期货跌0.1%。 科技股中，特斯拉美股盘后跌幅扩大至2.8%，该公司下调资本开支目标。IBM跌2.5%，Nebius Group NV跌1.4%，英特尔、博通、AMD、SK海力士ADR至多跌0.9%，西部数据涨0.3%，Meta涨2.9%。",
-          "url": "https://wallstreetcn.com/livenews/3183001",
+          "title": "特朗普要求马斯克解除对乌星链限速",
+          "url": "https://wallstreetcn.com/livenews/3183919",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时08分"
+          "time_info": "03时10分"
+        },
+        {
+          "title": "美国总统特朗普致电马斯克，要求其取消在乌克兰的星链项目限制。",
+          "url": "https://wallstreetcn.com/livenews/3183914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "AI交易熄火、中东局势恶化，美股跌幅扩大，费城半导体跌近6%，CoreWeave大跌8%",
+          "url": "https://wallstreetcn.com/articles/3784189",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时10分"
         },
         {
           "title": "美股芯片、光通信股深夜跳水",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E3%80%81%E5%85%89%E9%80%9A%E4%BF%A1%E8%82%A1%E6%B7%B1%E5%A4%9C%E8%B7%B3%E6%B0%B4",
           "source": "百度热搜",
           "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时03分"
-        },
-        {
-          "title": "纳指ETF收涨1%，与可转债ETF领跑美股大类资产类ETF",
-          "url": "https://wallstreetcn.com/livenews/3182984",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "宇树科技王兴兴：AI模型的输入输出和真实机器人的对齐是具身智能迈过ChatGPT时刻最核心挑战",
-          "url": "https://wallstreetcn.com/livenews/3183138",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
-          "title": "OpenAI：更新我们的使用政策，自11月20日起生效，以明确安全模型开发和人工智能敏感用途的相关规则。 正在努力引入安全ID，客户可以提供该ID，以帮助我们在调查中区分各个最终用户。",
-          "url": "https://wallstreetcn.com/livenews/3182998",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时08分"
-        },
-        {
-          "title": "OpenAI：更新后的使用政策要求，模型路由器和AI网关在提供访问权限前，必须获得OpenAI的审核和批准。",
-          "url": "https://flash.jin10.com/detail/20261022055300050800",
-          "source": "金十数据",
-          "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时08分"
+          "time_info": "03时10分"
         },
         {
-          "title": "OpenAI：正致力于推出安全识别码（Safety IDs），用户可在调查过程中提供该识别码，以帮助区分不同的终端用户。",
-          "url": "https://flash.jin10.com/detail/20261022055128917800",
-          "source": "金十数据",
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=19&Refer=top",
+          "source": "微博",
           "ranks": [
-            18
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时08分"
-        },
-        {
-          "title": "OpenAI：将于2026年11月20日起更新使用政策，以明确安全模型开发和敏感人工智能应用的相关规则。",
-          "url": "https://flash.jin10.com/detail/20261022055023306800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "银行消保 金融监管 人民银行",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "北京西城法院与北京金融监管局签署共同推进金融风险防范化解与服务保障金融高质量发展工作备忘录",
-          "url": "https://flash.jin10.com/detail/20261022172223567800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌A股价下跌2.45%，报326.555美元，创7月28日以来盘中新低，盘中市值报3.99万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3183817",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时03分"
+          "time_info": "03时10分"
         }
       ]
     },
@@ -433,15 +147,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "中期选举悬念转向参议院，未来两年借债规模决定美债与美元走向",
-          "url": "https://flash.jin10.com/detail/20261022115901219800",
-          "source": "金十数据",
+          "title": "加拿大皇家银行：民主党若中期选举横扫两院，AI监管风险或推动美债上涨",
+          "url": "https://wallstreetcn.com/livenews/3183910",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时06分"
+          "time_info": "03时10分"
         }
       ]
     }
