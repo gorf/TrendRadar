@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-24T03:43:05.543760+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-10-24T06:12:54.390149+08:00",
+  "total_titles_processed": 410,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 20,
       "titles": [
         {
           "title": "比起特朗普，美国年轻人更喜欢美式“社会主义”？",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时42分 ~ 03时43分]"
+          "appearance_count": 3,
+          "time_info": "[03时42分 ~ 06时12分]"
         },
         {
           "title": "美国总统特朗普：我们有望很快结束俄乌战争。",
@@ -25,7 +25,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
         },
@@ -47,9 +47,31 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
+        },
+        {
+          "title": "美驻土耳其大使称周末可能打击伊朗，特朗普称对此不知情",
+          "url": "https://wallstreetcn.com/livenews/3185058",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
+          "title": "古巴外长驳斥特朗普“顺道解决古巴”言论",
+          "url": "https://flash.jin10.com/detail/20261024053430135800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
         },
         {
           "title": "白宫：特朗普进一步调整依据《1930年关税法》第338条征收关税的加拿大产品范围。",
@@ -58,7 +80,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
         },
@@ -70,8 +92,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时42分 ~ 03时43分]"
+          "appearance_count": 3,
+          "time_info": "[03时42分 ~ 06时12分]"
         },
         {
           "title": "特朗普怒喷詹姆斯不尊重美国",
@@ -81,8 +103,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时42分 ~ 03时43分]"
+          "appearance_count": 3,
+          "time_info": "[03时42分 ~ 06时12分]"
         },
         {
           "title": "美国总统特朗普：我怀疑伊朗会主动说“让我们开始谈正事吧”。",
@@ -91,7 +113,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
         },
@@ -102,7 +124,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
         },
@@ -113,9 +135,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
+        },
+        {
+          "title": "特朗普账户考虑纳入40岁以下成年人",
+          "url": "https://www.toutiao.com/trending/7699421554123473459/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
+          "title": "古巴外长驳斥特朗普“顺道解决古巴”言论",
+          "url": "https://wallstreetcn.com/livenews/3185051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
         },
         {
           "title": "特朗普：或与马斯克沟通乌克兰使用“星链”受限问题",
@@ -124,9 +168,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
+        },
+        {
+          "title": "特朗普政府取消部分加拿大商品50%关税 另对其他产品加税",
+          "url": "https://flash.jin10.com/detail/20261024045111577800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
+          "title": "如何评价特朗普发文痛批詹姆斯在奏国歌时做「高尔夫挥杆动作」，并要求其道歉？",
+          "url": "https://www.zhihu.com/question/2096894678494884280",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
         },
         {
           "title": "英国首相伯纳姆与美国总统特朗普会谈时强调，乌克兰应当能够完整使用星链（Starlink）。 特朗普与伯纳姆一致认可，批准Jackdaw（寒鸦气田）项目将为英国带来利好。",
@@ -135,9 +201,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
+        },
+        {
+          "title": "泽连斯基：和特朗普之间没有个人恩怨",
+          "url": "https://www.toutiao.com/trending/7699682763926061619/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
         },
         {
           "title": "报道：特朗普料取消对加拿大的部分关税",
@@ -146,7 +223,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
         }
@@ -154,7 +231,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "AI融资担忧重创科技股，纳指跌超2%，10年期美债收益率跌破5%，黄金重挫，原油大涨",
@@ -164,8 +241,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时42分 ~ 03时43分]"
+          "appearance_count": 3,
+          "time_info": "[03时42分 ~ 06时12分]"
         },
         {
           "title": "Meta成“最后一根稻草”，纳指“终于”崩了，美债应声大涨",
@@ -175,8 +252,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时42分 ~ 03时43分]"
+          "appearance_count": 3,
+          "time_info": "[03时42分 ~ 06时12分]"
         },
         {
           "title": "AI崩了，法债爆了，急需美债“避险”！10年期美债收益率创“硅谷银行危机”来最大跌幅",
@@ -186,8 +263,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时42分 ~ 03时43分]"
+          "appearance_count": 3,
+          "time_info": "[03时42分 ~ 06时12分]"
+        },
+        {
+          "title": "10年期美债收益率周五反弹超4个基点，使得本周累计跌幅收窄至不到8个基点",
+          "url": "https://wallstreetcn.com/livenews/3185056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
         },
         {
           "title": "油价走高压制美债表现，美股低开，半导体股涨跌互现，布油涨3%",
@@ -197,36 +285,38 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时42分 ~ 03时43分]"
+          "appearance_count": 3,
+          "time_info": "[03时42分 ~ 06时12分]"
         },
         {
           "title": "加拿大专家驳斥中国借道买美债阴谋论",
           "url": "https://www.toutiao.com/trending/7699793212264874506/",
           "source": "今日头条",
           "ranks": [
-            25
+            25,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时42分 ~ 03时43分]"
+          "appearance_count": 3,
+          "time_info": "[03时42分 ~ 06时12分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "投资者不买账？OpenAI下调估值目标至1.25万亿，拟在IPO前完成300亿美元融资",
           "url": "https://wallstreetcn.com/articles/3784256",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时42分 ~ 03时43分]"
+          "appearance_count": 3,
+          "time_info": "[03时42分 ~ 06时12分]"
         },
         {
           "title": "OpenAI：与众多云伙伴合作。",
@@ -235,7 +325,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
         },
@@ -246,7 +336,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
         },
@@ -257,9 +347,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
+        },
+        {
+          "title": "美国得州就用户欺骗与儿童安全问题起诉OpenAI及其CEO",
+          "url": "https://wallstreetcn.com/livenews/3185033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
         }
       ]
     },
@@ -286,8 +387,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时42分 ~ 03时43分]"
+          "appearance_count": 3,
+          "time_info": "[03时42分 ~ 06时12分]"
         }
       ]
     },
@@ -303,8 +404,42 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时42分 ~ 03时43分]"
+          "appearance_count": 3,
+          "time_info": "[03时42分 ~ 06时12分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国际金价周五跌0.7%失守4000美元关口，纽约白银期货本周跌超6%",
+          "url": "https://wallstreetcn.com/livenews/3185050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "道指ETF收跌超1.2%，领跌美股大类资产类ETF，布油基金涨3%",
+          "url": "https://wallstreetcn.com/livenews/3185030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
         }
       ]
     }
