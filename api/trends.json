@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-24T18:39:35.509876+08:00",
-  "total_titles_processed": 893,
+  "generated_at": "2026-10-24T22:23:47.639301+08:00",
+  "total_titles_processed": 1077,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "比起特朗普，美国年轻人更喜欢美式“社会主义”？",
@@ -17,6 +17,21 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时42分 ~ 13时35分]"
+        },
+        {
+          "title": "特朗普怒喷詹姆斯不尊重美国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367970&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E5%96%B7%E8%A9%B9%E5%A7%86%E6%96%AF%E4%B8%8D%E5%B0%8A%E9%87%8D%E7%BE%8E%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            13,
+            21,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时42分 ~ 22时23分]"
         },
         {
           "title": "梅拉尼娅促成俄乌一地停火，特朗普回应",
@@ -39,20 +54,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
-        },
-        {
-          "title": "特朗普怒喷詹姆斯不尊重美国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367970&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E5%96%B7%E8%A9%B9%E5%A7%86%E6%96%AF%E4%B8%8D%E5%B0%8A%E9%87%8D%E7%BE%8E%E5%9B%BD",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            13,
-            21,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时42分 ~ 18时39分]"
         },
         {
           "title": "美国总统特朗普：我们可能对伊朗采取另一次行动。",
@@ -127,11 +128,46 @@
           "url": "https://www.cls.cn/detail/2514121",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时35分 ~ 22时23分]"
+        },
+        {
+          "title": "特朗普称可能对伊发动一次小规模“史诗怒火”行动 | 环球市场",
+          "url": "https://www.cls.cn/detail/2514115",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时35分 ~ 22时23分]"
+        },
+        {
+          "title": "特朗普：结束伊朗战事后，顺道解决古巴",
+          "url": "https://news.ifeng.com/c/8xU7eotOY7u",
+          "source": "凤凰网",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时35分 ~ 18时39分]"
+          "time_info": "[18时39分 ~ 22时23分]"
+        },
+        {
+          "title": "特朗普脸上出现神秘新淤青，在社交平台发布隐晦消息(图)",
+          "url": "https://news.ifeng.com/c/8xUG1Vp70iY",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时39分 ~ 22时23分]"
         },
         {
           "title": "古巴外长驳斥特朗普“顺道解决古巴”言论",
@@ -146,18 +182,6 @@
           "time_info": "[06时12分 ~ 08时33分]"
         },
         {
-          "title": "特朗普称可能对伊发动一次小规模“史诗怒火”行动 | 环球市场",
-          "url": "https://www.cls.cn/detail/2514115",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时35分 ~ 18时39分]"
-        },
-        {
           "title": "特朗普政府取消部分加拿大商品50%关税 另对其他产品加税",
           "url": "https://flash.jin10.com/detail/20261024045111577800",
           "source": "金十数据",
@@ -168,17 +192,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时12分 ~ 08时33分]"
-        },
-        {
-          "title": "特朗普：结束伊朗战事后，顺道解决古巴",
-          "url": "https://news.ifeng.com/c/8xU7eotOY7u",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时39分"
         },
         {
           "title": "美国总统特朗普：我怀疑伊朗会主动说“让我们开始谈正事吧”。",
@@ -225,17 +238,6 @@
           "time_info": "03时43分"
         },
         {
-          "title": "特朗普脸上出现神秘新淤青，在社交平台发布隐晦消息(图)",
-          "url": "https://news.ifeng.com/c/8xUG1Vp70iY",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时39分"
-        },
-        {
           "title": "特朗普账户考虑纳入40岁以下成年人",
           "url": "https://www.toutiao.com/trending/7699421554123473459/",
           "source": "今日头条",
@@ -247,6 +249,17 @@
           "time_info": "06时12分"
         },
         {
+          "title": "特朗普在Truth Social上评论白宫新闻发布室：可能会将新闻（发布会）移至另一地点。",
+          "url": "https://wallstreetcn.com/livenews/3185142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
           "title": "特朗普称可能对伊发动小规模军事行动",
           "url": "https://www.toutiao.com/trending/7700007804479753778/",
           "source": "今日头条",
@@ -256,6 +269,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时33分"
+        },
+        {
+          "title": "特朗普力挺内塔尼亚胡 但其顾问开始考虑其他合作对象",
+          "url": "https://flash.jin10.com/detail/20261024214336453800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         },
         {
           "title": "特朗普：或与马斯克沟通乌克兰使用“星链”受限问题",
@@ -331,6 +355,18 @@
           "time_info": "[03时42分 ~ 08时33分]"
         },
         {
+          "title": "油价飙升引发通胀忧虑，美股美债双双承压，苹果市值一度超英伟达，黄金周跌4%",
+          "url": "https://wallstreetcn.com/articles/3784279",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时33分 ~ 22时23分]"
+        },
+        {
           "title": "AI崩了，法债爆了，急需美债“避险”！10年期美债收益率创“硅谷银行危机”来最大跌幅",
           "url": "https://wallstreetcn.com/articles/3784249",
           "source": "华尔街见闻",
@@ -354,27 +390,15 @@
           "time_info": "[03时42分 ~ 06时12分]"
         },
         {
-          "title": "油价飙升引发通胀忧虑，美股美债双双承压，苹果市值一度超英伟达，黄金周跌4%",
-          "url": "https://wallstreetcn.com/articles/3784279",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时33分 ~ 18时39分]"
-        },
-        {
           "title": "AI“跌倒”，美债“吃饱”！全球“资本争夺战”，市场给出答案",
           "url": "https://wallstreetcn.com/articles/3784376",
           "source": "华尔街见闻",
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时39分 ~ 22时23分]"
         },
         {
           "title": "10年期美债收益率周五反弹超4个基点，使得本周累计跌幅收窄至不到8个基点",
@@ -415,7 +439,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "投资者不买账？OpenAI下调估值目标至1.25万亿，拟在IPO前完成300亿美元融资",
@@ -439,6 +463,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
+        },
+        {
+          "title": "OpenAI、Anthropic齐参与！全球首个AI生物安全实验室将问世",
+          "url": "https://www.cls.cn/detail/2514203",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         },
         {
           "title": "OpenAI在其博客中表示，预计后续模型能够识别并利用目前尚未被察觉的安全漏洞。 公司于10月1日恢复了前沿模型强化学习训练及内部推理工作。 已将高算力环境下的红队测试(网络攻防测试）纳入安全评估范畴，以此判定其前沿模型训练及评估工作能否安全开展。 开展前沿模型训练时应断开互联网连接，这是负责任的做法。 已实施前沿模型训练无互联网访问政策，该政策将持续有效，直到安全保障措施的进步证明可以扩大互联网访问权限。",
@@ -476,6 +511,60 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "曝DeepSeek完成千亿融资",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367960&amp;topic_name=%E6%9B%9DDeepSeek%E5%AE%8C%E6%88%90%E5%8D%83%E4%BA%BF%E8%9E%8D%E8%B5%84",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            8,
+            17,
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时42分 ~ 22时23分]"
+        },
+        {
+          "title": "DeepSeek 拟新融资 1000 亿元，腾讯、宁德时代出资最多，这会不会改写国内大模型的竞争格局？",
+          "url": "https://www.zhihu.com/question/2096713518582179306",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时42分 ~ 03时43分]"
+        },
+        {
+          "title": "38美元，DeepSeek算了一笔赚钱的账",
+          "url": "https://wallstreetcn.com/articles/3784386",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
+          "title": "程序员更支持开源的 DeepSeek 还是平价的 GPT？",
+          "url": "https://www.zhihu.com/question/2072812210280313101",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        }
+      ]
+    },
+    {
       "keyword_group": "招商银行 万华化学 福耀玻璃 旗滨集团 苏农银行 奥浦迈 爱美客 美的集团 潍柴动力 苏泊尔 鱼跃医疗 牧原股份 振邦智能 华兰生物 证监会",
       "match_count": 2,
       "titles": [
@@ -499,39 +588,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时33分 ~ 18时39分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "DeepSeek 拟新融资 1000 亿元，腾讯、宁德时代出资最多，这会不会改写国内大模型的竞争格局？",
-          "url": "https://www.zhihu.com/question/2096713518582179306",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时42分 ~ 03时43分]"
-        },
-        {
-          "title": "曝DeepSeek完成千亿融资",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367960&amp;topic_name=%E6%9B%9DDeepSeek%E5%AE%8C%E6%88%90%E5%8D%83%E4%BA%BF%E8%9E%8D%E8%B5%84",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            8,
-            17,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时42分 ~ 18时39分]"
+          "appearance_count": 4,
+          "time_info": "[08时33分 ~ 22时23分]"
         }
       ]
     },
@@ -548,8 +606,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时35分 ~ 18时39分]"
+          "appearance_count": 3,
+          "time_info": "[13时35分 ~ 22时23分]"
         },
         {
           "title": "国际金价周五跌0.7%失守4000美元关口，纽约白银期货本周跌超6%",
@@ -579,8 +637,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时33分 ~ 18时39分]"
+          "appearance_count": 4,
+          "time_info": "[08时33分 ~ 22时23分]"
         },
         {
           "title": "道指ETF收跌超1.2%，领跌美股大类资产类ETF，布油基金涨3%",
