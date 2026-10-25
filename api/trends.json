@@ -1,24 +1,22 @@
 {
-  "generated_at": "2026-10-25T22:14:33.938808+08:00",
-  "total_titles_processed": 987,
+  "generated_at": "2026-10-26T02:17:56.856959+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 23,
       "titles": [
         {
-          "title": "美伊“风向”生变？特朗普暗示或再打击伊朗，美方已做好长期对峙准备！",
-          "url": "https://www.cls.cn/detail/2514121",
-          "source": "财联社热门",
+          "title": "特朗普在美国密歇根拉票，自夸振兴汽车业",
+          "url": "https://wallstreetcn.com/livenews/3185245",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            9,
-            10
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时00分 ~ 22时14分]"
+          "appearance_count": 1,
+          "time_info": "02时17分"
         },
         {
           "title": "“多管齐下！特朗普政府暗中助选，要帮博索纳罗家族夺权”",
@@ -28,716 +26,323 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时39分 ~ 22时14分]"
-        },
-        {
-          "title": "特朗普脸上出现神秘新淤青，在社交平台发布隐晦消息(图)",
-          "url": "https://news.ifeng.com/c/8xUG1Vp70iY",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时00分 ~ 12时03分]"
-        },
-        {
-          "title": "特朗普：结束伊朗战事后，顺道解决古巴",
-          "url": "https://news.ifeng.com/c/8xU7eotOY7u",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时00分 ~ 07时02分]"
-        },
-        {
-          "title": "特朗普怒喷詹姆斯不尊重美国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367970&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E5%96%B7%E8%A9%B9%E5%A7%86%E6%96%AF%E4%B8%8D%E5%B0%8A%E9%87%8D%E7%BE%8E%E5%9B%BD",
-          "source": "贴吧",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时00分 ~ 07时02分]"
+          "appearance_count": 1,
+          "time_info": "02时17分"
         },
         {
           "title": "奥巴马中期选举首秀抨击特朗普",
           "url": "https://www.douyin.com/hot/2712071",
           "source": "抖音",
           "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时39分 ~ 22时14分]"
-        },
-        {
-          "title": "特朗普将于10月30日前往佛罗里达。",
-          "url": "https://flash.jin10.com/detail/20261025053707982800",
-          "source": "金十数据",
-          "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时02分"
+          "time_info": "02时17分"
         },
         {
-          "title": "美国众议院议长迈克·约翰逊：周六与特朗普讨论了俄罗斯问题。 周末与鲁比奥就俄罗斯问题进行了交谈。 鲁比奥表示美国将进行三方谈判。",
-          "url": "https://wallstreetcn.com/livenews/3185224",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时14分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗人是坏人，领导层非常糟糕。",
-          "url": "https://flash.jin10.com/detail/20261025053632060800",
+          "title": "美国总统特朗普：我还拯救了塞尔弗里奇空军基地。当时，那些‘愚蠢的民主党人’正准备关闭它，而我保住了数千个就业岗位，以及拥有这样一座基地所带来的声望——只有我能做到这一点！",
+          "url": "https://flash.jin10.com/detail/20261026013036594800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时02分"
+          "time_info": "02时17分"
         },
         {
-          "title": "特朗普：可能再次打击伊朗 也可能达成协议",
-          "url": "https://flash.jin10.com/detail/20261025043858772800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时49分 ~ 07时02分]"
-        },
-        {
-          "title": "美国总统特朗普：我刚进入政坛时，共和党要弱得多，规模更小，然后我参选并赢了。",
-          "url": "https://flash.jin10.com/detail/20261025043647573800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时49分 ~ 07时02分]"
-        },
-        {
-          "title": "美国总统特朗普：我正在考虑对伊朗发动袭击，可能明天就会采取行动，但我不会透露任何潜在军事行动的具体时间。也有可能与伊朗达成一项重大且有利的协议。",
-          "url": "https://flash.jin10.com/detail/20261025043255713800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时49分 ~ 07时02分]"
-        },
-        {
-          "title": "美国总统特朗普：伊朗方面希望达成协议。",
-          "url": "https://flash.jin10.com/detail/20261025042903116800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时49分 ~ 07时02分]"
-        },
-        {
-          "title": "美国总统特朗普：我有可能对伊朗发动袭击。",
-          "url": "https://flash.jin10.com/detail/20261025042754862800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时49分 ~ 07时02分]"
-        },
-        {
-          "title": "特朗普在Truth Social上评论白宫新闻发布室：可能会将新闻（发布会）移至另一地点。",
-          "url": "https://wallstreetcn.com/livenews/3185142",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时01分 ~ 12时03分]"
-        },
-        {
-          "title": "特朗普力挺内塔尼亚胡，身边人却另有打算",
-          "url": "https://news.ifeng.com/c/8xVWZftoNZG",
+          "title": "梅德韦杰夫喊话特朗普：你有10个不得不教训泽连斯基的理由",
+          "url": "https://news.ifeng.com/c/8xW8kI1qB6e",
           "source": "凤凰网",
           "ranks": [
-            12
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时39分 ~ 22时14分]"
+          "appearance_count": 1,
+          "time_info": "02时17分"
         },
         {
-          "title": "泽连斯基谈与美国关系：我做不到时刻感恩特朗普，感恩几次真够了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34325177",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时03分 ~ 17时40分]"
-        },
-        {
-          "title": "美国总统特朗普：接连不断的竞选集会让我嗓子吃不消。",
-          "url": "https://flash.jin10.com/detail/20261025042555088800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时49分 ~ 07时02分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-10-25）",
-          "url": "https://flash.jin10.com/detail/20261025170414475800",
+          "title": "美国总统特朗普：全国各地，尤其是密歇根州，正在新建和扩建工厂。",
+          "url": "https://flash.jin10.com/detail/20261026013016161800",
           "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时40分"
+          "time_info": "02时17分"
         },
         {
-          "title": "美国总统特朗普：我可能不得不彻底解决伊朗问题，也可能与伊朗达成协议。无论哪种方式，我们都会赢。",
-          "url": "https://flash.jin10.com/detail/20261025042421381800",
+          "title": "美国总统特朗普：多亏了我，美国汽车行业的表现比以往任何时候都好。",
+          "url": "https://flash.jin10.com/detail/20261026013008075800",
           "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时49分"
+          "time_info": "02时17分"
         },
         {
-          "title": "特朗普称随时可能再打伊朗",
-          "url": "https://wallstreetcn.com/livenews/3185179",
-          "source": "华尔街见闻-快讯",
+          "title": "美伊“风向”生变？特朗普暗示或再打击伊朗，美方已做好长期对峙准备！",
+          "url": "https://www.cls.cn/detail/2514121",
+          "source": "财联社热门",
           "ranks": [
-            7
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时40分"
+          "time_info": "02时17分"
+        },
+        {
+          "title": "美国总统特朗普：美国如今是全球最炙手可热的国家，远超世界其他任何地方！",
+          "url": "https://flash.jin10.com/detail/20261026013000525800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        },
+        {
+          "title": "特朗普：美俄乌三方会谈“很快”就会举行",
+          "url": "https://wallstreetcn.com/livenews/3185238",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        },
+        {
+          "title": "美国白宫：特朗普总统正在保护美国人及其辛苦挣来的纳税钱，免受骗子的侵害，欺骗美国纳税人的日子已经结束。",
+          "url": "https://flash.jin10.com/detail/20261026010759485800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        },
+        {
+          "title": "美国司法部长：特朗普无意接管州级选举。",
+          "url": "https://flash.jin10.com/detail/20261026010637256800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        },
+        {
+          "title": "特朗普：选举战情激烈的原因是福克斯新闻不提供帮助",
+          "url": "https://flash.jin10.com/detail/20261026005008972800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        },
+        {
+          "title": "特朗普：美俄乌三方会谈“很快”就会举行",
+          "url": "https://flash.jin10.com/detail/20261026004033136800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时17分"
         },
         {
           "title": "奥巴马怒喷特朗普所为何事",
           "url": "https://www.toutiao.com/trending/7700572569123966502/",
           "source": "今日头条",
           "ranks": [
-            8
+            19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时14分"
+          "time_info": "02时17分"
         },
         {
-          "title": "美国总统特朗普：一旦俄罗斯与乌克兰达成协议，美国就能够与两国开展商业往来。",
-          "url": "https://flash.jin10.com/detail/20261025042308280800",
+          "title": "美国总统特朗普：俄罗斯没有把石油提供给我们，而是提供给了全世界，这是一件非常好的事。",
+          "url": "https://flash.jin10.com/detail/20261026003615302800",
           "source": "金十数据",
           "ranks": [
-            8
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时49分"
+          "time_info": "02时17分"
         },
         {
-          "title": "特朗普和泽连斯基怎么了",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%80%8E%E4%B9%88%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时14分"
-        },
-        {
-          "title": "特朗普完成中期选举提前投票，批洛杉矶选票造假",
-          "url": "https://original.ifeng.com/c/8xVKGfW8i8U",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
-          "title": "美国白宫发布特朗普海报，并配文“让美国再次安全”。",
-          "url": "https://flash.jin10.com/detail/20261025004301977800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时01分"
-        },
-        {
-          "title": "美国总统特朗普：（关于星链）我已与马斯克通话。",
-          "url": "https://flash.jin10.com/detail/20261025042016496800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
-          "title": "美国前总统奥巴马：特朗普现在把白宫装饰得像是萨达姆开的连锁餐厅。",
-          "url": "https://flash.jin10.com/detail/20261025051352514800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "美国前总统奥巴马：特朗普政府的行动是导致美国物价上涨的直接原因。",
-          "url": "https://flash.jin10.com/detail/20261025051045062800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "鲁比奥：特朗普总统富有远见",
-          "url": "https://flash.jin10.com/detail/20261025040907410800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
-          "title": "奥巴马批特朗普：赤裸裸地借机敛财",
-          "url": "https://www.toutiao.com/trending/7699813230826455076/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
-          "title": "伊朗革命卫队发言人穆赫比：特朗普夸张的言论和威胁都是无稽之谈。",
-          "url": "https://flash.jin10.com/detail/20261025002000384800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时01分"
-        },
-        {
-          "title": "美国官员：预计特朗普将宣布，奥迪将在美国佐治亚州新建一座工厂，年产20万辆SUV。",
-          "url": "https://flash.jin10.com/detail/20261025045933853800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "美国总统特朗普：我的叔叔约翰·特朗普（John Trump）发明了雷达，你们能相信吗？然后我现在摧毁了伊朗的雷达，他可能会对我有点生气。",
-          "url": "https://flash.jin10.com/detail/20261025045533668800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗有259架战斗机，我把它们全都摧毁了。伊朗还有259艘船。它们都沉到海底了。",
-          "url": "https://flash.jin10.com/detail/20261025045404823800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "美国前总统奥巴马：特朗普已将白宫改造成一个虚浮、奢华的场所。",
-          "url": "https://flash.jin10.com/detail/20261025034454052800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
-          "title": "美国总统特朗普：如果我不干预，伊朗早晚会找到办法制造核弹。",
-          "url": "https://flash.jin10.com/detail/20261025045139654800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗方面希望达成协议，但问题在于，他们能否遵守协议？",
-          "url": "https://flash.jin10.com/detail/20261025045129980800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "美国总统特朗普：克林顿不算差，但他有不少丑闻。要不是这些丑闻，他本会是一位不错的总统。",
-          "url": "https://flash.jin10.com/detail/20261025044518490800",
+          "title": "美国总统特朗普：有关乌克兰冲突的谈判很快就会举行，各国都渴望达成协议。",
+          "url": "https://flash.jin10.com/detail/20261026003302983800",
           "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时02分"
+          "time_info": "02时17分"
         },
         {
-          "title": "克里姆林宫发言人佩斯科夫表示，在就亚历山德罗夫卡人道主义任务达成一致后，俄罗斯总统普京与美国总统特朗普目前没有计划举行新的会谈。与美方的接触仍在工作层面继续进行。",
-          "url": "https://flash.jin10.com/detail/20261025031502102800",
+          "title": "美国总统特朗普：与俄罗斯达成的石油协议是件非常好的事。",
+          "url": "https://flash.jin10.com/detail/20261026003045694800",
           "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        },
+        {
+          "title": "美国众议院议长迈克·约翰逊：周六与特朗普讨论了俄罗斯问题。 周末与鲁比奥就俄罗斯问题进行了交谈。 鲁比奥表示美国将进行三方谈判。",
+          "url": "https://wallstreetcn.com/livenews/3185224",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时49分"
+          "time_info": "02时17分"
         },
         {
-          "title": "美国总统特朗普周日日程一览",
-          "url": "https://flash.jin10.com/detail/20261025093505214800",
+          "title": "美国总统特朗普：我认为俄乌局势将出现新变化。",
+          "url": "https://flash.jin10.com/detail/20261026002837599800",
           "source": "金十数据",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时03分"
+          "time_info": "02时17分"
         },
         {
-          "title": "美国白宫：特朗普总统正在全方位严厉打击欺诈行为。",
-          "url": "https://flash.jin10.com/detail/20261024234920462800",
+          "title": "美国总统特朗普：我掌握着两套不同的有关伊朗的情报。",
+          "url": "https://flash.jin10.com/detail/20261026002756569800",
           "source": "金十数据",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时01分"
+          "time_info": "02时17分"
+        },
+        {
+          "title": "美国总统特朗普：我们掌握关于伊朗的非常先进的情报。",
+          "url": "https://flash.jin10.com/detail/20261026002738573800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        },
+        {
+          "title": "美国总统特朗普：我们在伊朗战争中的表现非常好。",
+          "url": "https://flash.jin10.com/detail/20261026002724358800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时17分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 8,
+      "match_count": 3,
       "titles": [
         {
-          "title": "现货金价跌破4000美元关口 避险市场下资金为何抛售黄金？",
-          "url": "https://www.cls.cn/detail/2514076",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时00分 ~ 17时40分]"
-        },
-        {
           "title": "人造黄金会不会击穿金价",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E9%80%A0%E9%BB%84%E9%87%91%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%87%BB%E7%A9%BF%E9%87%91%E4%BB%B7%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E9%80%A0%E9%BB%84%E9%87%91%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%87%BB%E7%A9%BF%E9%87%91%E4%BB%B7",
+          "source": "百度热搜",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时39分 ~ 17时40分]"
-        },
-        {
-          "title": "金价大跌催热水贝黄金市场消费",
-          "url": "https://www.toutiao.com/trending/7700375465819406858/",
-          "source": "今日头条",
-          "ranks": [
-            1
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时03分"
+          "time_info": "02时17分"
         },
         {
           "title": "人造黄金会不会击穿金价",
           "url": "https://www.toutiao.com/trending/7699776708773249067/",
           "source": "今日头条",
           "ranks": [
-            1,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时39分 ~ 22时14分]"
-        },
-        {
-          "title": "人造黄金会不会击穿金价",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E9%80%A0%E9%BB%84%E9%87%91%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%87%BB%E7%A9%BF%E9%87%91%E4%BB%B7",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时14分"
-        },
-        {
-          "title": "金价大跌 深圳水贝又被挤爆了",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C+%E6%B7%B1%E5%9C%B3%E6%B0%B4%E8%B4%9D%E5%8F%88%E8%A2%AB%E6%8C%A4%E7%88%86%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            12
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时03分"
+          "time_info": "02时17分"
         },
         {
           "title": "三大因素致国际金价走低",
           "url": "https://www.douyin.com/hot/2712115",
           "source": "抖音",
           "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时14分"
-        },
-        {
-          "title": "金价下跌背后有三大推手",
-          "url": "https://flash.jin10.com/detail/20261025161138030800",
-          "source": "金十数据",
-          "ranks": [
-            22
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "招商银行 万华化学 福耀玻璃 旗滨集团 苏农银行 奥浦迈 爱美客 美的集团 潍柴动力 苏泊尔 鱼跃医疗 牧原股份 振邦智能 华兰生物 证监会",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "【早报】特朗普：或对伊发动小规模“史诗怒火”；证监会：核准设立花旗证券（中国）有限公司；A股多家龙头公司发布三季报",
-          "url": "https://www.cls.cn/detail/2514116",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时00分 ~ 22时14分]"
-        },
-        {
-          "title": "证监会核准设立花旗证券（中国）有限公司，将对国内券商行业带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2097003942836007767",
-          "source": "知乎",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时00分 ~ 07时02分]"
-        },
-        {
-          "title": "民德电子：向特定对象发行股票获证监会同意注册批复",
-          "url": "https://flash.jin10.com/detail/20261025163137923800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时40分"
+          "time_info": "02时17分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
-          "title": "38美元，DeepSeek算了一笔赚钱的账",
-          "url": "https://wallstreetcn.com/articles/3784386",
-          "source": "华尔街见闻",
+          "title": "DeepSeek到底怎么得罪了美国",
+          "url": "https://www.toutiao.com/trending/7700471897347067435/",
+          "source": "今日头条",
           "ranks": [
-            8,
-            7,
-            6,
-            4
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时00分 ~ 12时03分]"
-        },
-        {
-          "title": "曝DeepSeek完成千亿融资",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367960&amp;topic_name=%E6%9B%9DDeepSeek%E5%AE%8C%E6%88%90%E5%8D%83%E4%BA%BF%E8%9E%8D%E8%B5%84",
-          "source": "贴吧",
-          "ranks": [
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时00分 ~ 12时03分]"
+          "appearance_count": 1,
+          "time_info": "02时17分"
         },
         {
           "title": "DeepSeek、MiniMax完成AI模型出海登记 合规路径落地提振国内AI“出海”信心",
           "url": "https://www.cls.cn/detail/2514315",
           "source": "财联社热门",
           "ranks": [
-            10
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时39分 ~ 17时40分]"
+          "appearance_count": 1,
+          "time_info": "02时17分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "OpenAI、Anthropic齐参与！全球首个AI生物安全实验室将问世",
           "url": "https://www.cls.cn/detail/2514203",
           "source": "财联社热门",
           "ranks": [
-            11,
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时00分 ~ 17时40分]"
-        },
-        {
-          "title": "为什么 chatgpt 和 claude 防不住蒸馏？",
-          "url": "https://www.zhihu.com/question/2097291551575749628",
-          "source": "知乎",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时48分 ~ 07时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "AI“跌倒”，美债“吃饱”！全球“资本争夺战”，市场给出答案",
-          "url": "https://wallstreetcn.com/articles/3784376",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时00分 ~ 07时02分]"
-        },
-        {
-          "title": "油价飙升引发通胀忧虑，美股美债双双承压，苹果市值一度超英伟达，黄金周跌4%",
-          "url": "https://wallstreetcn.com/articles/3784279",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时00分 ~ 04时49分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股收盘：油价暴涨压制市场情绪 三大指数集体收低",
-          "url": "https://www.cls.cn/detail/2514112",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时00分 ~ 22时14分]"
+          "appearance_count": 1,
+          "time_info": "02时17分"
         }
       ]
     }
