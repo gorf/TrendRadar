@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-25T12:03:18.420497+08:00",
-  "total_titles_processed": 619,
+  "generated_at": "2026-10-25T17:40:07.965324+08:00",
+  "total_titles_processed": 799,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 39,
       "titles": [
         {
           "title": "美伊“风向”生变？特朗普暗示或再打击伊朗，美方已做好长期对峙准备！",
@@ -17,8 +17,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时00分 ~ 12时03分]"
+          "appearance_count": 9,
+          "time_info": "[02时00分 ~ 17时40分]"
         },
         {
           "title": "特朗普脸上出现神秘新淤青，在社交平台发布隐晦消息(图)",
@@ -42,6 +42,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时00分 ~ 07时02分]"
+        },
+        {
+          "title": "“多管齐下！特朗普政府暗中助选，要帮博索纳罗家族夺权”",
+          "url": "https://news.ifeng.com/c/8xVYLHGYK3v",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 17时40分]"
         },
         {
           "title": "特朗普怒喷詹姆斯不尊重美国",
@@ -149,6 +160,29 @@
           "time_info": "[02时01分 ~ 12时03分]"
         },
         {
+          "title": "泽连斯基谈与美国关系：我做不到时刻感恩特朗普，感恩几次真够了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34325177",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时03分 ~ 17时40分]"
+        },
+        {
+          "title": "奥巴马中期选举首秀抨击特朗普",
+          "url": "https://www.douyin.com/hot/2712071",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 17时40分]"
+        },
+        {
           "title": "美国总统特朗普：接连不断的竞选集会让我嗓子吃不消。",
           "url": "https://flash.jin10.com/detail/20261025042555088800",
           "source": "金十数据",
@@ -161,6 +195,28 @@
           "time_info": "[04时49分 ~ 07时02分]"
         },
         {
+          "title": "特朗普力挺内塔尼亚胡，身边人却另有打算",
+          "url": "https://news.ifeng.com/c/8xVWZftoNZG",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 17时40分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-10-25）",
+          "url": "https://flash.jin10.com/detail/20261025170414475800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
           "title": "美国总统特朗普：我可能不得不彻底解决伊朗问题，也可能与伊朗达成协议。无论哪种方式，我们都会赢。",
           "url": "https://flash.jin10.com/detail/20261025042421381800",
           "source": "金十数据",
@@ -170,6 +226,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
+        },
+        {
+          "title": "特朗普称随时可能再打伊朗",
+          "url": "https://wallstreetcn.com/livenews/3185179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         },
         {
           "title": "美国总统特朗普：一旦俄罗斯与乌克兰达成协议，美国就能够与两国开展商业往来。",
@@ -189,7 +256,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -255,7 +322,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -291,17 +358,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
-        },
-        {
-          "title": "泽连斯基谈与美国关系：我做不到时刻感恩特朗普，感恩几次真够了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34325177",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时03分"
         },
         {
           "title": "美国总统特朗普：伊朗有259架战斗机，我把它们全都摧毁了。伊朗还有259艘船。它们都沉到海底了。",
@@ -376,7 +432,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -395,7 +451,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "现货金价跌破4000美元关口 避险市场下资金为何抛售黄金？",
@@ -406,8 +462,30 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时00分 ~ 12时03分]"
+          "appearance_count": 9,
+          "time_info": "[02时00分 ~ 17时40分]"
+        },
+        {
+          "title": "人造黄金会不会击穿金价",
+          "url": "https://www.toutiao.com/trending/7699776708773249067/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 17时40分]"
+        },
+        {
+          "title": "人造黄金会不会击穿金价",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E9%80%A0%E9%BB%84%E9%87%91%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%87%BB%E7%A9%BF%E9%87%91%E4%BB%B7%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 17时40分]"
         },
         {
           "title": "金价大跌催热水贝黄金市场消费",
@@ -416,7 +494,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -427,15 +505,26 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
+        },
+        {
+          "title": "金价下跌背后有三大推手",
+          "url": "https://flash.jin10.com/detail/20261025161138030800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         }
       ]
     },
     {
       "keyword_group": "招商银行 万华化学 福耀玻璃 旗滨集团 苏农银行 奥浦迈 爱美客 美的集团 潍柴动力 苏泊尔 鱼跃医疗 牧原股份 振邦智能 华兰生物 证监会",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "【早报】特朗普：或对伊发动小规模“史诗怒火”；证监会：核准设立花旗证券（中国）有限公司；A股多家龙头公司发布三季报",
@@ -446,8 +535,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时00分 ~ 12时03分]"
+          "appearance_count": 9,
+          "time_info": "[02时00分 ~ 17时40分]"
         },
         {
           "title": "证监会核准设立花旗证券（中国）有限公司，将对国内券商行业带来哪些影响？",
@@ -460,12 +549,23 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时00分 ~ 07时02分]"
+        },
+        {
+          "title": "民德电子：向特定对象发行股票获证监会同意注册批复",
+          "url": "https://flash.jin10.com/detail/20261025163137923800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "38美元，DeepSeek算了一笔赚钱的账",
@@ -492,6 +592,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时00分 ~ 12时03分]"
+        },
+        {
+          "title": "DeepSeek、MiniMax完成AI模型出海登记 合规路径落地提振国内AI“出海”信心",
+          "url": "https://www.cls.cn/detail/2514315",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 17时40分]"
         }
       ]
     },
@@ -508,8 +619,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时00分 ~ 12时03分]"
+          "appearance_count": 9,
+          "time_info": "[02时00分 ~ 17时40分]"
         },
         {
           "title": "为什么 chatgpt 和 claude 防不住蒸馏？",
@@ -567,8 +678,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时00分 ~ 12时03分]"
+          "appearance_count": 9,
+          "time_info": "[02时00分 ~ 17时40分]"
         }
       ]
     }
