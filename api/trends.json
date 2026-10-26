@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-26T08:00:19.732395+08:00",
-  "total_titles_processed": 521,
+  "generated_at": "2026-10-26T12:33:47.595927+08:00",
+  "total_titles_processed": 741,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 46,
       "titles": [
         {
           "title": "“多管齐下！特朗普政府暗中助选，要帮博索纳罗家族夺权”",
@@ -47,7 +47,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时00分"
         },
@@ -61,6 +61,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
+        },
+        {
+          "title": "特朗普再次给内塔尼亚胡背书",
+          "url": "https://news.ifeng.com/c/8xWtiDBWMKf",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
         },
         {
           "title": "美国总统特朗普：我还拯救了塞尔弗里奇空军基地。当时，那些‘愚蠢的民主党人’正准备关闭它，而我保住了数千个就业岗位，以及拥有这样一座基地所带来的声望——只有我能做到这一点！",
@@ -199,6 +210,17 @@
           "time_info": "05时35分"
         },
         {
+          "title": "梅德韦杰夫喊话特朗普“教训”乌总统",
+          "url": "https://www.toutiao.com/trending/7700578970949075465/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
           "title": "美国总统特朗普：多亏了我，美国汽车行业的表现比以往任何时候都好。",
           "url": "https://flash.jin10.com/detail/20261026013008075800",
           "source": "金十数据",
@@ -260,7 +282,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时00分"
         },
@@ -293,7 +315,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时00分"
         },
@@ -458,7 +480,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时00分"
         },
@@ -491,7 +513,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时00分"
         }
@@ -499,7 +521,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "人造黄金会不会击穿金价",
@@ -513,6 +535,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时17分 ~ 08时00分]"
+        },
+        {
+          "title": "金价创纪录 俄罗斯矿企财务状况改善",
+          "url": "https://www.toutiao.com/trending/7700744756238663723/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
         },
         {
           "title": "人造黄金会不会击穿金价",
@@ -538,6 +571,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时17分 ~ 08时00分]"
+        },
+        {
+          "title": "金十图示：2026年10月26日（周一）上海金早盘价为858.32元/克，较国际金价(859.97元/克)低1.65元/克",
+          "url": "https://flash.jin10.com/detail/20261026115521300800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
+          "title": "金价连日大跌 多地水贝市场被挤爆",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%BF%9E%E6%97%A5%E5%A4%A7%E8%B7%8C+%E5%A4%9A%E5%9C%B0%E6%B0%B4%E8%B4%9D%E5%B8%82%E5%9C%BA%E8%A2%AB%E6%8C%A4%E7%88%86",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
         }
       ]
     },
@@ -573,6 +628,23 @@
       ]
     },
     {
+      "keyword_group": "招商银行 万华化学 福耀玻璃 旗滨集团 苏农银行 奥浦迈 爱美客 美的集团 潍柴动力 苏泊尔 鱼跃医疗 牧原股份 振邦智能 华兰生物 证监会",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "香港证监会首次批准向公众发售的代币化基金进行二级市场交易",
+          "url": "https://flash.jin10.com/detail/20261026115207115800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -600,7 +672,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时00分"
         }
