@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-26T12:33:47.595927+08:00",
-  "total_titles_processed": 741,
+  "generated_at": "2026-10-26T18:53:45.928935+08:00",
+  "total_titles_processed": 962,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 48,
       "titles": [
         {
           "title": "“多管齐下！特朗普政府暗中助选，要帮博索纳罗家族夺权”",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时17分 ~ 05时35分]"
+        },
+        {
+          "title": "全球关键材料争夺战“白热化”？欧盟开始“抄特朗普作业”",
+          "url": "https://www.cls.cn/detail/2514939",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
         },
         {
           "title": "美国总统特朗普：5000美元红利将在中期选举后不久发放。",
@@ -69,7 +80,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
         },
@@ -216,7 +227,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
         },
@@ -329,6 +340,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
+        },
+        {
+          "title": "特朗普当众轻佻评论女歌手身材，“希望她没觉得被冒犯”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34332295",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
         },
         {
           "title": "特朗普：选举战情激烈的原因是福克斯新闻不提供帮助",
@@ -521,7 +543,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "人造黄金会不会击穿金价",
@@ -543,7 +565,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
         },
@@ -579,9 +601,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
+        },
+        {
+          "title": "黄金价格再次下跌",
+          "url": "https://www.douyin.com/hot/2713480",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
         },
         {
           "title": "金价连日大跌 多地水贝市场被挤爆",
@@ -590,15 +623,26 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
+        },
+        {
+          "title": "金价一跌再跌还会继续跌吗",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%80%E8%B7%8C%E5%86%8D%E8%B7%8C%E8%BF%98%E4%BC%9A%E7%BB%A7%E7%BB%AD%E8%B7%8C%E5%90%97%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "DeepSeek到底怎么得罪了美国",
@@ -624,6 +668,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时17分 ~ 08时00分]"
+        },
+        {
+          "title": "DeepSeek把自家“印钞机”开源了",
+          "url": "https://www.toutiao.com/trending/7700884077489950271/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
         }
       ]
     },
@@ -638,7 +693,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
         }
