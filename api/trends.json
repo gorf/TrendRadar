@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-26T05:35:12.589792+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-10-26T08:00:19.732395+08:00",
+  "total_titles_processed": 521,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 44,
       "titles": [
         {
           "title": "“多管齐下！特朗普政府暗中助选，要帮博索纳罗家族夺权”",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时17分 ~ 05时35分]"
+          "appearance_count": 5,
+          "time_info": "[02时17分 ~ 08时00分]"
         },
         {
           "title": "奥巴马中期选举首秀抨击特朗普",
@@ -36,9 +36,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
+        },
+        {
+          "title": "美国总统特朗普：利比亚不能继续成为非法移民的通道，这种情况必须立即结束。",
+          "url": "https://flash.jin10.com/detail/20261026072827618800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时00分"
         },
         {
           "title": "特朗普：不后悔打击伊朗",
@@ -47,18 +58,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时35分"
-        },
-        {
-          "title": "美国总统特朗普不担心伊朗会在数月内重建铀浓缩能力。 自称在以色列支持率达99%。",
-          "url": "https://wallstreetcn.com/livenews/3185255",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
         },
@@ -80,7 +80,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
         },
@@ -91,7 +91,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
         },
@@ -106,6 +106,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时17分 ~ 05时35分]"
+        },
+        {
+          "title": "美国总统特朗普不担心伊朗会在数月内重建铀浓缩能力。 自称在以色列支持率达99%。",
+          "url": "https://wallstreetcn.com/livenews/3185255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 08时00分]"
         },
         {
           "title": "梅德韦杰夫喊话特朗普：你有10个不得不教训泽连斯基的理由",
@@ -154,6 +166,17 @@
           "time_info": "[02时17分 ~ 05时35分]"
         },
         {
+          "title": "奥巴马批特朗普：赤裸裸地借机敛财",
+          "url": "https://www.toutiao.com/trending/7699813230826455076/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时59分 ~ 08时00分]"
+        },
+        {
           "title": "美国总统特朗普：全国各地，尤其是密歇根州，正在新建和扩建工厂。",
           "url": "https://flash.jin10.com/detail/20261026013016161800",
           "source": "金十数据",
@@ -171,7 +194,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
         },
@@ -193,7 +216,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
         },
@@ -215,7 +238,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
         },
@@ -226,9 +249,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
+        },
+        {
+          "title": "在本周二举行的以色列选举前，美国总统特朗普再发长文表示支持以色列总理内塔尼亚胡。",
+          "url": "https://flash.jin10.com/detail/20261026070433229800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时00分"
         },
         {
           "title": "美国总统特朗普：我没拿到诺贝尔奖，所以我不想要任何挪威人。挪威烂透了！",
@@ -237,7 +271,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
         },
@@ -251,6 +285,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
+        },
+        {
+          "title": "特朗普称对伊朗到了“决断时刻”：达协议还是再开打？内塔尼亚胡选情添变数",
+          "url": "https://flash.jin10.com/detail/20261026065909958800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时00分"
         },
         {
           "title": "美国司法部长：特朗普无意接管州级选举。",
@@ -281,7 +326,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
         },
@@ -358,7 +403,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
         },
@@ -402,9 +447,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
+        },
+        {
+          "title": "美国总统特朗普：你们很快就会看到伊朗冲突以某种方式结束。 中期选举结束后不久将发放5000美元分红。",
+          "url": "https://wallstreetcn.com/livenews/3185262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时00分"
         },
         {
           "title": "美国总统特朗普：不担心伊朗会在数月内重建铀浓缩能力。",
@@ -413,7 +469,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
         },
@@ -424,9 +480,20 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
+        },
+        {
+          "title": "据美媒报道，来自三个安理会常任理事国的消息人士证实，特朗普政府已支持匈牙利前总理欧尔班出任联合国秘书长。目前，该计划仍有待最终决定。",
+          "url": "https://flash.jin10.com/detail/20261026062242747800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时00分"
         }
       ]
     },
@@ -440,11 +507,12 @@
           "source": "百度热搜",
           "ranks": [
             6,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时17分 ~ 05时35分]"
+          "appearance_count": 5,
+          "time_info": "[02时17分 ~ 08时00分]"
         },
         {
           "title": "人造黄金会不会击穿金价",
@@ -452,22 +520,24 @@
           "source": "今日头条",
           "ranks": [
             7,
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时17分 ~ 05时35分]"
+          "appearance_count": 5,
+          "time_info": "[02时17分 ~ 08时00分]"
         },
         {
           "title": "三大因素致国际金价走低",
           "url": "https://www.douyin.com/hot/2712115",
           "source": "抖音",
           "ranks": [
-            17
+            17,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
+          "appearance_count": 3,
+          "time_info": "[02时17分 ~ 08时00分]"
         }
       ]
     },
@@ -481,22 +551,24 @@
           "source": "今日头条",
           "ranks": [
             8,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时17分 ~ 05时35分]"
+          "appearance_count": 5,
+          "time_info": "[02时17分 ~ 08时00分]"
         },
         {
           "title": "DeepSeek、MiniMax完成AI模型出海登记 合规路径落地提振国内AI“出海”信心",
           "url": "https://www.cls.cn/detail/2514315",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时17分 ~ 05时35分]"
+          "appearance_count": 5,
+          "time_info": "[02时17分 ~ 08时00分]"
         }
       ]
     },
@@ -514,6 +586,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周一亚市盘初美股期货走高，标普500指数期货涨0.4%，纳斯达克100指数期货涨0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3185261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时00分"
         }
       ]
     }
