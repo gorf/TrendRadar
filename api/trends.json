@@ -1,735 +1,139 @@
 {
-  "generated_at": "2026-10-26T18:53:45.928935+08:00",
-  "total_titles_processed": 962,
+  "generated_at": "2026-10-27T01:50:01.646529+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 4,
       "titles": [
         {
-          "title": "“多管齐下！特朗普政府暗中助选，要帮博索纳罗家族夺权”",
-          "url": "https://news.ifeng.com/c/8xVYLHGYK3v",
+          "title": "特朗普狂喷：挪威是“粪坑国家”",
+          "url": "https://news.ifeng.com/c/8xXW8razcUG",
           "source": "凤凰网",
           "ranks": [
             4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时17分 ~ 08时00分]"
-        },
-        {
-          "title": "奥巴马中期选举首秀抨击特朗普",
-          "url": "https://www.douyin.com/hot/2712071",
-          "source": "抖音",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时17分 ~ 05时35分]"
-        },
-        {
-          "title": "全球关键材料争夺战“白热化”？欧盟开始“抄特朗普作业”",
-          "url": "https://www.cls.cn/detail/2514939",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时53分"
-        },
-        {
-          "title": "美国总统特朗普：5000美元红利将在中期选举后不久发放。",
-          "url": "https://flash.jin10.com/detail/20261026045757543800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时35分"
-        },
-        {
-          "title": "美国总统特朗普：利比亚不能继续成为非法移民的通道，这种情况必须立即结束。",
-          "url": "https://flash.jin10.com/detail/20261026072827618800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时00分"
-        },
-        {
-          "title": "特朗普：不后悔打击伊朗",
-          "url": "https://flash.jin10.com/detail/20261026045200402800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时35分"
-        },
-        {
-          "title": "特朗普再次给内塔尼亚胡背书",
-          "url": "https://news.ifeng.com/c/8xWtiDBWMKf",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时33分"
-        },
-        {
-          "title": "美国总统特朗普：我还拯救了塞尔弗里奇空军基地。当时，那些‘愚蠢的民主党人’正准备关闭它，而我保住了数千个就业岗位，以及拥有这样一座基地所带来的声望——只有我能做到这一点！",
-          "url": "https://flash.jin10.com/detail/20261026013036594800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "美国总统特朗普：你们将看到伊朗冲突“很快以某种方式结束”。",
-          "url": "https://flash.jin10.com/detail/20261026045128291800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时35分"
-        },
-        {
-          "title": "特朗普：即将与加拿大达成协议",
-          "url": "https://wallstreetcn.com/livenews/3185254",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时35分"
-        },
-        {
-          "title": "特朗普在美国密歇根拉票，自夸振兴汽车业",
-          "url": "https://wallstreetcn.com/livenews/3185245",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时17分 ~ 05时35分]"
+          "time_info": "[01时49分 ~ 01时50分]"
         },
         {
-          "title": "美国总统特朗普不担心伊朗会在数月内重建铀浓缩能力。 自称在以色列支持率达99%。",
-          "url": "https://wallstreetcn.com/livenews/3185255",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时35分 ~ 08时00分]"
-        },
-        {
-          "title": "梅德韦杰夫喊话特朗普：你有10个不得不教训泽连斯基的理由",
-          "url": "https://news.ifeng.com/c/8xW8kI1qB6e",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时17分 ~ 05时35分]"
-        },
-        {
-          "title": "美伊“风向”生变？特朗普暗示或再打击伊朗，美方已做好长期对峙准备！",
-          "url": "https://www.cls.cn/detail/2514121",
-          "source": "财联社热门",
+          "title": "特朗普当众轻佻评论女歌手身材",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BD%93%E4%BC%97%E8%BD%BB%E4%BD%BB%E8%AF%84%E8%AE%BA%E5%A5%B3%E6%AD%8C%E6%89%8B%E8%BA%AB%E6%9D%90&t=31&band_rank=8&Refer=top",
+          "source": "微博",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时17分 ~ 05时35分]"
-        },
-        {
-          "title": "奥巴马怒喷特朗普所为何事",
-          "url": "https://www.toutiao.com/trending/7700572569123966502/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时17分 ~ 05时35分]"
-        },
-        {
-          "title": "特朗普：美俄乌三方会谈“很快”就会举行",
-          "url": "https://wallstreetcn.com/livenews/3185238",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            19
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时17分 ~ 05时35分]"
+          "time_info": "[01时49分 ~ 01时50分]"
         },
         {
-          "title": "奥巴马批特朗普：赤裸裸地借机敛财",
-          "url": "https://www.toutiao.com/trending/7699813230826455076/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时59分 ~ 08时00分]"
-        },
-        {
-          "title": "美国总统特朗普：全国各地，尤其是密歇根州，正在新建和扩建工厂。",
-          "url": "https://flash.jin10.com/detail/20261026013016161800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "据法庭听证会消息，美国上诉法院在审理特朗普政府针对加利福尼亚州提起的诉讼时，似乎对其主张持怀疑态度。特朗普政府指控加州选民名册中登记有非美国公民。",
-          "url": "https://flash.jin10.com/detail/20261026044921976800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时35分"
-        },
-        {
-          "title": "梅德韦杰夫喊话特朗普“教训”乌总统",
-          "url": "https://www.toutiao.com/trending/7700578970949075465/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时33分"
-        },
-        {
-          "title": "美国总统特朗普：多亏了我，美国汽车行业的表现比以往任何时候都好。",
-          "url": "https://flash.jin10.com/detail/20261026013008075800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "伊朗讽刺鲁比奥忘了特朗普自称“海盗”",
-          "url": "https://flash.jin10.com/detail/20261026044516119800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时35分"
-        },
-        {
-          "title": "美国总统特朗普：美国如今是全球最炙手可热的国家，远超世界其他任何地方！",
-          "url": "https://flash.jin10.com/detail/20261026013000525800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "美国总统特朗普：加拿大此刻愿意给我们任何东西。",
-          "url": "https://flash.jin10.com/detail/20261026043918038800",
-          "source": "金十数据",
+          "title": "“美军已做好打击准备，只等特朗普下令”",
+          "url": "https://original.ifeng.com/c/8xXd9gYztM7",
+          "source": "凤凰网",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时35分"
-        },
-        {
-          "title": "特朗普在集会上表示：这是我在大约12天内举行的第26场集会。",
-          "url": "https://flash.jin10.com/detail/20261026042317578800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时35分"
-        },
-        {
-          "title": "在本周二举行的以色列选举前，美国总统特朗普再发长文表示支持以色列总理内塔尼亚胡。",
-          "url": "https://flash.jin10.com/detail/20261026070433229800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时00分"
-        },
-        {
-          "title": "美国总统特朗普：我没拿到诺贝尔奖，所以我不想要任何挪威人。挪威烂透了！",
-          "url": "https://flash.jin10.com/detail/20261026042030863800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时35分"
-        },
-        {
-          "title": "美国白宫：特朗普总统正在保护美国人及其辛苦挣来的纳税钱，免受骗子的侵害，欺骗美国纳税人的日子已经结束。",
-          "url": "https://flash.jin10.com/detail/20261026010759485800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "特朗普称对伊朗到了“决断时刻”：达协议还是再开打？内塔尼亚胡选情添变数",
-          "url": "https://flash.jin10.com/detail/20261026065909958800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时00分"
-        },
-        {
-          "title": "美国司法部长：特朗普无意接管州级选举。",
-          "url": "https://flash.jin10.com/detail/20261026010637256800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
+          "appearance_count": 2,
+          "time_info": "[01时49分 ~ 01时50分]"
         },
         {
           "title": "特朗普当众轻佻评论女歌手身材，“希望她没觉得被冒犯”",
           "url": "https://m.thepaper.cn/newsDetail_forward_34332295",
           "source": "澎湃新闻",
           "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时53分"
-        },
-        {
-          "title": "特朗普：选举战情激烈的原因是福克斯新闻不提供帮助",
-          "url": "https://flash.jin10.com/detail/20261026005008972800",
-          "source": "金十数据",
-          "ranks": [
-            15
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "特朗普抨击索马里：全球最糟糕的国家",
-          "url": "https://flash.jin10.com/detail/20261026041258309800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时35分"
-        },
-        {
-          "title": "特朗普：美俄乌三方会谈“很快”就会举行",
-          "url": "https://flash.jin10.com/detail/20261026004033136800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "美国总统特朗普：俄罗斯没有把石油提供给我们，而是提供给了全世界，这是一件非常好的事。",
-          "url": "https://flash.jin10.com/detail/20261026003615302800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "美国总统特朗普：有关乌克兰冲突的谈判很快就会举行，各国都渴望达成协议。",
-          "url": "https://flash.jin10.com/detail/20261026003302983800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "美国总统特朗普：与俄罗斯达成的石油协议是件非常好的事。",
-          "url": "https://flash.jin10.com/detail/20261026003045694800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "美国众议院议长迈克·约翰逊：周六与特朗普讨论了俄罗斯问题。 周末与鲁比奥就俄罗斯问题进行了交谈。 鲁比奥表示美国将进行三方谈判。",
-          "url": "https://wallstreetcn.com/livenews/3185224",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "美国总统特朗普：我认为俄乌局势将出现新变化。",
-          "url": "https://flash.jin10.com/detail/20261026002837599800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "美国总统特朗普：现在说谁将参加2028年竞选还为时过早。",
-          "url": "https://flash.jin10.com/detail/20261026034946098800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时35分"
-        },
-        {
-          "title": "美国总统特朗普：我掌握着两套不同的有关伊朗的情报。",
-          "url": "https://flash.jin10.com/detail/20261026002756569800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "美国总统特朗普：我们掌握关于伊朗的非常先进的情报。",
-          "url": "https://flash.jin10.com/detail/20261026002738573800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "美国总统特朗普：我们在伊朗战争中的表现非常好。",
-          "url": "https://flash.jin10.com/detail/20261026002724358800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "美国总统特朗普：我在以色列的支持率达99%。",
-          "url": "https://flash.jin10.com/detail/20261026034106264800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时35分"
-        },
-        {
-          "title": "美国总统特朗普：你们很快就会看到伊朗冲突以某种方式结束。 中期选举结束后不久将发放5000美元分红。",
-          "url": "https://wallstreetcn.com/livenews/3185262",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时00分"
-        },
-        {
-          "title": "美国总统特朗普：不担心伊朗会在数月内重建铀浓缩能力。",
-          "url": "https://flash.jin10.com/detail/20261026033442871800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时35分"
-        },
-        {
-          "title": "金十提示：特朗普在密歇根州的集会上发表讲话。",
-          "url": "https://flash.jin10.com/detail/20261026033030828800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时35分"
-        },
-        {
-          "title": "据美媒报道，来自三个安理会常任理事国的消息人士证实，特朗普政府已支持匈牙利前总理欧尔班出任联合国秘书长。目前，该计划仍有待最终决定。",
-          "url": "https://flash.jin10.com/detail/20261026062242747800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时00分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "人造黄金会不会击穿金价",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E9%80%A0%E9%BB%84%E9%87%91%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%87%BB%E7%A9%BF%E9%87%91%E4%BB%B7",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时17分 ~ 08时00分]"
-        },
-        {
-          "title": "金价创纪录 俄罗斯矿企财务状况改善",
-          "url": "https://www.toutiao.com/trending/7700744756238663723/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时33分"
-        },
-        {
-          "title": "人造黄金会不会击穿金价",
-          "url": "https://www.toutiao.com/trending/7699776708773249067/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时17分 ~ 08时00分]"
-        },
-        {
-          "title": "三大因素致国际金价走低",
-          "url": "https://www.douyin.com/hot/2712115",
-          "source": "抖音",
-          "ranks": [
-            17,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时17分 ~ 08时00分]"
-        },
-        {
-          "title": "金十图示：2026年10月26日（周一）上海金早盘价为858.32元/克，较国际金价(859.97元/克)低1.65元/克",
-          "url": "https://flash.jin10.com/detail/20261026115521300800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时33分"
-        },
-        {
-          "title": "黄金价格再次下跌",
-          "url": "https://www.douyin.com/hot/2713480",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时53分"
-        },
-        {
-          "title": "金价连日大跌 多地水贝市场被挤爆",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%BF%9E%E6%97%A5%E5%A4%A7%E8%B7%8C+%E5%A4%9A%E5%9C%B0%E6%B0%B4%E8%B4%9D%E5%B8%82%E5%9C%BA%E8%A2%AB%E6%8C%A4%E7%88%86",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时33分"
-        },
-        {
-          "title": "金价一跌再跌还会继续跌吗",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%80%E8%B7%8C%E5%86%8D%E8%B7%8C%E8%BF%98%E4%BC%9A%E7%BB%A7%E7%BB%AD%E8%B7%8C%E5%90%97%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "DeepSeek到底怎么得罪了美国",
-          "url": "https://www.toutiao.com/trending/7700471897347067435/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时17分 ~ 08时00分]"
-        },
-        {
-          "title": "DeepSeek、MiniMax完成AI模型出海登记 合规路径落地提振国内AI“出海”信心",
-          "url": "https://www.cls.cn/detail/2514315",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时17分 ~ 08时00分]"
-        },
-        {
-          "title": "DeepSeek把自家“印钞机”开源了",
-          "url": "https://www.toutiao.com/trending/7700884077489950271/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "招商银行 万华化学 福耀玻璃 旗滨集团 苏农银行 奥浦迈 爱美客 美的集团 潍柴动力 苏泊尔 鱼跃医疗 牧原股份 振邦智能 华兰生物 证监会",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "香港证监会首次批准向公众发售的代币化基金进行二级市场交易",
-          "url": "https://flash.jin10.com/detail/20261026115207115800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI、Anthropic齐参与！全球首个AI生物安全实验室将问世",
-          "url": "https://www.cls.cn/detail/2514203",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
+          "appearance_count": 2,
+          "time_info": "[01时49分 ~ 01时50分]"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
-          "title": "周一亚市盘初美股期货走高，标普500指数期货涨0.4%，纳斯达克100指数期货涨0.6%。",
-          "url": "https://wallstreetcn.com/livenews/3185261",
-          "source": "华尔街见闻-快讯",
+          "title": "美股期指集体回暖 SK海力士据报将推巨额股东回报 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2515639",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时49分 ~ 01时50分]"
+        },
+        {
+          "title": "金十图示：2026年10月26日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20261027003215724800",
+          "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时00分"
+          "time_info": "01时50分"
+        },
+        {
+          "title": "金十图示：2026年10月26日（周一）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20261027003200902800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek七款工具同题实测",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%B8%83%E6%AC%BE%E5%B7%A5%E5%85%B7%E5%90%8C%E9%A2%98%E5%AE%9E%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时49分 ~ 01时50分]"
+        },
+        {
+          "title": "DeepSeek 营收只有几亿，却融资上千亿，这种模式合理吗？",
+          "url": "https://www.zhihu.com/question/2095940115537334577",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时49分 ~ 01时50分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Anthropic提交IPO申请，费城半导体涨3%，美股走高，巴西石油跌超17%，油价回落，美债走强",
+          "url": "https://wallstreetcn.com/articles/3784464",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时49分 ~ 01时50分]"
         }
       ]
     }
