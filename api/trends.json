@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-27T07:11:50.935443+08:00",
-  "total_titles_processed": 435,
+  "generated_at": "2026-10-27T09:56:03.632317+08:00",
+  "total_titles_processed": 622,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "特朗普狂喷：挪威是“粪坑国家”",
@@ -26,8 +26,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时49分 ~ 07时11分]"
+          "appearance_count": 5,
+          "time_info": "[01时49分 ~ 09时56分]"
         },
         {
           "title": "特朗普当众轻佻评论女歌手身材，“希望她没觉得被冒犯”",
@@ -38,8 +38,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时49分 ~ 07时11分]"
+          "appearance_count": 5,
+          "time_info": "[01时49分 ~ 09时56分]"
         },
         {
           "title": "特朗普当众轻佻评论女歌手身材",
@@ -53,13 +53,35 @@
           "time_info": "[01时49分 ~ 01时50分]"
         },
         {
+          "title": "巴西副总统驳斥特朗普言论",
+          "url": "https://www.toutiao.com/trending/7701071685427970587/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时55分 ~ 09时56分]"
+        },
+        {
+          "title": "特朗普时期油价超过拜登任期",
+          "url": "https://www.toutiao.com/trending/7700151907554230313/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时55分 ~ 09时56分]"
+        },
+        {
           "title": "美国上诉法院驳回了特朗普政府要求阻止加州统计据称来自非公民的邮寄选票的请求。",
           "url": "https://flash.jin10.com/detail/20261027062600878800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -70,9 +92,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "美国总统特朗普周二日程一览",
+          "url": "https://flash.jin10.com/detail/20261027093740167800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
         },
         {
           "title": "美国总统特朗普：美国参议院正让《夏令时法案》胎死腹中，而全国绝大多数人都希望它通过。",
@@ -81,7 +114,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -92,7 +125,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -103,7 +136,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         }
@@ -111,8 +144,52 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "OpenAI公布三项科学成果",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%85%AC%E5%B8%83%E4%B8%89%E9%A1%B9%E7%A7%91%E5%AD%A6%E6%88%90%E6%9E%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时55分 ~ 09时56分]"
+        },
+        {
+          "title": "卢拉意外连任引发巴西资产暴跌 OpenAI公布数学、计算机、物理领域新成果 | 环球市场",
+          "url": "https://www.cls.cn/detail/2515893",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时55分 ~ 09时56分]"
+        },
+        {
+          "title": "如何看待 ETH（指数时间猜想）猜想被 OpenAI 证伪？",
+          "url": "https://www.zhihu.com/question/2098291700204622696",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时55分 ~ 09时56分]"
+        },
+        {
+          "title": "如何评价 OpenAI 发布的 GPT-6.1 Terra？",
+          "url": "https://www.zhihu.com/question/2098252387312058852",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时55分 ~ 09时56分]"
+        },
         {
           "title": "OpenAI宣布AI取得三项科学突破，涉及数学猜想、计算机算法及千禧年难题",
           "url": "https://flash.jin10.com/detail/20261027055044639800",
@@ -120,7 +197,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -131,7 +208,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -142,7 +219,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -153,7 +230,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         }
@@ -161,8 +238,20 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "美股收盘：Anthropic招股书点燃AI行情 三大指数集体上涨",
+          "url": "https://www.cls.cn/detail/2515881",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时11分 ~ 09时56分]"
+        },
         {
           "title": "美股期指集体回暖 SK海力士据报将推巨额股东回报 | 今夜看点",
           "url": "https://www.cls.cn/detail/2515639",
@@ -175,15 +264,15 @@
           "time_info": "[01时49分 ~ 07时11分]"
         },
         {
-          "title": "美股收盘：Anthropic招股书点燃AI行情 三大指数集体上涨",
-          "url": "https://www.cls.cn/detail/2515881",
+          "title": "【早报】科技股回暖，美股全线上涨；国际油价，从六个月高点回落；药明康德、中信证券发布三季报",
+          "url": "https://www.cls.cn/detail/2515908",
           "source": "财联社热门",
           "ranks": [
-            4
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时55分 ~ 09时56分]"
         },
         {
           "title": "金十图示：2026年10月26日（周一）美股热门股票行情一览（美股盘中）",
@@ -206,6 +295,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
+        },
+        {
+          "title": "美股期货小幅走高，标普500指数期货上涨0.2%，纳斯达克100指数期货上涨0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3186536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
         }
       ]
     },
@@ -231,11 +331,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            10
+            10,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时49分 ~ 07时11分]"
+          "appearance_count": 5,
+          "time_info": "[01时49分 ~ 09时56分]"
         }
       ]
     },
@@ -250,7 +351,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -261,7 +362,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         }
@@ -272,6 +373,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "Anthropic IPO重燃AI情绪，美股指反弹，芯片指数涨近3%，美债、油价齐回落",
+          "url": "https://wallstreetcn.com/articles/3784464",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时11分 ~ 09时56分]"
+        },
+        {
           "title": "Anthropic提交IPO申请，费城半导体涨3%，美股走高，巴西石油跌超17%，油价回落，美债走强",
           "url": "https://wallstreetcn.com/articles/3784464",
           "source": "华尔街见闻",
@@ -281,17 +394,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时49分 ~ 01时50分]"
-        },
-        {
-          "title": "Anthropic IPO重燃AI情绪，美股指反弹，芯片指数涨近3%，美债、油价齐回落",
-          "url": "https://wallstreetcn.com/articles/3784464",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时11分"
         }
       ]
     }
