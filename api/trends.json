@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-27T09:56:03.632317+08:00",
-  "total_titles_processed": 622,
+  "generated_at": "2026-10-27T15:45:26.311683+08:00",
+  "total_titles_processed": 838,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普狂喷：挪威是“粪坑国家”",
@@ -17,6 +17,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时49分 ~ 07时11分]"
+        },
+        {
+          "title": "美国总统特朗普称巴西总统选举被操纵，外交部回应",
+          "url": "https://flash.jin10.com/detail/20261027152411326800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
+          "title": "美国总统特朗普称巴西总统选举被操纵，外交部回",
+          "url": "https://wallstreetcn.com/livenews/3186722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
         },
         {
           "title": "“美军已做好打击准备，只等特朗普下令”",
@@ -97,13 +119,24 @@
           "time_info": "07时11分"
         },
         {
+          "title": "奥巴马称白宫修得像连锁餐厅，特朗普很不爽",
+          "url": "https://news.ifeng.com/c/8xYriizED1y",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
           "title": "美国总统特朗普周二日程一览",
           "url": "https://flash.jin10.com/detail/20261027093740167800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         },
@@ -144,7 +177,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "OpenAI公布三项科学成果",
@@ -173,11 +206,12 @@
           "url": "https://www.zhihu.com/question/2098291700204622696",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时55分 ~ 09时56分]"
+          "appearance_count": 3,
+          "time_info": "[09时55分 ~ 15时45分]"
         },
         {
           "title": "如何评价 OpenAI 发布的 GPT-6.1 Terra？",
@@ -191,6 +225,17 @@
           "time_info": "[09时55分 ~ 09时56分]"
         },
         {
+          "title": "如何评价 OpenAI 宣布证明四维杨–米尔斯理论的存在性？这项结果的意义有多大？",
+          "url": "https://www.zhihu.com/question/2098328780846655325",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
           "title": "OpenAI宣布AI取得三项科学突破，涉及数学猜想、计算机算法及千禧年难题",
           "url": "https://flash.jin10.com/detail/20261027055044639800",
           "source": "金十数据",
@@ -200,6 +245,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "OpenAI 10 月 26 日宣布证明所有维度局部光滑猜想，一举推平调和分析四大猜想，如何理解这一事件？",
+          "url": "https://www.zhihu.com/question/2098331248469062137",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
         },
         {
           "title": "OpenAI：我们的模型推翻了长期被广泛接受的指数时间假设。",
@@ -238,7 +294,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美股收盘：Anthropic招股书点燃AI行情 三大指数集体上涨",
@@ -275,6 +331,17 @@
           "time_info": "[09时55分 ~ 09时56分]"
         },
         {
+          "title": "存储巨头迎来超级财报周！SK海力士周二美股盘后率先披露",
+          "url": "https://flash.jin10.com/detail/20261027151529710800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
           "title": "金十图示：2026年10月26日（周一）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20261027003215724800",
           "source": "金十数据",
@@ -303,9 +370,59 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "金价空头压境，谁在4000美元接了飞刀？",
+          "url": "https://flash.jin10.com/detail/20261027152158441800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
+          "title": "全球央行黄金储备现分化！分析师：影响有限，不改金价长期上涨趋势",
+          "url": "https://www.cls.cn/detail/2515552",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        },
+        {
+          "title": "国际金价涨0.5%，窄幅震荡于4000美元整数位心理关口附近",
+          "url": "https://wallstreetcn.com/livenews/3186483",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        },
+        {
+          "title": "金十图示：2026年10月27日（周二）上海金午盘价为859.57元/克，较国际金价(857.5元/克)高2.07元/克",
+          "url": "https://flash.jin10.com/detail/20261027150230451800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
         }
       ]
     },
@@ -341,34 +458,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "全球央行黄金储备现分化！分析师：影响有限，不改金价长期上涨趋势",
-          "url": "https://www.cls.cn/detail/2515552",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
-          "title": "国际金价涨0.5%，窄幅震荡于4000美元整数位心理关口附近",
-          "url": "https://wallstreetcn.com/livenews/3186483",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -378,11 +467,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时11分 ~ 09时56分]"
+          "appearance_count": 4,
+          "time_info": "[07时11分 ~ 15时45分]"
         },
         {
           "title": "Anthropic提交IPO申请，费城半导体涨3%，美股走高，巴西石油跌超17%，油价回落，美债走强",
@@ -394,6 +484,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时49分 ~ 01时50分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌 CEO 称「宁可牺牲云业务利润，也要打赢前沿大模型生死战」，大模型对于谷歌有多重要？",
+          "url": "https://www.zhihu.com/question/2097989360473694568",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
         }
       ]
     }
