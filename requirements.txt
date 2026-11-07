@@ -1,4 +1,5 @@
 requests==2.32.4
 pytz==2025.2
 PyYAML==6.0.2
-playwright~=1.45.0
+# 1.61+ supports Ubuntu 26.04 (GitHub Actions ubuntu-latest)
+playwright~=1.64.0
