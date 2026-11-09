@@ -1,506 +1,254 @@
 {
-  "generated_at": "2026-10-27T15:45:26.311683+08:00",
-  "total_titles_processed": 838,
+  "generated_at": "2026-11-09T15:47:53.407458+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 12,
       "titles": [
         {
-          "title": "特朗普狂喷：挪威是“粪坑国家”",
-          "url": "https://news.ifeng.com/c/8xXW8razcUG",
+          "title": "“这是美国民主党和建制派搞黄仁勋，进而搞特朗普的一种方式”",
+          "url": "https://news.ifeng.com/c/8xuSTiEyxK7",
           "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时47分"
+        },
+        {
+          "title": "特朗普最新发声：再次打击伊朗可能性极低 “铁门”特遣行动正全面展开",
+          "url": "https://www.cls.cn/detail/2528420",
+          "source": "财联社热门",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时49分 ~ 07时11分]"
-        },
-        {
-          "title": "美国总统特朗普称巴西总统选举被操纵，外交部回应",
-          "url": "https://flash.jin10.com/detail/20261027152411326800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时45分"
+          "time_info": "15时47分"
         },
         {
-          "title": "美国总统特朗普称巴西总统选举被操纵，外交部回",
-          "url": "https://wallstreetcn.com/livenews/3186722",
+          "title": "“铁门”封锁陆路！特朗普称“目前几乎没有物资能够进出伊朗”，若谈判取得进展，再次发动打击可能性极低",
+          "url": "https://wallstreetcn.com/articles/3785498",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时47分"
+        },
+        {
+          "title": "伊朗向特朗普发48小时最后通牒",
+          "url": "https://original.ifeng.com/c/8xub7UOarEQ",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时47分"
+        },
+        {
+          "title": "事关AI交易走向，硅谷、华尔街热议“黄仁勋绯闻”，马斯克力挺、特朗普也发声",
+          "url": "https://wallstreetcn.com/articles/3785517",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时47分"
+        },
+        {
+          "title": "特朗普称将与中俄元首在APEC讨论美伊冲突及无核化问题，外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3196752",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时45分"
+          "time_info": "15时47分"
         },
         {
-          "title": "“美军已做好打击准备，只等特朗普下令”",
-          "url": "https://original.ifeng.com/c/8xXd9gYztM7",
-          "source": "凤凰网",
+          "title": "未来两年“战斗到底”还是“极限谈判”？白宫人事频繁更迭，“坡脚”特朗普摆出“强硬姿态”",
+          "url": "https://wallstreetcn.com/articles/3785481",
+          "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时49分 ~ 09时56分]"
+          "appearance_count": 1,
+          "time_info": "15时47分"
         },
         {
-          "title": "特朗普当众轻佻评论女歌手身材，“希望她没觉得被冒犯”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34332295",
-          "source": "澎湃新闻",
+          "title": "向特朗普政府“开炮”！民主党预告：将“剑指”马斯克、米勒和赫格塞思",
+          "url": "https://www.cls.cn/detail/2528425",
+          "source": "财联社热门",
           "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时49分 ~ 09时56分]"
-        },
-        {
-          "title": "特朗普当众轻佻评论女歌手身材",
-          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BD%93%E4%BC%97%E8%BD%BB%E4%BD%BB%E8%AF%84%E8%AE%BA%E5%A5%B3%E6%AD%8C%E6%89%8B%E8%BA%AB%E6%9D%90&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时49分 ~ 01时50分]"
-        },
-        {
-          "title": "巴西副总统驳斥特朗普言论",
-          "url": "https://www.toutiao.com/trending/7701071685427970587/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时55分 ~ 09时56分]"
-        },
-        {
-          "title": "特朗普时期油价超过拜登任期",
-          "url": "https://www.toutiao.com/trending/7700151907554230313/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时55分 ~ 09时56分]"
-        },
-        {
-          "title": "美国上诉法院驳回了特朗普政府要求阻止加州统计据称来自非公民的邮寄选票的请求。",
-          "url": "https://flash.jin10.com/detail/20261027062600878800",
-          "source": "金十数据",
-          "ranks": [
-            6
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时11分"
+          "time_info": "15时47分"
         },
         {
-          "title": "美国总统特朗普：宣布推出一项总额超过2.5亿美元的计划，旨在为养老院招募和留住护士。",
-          "url": "https://flash.jin10.com/detail/20261027061229268800",
-          "source": "金十数据",
+          "title": "特朗普政府要求中国协助结束与伊朗冲突？外交部：相关方应该坚持和平选择",
+          "url": "https://wallstreetcn.com/livenews/3196751",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时11分"
+          "time_info": "15时47分"
         },
         {
-          "title": "奥巴马称白宫修得像连锁餐厅，特朗普很不爽",
-          "url": "https://news.ifeng.com/c/8xYriizED1y",
-          "source": "凤凰网",
+          "title": "外交努力持续！今日，特朗普和万斯将在白宫会见美伊关键调解人",
+          "url": "https://www.cls.cn/detail/2528621",
+          "source": "财联社热门",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时45分"
+          "time_info": "15时47分"
         },
         {
-          "title": "美国总统特朗普周二日程一览",
-          "url": "https://flash.jin10.com/detail/20261027093740167800",
+          "title": "特朗普政府要求中国协助结束与伊朗冲突？外交部：相关方应该坚持和平选择",
+          "url": "https://flash.jin10.com/detail/20261109152106807800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时47分"
+        },
+        {
+          "title": "特朗普称将与中俄元首在APEC讨论美伊冲突及无核化问题，外交部回应",
+          "url": "https://flash.jin10.com/detail/20261109152025646800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "美股暴跌后，“木头姐”：市场越担忧我越乐观，牛市未完",
+          "url": "https://wallstreetcn.com/articles/3785486",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时47分"
+        },
+        {
+          "title": "美股恐慌指标逼近极值！高盛：历史信号指向中期反弹",
+          "url": "https://www.cls.cn/detail/2528454",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时47分"
+        },
+        {
+          "title": "受黄仁勋被调查影响，英伟达在Tradegate价格较上周五美股收盘下跌6%。",
+          "url": "https://wallstreetcn.com/livenews/3196754",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时47分"
+        },
+        {
+          "title": "美股估值过高？华尔街争论不休但海外资金买盘已给出答案",
+          "url": "https://flash.jin10.com/detail/20261109151415838800",
           "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时56分"
+          "time_info": "15时47分"
         },
         {
-          "title": "美国总统特朗普：美国参议院正让《夏令时法案》胎死腹中，而全国绝大多数人都希望它通过。",
-          "url": "https://flash.jin10.com/detail/20261027053911293800",
-          "source": "金十数据",
+          "title": "英伟达美股夜盘跌超 3%，其后续股价走势会如何？",
+          "url": "https://www.zhihu.com/question/2103054279376204138",
+          "source": "知乎",
           "ranks": [
-            19
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时11分"
+          "time_info": "15时47分"
         },
         {
-          "title": "美国参议员马克·沃纳：这个收获季，弗吉尼亚州的农民加满柴油油箱要比去年多花2000美元。特朗普发起的这场选择性战争推高了燃料成本，让农民们更加难以维持生计。",
-          "url": "https://flash.jin10.com/detail/20261027050505061800",
+          "title": "英伟达美股夜盘跌近6%",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%BE%8E%E8%82%A1%E5%A4%9C%E7%9B%98%E8%B7%8C%E8%BF%916%25",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时47分"
+        },
+        {
+          "title": "英伟达美股夜盘跌幅扩大至近6%，此前黄仁勋承认婚外情并致歉。",
+          "url": "https://wallstreetcn.com/livenews/3196726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时47分"
+        },
+        {
+          "title": "美国女议员戳破美股AI泡沫",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369406&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E8%AE%AE%E5%91%98%E6%88%B3%E7%A0%B4%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
+          "source": "贴吧",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年11月09日（周一）上海金午盘价为881.97元/克，较国际金价(881.76元/克)，高0.21元/克",
+          "url": "https://flash.jin10.com/detail/20261109150340157800",
           "source": "金十数据",
           "ranks": [
             29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
-          "title": "加拿大总理卡尼：不愿意在特朗普政府8月份提供的美国贸易协议上签字。 我们与美国在贸易磋商中的关系（一度）略微紧张。",
-          "url": "https://wallstreetcn.com/livenews/3186474",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "OpenAI公布三项科学成果",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%85%AC%E5%B8%83%E4%B8%89%E9%A1%B9%E7%A7%91%E5%AD%A6%E6%88%90%E6%9E%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时55分 ~ 09时56分]"
-        },
-        {
-          "title": "卢拉意外连任引发巴西资产暴跌 OpenAI公布数学、计算机、物理领域新成果 | 环球市场",
-          "url": "https://www.cls.cn/detail/2515893",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时55分 ~ 09时56分]"
-        },
-        {
-          "title": "如何看待 ETH（指数时间猜想）猜想被 OpenAI 证伪？",
-          "url": "https://www.zhihu.com/question/2098291700204622696",
-          "source": "知乎",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时55分 ~ 15时45分]"
-        },
-        {
-          "title": "如何评价 OpenAI 发布的 GPT-6.1 Terra？",
-          "url": "https://www.zhihu.com/question/2098252387312058852",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时55分 ~ 09时56分]"
-        },
-        {
-          "title": "如何评价 OpenAI 宣布证明四维杨–米尔斯理论的存在性？这项结果的意义有多大？",
-          "url": "https://www.zhihu.com/question/2098328780846655325",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时45分"
-        },
-        {
-          "title": "OpenAI宣布AI取得三项科学突破，涉及数学猜想、计算机算法及千禧年难题",
-          "url": "https://flash.jin10.com/detail/20261027055044639800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
-          "title": "OpenAI 10 月 26 日宣布证明所有维度局部光滑猜想，一举推平调和分析四大猜想，如何理解这一事件？",
-          "url": "https://www.zhihu.com/question/2098331248469062137",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时45分"
-        },
-        {
-          "title": "OpenAI：我们的模型推翻了长期被广泛接受的指数时间假设。",
-          "url": "https://flash.jin10.com/detail/20261027054525046800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
-          "title": "OpenAI：宣布数学、计算机科学和物理学领域的三项新发现，涉及调和分析、复杂性理论和量子场论。",
-          "url": "https://flash.jin10.com/detail/20261027053948614800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
-          "title": "OpenAI宣布AI取得三项科学突破，涉及数学猜想、计算机算法及千禧年难题",
-          "url": "https://wallstreetcn.com/livenews/3186491",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "美股收盘：Anthropic招股书点燃AI行情 三大指数集体上涨",
-          "url": "https://www.cls.cn/detail/2515881",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时11分 ~ 09时56分]"
-        },
-        {
-          "title": "美股期指集体回暖 SK海力士据报将推巨额股东回报 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2515639",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时49分 ~ 07时11分]"
-        },
-        {
-          "title": "【早报】科技股回暖，美股全线上涨；国际油价，从六个月高点回落；药明康德、中信证券发布三季报",
-          "url": "https://www.cls.cn/detail/2515908",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时55分 ~ 09时56分]"
-        },
-        {
-          "title": "存储巨头迎来超级财报周！SK海力士周二美股盘后率先披露",
-          "url": "https://flash.jin10.com/detail/20261027151529710800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时45分"
-        },
-        {
-          "title": "金十图示：2026年10月26日（周一）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20261027003215724800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时50分"
-        },
-        {
-          "title": "金十图示：2026年10月26日（周一）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20261027003200902800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时50分"
-        },
-        {
-          "title": "美股期货小幅走高，标普500指数期货上涨0.2%，纳斯达克100指数期货上涨0.4%。",
-          "url": "https://wallstreetcn.com/livenews/3186536",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "金价空头压境，谁在4000美元接了飞刀？",
-          "url": "https://flash.jin10.com/detail/20261027152158441800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时45分"
-        },
-        {
-          "title": "全球央行黄金储备现分化！分析师：影响有限，不改金价长期上涨趋势",
-          "url": "https://www.cls.cn/detail/2515552",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
-          "title": "国际金价涨0.5%，窄幅震荡于4000美元整数位心理关口附近",
-          "url": "https://wallstreetcn.com/livenews/3186483",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
-          "title": "金十图示：2026年10月27日（周二）上海金午盘价为859.57元/克，较国际金价(857.5元/克)高2.07元/克",
-          "url": "https://flash.jin10.com/detail/20261027150230451800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "DeepSeek 营收只有几亿，却融资上千亿，这种模式合理吗？",
-          "url": "https://www.zhihu.com/question/2095940115537334577",
-          "source": "知乎",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时49分 ~ 07时11分]"
-        },
-        {
-          "title": "DeepSeek七款工具同题实测",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%B8%83%E6%AC%BE%E5%B7%A5%E5%85%B7%E5%90%8C%E9%A2%98%E5%AE%9E%E6%B5%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            10,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时49分 ~ 09时56分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "Anthropic IPO重燃AI情绪，美股指反弹，芯片指数涨近3%，美债、油价齐回落",
-          "url": "https://wallstreetcn.com/articles/3784464",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时11分 ~ 15时45分]"
-        },
-        {
-          "title": "Anthropic提交IPO申请，费城半导体涨3%，美股走高，巴西石油跌超17%，油价回落，美债走强",
-          "url": "https://wallstreetcn.com/articles/3784464",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时49分 ~ 01时50分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌 CEO 称「宁可牺牲云业务利润，也要打赢前沿大模型生死战」，大模型对于谷歌有多重要？",
-          "url": "https://www.zhihu.com/question/2097989360473694568",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时45分"
+          "time_info": "15时47分"
         }
       ]
     }
