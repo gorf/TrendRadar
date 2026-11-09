@@ -1,237 +1,160 @@
 {
-  "generated_at": "2026-11-09T15:47:53.407458+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-11-10T02:34:36.708287+08:00",
+  "total_titles_processed": 306,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 8,
       "titles": [
-        {
-          "title": "“这是美国民主党和建制派搞黄仁勋，进而搞特朗普的一种方式”",
-          "url": "https://news.ifeng.com/c/8xuSTiEyxK7",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时47分"
-        },
-        {
-          "title": "特朗普最新发声：再次打击伊朗可能性极低 “铁门”特遣行动正全面展开",
-          "url": "https://www.cls.cn/detail/2528420",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时47分"
-        },
         {
           "title": "“铁门”封锁陆路！特朗普称“目前几乎没有物资能够进出伊朗”，若谈判取得进展，再次发动打击可能性极低",
           "url": "https://wallstreetcn.com/articles/3785498",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时47分"
+          "time_info": "02时34分"
         },
         {
-          "title": "伊朗向特朗普发48小时最后通牒",
-          "url": "https://original.ifeng.com/c/8xub7UOarEQ",
+          "title": "“这是美国民主党和建制派搞黄仁勋，进而搞特朗普的一种方式”",
+          "url": "https://news.ifeng.com/c/8xuSTiEyxK7",
           "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时34分"
+        },
+        {
+          "title": "特朗普谈UFO：美军飞行员“曾告诉我一些非常奇怪的事情”",
+          "url": "https://news.ifeng.com/c/8xv9TnAfekO",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时34分"
+        },
+        {
+          "title": "特朗普政府寻求中方协助结束美伊冲突？外交部回应",
+          "url": "https://www.cls.cn/detail/2529178",
+          "source": "财联社热门",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时47分"
+          "time_info": "02时34分"
         },
         {
-          "title": "事关AI交易走向，硅谷、华尔街热议“黄仁勋绯闻”，马斯克力挺、特朗普也发声",
-          "url": "https://wallstreetcn.com/articles/3785517",
+          "title": "特朗普即将会见关键调解人，称无意升级伊朗战事，鲁比奥泼冷水：谈判远未突破",
+          "url": "https://wallstreetcn.com/articles/3785571",
           "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时47分"
-        },
-        {
-          "title": "特朗普称将与中俄元首在APEC讨论美伊冲突及无核化问题，外交部回应",
-          "url": "https://wallstreetcn.com/livenews/3196752",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时47分"
-        },
-        {
-          "title": "未来两年“战斗到底”还是“极限谈判”？白宫人事频繁更迭，“坡脚”特朗普摆出“强硬姿态”",
-          "url": "https://wallstreetcn.com/articles/3785481",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时47分"
-        },
-        {
-          "title": "向特朗普政府“开炮”！民主党预告：将“剑指”马斯克、米勒和赫格塞思",
-          "url": "https://www.cls.cn/detail/2528425",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时47分"
-        },
-        {
-          "title": "特朗普政府要求中国协助结束与伊朗冲突？外交部：相关方应该坚持和平选择",
-          "url": "https://wallstreetcn.com/livenews/3196751",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时47分"
-        },
-        {
-          "title": "外交努力持续！今日，特朗普和万斯将在白宫会见美伊关键调解人",
-          "url": "https://www.cls.cn/detail/2528621",
-          "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时47分"
+          "time_info": "02时34分"
         },
         {
-          "title": "特朗普政府要求中国协助结束与伊朗冲突？外交部：相关方应该坚持和平选择",
-          "url": "https://flash.jin10.com/detail/20261109152106807800",
+          "title": "据Axios：据一名知情人士透露，美国总统特朗普与卡塔尔首相于当地时间中午左右举行的会晤持续约45分钟，双方重点讨论了与伊朗的谈判。",
+          "url": "https://flash.jin10.com/detail/20261110021800981800",
           "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时47分"
+          "time_info": "02时34分"
         },
         {
-          "title": "特朗普称将与中俄元首在APEC讨论美伊冲突及无核化问题，外交部回应",
-          "url": "https://flash.jin10.com/detail/20261109152025646800",
-          "source": "金十数据",
+          "title": "特朗普称若美伊谈判取得进展，再次发动打击可能性极低",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34435927",
+          "source": "澎湃新闻",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时47分"
+          "time_info": "02时34分"
+        },
+        {
+          "title": "美国上市的中国基金中规模第二大的KraneShares金瑞中证中国互联网ETF（KWEB）上周流入1.145亿美元，吸金规模创美国总统特朗普5月访华以来的最高纪录。 今年迄今，此类ETF合计吸金624亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3197088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时34分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 5,
       "titles": [
         {
-          "title": "美股暴跌后，“木头姐”：市场越担忧我越乐观，牛市未完",
-          "url": "https://wallstreetcn.com/articles/3785486",
+          "title": "黄仁勋丑闻搅动市场，英伟达跌5%，美股三大指数齐涨，半导体指数涨3%，布油跌超3%",
+          "url": "https://wallstreetcn.com/articles/3785518",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时47分"
+          "time_info": "02时34分"
         },
         {
-          "title": "美股恐慌指标逼近极值！高盛：历史信号指向中期反弹",
-          "url": "https://www.cls.cn/detail/2528454",
+          "title": "美股三大期指盘前集体走高 英伟达逆市暴跌6% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2529406",
           "source": "财联社热门",
           "ranks": [
-            7
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时47分"
+          "time_info": "02时34分"
         },
         {
-          "title": "受黄仁勋被调查影响，英伟达在Tradegate价格较上周五美股收盘下跌6%。",
-          "url": "https://wallstreetcn.com/livenews/3196754",
-          "source": "华尔街见闻-快讯",
+          "title": "高盛：2027年美股牛市还有”最后一搏“，但随后的情形酷似2000年泡沫破灭前夕",
+          "url": "https://wallstreetcn.com/articles/3785523",
+          "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时47分"
+          "time_info": "02时34分"
         },
         {
-          "title": "美股估值过高？华尔街争论不休但海外资金买盘已给出答案",
-          "url": "https://flash.jin10.com/detail/20261109151415838800",
-          "source": "金十数据",
+          "title": "美股三大股指高开 英伟达逆势下跌7%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E9%AB%98%E5%BC%80+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%80%86%E5%8A%BF%E4%B8%8B%E8%B7%8C7%25",
+          "source": "百度热搜",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时47分"
-        },
-        {
-          "title": "英伟达美股夜盘跌超 3%，其后续股价走势会如何？",
-          "url": "https://www.zhihu.com/question/2103054279376204138",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时47分"
-        },
-        {
-          "title": "英伟达美股夜盘跌近6%",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%BE%8E%E8%82%A1%E5%A4%9C%E7%9B%98%E8%B7%8C%E8%BF%916%25",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时47分"
-        },
-        {
-          "title": "英伟达美股夜盘跌幅扩大至近6%，此前黄仁勋承认婚外情并致歉。",
-          "url": "https://wallstreetcn.com/livenews/3196726",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时47分"
+          "time_info": "02时34分"
         },
         {
           "title": "美国女议员戳破美股AI泡沫",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369406&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E8%AE%AE%E5%91%98%E6%88%B3%E7%A0%B4%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
           "source": "贴吧",
           "ranks": [
-            26
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时47分"
+          "time_info": "02时34分"
         }
       ]
     },
@@ -240,15 +163,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "金十图示：2026年11月09日（周一）上海金午盘价为881.97元/克，较国际金价(881.76元/克)，高0.21元/克",
-          "url": "https://flash.jin10.com/detail/20261109150340157800",
-          "source": "金十数据",
+          "title": "金价波动加大催生更灵活交易工具，多家银行上线积存金“挂单”功能，针对波段操作客户",
+          "url": "https://www.cls.cn/detail/2529343",
+          "source": "财联社热门",
           "ranks": [
-            29
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时47分"
+          "time_info": "02时34分"
         }
       ]
     }
