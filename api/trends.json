@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-11-10T02:34:36.708287+08:00",
-  "total_titles_processed": 306,
+  "generated_at": "2026-11-10T09:58:43.456505+08:00",
+  "total_titles_processed": 498,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "特朗普称没必要再对伊朗采取军事行动",
+          "url": "https://www.toutiao.com/trending/7705369281621442587/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
         {
           "title": "“铁门”封锁陆路！特朗普称“目前几乎没有物资能够进出伊朗”，若谈判取得进展，再次发动打击可能性极低",
           "url": "https://wallstreetcn.com/articles/3785498",
@@ -30,15 +41,60 @@
           "time_info": "02时34分"
         },
         {
+          "title": "特朗普质疑美国中期选举结果，称提前投票数据异常",
+          "url": "https://news.ifeng.com/c/8xvuX0M7OL2",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
           "title": "特朗普谈UFO：美军飞行员“曾告诉我一些非常奇怪的事情”",
           "url": "https://news.ifeng.com/c/8xv9TnAfekO",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时34分 ~ 09时58分]"
+        },
+        {
+          "title": "特朗普：不希望美在AI领域落后中国",
+          "url": "https://www.toutiao.com/trending/7705984247575626249/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时34分"
+          "time_info": "09时58分"
+        },
+        {
+          "title": "美伊核谈判重大进展？据称就伊朗铀浓缩丰度达成一致，特朗普称出现结束战事积极势头",
+          "url": "https://wallstreetcn.com/articles/3785603",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "美共和党议员要求弹劾防长，特朗普回应",
+          "url": "https://original.ifeng.com/c/8xvi7jFdssH",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         },
         {
           "title": "特朗普政府寻求中方协助结束美伊冲突？外交部回应",
@@ -50,6 +106,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
+        },
+        {
+          "title": "美伊和平又现曙光？特朗普：结束战争现积极势头 不太可能打击伊朗",
+          "url": "https://www.cls.cn/detail/2529629",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         },
         {
           "title": "特朗普即将会见关键调解人，称无意升级伊朗战事，鲁比奥泼冷水：谈判远未突破",
@@ -85,6 +152,17 @@
           "time_info": "02时34分"
         },
         {
+          "title": "11月10日投资避雷针：特朗普称结束伊朗战争出现积极势头 布油重挫近6%",
+          "url": "https://www.cls.cn/detail/2529648",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
           "title": "美国上市的中国基金中规模第二大的KraneShares金瑞中证中国互联网ETF（KWEB）上周流入1.145亿美元，吸金规模创美国总统特朗普5月访华以来的最高纪录。 今年迄今，此类ETF合计吸金624亿美元。",
           "url": "https://wallstreetcn.com/livenews/3197088",
           "source": "华尔街见闻-快讯",
@@ -94,13 +172,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
+        },
+        {
+          "title": "特朗普称伊朗战事已“事实上结束”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%8B%E5%B7%B2%E2%80%9C%E4%BA%8B%E5%AE%9E%E4%B8%8A%E7%BB%93%E6%9D%9F%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "伊朗向特朗普发 48 小时最后通牒，要么接受德黑兰提出的最新方案，要么面临军事冲突升级，特朗普会如何选择？",
+          "url": "https://www.zhihu.com/question/2103246242599756216",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "特朗普称没必要再对伊朗采取军事行动",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%B2%A1%E5%BF%85%E8%A6%81%E5%86%8D%E5%AF%B9%E4%BC%8A%E6%9C%97%E9%87%87%E5%8F%96%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "美股三大指数集体收涨",
+          "url": "https://www.toutiao.com/trending/7706319612878717466/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
         {
           "title": "黄仁勋丑闻搅动市场，英伟达跌5%，美股三大指数齐涨，半导体指数涨3%，布油跌超3%",
           "url": "https://wallstreetcn.com/articles/3785518",
@@ -113,26 +235,62 @@
           "time_info": "02时34分"
         },
         {
+          "title": "【早报】深夜暴力反弹，美股芯片股全线爆发；英伟达逆势大跌，收创近七个月新低；国际油价，跌至8月以来最低",
+          "url": "https://www.cls.cn/detail/2529608",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "美股收盘：纳指欢腾大涨近3% 英伟达市值独自缩水12800亿元",
+          "url": "https://www.cls.cn/detail/2529594",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
           "title": "美股三大期指盘前集体走高 英伟达逆市暴跌6% | 今夜看点",
           "url": "https://www.cls.cn/detail/2529406",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时34分"
+          "appearance_count": 2,
+          "time_info": "[02时34分 ~ 09时58分]"
         },
         {
           "title": "高盛：2027年美股牛市还有”最后一搏“，但随后的情形酷似2000年泡沫破灭前夕",
           "url": "https://wallstreetcn.com/articles/3785523",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时34分"
+          "appearance_count": 2,
+          "time_info": "[02时34分 ~ 09时58分]"
+        },
+        {
+          "title": "美国女议员戳破美股AI泡沫",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369406&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E8%AE%AE%E5%91%98%E6%88%B3%E7%A0%B4%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
+          "source": "贴吧",
+          "ranks": [
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时34分 ~ 09时58分]"
         },
         {
           "title": "美股三大股指高开 英伟达逆势下跌7%",
@@ -144,17 +302,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "美国女议员戳破美股AI泡沫",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369406&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E8%AE%AE%E5%91%98%E6%88%B3%E7%A0%B4%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
-          "source": "贴吧",
+          "title": "Anthropic拟通过发行新股在IPO中募集高达693亿美元资金，招股价区间为每股70美元至80美元。 Anthropic拟在IPO中发行8.66666664亿股A类普通股。 Anthropic表示，基石投资者将在IPO中出售23,333,331股股票。 Anthropic表示，谷歌、英伟达、AMD、博通、美光、微软和台积电将以IPO价格通过私募方式投资260亿美元。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3197262",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时34分"
+          "time_info": "09时58分"
         }
       ]
     },
@@ -170,8 +334,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时34分"
+          "appearance_count": 2,
+          "time_info": "[02时34分 ~ 09时58分]"
         }
       ]
     }
