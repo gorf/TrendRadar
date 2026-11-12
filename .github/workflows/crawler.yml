@@ -16,10 +16,12 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        # v7 起这个动作自己声明用 Node.js 24。v4 仍写着 Node.js 20，运行时会被强制换到 24 并打出弃用警告。
+        uses: actions/checkout@v7
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        # v7 起这个动作自己声明用 Node.js 24。v5 仍写着 Node.js 20。
+        uses: actions/setup-python@v7
         with:
           python-version: "3.12"
 
