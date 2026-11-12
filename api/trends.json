@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-11-12T05:10:47.746042+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-11-12T10:46:56.402863+08:00",
+  "total_titles_processed": 526,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "谷歌推出Gemini Decisions 1",
+          "url": "https://search.bilibili.com/all?keyword=Gemini%20Decisions",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
+          "title": "8个场景实测Gemini 4 Carbon",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BGemini%204%20Carbon",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
         {
           "title": "不少 AI 生成内容越来越晦涩难懂，Gemini 是怎么做到输出内容「说人话」的？",
           "url": "https://www.zhihu.com/question/2102869416480354456",
@@ -43,9 +65,82 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 3,
+      "keyword_group": "美股",
+      "match_count": 5,
       "titles": [
+        {
+          "title": "【早报】美股科技股，集体大幅走高；原油上行、黄金承压",
+          "url": "https://www.cls.cn/detail/2532081",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
+          "title": "AI交易重燃，美股指反弹，CoreWeave飙升24%，美元续涨，黄金跌破4000",
+          "url": "https://wallstreetcn.com/articles/3785732",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
+          "title": "美股收盘：科技板块再续昂扬反弹 多只存储、光通信牛股涨幅“上双”",
+          "url": "https://www.cls.cn/detail/2532064",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
+          "title": "英伟达美股盘后跳水，媒体报道称：黄仁勋曾与英伟达高管有过婚外情",
+          "url": "https://wallstreetcn.com/articles/3785762",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
+          "title": "科技老将：Anthropic IPO将是美股AI行情高点，有条件会“大举做多中国AI”",
+          "url": "https://wallstreetcn.com/articles/3785720",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时10分 ~ 10时46分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美媒：英伟达准备罢免黄仁勋，特朗普政府已知情",
+          "url": "https://original.ifeng.com/c/8xz85EBAuVN",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
         {
           "title": "美媒：万斯寻求与雷扎伊面对面会谈 已获特朗普相关授权",
           "url": "https://flash.jin10.com/detail/20261112034004031800",
@@ -78,6 +173,51 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
+        },
+        {
+          "title": "特朗普对伊朗态度五天三变",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%80%81%E5%BA%A6%E4%BA%94%E5%A4%A9%E4%B8%89%E5%8F%98%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Kimi、DeepSeek、智谱占美国企业开源AI支出近九成，但中国模型不想只卖API了",
+          "url": "https://www.cls.cn/detail/2532124",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "A股ChatGPT概念板块短线拉升，鸿博股份涨停，蓝色光标、易点天下、福石控股、利欧股份、汉得信息等跟涨。",
+          "url": "https://flash.jin10.com/detail/20261112100940222800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
         }
       ]
     },
@@ -91,23 +231,6 @@
           "source": "华尔街见闻",
           "ranks": [
             3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "科技老将：Anthropic IPO将是美股AI行情高点，有条件会“大举做多中国AI”",
-          "url": "https://wallstreetcn.com/articles/3785720",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
           ],
           "is_new": false,
           "appearance_count": 1,
