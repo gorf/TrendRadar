@@ -1,336 +1,178 @@
 {
-  "generated_at": "2026-11-12T18:48:50.614013+08:00",
-  "total_titles_processed": 769,
+  "generated_at": "2026-11-13T02:45:58.452541+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 8,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
       "titles": [
         {
-          "title": "AI交易重燃，美股指反弹，CoreWeave飙升24%，美元续涨，黄金跌破4000",
-          "url": "https://wallstreetcn.com/articles/3785732",
-          "source": "华尔街见闻",
+          "title": "谷歌在全球范围将Gemini 4 Hydrogen接入搜索",
+          "url": "https://wallstreetcn.com/livenews/3199285",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时46分 ~ 18时48分]"
-        },
-        {
-          "title": "英伟达美股盘后跳水，媒体报道称：黄仁勋曾与英伟达高管有过婚外情",
-          "url": "https://wallstreetcn.com/articles/3785762",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时46分 ~ 18时48分]"
-        },
-        {
-          "title": "【早报】美股科技股，集体大幅走高；原油上行、黄金承压",
-          "url": "https://www.cls.cn/detail/2532081",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时46分"
-        },
-        {
-          "title": "美股收盘：科技板块再续昂扬反弹 多只存储、光通信牛股涨幅“上双”",
-          "url": "https://www.cls.cn/detail/2532064",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时46分"
-        },
-        {
-          "title": "科技老将：Anthropic IPO将是美股AI行情高点，有条件会“大举做多中国AI”",
-          "url": "https://wallstreetcn.com/articles/3785720",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时10分 ~ 10时46分]"
+          "appearance_count": 1,
+          "time_info": "02时45分"
         },
         {
-          "title": "美股盘前：英伟达跌约7%",
-          "url": "https://www.toutiao.com/trending/7707210664560823846/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        },
-        {
-          "title": "礼来美股盘前涨约3%，此前礼来口服GLP-1减重药，获国家药监局批准上市。",
-          "url": "https://wallstreetcn.com/livenews/3199043",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        },
-        {
-          "title": "AMD美股盘前涨超3%，博通涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3199024",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "美媒：英伟达准备罢免黄仁勋，特朗普政府已知情",
-          "url": "https://original.ifeng.com/c/8xz85EBAuVN",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时46分"
-        },
-        {
-          "title": "泽连斯基拿特朗普玩梗，逗乐丹麦人",
-          "url": "https://news.ifeng.com/c/8xzYXm9lGHV",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        },
-        {
-          "title": "如何评价特朗普离任时给拜登的信？「与他在现实中的言论截然不同」指的是什么？",
-          "url": "https://www.zhihu.com/question/2103845113960952123",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        },
-        {
-          "title": "美媒：万斯寻求与雷扎伊面对面会谈 已获特朗普相关授权",
-          "url": "https://flash.jin10.com/detail/20261112034004031800",
+          "title": "谷歌(GOOG.O)：Gemini 4 Hydrogen 是迄今为止谷歌搜索领域最大的一次模型升级。",
+          "url": "https://flash.jin10.com/detail/20261113020745632800",
           "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时10分"
-        },
-        {
-          "title": "特朗普关税推高成本，获美国支持的锂业公司Lithium Americas承压",
-          "url": "https://wallstreetcn.com/livenews/3198602",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时10分"
-        },
-        {
-          "title": "据华尔街日报：美国和中东官员表示，近几天，特朗普已告知高级顾问及有关方面，他对万斯重启与伊朗的谈判持开放态度，并已授权万斯负责谈判。美国官员强调，关于派遣万斯与伊朗官员直接会面的讨论仍处于初步阶段。",
-          "url": "https://flash.jin10.com/detail/20261112033129931800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时10分"
-        },
-        {
-          "title": "特朗普对伊朗态度五天三变",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%80%81%E5%BA%A6%E4%BA%94%E5%A4%A9%E4%B8%89%E5%8F%98%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "谷歌推出Gemini Decisions 1",
-          "url": "https://search.bilibili.com/all?keyword=Gemini%20Decisions",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时46分"
+          "time_info": "02时45分"
         },
         {
-          "title": "8个场景实测Gemini 4 Carbon",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BGemini%204%20Carbon",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时46分"
-        },
-        {
-          "title": "不少 AI 生成内容越来越晦涩难懂，Gemini 是怎么做到输出内容「说人话」的？",
-          "url": "https://www.zhihu.com/question/2102869416480354456",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时10分"
-        },
-        {
-          "title": "谷歌将Gemini语音助手接入苹果CarPlay 向车载AI领域拓展",
-          "url": "https://flash.jin10.com/detail/20261112031257477800",
+          "title": "谷歌(GOOG.O)：谷歌在全球搜索中引入Gemini 4 Hydrogen，新增可视化、基于表格的AI回复。",
+          "url": "https://flash.jin10.com/detail/20261113020706313800",
           "source": "金十数据",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时10分"
+          "time_info": "02时45分"
         },
         {
-          "title": "谷歌在AdSense案件的法庭诉讼中遭遇挫折。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3199021",
-          "source": "华尔街见闻-快讯",
+          "title": "谷歌(GOOG.O)：面向全球发布关于搜索功能的Gemini 4 Hydrogen。",
+          "url": "https://flash.jin10.com/detail/20261113020626654800",
+          "source": "金十数据",
           "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        },
-        {
-          "title": "谷歌公司发布配置Decision1的Gemini Decisions API模型。",
-          "url": "https://wallstreetcn.com/livenews/3198582",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时10分"
+          "time_info": "02时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "黄仁勋辞职，英伟达跌5%，美股三大指数转涨，油价短线上扬",
+          "url": "https://wallstreetcn.com/articles/3785806",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
+          "title": "AI交易重燃，美股指反弹，CoreWeave飙升24%，美元续涨，黄金跌破4000",
+          "url": "https://wallstreetcn.com/articles/3785732",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
+          "title": "英伟达美股盘后跳水，媒体报道称：黄仁勋曾与英伟达高管有过婚外情",
+          "url": "https://wallstreetcn.com/articles/3785762",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "证监会",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "证监会：汇聚各方合力，全力维护市场平稳运行",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34458880",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
+          "title": "证监会：全力维护市场平稳运行",
+          "url": "https://www.douyin.com/hot/2742564",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "专家解析金价急跌",
+          "url": "https://www.toutiao.com/trending/7702287998239244850/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
+          "title": "金价再迎暴跌专家劝别抄底",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%86%8D%E8%BF%8E%E6%9A%B4%E8%B7%8C%E4%B8%93%E5%AE%B6%E5%8A%9D%E5%88%AB%E6%8A%84%E5%BA%95%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时45分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "张一鸣再发声谈字节AI：追平OpenAI与Anthropic“最早2029年或2030年”",
           "url": "https://www.cls.cn/detail/2532641",
           "source": "财联社热门",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        },
-        {
-          "title": "A股ChatGPT概念板块短线拉升，鸿博股份涨停，蓝色光标、易点天下、福石控股、利欧股份、汉得信息等跟涨。",
-          "url": "https://flash.jin10.com/detail/20261112100940222800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "招商银行 万华化学 福耀玻璃 旗滨集团 苏农银行 奥浦迈 爱美客 美的集团 潍柴动力 苏泊尔 鱼跃医疗 牧原股份 振邦智能 华兰生物 证监会",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "证监会：全力维护市场平稳运行",
-          "url": "https://www.douyin.com/hot/2742564",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Kimi、DeepSeek、智谱占美国企业开源AI支出近九成，但中国模型不想只卖API了",
-          "url": "https://www.cls.cn/detail/2532124",
-          "source": "财联社热门",
-          "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价 跌回一年前",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7+%E8%B7%8C%E5%9B%9E%E4%B8%80%E5%B9%B4%E5%89%8D",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
+          "time_info": "02时45分"
         }
       ]
     },
@@ -339,32 +181,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "美CPI超预期叠加美联储放鹰，美债重挫，美股指承压，英伟达两日跌10%，黄金大跌",
-          "url": "https://wallstreetcn.com/articles/3785613",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周三（11月11日）纽约尾盘，ICE美元指数涨0.65%，报102.901点，日内交投区间为102.206-102.962点，北京时间13:32-22:57持续上涨。 彭博美元指数涨0.38%，报1232.12点，日内交投区间为1226.40-1232.74点，北京时间22:46创2025年以来新高，之后也持续高位窄幅震荡。",
-          "url": "https://wallstreetcn.com/livenews/3198606",
+          "title": "周四（11月12日），美联储隔夜逆回购协议（RRP）使用规模为2.5亿美元，上个交易日（11月11日美债休市）报1.52亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3199288",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时10分"
+          "time_info": "02时45分"
         }
       ]
     }
