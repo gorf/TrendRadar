@@ -299,7 +299,7 @@ on:
 
    **错误 3：依赖安装失败**
    - 如果日志里出现 `libicu74`、`libvpx9`、`libxml2`、`libx264-164` 找不到，是因为 GitHub 的 `ubuntu-latest` 已经换成 Ubuntu 26.04，旧版 Playwright 还在要 24.04 的系统库名字。把 `requirements.txt` 里的 Playwright 升到 1.61 或更新（当前锁定 1.64.1）后再跑即可。
-   - 如果只是下载超时，多半是网络抖动，重新运行一次即可。
+   - 如果日志里是 `Temporary failure resolving 'security.ubuntu.com'`，是 GitHub 机器当时连不上软件源。工作流会自动再试 3 次。下一次定时任务通常也能自己跑过。
 
    **错误 4：权限问题**
    - 确保仓库设置中允许 Actions 写入
