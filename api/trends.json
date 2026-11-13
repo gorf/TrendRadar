@@ -1,321 +1,156 @@
 {
-  "generated_at": "2026-11-13T15:43:15.077312+08:00",
-  "total_titles_processed": 711,
+  "generated_at": "2026-11-14T00:01:41.557123+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 4,
       "titles": [
         {
-          "title": "【早报】黄仁勋辞职；英伟达市值，一夜蒸发1.2万亿元；多家美股科技硬件巨头，业绩超预期；国际油价，大幅拉升",
-          "url": "https://www.cls.cn/detail/2533284",
+          "title": "美国10月PPI低于预期 美股三大期指受提振携手上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2534230",
           "source": "财联社热门",
           "ranks": [
-            6,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时01分 ~ 15时43分]"
-        },
-        {
-          "title": "美股收盘：AMD“五连阳”累涨超40% 科技硬件链盘后利好频出",
-          "url": "https://www.cls.cn/detail/2533275",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时01分 ~ 15时43分]"
-        },
-        {
-          "title": "黄仁勋辞职，英伟达跌5%，美股三大指数转涨，油价短线上扬",
-          "url": "https://wallstreetcn.com/articles/3785806",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时45分"
+          "time_info": "00时01分"
         },
         {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时45分 ~ 08时01分]"
-        },
-        {
-          "title": "AI交易重燃，美股指反弹，CoreWeave飙升24%，美元续涨，黄金跌破4000",
-          "url": "https://wallstreetcn.com/articles/3785732",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时45分"
-        },
-        {
-          "title": "周五亚太盘初，纳指期货涨超0.3%，闪迪、美光科技、Lumentum、Nebius、SpaceX当前（美股盘后）至少涨约1%，英伟达涨超0.8%，AMD、微软跌超0.2%。",
-          "url": "https://wallstreetcn.com/livenews/3199401",
+          "title": "美股费城半导体指数跌幅扩大至5%，英伟达跌3.31%，博通跌5.75%，美光跌4.67%，英特尔跌5.29%，AMD跌9.02%，高通跌3.66%，台积电跌2.87%，阿斯麦跌1.82%。",
+          "url": "https://wallstreetcn.com/livenews/3199879",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时01分"
+          "time_info": "00时01分"
         },
         {
-          "title": "英伟达美股盘后跳水，媒体报道称：黄仁勋曾与英伟达高管有过婚外情",
-          "url": "https://wallstreetcn.com/articles/3785762",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时45分"
-        },
-        {
-          "title": "周四（11月12日）纽约尾盘（周五北京时间05:59），离岸人民币（CNH）兑美元报6.6733元，较周三纽约尾盘涨6点，日内整体交投于6.6749-6.6653元区间，整体冲高回落，发布中间价前后显著走高、美股早盘显著回撤。",
-          "url": "https://wallstreetcn.com/livenews/3199379",
+          "title": "热传递和热存储技术供应商Modine Manufacturing Co.（MOD）涨34%，创2020年11月份以来最大盘中涨幅。 11月12日美股盘后，彭博报道称，三星电子洽谈收购这家数据中心冷却设备生产商。",
+          "url": "https://wallstreetcn.com/livenews/3199867",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时01分"
+          "time_info": "00时01分"
         },
         {
-          "title": "黄金ETF收跌超2.8%，与小盘股指ETF领跌美股大类资产类ETF，布油基金涨超3.8%",
-          "url": "https://wallstreetcn.com/livenews/3199395",
+          "title": "英伟达回吐美股盘初涨幅，转跌1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3199865",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "谷歌在全球范围将Gemini 4 Hydrogen接入搜索",
-          "url": "https://wallstreetcn.com/livenews/3199285",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时45分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：Gemini 4 Hydrogen 是迄今为止谷歌搜索领域最大的一次模型升级。",
-          "url": "https://flash.jin10.com/detail/20261113020745632800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时45分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：谷歌在全球搜索中引入Gemini 4 Hydrogen，新增可视化、基于表格的AI回复。",
-          "url": "https://flash.jin10.com/detail/20261113020706313800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时45分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：面向全球发布关于搜索功能的Gemini 4 Hydrogen。",
-          "url": "https://flash.jin10.com/detail/20261113020626654800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时45分"
+          "time_info": "00时01分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 3,
       "titles": [
         {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=2&Refer=top",
-          "source": "微博",
+          "title": "专家：黄金价格迎来新一轮调整压力",
+          "url": "https://www.toutiao.com/trending/7707439204963192370/",
+          "source": "今日头条",
           "ranks": [
-            2
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "金价再迎暴跌专家劝别抄底",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%86%8D%E8%BF%8E%E6%9A%B4%E8%B7%8C%E4%B8%93%E5%AE%B6%E5%8A%9D%E5%88%AB%E6%8A%84%E5%BA%95%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时45分 ~ 08时01分]"
+          "time_info": "00时01分"
         },
         {
           "title": "金价再度跌破3900美元",
           "url": "https://m.thepaper.cn/newsDetail_forward_34463586",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时42分 ~ 15时43分]"
+          "appearance_count": 1,
+          "time_info": "00时01分"
         },
         {
-          "title": "专家解析金价急跌",
-          "url": "https://www.toutiao.com/trending/7702287998239244850/",
-          "source": "今日头条",
+          "title": "国际金价再度失守3900美元，金饰克价年内跌超500元，趋势何时扭转？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34467659",
+          "source": "澎湃新闻",
           "ranks": [
-            10
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "张一鸣再发声谈字节AI：追平OpenAI与Anthropic“最早2029年或2030年”",
-          "url": "https://www.cls.cn/detail/2532641",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时45分"
-        },
-        {
-          "title": "如何看待张一鸣称字节不应依赖蒸馏，应长期自主研发，「追上 OpenAI 还需三四年」？核心难点在哪？",
-          "url": "https://www.zhihu.com/question/2104125774148146904",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "Cerebras Systems首席执行官：由于数据中心容量合同延迟，OpenAI首批算力容量的交付进度落后于计划。",
-          "url": "https://wallstreetcn.com/livenews/3199381",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时01分"
+          "time_info": "00时01分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
           "title": "黄仁勋辞职叠加油价走强，美股承压，英伟达市值一度跌破4万亿，美债、黄金遭抛售",
           "url": "https://wallstreetcn.com/articles/3785806",
           "source": "华尔街见闻",
           "ranks": [
-            4,
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时01分 ~ 15时43分]"
+          "appearance_count": 1,
+          "time_info": "00时01分"
         },
         {
-          "title": "周四（11月12日），美联储隔夜逆回购协议（RRP）使用规模为2.5亿美元，上个交易日（11月11日美债休市）报1.52亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3199288",
+          "title": "美联储Logan：美债市场运作“非常良好”，并表示美联储需要强化支持工具",
+          "url": "https://wallstreetcn.com/livenews/3199868",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时45分"
-        },
-        {
-          "title": "美债收益率劲扬 粉碎债市卖压最惨烈时期已结束的希望",
-          "url": "https://wallstreetcn.com/livenews/3199621",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时43分"
+          "time_info": "00时01分"
         }
       ]
     },
     {
-      "keyword_group": "证监会",
-      "match_count": 2,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
       "titles": [
         {
-          "title": "证监会：汇聚各方合力，全力维护市场平稳运行",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34458880",
-          "source": "澎湃新闻",
+          "title": "纳斯达克100指数跌超1%，标普跌0.4%，半导体指数下跌将近4%。英伟达跌2.3%，Cerebras涨幅收窄至11.3%，谷歌A涨1.1%，AMD跌7.6%，CoreWeave跌9.4%，Nebius跌10.6%，闪迪跌6.1%。 投资者权衡芯片板块和美国PPI通胀数据。",
+          "url": "https://wallstreetcn.com/livenews/3199872",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时45分 ~ 08时01分]"
-        },
-        {
-          "title": "证监会：全力维护市场平稳运行",
-          "url": "https://www.douyin.com/hot/2742564",
-          "source": "抖音",
-          "ranks": [
-            10
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时45分"
+          "time_info": "00时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI推出ChatGPT钱包（ChatGPT Wallet），这是一项新的支付功能，使其“dots”AI智能体能够代表用户进行购买。ChatGPT钱包最初将向美国年满18岁及以上的OpenAI Pro（专业版）订阅用户开放。OpenAI在与美国运通、万事达卡和Visa合作的基础上开发了ChatGPT钱包，该功能允许这些客户保留其现有的信用卡奖励和保障权益。",
+          "url": "https://wallstreetcn.com/livenews/3199876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时01分"
         }
       ]
     }
