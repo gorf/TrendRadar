@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-11-14T05:56:15.254841+08:00",
-  "total_titles_processed": 435,
+  "generated_at": "2026-11-14T10:08:54.098021+08:00",
+  "total_titles_processed": 619,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "美国10月PPI低于预期 美股三大期指受提振携手上涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2534230",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时01分 ~ 05时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时01分 ~ 10时08分]"
         },
         {
           "title": "周五（11月13日），半导体ETF收跌2.99%，领跌美股行业ETF，科技行业ETF跌2.01%，全球科技股指数ETF、网络股指数ETF至多跌1.67%，能源业ETF涨0.98%。",
@@ -25,9 +26,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
+        },
+        {
+          "title": "美股收盘：苹果、“美国茅台”再创新高 AI交易依然颠簸",
+          "url": "https://www.cls.cn/detail/2534350",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
         },
         {
           "title": "微软故障叠加黄仁勋风波，美股转跌，英伟达跌超3%，布油反弹突破96美元",
@@ -47,7 +59,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
         },
@@ -69,9 +81,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
+        },
+        {
+          "title": "马斯克旗下太空探索公SpaceX宣布，超重型助推器在近海着陆，发生爆炸，半空中捕获任务取消。 该公司股价美股盘后跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3200050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
         },
         {
           "title": "热传递和热存储技术供应商Modine Manufacturing Co.（MOD）涨34%，创2020年11月份以来最大盘中涨幅。 11月12日美股盘后，彭博报道称，三星电子洽谈收购这家数据中心冷却设备生产商。",
@@ -122,8 +145,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时01分 ~ 05时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时01分 ~ 10时08分]"
         },
         {
           "title": "金价再度跌破3900美元",
@@ -140,7 +163,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "黄仁勋辞职叠加油价走强，美股承压，英伟达市值一度跌破4万亿，美债、黄金遭抛售",
@@ -153,6 +176,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时01分 ~ 05时56分]"
+        },
+        {
+          "title": "两年期美债收益率本周涨33个基点，美联储12月加息基本锁定，市场焦点转向明年1月",
+          "url": "https://wallstreetcn.com/livenews/3200045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
         },
         {
           "title": "美联储Logan：美债市场运作“非常良好”，并表示美联储需要强化支持工具",
@@ -168,6 +202,62 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek开放全家桶应用API",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E6%94%BE%E5%85%A8%E5%AE%B6%E6%A1%B6%E5%BA%94%E7%94%A8API",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "怎么看 DeepSeek 发布全家桶 API，这个价格你接受吗？",
+          "url": "https://www.zhihu.com/question/2104704747362054197",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI推出ChatGPT钱包（ChatGPT Wallet），这是一项新的支付功能，使其“dots”AI智能体能够代表用户进行购买。ChatGPT钱包最初将向美国年满18岁及以上的OpenAI Pro（专业版）订阅用户开放。OpenAI在与美国运通、万事达卡和Visa合作的基础上开发了ChatGPT钱包，该功能允许这些客户保留其现有的信用卡奖励和保障权益。",
+          "url": "https://wallstreetcn.com/livenews/3199876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时01分"
+        },
+        {
+          "title": "OpenAI：影响Microsoft 365连接器的错误已解决。",
+          "url": "https://flash.jin10.com/detail/20261114083013548800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -178,7 +268,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
         },
@@ -189,7 +279,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
         }
@@ -205,23 +295,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI推出ChatGPT钱包（ChatGPT Wallet），这是一项新的支付功能，使其“dots”AI智能体能够代表用户进行购买。ChatGPT钱包最初将向美国年满18岁及以上的OpenAI Pro（专业版）订阅用户开放。OpenAI在与美国运通、万事达卡和Visa合作的基础上开发了ChatGPT钱包，该功能允许这些客户保留其现有的信用卡奖励和保障权益。",
-          "url": "https://wallstreetcn.com/livenews/3199876",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 1,
