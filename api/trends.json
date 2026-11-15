@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-15T09:38:43.933724+08:00",
-  "total_titles_processed": 585,
+  "generated_at": "2026-11-15T17:01:06.846887+08:00",
+  "total_titles_processed": 792,
   "failed_sources": [],
   "trends": [
     {
@@ -8,24 +8,25 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "美股收盘：苹果、“美国茅台”再创新高 AI交易依然颠簸",
+          "url": "https://www.cls.cn/detail/2534350",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 17时01分]"
+        },
+        {
           "title": "“坏事全部撞在一起\"，美股却逆势反弹：华尔街上演“无票可卖”式逼空！",
           "url": "https://wallstreetcn.com/articles/3785940",
           "source": "华尔街见闻",
           "ranks": [
             2,
             1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 09时38分]"
-        },
-        {
-          "title": "美股收盘：苹果、“美国茅台”再创新高 AI交易依然颠簸",
-          "url": "https://www.cls.cn/detail/2534350",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -50,9 +51,67 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "证监会",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "解读证监会主席吴清讲话：回应近期部分科技企业上市估值溢价泡沫，“加强科技企业发行上市制度适配性和风险应对机制研究”",
+          "url": "https://wallstreetcn.com/articles/3785951",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时00分 ~ 17时01分]"
+        },
+        {
+          "title": "证监会接收！六家头部公募集体申报，“A500”拼图将补齐",
+          "url": "https://wallstreetcn.com/livenews/3200121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 09时38分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek harness 相比 codex 有什么劣势？",
+          "url": "https://www.zhihu.com/question/2072669811511922890",
+          "source": "知乎",
+          "ranks": [
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 05时14分]"
+        },
+        {
+          "title": "怎么看崔添翼在 DeepSeek 发布全家桶 API 后说，下一个超级 App 只属于个人的超级 App？",
+          "url": "https://www.zhihu.com/question/2104936968568190204",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时00分 ~ 17时01分]"
         }
       ]
     },
@@ -80,8 +139,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时14分 ~ 09时38分]"
+          "appearance_count": 4,
+          "time_info": "[05时14分 ~ 17时01分]"
         }
       ]
     },
@@ -111,42 +170,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "证监会",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "证监会接收！六家头部公募集体申报，“A500”拼图将补齐",
-          "url": "https://wallstreetcn.com/livenews/3200121",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 09时38分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek harness 相比 codex 有什么劣势？",
-          "url": "https://www.zhihu.com/question/2072669811511922890",
-          "source": "知乎",
-          "ranks": [
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 05时14分]"
         }
       ]
     }
