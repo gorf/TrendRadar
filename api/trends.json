@@ -1,51 +1,45 @@
 {
-  "generated_at": "2026-11-19T05:21:17.818282+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-11-19T11:01:58.930828+08:00",
+  "total_titles_processed": 515,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "DeepSeek",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "DeepSeek宣布搜索抓取免费",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%A3%E5%B8%83%E6%90%9C%E7%B4%A2%E6%8A%93%E5%8F%96%E5%85%8D%E8%B4%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "DeepSeek限额吧友心态崩了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369883&amp;topic_name=DeepSeek%E9%99%90%E9%A2%9D%E5%90%A7%E5%8F%8B%E5%BF%83%E6%80%81%E5%B4%A9%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "deepseek算力",
-          "url": "https://s.weibo.com/weibo?q=%23deepseek%E7%AE%97%E5%8A%9B%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "英伟达拖累美股，标普五连跌，纳指逆势微涨，网络安全股票大涨，黄金重挫创十四个月新低",
+          "url": "https://wallstreetcn.com/articles/3786169",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时01分"
+        },
+        {
+          "title": "【早报】深夜巨震，美股芯片股剧烈分化；美联储纪要放鹰，几乎所有官员预计还需加息；字节、微软据悉洽谈扩容云合同",
+          "url": "https://www.cls.cn/detail/2538438",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时01分"
+        },
+        {
+          "title": "美股收盘：英伟达再挫3%创16月新低 标普连跌五天",
+          "url": "https://www.cls.cn/detail/2538424",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时01分"
+        },
         {
           "title": "美股收盘：三大股指涨跌不一 英伟达跌近3%",
           "url": "https://flash.jin10.com/detail/20261119050247044800",
@@ -78,6 +72,87 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "DeepSeek宣布搜索抓取免费",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%A3%E5%B8%83%E6%90%9C%E7%B4%A2%E6%8A%93%E5%8F%96%E5%85%8D%E8%B4%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 11时01分]"
+        },
+        {
+          "title": "DeepSeek限额吧友心态崩了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369883&amp;topic_name=DeepSeek%E9%99%90%E9%A2%9D%E5%90%A7%E5%8F%8B%E5%BF%83%E6%80%81%E5%B4%A9%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            19,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 11时01分]"
+        },
+        {
+          "title": "deepseek算力",
+          "url": "https://s.weibo.com/weibo?q=%23deepseek%E7%AE%97%E5%8A%9B%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金价大跌近2%失守3800美元关口 英伟达财报提振AI板块 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2538272",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 11时01分]"
+        },
+        {
+          "title": "高盛预测金价或重返5600美元",
+          "url": "https://www.douyin.com/hot/2752668",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时01分"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时01分"
         }
       ]
     },
@@ -119,23 +194,6 @@
           "source": "财联社热门",
           "ranks": [
             12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价大跌近2%失守3800美元关口 英伟达财报提振AI板块 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2538272",
-          "source": "财联社热门",
-          "ranks": [
-            4
           ],
           "is_new": false,
           "appearance_count": 1,
