@@ -1,107 +1,123 @@
 {
-  "generated_at": "2026-11-20T19:09:13.136439+08:00",
-  "total_titles_processed": 772,
+  "generated_at": "2026-11-21T03:50:07.822883+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 8,
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
       "titles": [
         {
-          "title": "【早报】高开低走，深夜美股大跳水；Anthropic上市首秀收涨17%；黄金、白银，大幅走弱",
-          "url": "https://www.cls.cn/detail/2539556",
-          "source": "财联社热门",
+          "title": "OpenAI：向Plus用户推出ChatGPTSpace。",
+          "url": "https://flash.jin10.com/detail/20261121030807079800",
+          "source": "金十数据",
           "ranks": [
-            1
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时55分"
+          "time_info": "03时50分"
         },
         {
-          "title": "受市场预期美联储将收紧货币政策影响，拉美股市跌至一年低点，外汇市场走低",
-          "url": "https://wallstreetcn.com/livenews/3202803",
+          "title": "OpenAI：MedChemBench用于衡量AI模型在药物化学研究任务中的推理能力。",
+          "url": "https://flash.jin10.com/detail/20261121030458448800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时50分"
+        },
+        {
+          "title": "OpenAI推出MedChemBench。",
+          "url": "https://flash.jin10.com/detail/20261121030253242800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时50分"
+        },
+        {
+          "title": "OpenAI推出MedChemBench药物化学基准",
+          "url": "https://wallstreetcn.com/livenews/3203542",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时16分"
-        },
+          "time_info": "03时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
         {
-          "title": "美股收盘：高开低走三大指数重挫2% 科技巨头集体走弱英伟达再跌3%",
-          "url": "https://www.cls.cn/detail/2539544",
+          "title": "一日四家集中示警！金价创14个月新低，四季度多家银行持续加大贵金属业务风险提示",
+          "url": "https://www.cls.cn/detail/2540426",
           "source": "财联社热门",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时55分"
-        },
-        {
-          "title": "美股再度大跌",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1%E5%86%8D%E5%BA%A6%E5%A4%A7%E8%B7%8C&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时55分"
-        },
-        {
-          "title": "Anthropic开盘大涨，一切看似完美！随后风云突变，美股跳水，发生了什么？",
-          "url": "https://wallstreetcn.com/articles/3786326",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时55分 ~ 19时09分]"
-        },
-        {
-          "title": "Anthropic IPO提振市场情绪 美股三大股指期货齐涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2539359",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            10
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时16分 ~ 10时55分]"
+          "time_info": "[03时49分 ~ 03时50分]"
         },
         {
-          "title": "英伟达拖累美股，标普五连跌，纳指逆势微涨，网络安全股票大涨，黄金重挫创十四个月新低",
-          "url": "https://wallstreetcn.com/articles/3786169",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "Anthropic开盘涨幅收窄至21%，美股由涨转跌，纳斯达克100跌1.5%，金铜油走高",
-          "url": "https://wallstreetcn.com/articles/3786267",
-          "source": "华尔街见闻",
+          "title": "金价罕见大跌原因找到了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%BD%95%E8%A7%81%E5%A4%A7%E8%B7%8C%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
+          "appearance_count": 2,
+          "time_info": "[03时49分 ~ 03时50分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时49分 ~ 03时50分]"
+        },
+        {
+          "title": "国内金价跌至7字开头",
+          "url": "https://www.douyin.com/hot/2755551",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时49分 ~ 03时50分]"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "DeepSeek付费体验直线上升",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E4%BB%98%E8%B4%B9%E4%BD%93%E9%AA%8C%E7%9B%B4%E7%BA%BF%E4%B8%8A%E5%8D%87&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时49分 ~ 03时50分]"
+        },
         {
           "title": "DeepSeek 第二轮融资 1050 多亿元落地，31 家外部股东入局，怎样解读？",
           "url": "https://www.zhihu.com/question/2106889511993189511",
@@ -111,224 +127,52 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时08分 ~ 19时09分]"
-        },
-        {
-          "title": "如何看待混元 Hy4 flash 登顶 Openrouter 调用榜首，Tokens 达 DeepSeek 两倍？",
-          "url": "https://www.zhihu.com/question/2106540440845563614",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时55分"
-        },
-        {
-          "title": "已有9家券商参投DeepSeek",
-          "url": "https://www.toutiao.com/trending/7709763650433876518/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时55分"
-        },
-        {
-          "title": "怎么看 DeepSeek API 联网搜索与抓页改为免费？",
-          "url": "https://www.zhihu.com/question/2106672632099758448",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "DeepSeek二轮融资出资方曝光",
-          "url": "https://www.toutiao.com/trending/7709870926250118707/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
+          "time_info": "[03时49分 ~ 03时50分]"
         }
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "金价跌了囤金人被气笑了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E4%BA%86%E5%9B%A4%E9%87%91%E4%BA%BA%E8%A2%AB%E6%B0%94%E7%AC%91%E4%BA%86%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时08分 ~ 19时09分]"
-        },
-        {
-          "title": "金价7字头 大哥一出手就买下200克",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B77%E5%AD%97%E5%A4%B4+%E5%A4%A7%E5%93%A5%E4%B8%80%E5%87%BA%E6%89%8B%E5%B0%B1%E4%B9%B0%E4%B8%8B200%E5%85%8B",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时08分 ~ 19时09分]"
-        },
-        {
-          "title": "金店老板说金价已经到底了",
-          "url": "https://www.toutiao.com/trending/7709916050695815707/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时55分"
-        },
-        {
-          "title": "金价再创新低",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%86%8D%E5%88%9B%E6%96%B0%E4%BD%8E",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时55分"
-        },
-        {
-          "title": "金价大跌后市预期分歧",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%90%8E%E5%B8%82%E9%A2%84%E6%9C%9F%E5%88%86%E6%AD%A7&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "银行消保 金融监管 人民银行",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "中国人民银行行长潘功胜会见万事达卡首席执行官孟轲",
-          "url": "https://wallstreetcn.com/livenews/3203302",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时09分"
-        },
-        {
-          "title": "中国人民银行行长潘功胜会见万事达卡首席执行官孟轲",
-          "url": "https://flash.jin10.com/detail/20261120184522489800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时09分"
-        },
-        {
-          "title": "美联储理事Barr（此前担任过负责金融监管事务的副主席）：人工智能（AI）有望提升金融服务的可及性。 人工智能热潮是“风险偏好”环境的一部分。 担心监管路径可能加大理解金融风险的难度。 在银行监管方面更关注长期问题。 在银行监管问题上，我一直公开表达不同意见。",
-          "url": "https://wallstreetcn.com/livenews/3202776",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "证监会",
+      "keyword_group": "美股",
       "match_count": 2,
       "titles": [
         {
-          "title": "证监会辟谣基金AI敞口报送传闻",
-          "url": "https://www.douyin.com/hot/2754836",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时16分 ~ 10时55分]"
-        },
-        {
-          "title": "璞泰来港股上市获中国证监会备案",
-          "url": "https://flash.jin10.com/detail/20261120183709776800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "黑色星期五！全球股市创三年最长连跌，Anthropic上市次日盘前大跌6%，黄金跌破3600，美债上涨、油价下跌",
-          "url": "https://wallstreetcn.com/articles/3786330",
+          "title": "Anthropic开盘大涨，一切看似完美！随后风云突变，美股跳水，发生了什么？",
+          "url": "https://wallstreetcn.com/articles/3786326",
           "source": "华尔街见闻",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时08分 ~ 19时09分]"
+          "time_info": "[03时49分 ~ 03时50分]"
         },
         {
-          "title": "摩根大通：受债务上限影响，2027年美债发行将后置",
-          "url": "https://wallstreetcn.com/livenews/3202773",
-          "source": "华尔街见闻-快讯",
+          "title": "美股期指齐跌 纳指期货跌近2% Anthropic盘前跌逾10% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2540530",
+          "source": "财联社热门",
           "ranks": [
-            25
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
+          "appearance_count": 2,
+          "time_info": "[03时49分 ~ 03时50分]"
         }
       ]
     },
     {
-      "keyword_group": "美元",
+      "keyword_group": "美债",
       "match_count": 1,
       "titles": [
         {
-          "title": "美元指数继续逼近104关口",
-          "url": "https://wallstreetcn.com/livenews/3202792",
-          "source": "华尔街见闻-快讯",
+          "title": "黑色星期五！美股跌幅扩大，Anthropic跌11％，黄金跌破3600，美债上涨",
+          "url": "https://wallstreetcn.com/articles/3786330",
+          "source": "华尔街见闻",
           "ranks": [
-            10
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
+          "appearance_count": 2,
+          "time_info": "[03时49分 ~ 03时50分]"
         }
       ]
     }
