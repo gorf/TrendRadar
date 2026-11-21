@@ -1,8 +1,138 @@
 {
-  "generated_at": "2026-11-21T09:14:34.138901+08:00",
-  "total_titles_processed": 478,
+  "generated_at": "2026-11-21T17:27:25.727328+08:00",
+  "total_titles_processed": 702,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "美股",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "Anthropic开盘大涨，一切看似完美！随后风云突变，美股跳水，发生了什么？",
+          "url": "https://wallstreetcn.com/articles/3786326",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时49分 ~ 03时50分]"
+        },
+        {
+          "title": "美股期指齐跌 纳指期货跌近2% Anthropic盘前跌逾10% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2540530",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时49分 ~ 09时14分]"
+        },
+        {
+          "title": "美股收盘：AI交易遭遇猛烈抛售 纳指重挫5% 费半跌两位数 英伟达狂泻14%",
+          "url": "https://www.cls.cn/detail/2540700",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时14分 ~ 17时27分]"
+        },
+        {
+          "title": "11 月 20 日美股三大指数集体重挫，AI 交易遭猛烈拋售，Anthropic 上市次日跌 8.5%，怎样解读？",
+          "url": "https://www.zhihu.com/question/2107375172101432168",
+          "source": "知乎",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时14分 ~ 17时27分]"
+        },
+        {
+          "title": "美股一天内遭血洗意味着什么",
+          "url": "https://www.toutiao.com/trending/7710526449404349990/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        },
+        {
+          "title": "美股三大指数为何暴跌",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E4%B8%BA%E4%BD%95%E6%9A%B4%E8%B7%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        },
+        {
+          "title": "美股跌破关键支撑、VIX逼近30，市场在下跌中等待一场反弹？",
+          "url": "https://wallstreetcn.com/articles/3786378",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "高盛：美股抛售恐将持续 “恐慌指数”逼近最大值",
+          "url": "https://wallstreetcn.com/livenews/3203617",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "周五（11月20日）纽约尾盘（周六北京时间05:59），离岸人民币（CNH）兑美元报6.6745元，较周四纽约尾盘涨189点，日内整体交投于6.6953-6.6693元区间，几乎完全收复11月19日失地。 本周，离岸人民币大致持平，19日美股盘初曾显著跳水。",
+          "url": "https://wallstreetcn.com/livenews/3203606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "11月20日美股抛售重灾区：AI算力链、云基础设施",
+          "url": "https://wallstreetcn.com/livenews/3203622",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "李大霄谈美股崩盘原因",
+          "url": "https://www.toutiao.com/trending/7710507884404018726/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        }
+      ]
+    },
     {
       "keyword_group": "金价",
       "match_count": 9,
@@ -16,8 +146,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时49分 ~ 09时14分]"
+          "appearance_count": 4,
+          "time_info": "[03时49分 ~ 17时27分]"
         },
         {
           "title": "金价跌回一年前 金店加价反而涨了",
@@ -26,7 +156,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
         },
@@ -35,11 +165,12 @@
           "url": "https://wallstreetcn.com/livenews/3203628",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时14分 ~ 17时27分]"
         },
         {
           "title": "金价罕见大跌原因找到了",
@@ -84,7 +215,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
         },
@@ -95,7 +226,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
         },
@@ -106,102 +237,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "Anthropic开盘大涨，一切看似完美！随后风云突变，美股跳水，发生了什么？",
-          "url": "https://wallstreetcn.com/articles/3786326",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时49分 ~ 03时50分]"
-        },
-        {
-          "title": "美股期指齐跌 纳指期货跌近2% Anthropic盘前跌逾10% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2540530",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时49分 ~ 09时14分]"
-        },
-        {
-          "title": "美股收盘：AI交易遭遇猛烈抛售 纳指重挫5% 费半跌两位数 英伟达狂泻14%",
-          "url": "https://www.cls.cn/detail/2540700",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时14分"
-        },
-        {
-          "title": "美股跌破关键支撑、VIX逼近30，市场在下跌中等待一场反弹？",
-          "url": "https://wallstreetcn.com/articles/3786378",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时14分"
-        },
-        {
-          "title": "高盛：美股抛售恐将持续 “恐慌指数”逼近最大值",
-          "url": "https://wallstreetcn.com/livenews/3203617",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时14分"
-        },
-        {
-          "title": "11 月 20 日美股三大指数集体重挫，AI 交易遭猛烈拋售，Anthropic 上市次日跌 8.5%，怎样解读？",
-          "url": "https://www.zhihu.com/question/2107375172101432168",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时14分"
-        },
-        {
-          "title": "周五（11月20日）纽约尾盘（周六北京时间05:59），离岸人民币（CNH）兑美元报6.6745元，较周四纽约尾盘涨189点，日内整体交投于6.6953-6.6693元区间，几乎完全收复11月19日失地。 本周，离岸人民币大致持平，19日美股盘初曾显著跳水。",
-          "url": "https://wallstreetcn.com/livenews/3203606",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时14分"
-        },
-        {
-          "title": "11月20日美股抛售重灾区：AI算力链、云基础设施",
-          "url": "https://wallstreetcn.com/livenews/3203622",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "09时14分"
         }
@@ -258,47 +294,47 @@
       ]
     },
     {
-      "keyword_group": "美债",
+      "keyword_group": "银行消保 金融监管 人民银行",
       "match_count": 3,
       "titles": [
         {
-          "title": "黑色星期五！美股跌幅扩大，Anthropic跌11％，黄金跌破3600，美债上涨",
-          "url": "https://wallstreetcn.com/articles/3786330",
-          "source": "华尔街见闻",
+          "title": "中国台湾金融监管机构：鼓励金融机构等出借人暂停对外出借股票，且已出借部分视契约提前召回或到期不再续借。",
+          "url": "https://flash.jin10.com/detail/20261121160710379800",
+          "source": "金十数据",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时49分 ~ 03时50分]"
-        },
-        {
-          "title": "黑色星期五！美股和金属全线重挫，英伟达暴跌14%，VIX涨破35，美债五连涨",
-          "url": "https://wallstreetcn.com/articles/3786330",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时14分"
+          "time_info": "17时27分"
         },
         {
-          "title": "两年期美债收益率周五跌超10个基点，本周累跌超19个基点",
-          "url": "https://wallstreetcn.com/livenews/3203611",
-          "source": "华尔街见闻-快讯",
+          "title": "中国台湾金融监管机构：上市柜个股最低融券保证金成数由130%升为150%。周一起暂停受理券商申请发行认售权证上市/柜案件。",
+          "url": "https://flash.jin10.com/detail/20261121160221100800",
+          "source": "金十数据",
           "ranks": [
-            15
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时14分"
+          "time_info": "17时27分"
+        },
+        {
+          "title": "中国台湾金融监管机构：11月23日起台股全面禁止平盘以下放空。",
+          "url": "https://flash.jin10.com/detail/20261121155926233800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "DeepSeek付费体验直线上升",
@@ -323,6 +359,56 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时49分 ~ 09时14分]"
+        },
+        {
+          "title": "如何看待 DeepSeek 因免费端限额，且无充值入口，被称付费体验直线上升？它们会开放 C 端个人订阅吗？",
+          "url": "https://www.zhihu.com/question/2107394861363983010",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "黑色星期五！美股跌幅扩大，Anthropic跌11％，黄金跌破3600，美债上涨",
+          "url": "https://wallstreetcn.com/articles/3786330",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时49分 ~ 03时50分]"
+        },
+        {
+          "title": "黑色星期五！美股和金属全线重挫，英伟达暴跌14%，VIX涨破35，美债五连涨",
+          "url": "https://wallstreetcn.com/articles/3786330",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时14分 ~ 17时27分]"
+        },
+        {
+          "title": "两年期美债收益率周五跌超10个基点，本周累跌超19个基点",
+          "url": "https://wallstreetcn.com/livenews/3203611",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时14分"
         }
       ]
     }
