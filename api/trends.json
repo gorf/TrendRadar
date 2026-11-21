@@ -1,393 +1,85 @@
 {
-  "generated_at": "2026-11-21T17:27:25.727328+08:00",
-  "total_titles_processed": 702,
+  "generated_at": "2026-11-22T01:14:54.906366+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 3,
       "titles": [
         {
-          "title": "Anthropic开盘大涨，一切看似完美！随后风云突变，美股跳水，发生了什么？",
-          "url": "https://wallstreetcn.com/articles/3786326",
+          "title": "“抛售”带来“更多抛售”！高盛预测“未来一周美股将出现另一波大规模抛售”",
+          "url": "https://wallstreetcn.com/articles/3786422",
           "source": "华尔街见闻",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时49分 ~ 03时50分]"
+          "appearance_count": 1,
+          "time_info": "01时14分"
         },
         {
-          "title": "美股期指齐跌 纳指期货跌近2% Anthropic盘前跌逾10% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2540530",
-          "source": "财联社热门",
+          "title": "2018年末的剧本：美联储持续加息，美股从9月高点暴跌20%，迫使美联储1月“转向”",
+          "url": "https://wallstreetcn.com/articles/3786429",
+          "source": "华尔街见闻",
           "ranks": [
-            7,
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时49分 ~ 09时14分]"
+          "appearance_count": 1,
+          "time_info": "01时14分"
         },
         {
           "title": "美股收盘：AI交易遭遇猛烈抛售 纳指重挫5% 费半跌两位数 英伟达狂泻14%",
           "url": "https://www.cls.cn/detail/2540700",
           "source": "财联社热门",
           "ranks": [
-            6,
-            8
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时14分 ~ 17时27分]"
-        },
-        {
-          "title": "11 月 20 日美股三大指数集体重挫，AI 交易遭猛烈拋售，Anthropic 上市次日跌 8.5%，怎样解读？",
-          "url": "https://www.zhihu.com/question/2107375172101432168",
-          "source": "知乎",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时14分 ~ 17时27分]"
-        },
-        {
-          "title": "美股一天内遭血洗意味着什么",
-          "url": "https://www.toutiao.com/trending/7710526449404349990/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时27分"
-        },
+          "time_info": "01时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "美股三大指数为何暴跌",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E4%B8%BA%E4%BD%95%E6%9A%B4%E8%B7%8C",
-          "source": "bilibili 热搜",
+          "title": "两名俄罗斯人冒充乌情报局长，与OpenAI高管大谈提供军事AI",
+          "url": "https://news.ifeng.com/c/8yERcDbJu27",
+          "source": "凤凰网",
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
-          "title": "美股跌破关键支撑、VIX逼近30，市场在下跌中等待一场反弹？",
-          "url": "https://wallstreetcn.com/articles/3786378",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时14分"
-        },
-        {
-          "title": "高盛：美股抛售恐将持续 “恐慌指数”逼近最大值",
-          "url": "https://wallstreetcn.com/livenews/3203617",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时14分"
-        },
-        {
-          "title": "周五（11月20日）纽约尾盘（周六北京时间05:59），离岸人民币（CNH）兑美元报6.6745元，较周四纽约尾盘涨189点，日内整体交投于6.6953-6.6693元区间，几乎完全收复11月19日失地。 本周，离岸人民币大致持平，19日美股盘初曾显著跳水。",
-          "url": "https://wallstreetcn.com/livenews/3203606",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时14分"
-        },
-        {
-          "title": "11月20日美股抛售重灾区：AI算力链、云基础设施",
-          "url": "https://wallstreetcn.com/livenews/3203622",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时14分"
-        },
-        {
-          "title": "李大霄谈美股崩盘原因",
-          "url": "https://www.toutiao.com/trending/7710507884404018726/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
+          "time_info": "01时14分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 9,
+      "match_count": 1,
       "titles": [
         {
           "title": "一日四家集中示警！金价创14个月新低，四季度多家银行持续加大贵金属业务风险提示",
           "url": "https://www.cls.cn/detail/2540426",
           "source": "财联社热门",
           "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时49分 ~ 17时27分]"
-        },
-        {
-          "title": "金价跌回一年前 金店加价反而涨了",
-          "url": "https://www.toutiao.com/trending/7710269782737554982/",
-          "source": "今日头条",
-          "ranks": [
-            1
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时14分"
-        },
-        {
-          "title": "积存金价格跌至“7字头”，银行纷纷提示贵金属市场波动风险",
-          "url": "https://wallstreetcn.com/livenews/3203628",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时14分 ~ 17时27分]"
-        },
-        {
-          "title": "金价罕见大跌原因找到了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%BD%95%E8%A7%81%E5%A4%A7%E8%B7%8C%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时49分 ~ 09时14分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时49分 ~ 09时14分]"
-        },
-        {
-          "title": "国内金价跌至7字开头",
-          "url": "https://www.douyin.com/hot/2755551",
-          "source": "抖音",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时49分 ~ 09时14分]"
-        },
-        {
-          "title": "国际金价在AI股抛售潮中跌向3500美元，较历史峰值已经回撤超37%",
-          "url": "https://wallstreetcn.com/livenews/3203621",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时14分"
-        },
-        {
-          "title": "金价还能撑多久",
-          "url": "https://www.toutiao.com/trending/7710269704648003126/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时14分"
-        },
-        {
-          "title": "国内金价回落至去年4月水平",
-          "url": "https://www.toutiao.com/trending/7710282194849107483/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "OpenAI：向Plus用户推出ChatGPTSpace。",
-          "url": "https://flash.jin10.com/detail/20261121030807079800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
-        },
-        {
-          "title": "OpenAI：MedChemBench用于衡量AI模型在药物化学研究任务中的推理能力。",
-          "url": "https://flash.jin10.com/detail/20261121030458448800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
-        },
-        {
-          "title": "OpenAI推出MedChemBench。",
-          "url": "https://flash.jin10.com/detail/20261121030253242800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
-        },
-        {
-          "title": "OpenAI推出MedChemBench药物化学基准",
-          "url": "https://wallstreetcn.com/livenews/3203542",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "银行消保 金融监管 人民银行",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "中国台湾金融监管机构：鼓励金融机构等出借人暂停对外出借股票，且已出借部分视契约提前召回或到期不再续借。",
-          "url": "https://flash.jin10.com/detail/20261121160710379800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
-          "title": "中国台湾金融监管机构：上市柜个股最低融券保证金成数由130%升为150%。周一起暂停受理券商申请发行认售权证上市/柜案件。",
-          "url": "https://flash.jin10.com/detail/20261121160221100800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
-          "title": "中国台湾金融监管机构：11月23日起台股全面禁止平盘以下放空。",
-          "url": "https://flash.jin10.com/detail/20261121155926233800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "DeepSeek付费体验直线上升",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E4%BB%98%E8%B4%B9%E4%BD%93%E9%AA%8C%E7%9B%B4%E7%BA%BF%E4%B8%8A%E5%8D%87&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时49分 ~ 09时14分]"
-        },
-        {
-          "title": "DeepSeek 第二轮融资 1050 多亿元落地，31 家外部股东入局，怎样解读？",
-          "url": "https://www.zhihu.com/question/2106889511993189511",
-          "source": "知乎",
-          "ranks": [
-            4,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时49分 ~ 09时14分]"
-        },
-        {
-          "title": "如何看待 DeepSeek 因免费端限额，且无充值入口，被称付费体验直线上升？它们会开放 C 端个人订阅吗？",
-          "url": "https://www.zhihu.com/question/2107394861363983010",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
+          "time_info": "01时14分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "黑色星期五！美股跌幅扩大，Anthropic跌11％，黄金跌破3600，美债上涨",
-          "url": "https://wallstreetcn.com/articles/3786330",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时49分 ~ 03时50分]"
-        },
         {
           "title": "黑色星期五！美股和金属全线重挫，英伟达暴跌14%，VIX涨破35，美债五连涨",
           "url": "https://wallstreetcn.com/articles/3786330",
@@ -396,19 +88,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时14分 ~ 17时27分]"
-        },
-        {
-          "title": "两年期美债收益率周五跌超10个基点，本周累跌超19个基点",
-          "url": "https://wallstreetcn.com/livenews/3203611",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时14分"
+          "time_info": "01时14分"
         }
       ]
     }
