@@ -1,235 +1,89 @@
 {
-  "generated_at": "2026-11-22T19:02:25.451848+08:00",
-  "total_titles_processed": 803,
+  "generated_at": "2026-11-23T03:16:21.587548+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "金价",
-      "match_count": 7,
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
       "titles": [
         {
-          "title": "一日四家集中示警！金价创14个月新低，四季度多家银行持续加大贵金属业务风险提示",
-          "url": "https://www.cls.cn/detail/2540426",
-          "source": "财联社热门",
+          "title": "OpenAI：预计2027年前AI预训练领域将迎来大量技术突破。",
+          "url": "https://flash.jin10.com/detail/20261123012250379800",
+          "source": "金十数据",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 06时57分]"
-        },
-        {
-          "title": "金价跌势凌厉 多家银行发紧急提示",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%B7%8C%E5%8A%BF%E5%87%8C%E5%8E%89+%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%8F%91%E7%B4%A7%E6%80%A5%E6%8F%90%E7%A4%BA",
-          "source": "百度热搜",
-          "ranks": [
-            1
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时57分"
+          "time_info": "03时16分"
         },
         {
-          "title": "国际金价为何持续下跌",
-          "url": "https://www.douyin.com/hot/2758173",
-          "source": "抖音",
+          "title": "OpenAI首席科学家：我主张根据“困惑度”及其他衡量指标设定统一限制，并将突破这些限制的前提设定为我们必须先具备理解AI行为的能力。",
+          "url": "https://flash.jin10.com/detail/20261123012054512800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时57分 ~ 19时02分]"
-        },
-        {
-          "title": "金价连跌想买想卖的都急了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%BF%9E%E8%B7%8C%E6%83%B3%E4%B9%B0%E6%83%B3%E5%8D%96%E7%9A%84%E9%83%BD%E6%80%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时57分"
+          "time_info": "03时16分"
         },
         {
-          "title": "金价跌到760元菜百金条全卖光",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E5%88%B0760%E5%85%83%E8%8F%9C%E7%99%BE%E9%87%91%E6%9D%A1%E5%85%A8%E5%8D%96%E5%85%89%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "金价下跌 现在买金镯子还是再等等",
-          "url": "https://www.toutiao.com/trending/7710421076987088426/",
-          "source": "今日头条",
+          "title": "OpenAI首席科学家：为了推动建立共同的AI安全基准，我们决定提高OpenAI预训练进展的透明度。",
+          "url": "https://flash.jin10.com/detail/20261123011928177800",
+          "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时57分"
-        },
-        {
-          "title": "金价坐过山车 黄金还能避险吗",
-          "url": "https://www.toutiao.com/trending/7710927019290136114/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
+          "time_info": "03时16分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "“抛售”带来“更多抛售”！高盛预测“未来一周美股将出现另一波大规模抛售”",
-          "url": "https://wallstreetcn.com/articles/3786422",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 06时57分]"
-        },
-        {
-          "title": "2018年末的剧本：美联储持续加息，美股从9月高点暴跌20%，迫使美联储1月“转向”",
-          "url": "https://wallstreetcn.com/articles/3786429",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 10时57分]"
-        },
-        {
-          "title": "美股收盘：AI交易遭遇猛烈抛售 纳指重挫5% 费半跌两位数 英伟达狂泻14%",
-          "url": "https://www.cls.cn/detail/2540700",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时14分 ~ 19时02分]"
-        },
         {
           "title": "阻止美联储加息的最快方式：美股“以死相逼”",
           "url": "https://wallstreetcn.com/articles/3786446",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时02分"
+          "time_info": "03时16分"
         },
         {
-          "title": "美股遭遇恐慌性抛售，多家机构认为或只是牛市调整",
-          "url": "https://www.cls.cn/detail/2540856",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "中信证券：美股2027年AI产业链预计呈现年初估值承压、年中估值修复、年末表现分化的阶段性特征",
-          "url": "https://flash.jin10.com/detail/20261122180814882800",
+          "title": "特朗普称民主党政策导致美股蒸发超6万亿美元",
+          "url": "https://flash.jin10.com/detail/20261123012417441800",
           "source": "金十数据",
           "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "浙江老板们组团投AI！十余家上市公司借道16.5亿元基金入股DeepSeek",
-          "url": "https://wallstreetcn.com/articles/3786428",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时57分"
+          "time_info": "03时16分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "金价",
       "match_count": 1,
       "titles": [
         {
-          "title": "郭明錤：谷歌将明年博通设计TPU出货量下调20%，计划增加联发科份额",
-          "url": "https://wallstreetcn.com/articles/3786438",
-          "source": "华尔街见闻",
+          "title": "国际金价为何持续下跌",
+          "url": "https://www.douyin.com/hot/2758173",
+          "source": "抖音",
           "ranks": [
-            9,
-            6
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时57分 ~ 19时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "两名俄罗斯人冒充乌情报局长，与OpenAI高管大谈提供军事AI",
-          "url": "https://news.ifeng.com/c/8yERcDbJu27",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 10时57分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "黑色星期五！美股和金属全线重挫，英伟达暴跌14%，VIX涨破35，美债五连涨",
-          "url": "https://wallstreetcn.com/articles/3786330",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 06时57分]"
+          "appearance_count": 1,
+          "time_info": "03时16分"
         }
       ]
     }
