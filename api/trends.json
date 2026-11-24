@@ -1,33 +1,22 @@
 {
-  "generated_at": "2026-11-24T13:48:46.734951+08:00",
-  "total_titles_processed": 562,
+  "generated_at": "2026-11-25T01:18:37.869935+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 7,
       "titles": [
         {
-          "title": "美股科技大反攻！黄仁勋回归，英伟达暴涨35%，纳指涨8%，布油失守90美元",
-          "url": "https://wallstreetcn.com/articles/3786472",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时01分 ~ 05时02分]"
-        },
-        {
-          "title": "美股集体大幅收高，英伟达暴涨超 31%，单日市值大增 9500 亿美元创全球纪录，如何理解？行情能持续多久？",
-          "url": "https://www.zhihu.com/question/2108463757307240853",
-          "source": "知乎",
+          "title": "从暴跌到暴涨！以史为鉴：美股经历“狂欢夜”后 接下来会怎么走？",
+          "url": "https://www.cls.cn/detail/2543090",
+          "source": "财联社热门",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时48分"
+          "time_info": "01时18分"
         },
         {
           "title": "黄仁勋回归引爆美股空头回补，英伟达暴涨31%，芯片指数飙涨14%，黄金反弹近3%",
@@ -36,31 +25,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时48分"
-        },
-        {
-          "title": "【早报】黄仁勋复职，英伟达暴涨超31%；深夜，美股全线狂欢；国际原油，大幅跳水；中际旭创、盐湖股份、摩尔线程公告回购相关事项",
-          "url": "https://www.cls.cn/detail/2542401",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时48分"
-        },
-        {
-          "title": "美股收盘：英伟达暴涨超31% 单日市值大增逾9500亿美元创全球纪录",
-          "url": "https://www.cls.cn/detail/2542382",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时48分"
+          "time_info": "01时18分"
         },
         {
           "title": "高盛恐慌指数飙至9.8！历史四次暴涨后美股均强势反弹，交易员称“战术性入场”点位快到了！",
@@ -70,19 +37,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时01分 ~ 13时48分]"
+          "appearance_count": 1,
+          "time_info": "01时18分"
         },
         {
-          "title": "美股芯片股涨疯了",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E8%82%A1%E6%B6%A8%E7%96%AF%E4%BA%86%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
+          "title": "英伟达回落5% 美股反弹成色面临考验 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2543335",
+          "source": "财联社热门",
           "ranks": [
-            28
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时01分 ~ 05时02分]"
+          "appearance_count": 1,
+          "time_info": "01时18分"
         },
         {
           "title": "大摩Wilson高喊“抄底”美股：这是我们一直等待的绝佳机会",
@@ -91,76 +58,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时48分"
-        },
-        {
-          "title": "美股暴力反弹！华尔街热议“黄仁勋回归” ：短期底部已确立？",
-          "url": "https://www.cls.cn/detail/2542457",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时48分"
+          "time_info": "01时18分"
         },
         {
           "title": "英伟达宣布黄仁勋复职，特朗普发文支持，美股大幅上涨",
           "url": "https://m.thepaper.cn/newsDetail_forward_34544155",
           "source": "澎湃新闻",
           "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金价下跌有人花超85万购11根金条",
-          "url": "https://www.toutiao.com/trending/7711165515036626486/",
-          "source": "今日头条",
-          "ranks": [
-            10
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时01分 ~ 05时02分]"
+          "appearance_count": 1,
+          "time_info": "01时18分"
         },
         {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=10&Refer=top",
+          "title": "欧美股市全线大跳水",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AC%A7%E7%BE%8E%E8%82%A1%E5%B8%82%E5%85%A8%E7%BA%BF%E5%A4%A7%E8%B7%B3%E6%B0%B4%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
           "ranks": [
-            10
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时01分 ~ 05时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "证监会",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "证监会明确两融业务安排，原则与细节都讲清楚了",
-          "url": "https://www.cls.cn/detail/2542131",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时01分 ~ 05时02分]"
+          "appearance_count": 1,
+          "time_info": "01时18分"
         }
       ]
     },
@@ -173,46 +95,28 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28370146&amp;topic_name=%E7%97%85%E6%AF%92%E5%90%A7%E6%9B%9D%E5%81%87deepseek%E8%97%8F%E9%93%B6%E7%8B%90%E6%9C%A8%E9%A9%AC",
           "source": "贴吧",
           "ranks": [
-            3,
-            7
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时01分 ~ 13时48分]"
+          "appearance_count": 1,
+          "time_info": "01时18分"
         }
       ]
     },
     {
-      "keyword_group": "美债",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
         {
-          "title": "30年期美债收益率跌超3.4个基点",
-          "url": "https://wallstreetcn.com/livenews/3204487",
-          "source": "华尔街见闻-快讯",
+          "title": "谷歌 Android17 全球份额仅约 1%，安卓版本碎片化为何迟迟难解？",
+          "url": "https://www.zhihu.com/question/2099630396027691301",
+          "source": "知乎",
           "ranks": [
-            9
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元指数涨约0.5%，自去年4月以来首次涨穿104",
-          "url": "https://wallstreetcn.com/livenews/3204491",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时02分"
+          "time_info": "01时18分"
         }
       ]
     }
