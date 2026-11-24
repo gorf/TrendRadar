@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-24T05:02:07.337960+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-11-24T13:48:46.734951+08:00",
+  "total_titles_processed": 562,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 10,
       "titles": [
         {
           "title": "美股科技大反攻！黄仁勋回归，英伟达暴涨35%，纳指涨8%，布油失守90美元",
@@ -19,6 +19,50 @@
           "time_info": "[05时01分 ~ 05时02分]"
         },
         {
+          "title": "美股集体大幅收高，英伟达暴涨超 31%，单日市值大增 9500 亿美元创全球纪录，如何理解？行情能持续多久？",
+          "url": "https://www.zhihu.com/question/2108463757307240853",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
+          "title": "黄仁勋回归引爆美股空头回补，英伟达暴涨31%，芯片指数飙涨14%，黄金反弹近3%",
+          "url": "https://wallstreetcn.com/articles/3786472",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
+          "title": "【早报】黄仁勋复职，英伟达暴涨超31%；深夜，美股全线狂欢；国际原油，大幅跳水；中际旭创、盐湖股份、摩尔线程公告回购相关事项",
+          "url": "https://www.cls.cn/detail/2542401",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
+          "title": "美股收盘：英伟达暴涨超31% 单日市值大增逾9500亿美元创全球纪录",
+          "url": "https://www.cls.cn/detail/2542382",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
           "title": "高盛恐慌指数飙至9.8！历史四次暴涨后美股均强势反弹，交易员称“战术性入场”点位快到了！",
           "url": "https://wallstreetcn.com/articles/3786499",
           "source": "华尔街见闻",
@@ -26,8 +70,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时01分 ~ 05时02分]"
+          "appearance_count": 3,
+          "time_info": "[05时01分 ~ 13时48分]"
         },
         {
           "title": "美股芯片股涨疯了",
@@ -39,6 +83,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时01分 ~ 05时02分]"
+        },
+        {
+          "title": "大摩Wilson高喊“抄底”美股：这是我们一直等待的绝佳机会",
+          "url": "https://wallstreetcn.com/articles/3786508",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
+          "title": "美股暴力反弹！华尔街热议“黄仁勋回归” ：短期底部已确立？",
+          "url": "https://www.cls.cn/detail/2542457",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
+          "title": "英伟达宣布黄仁勋复职，特朗普发文支持，美股大幅上涨",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34544155",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
         }
       ]
     },
@@ -96,11 +173,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28370146&amp;topic_name=%E7%97%85%E6%AF%92%E5%90%A7%E6%9B%9D%E5%81%87deepseek%E8%97%8F%E9%93%B6%E7%8B%90%E6%9C%A8%E9%A9%AC",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时01分 ~ 05时02分]"
+          "appearance_count": 3,
+          "time_info": "[05时01分 ~ 13时48分]"
         }
       ]
     },
@@ -115,7 +193,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         }
@@ -132,7 +210,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         }
