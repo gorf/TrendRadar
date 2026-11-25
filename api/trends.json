@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-25T20:23:56.485851+08:00",
-  "total_titles_processed": 673,
+  "generated_at": "2026-11-26T06:16:13.102387+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 8,
       "titles": [
         {
           "title": "黄仁勋回归引爆美股空头回补，英伟达暴涨31%，芯片指数飙涨14%，黄金反弹近3%",
@@ -15,41 +15,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 20时23分]"
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 06时16分]"
         },
         {
-          "title": "【早报】美股一夜“变天”，科技股全线回调；国际原油，大幅反弹；工业富联、胜宏科技公告分红事项",
-          "url": "https://www.cls.cn/detail/2543512",
+          "title": "高盛：市场情绪指标跌至低位 美股迎来绝佳买入时机",
+          "url": "https://www.cls.cn/detail/2544309",
           "source": "财联社热门",
           "ranks": [
-            1
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时05分 ~ 10时06分]"
-        },
-        {
-          "title": "美股收盘：AI交易疑虑重燃 英伟达跌近6% Anthropic跌破发行价",
-          "url": "https://www.cls.cn/detail/2543493",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时05分 ~ 10时06分]"
-        },
-        {
-          "title": "从暴跌到暴涨！以史为鉴：美股经历“狂欢夜”后 接下来会怎么走？",
-          "url": "https://www.cls.cn/detail/2543090",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
+          "time_info": "[06时15分 ~ 06时16分]"
         },
         {
           "title": "高盛恐慌指数飙至9.8！历史四次暴涨后美股均强势反弹，交易员称“战术性入场”点位快到了！",
@@ -59,8 +37,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 20时23分]"
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 06时16分]"
         },
         {
           "title": "大摩Wilson高喊“抄底”美股：这是我们一直等待的绝佳机会",
@@ -70,114 +48,102 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 20时23分]"
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 06时16分]"
         },
         {
-          "title": "英伟达回落5% 美股反弹成色面临考验 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2543335",
-          "source": "财联社热门",
+          "title": "美股科技股持续回调 英伟达跌超7%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E7%A7%91%E6%8A%80%E8%82%A1%E6%8C%81%E7%BB%AD%E5%9B%9E%E8%B0%83+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B7%8C%E8%B6%857%25",
+          "source": "百度热搜",
           "ranks": [
-            8,
-            9
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 10时06分]"
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 06时16分]"
         },
         {
-          "title": "美股股指期货与贵金属齐跌",
-          "url": "https://flash.jin10.com/detail/20261125201233327800",
+          "title": "金十图示：2026年11月25日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20261126051108216800",
           "source": "金十数据",
           "ranks": [
-            7
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时23分"
+          "time_info": "06时16分"
         },
         {
-          "title": "英伟达宣布黄仁勋复职，特朗普发文支持，美股大幅上涨",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34544155",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
-        },
-        {
-          "title": "德银大胆看多美股：标普500指数明年看涨至9000点",
-          "url": "https://flash.jin10.com/detail/20261125201033190800",
+          "title": "金十图示：2026年11月25日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20261126051003821800",
           "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "美股期货扩大跌幅 纳指期货跌约3%",
-          "url": "https://flash.jin10.com/detail/20261125200655431800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "欧美股市全线大跳水",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%AC%A7%E7%BE%8E%E8%82%A1%E5%B8%82%E5%85%A8%E7%BA%BF%E5%A4%A7%E8%B7%B3%E6%B0%B4%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
           "ranks": [
             17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时18分"
+          "time_info": "06时16分"
+        },
+        {
+          "title": "美股收盘：三大股指较低点大幅反弹 英伟达跌近4%",
+          "url": "https://flash.jin10.com/detail/20261126050141009800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "keyword_group": "金价",
+      "match_count": 4,
       "titles": [
         {
-          "title": "ChatGPT合并Chat和Work",
-          "url": "https://search.bilibili.com/all?keyword=ChatGPT%E5%90%88%E5%B9%B6Chat%E5%92%8CWork",
-          "source": "bilibili 热搜",
+          "title": "金价大跌金店挤爆 抢黄金的人在抢啥",
+          "url": "https://www.toutiao.com/trending/7712119512744594985/",
+          "source": "今日头条",
           "ranks": [
-            10
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 06时16分]"
         },
         {
-          "title": "OpenAI发布九篇数学论文",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83%E4%B9%9D%E7%AF%87%E6%95%B0%E5%AD%A6%E8%AE%BA%E6%96%87",
-          "source": "bilibili 热搜",
+          "title": "金价扛不住了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%89%9B%E4%B8%8D%E4%BD%8F%E4%BA%86%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
           "ranks": [
-            13
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 06时16分]"
         },
         {
-          "title": "OpenAI：ChatGPT错误，Team、Business和Pro用户受影响。",
-          "url": "https://flash.jin10.com/detail/20261125200336258800",
-          "source": "金十数据",
+          "title": "黄金价格下跌迎2026年最低价",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%8B%E8%B7%8C%E8%BF%8E2026%E5%B9%B4%E6%9C%80%E4%BD%8E%E4%BB%B7",
+          "source": "百度热搜",
           "ranks": [
-            19
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 06时16分]"
+        },
+        {
+          "title": "金价暴跌与大妈抄底的博弈",
+          "url": "https://www.toutiao.com/trending/7712112042768862762/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 06时16分]"
         }
       ]
     },
@@ -190,57 +156,78 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28370146&amp;topic_name=%E7%97%85%E6%AF%92%E5%90%A7%E6%9B%9D%E5%81%87deepseek%E8%97%8F%E9%93%B6%E7%8B%90%E6%9C%A8%E9%A9%AC",
           "source": "贴吧",
           "ranks": [
-            11,
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 20时23分]"
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 06时16分]"
         },
         {
-          "title": "大家都用 Deepseek Harness 了嘛，感受如何？",
-          "url": "https://www.zhihu.com/question/2071607223839731944",
+          "title": "豆包和 DeepSeek 哪个好用？",
+          "url": "https://www.zhihu.com/question/2042157689262826090",
           "source": "知乎",
           "ranks": [
-            7
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 06时16分]"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
-          "title": "谷歌 Android17 全球份额仅约 1%，安卓版本碎片化为何迟迟难解？",
-          "url": "https://www.zhihu.com/question/2099630396027691301",
-          "source": "知乎",
+          "title": "谷歌挂出6篇AI生成数学论文",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E6%8C%82%E5%87%BA6%E7%AF%87AI%E7%94%9F%E6%88%90%E6%95%B0%E5%AD%A6%E8%AE%BA%E6%96%87",
+          "source": "bilibili 热搜",
           "ranks": [
-            15
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 06时16分]"
+        },
+        {
+          "title": "如何看待谷歌在 GitHub 上发出的六篇数学论文？更新后的 Gemini 数学能力处于什么水平？",
+          "url": "https://www.zhihu.com/question/2109042588002907107",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 06时16分]"
         }
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 1,
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
       "titles": [
         {
-          "title": "5至7年期美债收益率日内下跌10个基点。",
-          "url": "https://flash.jin10.com/detail/20261125200811931800",
-          "source": "金十数据",
+          "title": "OpenAI 证明矩阵乘法指数下界为 9/4，如何看待？",
+          "url": "https://www.zhihu.com/question/2108865707819771232",
+          "source": "知乎",
           "ranks": [
-            13
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 06时16分]"
+        },
+        {
+          "title": "怎么看 Axios 报道，OpenAI 和 Anthropic 因为内部模型太强，可能无法发布 ？",
+          "url": "https://www.zhihu.com/question/2108663109493715917",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 06时16分]"
         }
       ]
     }
