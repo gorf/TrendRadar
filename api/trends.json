@@ -1,29 +1,51 @@
 {
-  "generated_at": "2026-11-25T01:18:37.869935+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-11-25T10:06:07.463444+08:00",
+  "total_titles_processed": 461,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
-        {
-          "title": "从暴跌到暴涨！以史为鉴：美股经历“狂欢夜”后 接下来会怎么走？",
-          "url": "https://www.cls.cn/detail/2543090",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
-        },
         {
           "title": "黄仁勋回归引爆美股空头回补，英伟达暴涨31%，芯片指数飙涨14%，黄金反弹近3%",
           "url": "https://wallstreetcn.com/articles/3786472",
           "source": "华尔街见闻",
           "ranks": [
             2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 10时06分]"
+        },
+        {
+          "title": "【早报】美股一夜“变天”，科技股全线回调；国际原油，大幅反弹；工业富联、胜宏科技公告分红事项",
+          "url": "https://www.cls.cn/detail/2543512",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 10时06分]"
+        },
+        {
+          "title": "美股收盘：AI交易疑虑重燃 英伟达跌近6% Anthropic跌破发行价",
+          "url": "https://www.cls.cn/detail/2543493",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 10时06分]"
+        },
+        {
+          "title": "从暴跌到暴涨！以史为鉴：美股经历“狂欢夜”后 接下来会怎么走？",
+          "url": "https://www.cls.cn/detail/2543090",
+          "source": "财联社热门",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -37,19 +59,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 10时06分]"
         },
         {
           "title": "英伟达回落5% 美股反弹成色面临考验 | 今夜看点",
           "url": "https://www.cls.cn/detail/2543335",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 10时06分]"
         },
         {
           "title": "大摩Wilson高喊“抄底”美股：这是我们一直等待的绝佳机会",
@@ -59,8 +82,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 10时06分]"
         },
         {
           "title": "英伟达宣布黄仁勋复职，特朗普发文支持，美股大幅上涨",
@@ -95,11 +118,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28370146&amp;topic_name=%E7%97%85%E6%AF%92%E5%90%A7%E6%9B%9D%E5%81%87deepseek%E8%97%8F%E9%93%B6%E7%8B%90%E6%9C%A8%E9%A9%AC",
           "source": "贴吧",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 10时06分]"
         }
       ]
     },
