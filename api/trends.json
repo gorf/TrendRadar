@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-25T10:06:07.463444+08:00",
-  "total_titles_processed": 461,
+  "generated_at": "2026-11-25T20:23:56.485851+08:00",
+  "total_titles_processed": 673,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "黄仁勋回归引爆美股空头回补，英伟达暴涨31%，芯片指数飙涨14%，黄金反弹近3%",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 10时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 20时23分]"
         },
         {
           "title": "【早报】美股一夜“变天”，科技股全线回调；国际原油，大幅反弹；工业富联、胜宏科技公告分红事项",
@@ -59,8 +59,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 10时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 20时23分]"
+        },
+        {
+          "title": "大摩Wilson高喊“抄底”美股：这是我们一直等待的绝佳机会",
+          "url": "https://wallstreetcn.com/articles/3786508",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 20时23分]"
         },
         {
           "title": "英伟达回落5% 美股反弹成色面临考验 | 今夜看点",
@@ -75,15 +86,15 @@
           "time_info": "[01时18分 ~ 10时06分]"
         },
         {
-          "title": "大摩Wilson高喊“抄底”美股：这是我们一直等待的绝佳机会",
-          "url": "https://wallstreetcn.com/articles/3786508",
-          "source": "华尔街见闻",
+          "title": "美股股指期货与贵金属齐跌",
+          "url": "https://flash.jin10.com/detail/20261125201233327800",
+          "source": "金十数据",
           "ranks": [
-            9
+            7
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 10时06分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "英伟达宣布黄仁勋复职，特朗普发文支持，美股大幅上涨",
@@ -95,6 +106,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
+        },
+        {
+          "title": "德银大胆看多美股：标普500指数明年看涨至9000点",
+          "url": "https://flash.jin10.com/detail/20261125201033190800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
+          "title": "美股期货扩大跌幅 纳指期货跌约3%",
+          "url": "https://flash.jin10.com/detail/20261125200655431800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "欧美股市全线大跳水",
@@ -110,8 +143,47 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "ChatGPT合并Chat和Work",
+          "url": "https://search.bilibili.com/all?keyword=ChatGPT%E5%90%88%E5%B9%B6Chat%E5%92%8CWork",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
+          "title": "OpenAI发布九篇数学论文",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83%E4%B9%9D%E7%AF%87%E6%95%B0%E5%AD%A6%E8%AE%BA%E6%96%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
+          "title": "OpenAI：ChatGPT错误，Team、Business和Pro用户受影响。",
+          "url": "https://flash.jin10.com/detail/20261125200336258800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "病毒吧曝假deepseek藏银狐木马",
@@ -122,8 +194,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 10时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 20时23分]"
+        },
+        {
+          "title": "大家都用 Deepseek Harness 了嘛，感受如何？",
+          "url": "https://www.zhihu.com/question/2071607223839731944",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         }
       ]
     },
@@ -141,6 +224,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "5至7年期美债收益率日内下跌10个基点。",
+          "url": "https://flash.jin10.com/detail/20261125200811931800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         }
       ]
     }
