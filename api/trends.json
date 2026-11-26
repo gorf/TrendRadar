@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-26T06:16:13.102387+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-11-26T12:48:40.387978+08:00",
+  "total_titles_processed": 516,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "黄仁勋回归引爆美股空头回补，英伟达暴涨31%，芯片指数飙涨14%，黄金反弹近3%",
@@ -15,19 +15,30 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时15分 ~ 06时16分]"
+          "appearance_count": 3,
+          "time_info": "[06时15分 ~ 12时48分]"
         },
         {
-          "title": "高盛：市场情绪指标跌至低位 美股迎来绝佳买入时机",
-          "url": "https://www.cls.cn/detail/2544309",
+          "title": "【早报】深夜，美股坐“过山车”；华尔街“大空头”：清空纳指100看跌期权；珠免集团、山鹰国际，今起复牌",
+          "url": "https://www.cls.cn/detail/2544754",
           "source": "财联社热门",
           "ranks": [
-            7
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时15分 ~ 06时16分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
+        },
+        {
+          "title": "美股收盘：道指抹去千点跌幅翻红 AI信用风险持续发酵",
+          "url": "https://www.cls.cn/detail/2544737",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
         },
         {
           "title": "高盛恐慌指数飙至9.8！历史四次暴涨后美股均强势反弹，交易员称“战术性入场”点位快到了！",
@@ -37,8 +48,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时15分 ~ 06时16分]"
+          "appearance_count": 3,
+          "time_info": "[06时15分 ~ 12时48分]"
         },
         {
           "title": "大摩Wilson高喊“抄底”美股：这是我们一直等待的绝佳机会",
@@ -46,6 +57,17 @@
           "source": "华尔街见闻",
           "ranks": [
             9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时15分 ~ 12时48分]"
+        },
+        {
+          "title": "高盛：市场情绪指标跌至低位 美股迎来绝佳买入时机",
+          "url": "https://www.cls.cn/detail/2544309",
+          "source": "财联社热门",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -69,7 +91,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
         },
@@ -80,7 +102,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
         },
@@ -91,7 +113,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
         }
@@ -99,7 +121,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "金价大跌金店挤爆 抢黄金的人在抢啥",
@@ -144,40 +166,45 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时15分 ~ 06时16分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "病毒吧曝假deepseek藏银狐木马",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28370146&amp;topic_name=%E7%97%85%E6%AF%92%E5%90%A7%E6%9B%9D%E5%81%87deepseek%E8%97%8F%E9%93%B6%E7%8B%90%E6%9C%A8%E9%A9%AC",
-          "source": "贴吧",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时15分 ~ 06时16分]"
         },
         {
-          "title": "豆包和 DeepSeek 哪个好用？",
-          "url": "https://www.zhihu.com/question/2042157689262826090",
-          "source": "知乎",
+          "title": "央视网评金价大跌下的购金热",
+          "url": "https://www.douyin.com/hot/2763916",
+          "source": "抖音",
           "ranks": [
-            17
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时15分 ~ 06时16分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
+        },
+        {
+          "title": "澳联邦银行：美元走势将成为未来数月金价关键驱动因素",
+          "url": "https://flash.jin10.com/detail/20261126120331476800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
+        },
+        {
+          "title": "金价刚守回3500，今晚又逢感恩节假期",
+          "url": "https://flash.jin10.com/detail/20261126114401294800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "谷歌挂出6篇AI生成数学论文",
@@ -196,6 +223,46 @@
           "source": "知乎",
           "ranks": [
             14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 06时16分]"
+        },
+        {
+          "title": "被戏称为「北美大豆包」的谷歌杀回 AI 牌桌中央，这次逆袭的核心路径是什么？",
+          "url": "https://www.zhihu.com/question/2106715996711142004",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "病毒吧曝假deepseek藏银狐木马",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28370146&amp;topic_name=%E7%97%85%E6%AF%92%E5%90%A7%E6%9B%9D%E5%81%87deepseek%E8%97%8F%E9%93%B6%E7%8B%90%E6%9C%A8%E9%A9%AC",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时15分 ~ 12时48分]"
+        },
+        {
+          "title": "豆包和 DeepSeek 哪个好用？",
+          "url": "https://www.zhihu.com/question/2042157689262826090",
+          "source": "知乎",
+          "ranks": [
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
