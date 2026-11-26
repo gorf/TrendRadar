@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-26T12:48:40.387978+08:00",
-  "total_titles_processed": 516,
+  "generated_at": "2026-11-26T22:52:46.527850+08:00",
+  "total_titles_processed": 731,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "黄仁勋回归引爆美股空头回补，英伟达暴涨31%，芯片指数飙涨14%，黄金反弹近3%",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时15分 ~ 12时48分]"
+          "appearance_count": 4,
+          "time_info": "[06时15分 ~ 22时52分]"
         },
         {
           "title": "【早报】深夜，美股坐“过山车”；华尔街“大空头”：清空纳指100看跌期权；珠免集团、山鹰国际，今起复牌",
@@ -25,7 +25,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -36,9 +36,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
+        },
+        {
+          "title": "这次不一样？施罗德投资：美联储或因美股暴跌转向宽松 但反弹恐难持续",
+          "url": "https://www.cls.cn/detail/2545777",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "高盛恐慌指数飙至9.8！历史四次暴涨后美股均强势反弹，交易员称“战术性入场”点位快到了！",
@@ -48,8 +59,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时15分 ~ 12时48分]"
+          "appearance_count": 4,
+          "time_info": "[06时15分 ~ 22时52分]"
         },
         {
           "title": "大摩Wilson高喊“抄底”美股：这是我们一直等待的绝佳机会",
@@ -59,8 +70,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时15分 ~ 12时48分]"
+          "appearance_count": 4,
+          "time_info": "[06时15分 ~ 22时52分]"
         },
         {
           "title": "高盛：市场情绪指标跌至低位 美股迎来绝佳买入时机",
@@ -146,6 +157,18 @@
           "time_info": "[06时15分 ~ 06时16分]"
         },
         {
+          "title": "央视网评金价大跌下的购金热",
+          "url": "https://www.douyin.com/hot/2763916",
+          "source": "抖音",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 22时52分]"
+        },
+        {
           "title": "黄金价格下跌迎2026年最低价",
           "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%8B%E8%B7%8C%E8%BF%8E2026%E5%B9%B4%E6%9C%80%E4%BD%8E%E4%BB%B7",
           "source": "百度热搜",
@@ -168,24 +191,13 @@
           "time_info": "[06时15分 ~ 06时16分]"
         },
         {
-          "title": "央视网评金价大跌下的购金热",
-          "url": "https://www.douyin.com/hot/2763916",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时48分"
-        },
-        {
           "title": "澳联邦银行：美元走势将成为未来数月金价关键驱动因素",
           "url": "https://flash.jin10.com/detail/20261126120331476800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -196,7 +208,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         }
@@ -235,7 +247,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         }
@@ -251,11 +263,12 @@
           "source": "贴吧",
           "ranks": [
             13,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时15分 ~ 12时48分]"
+          "appearance_count": 4,
+          "time_info": "[06时15分 ~ 22时52分]"
         },
         {
           "title": "豆包和 DeepSeek 哪个好用？",
