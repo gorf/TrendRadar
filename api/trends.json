@@ -1,175 +1,100 @@
 {
-  "generated_at": "2026-11-27T15:41:17.058843+08:00",
-  "total_titles_processed": 538,
+  "generated_at": "2026-11-28T01:59:00.421675+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 4,
       "titles": [
         {
-          "title": "黄仁勋回归引爆美股空头回补，英伟达暴涨31%，芯片指数飙涨14%，黄金反弹近3%",
-          "url": "https://wallstreetcn.com/articles/3786472",
-          "source": "华尔街见闻",
+          "title": "金十图示：2026年11月27日（周五）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20261128014327133800",
+          "source": "金十数据",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时37分 ~ 15时41分]"
-        },
-        {
-          "title": "【早报】美股休市，欧洲股市全线反弹；广东发布重要规划！事关算力发展；英伟达暂停向东南亚四国交付AI服务器",
-          "url": "https://www.cls.cn/detail/2545997",
-          "source": "财联社热门",
-          "ranks": [
-            4,
             1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时37分 ~ 15时41分]"
-        },
-        {
-          "title": "欧股全线收涨美股期货走高 马斯克称每年向儿童再赠一份SpaceX股 | 环球市场",
-          "url": "https://www.cls.cn/detail/2545971",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时37分 ~ 15时41分]"
-        },
-        {
-          "title": "这次不一样？施罗德投资：美联储或因美股暴跌转向宽松 但反弹恐难持续",
-          "url": "https://www.cls.cn/detail/2545777",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时37分"
-        },
-        {
-          "title": "美股AI风向变了：软件>硬件？",
-          "url": "https://www.cls.cn/detail/2546218",
-          "source": "财联社热门",
-          "ranks": [
-            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时41分"
+          "time_info": "01时59分"
         },
         {
-          "title": "高盛恐慌指数飙至9.8！历史四次暴涨后美股均强势反弹，交易员称“战术性入场”点位快到了！",
-          "url": "https://wallstreetcn.com/articles/3786499",
+          "title": "美股感恩节休市，欧股涨1.8%收窄月跌幅，德指反弹2%，原油三连涨",
+          "url": "https://wallstreetcn.com/articles/3786746",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时37分 ~ 15时41分]"
+          "time_info": "[01时58分 ~ 01时59分]"
         },
         {
-          "title": "大摩Wilson高喊“抄底”美股：这是我们一直等待的绝佳机会",
-          "url": "https://wallstreetcn.com/articles/3786508",
+          "title": "反弹的风吹到美股科技板块 巴西ETF盘前涨超14% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2547015",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 01时59分]"
+        },
+        {
+          "title": "美银Hartnett谈2027年美股：全面泡沫8888，软着陆7777，硬着陆6666",
+          "url": "https://wallstreetcn.com/articles/3786819",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时37分 ~ 15时41分]"
-        },
+          "time_info": "[01时58分 ~ 01时59分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "证监会",
+      "match_count": 2,
+      "titles": [
         {
-          "title": "高盛：美股尚未触底现在抄底过早",
-          "url": "https://www.toutiao.com/trending/7712271931999126026/",
-          "source": "今日头条",
+          "title": "证监会传达学习贯彻国务院常务会议精神",
+          "url": "https://www.cls.cn/detail/2546897",
+          "source": "财联社热门",
           "ranks": [
-            30
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时37分"
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 01时59分]"
+        },
+        {
+          "title": "证监会传达学习贯彻国常会精神：会同有关方面抓紧研究出台相关增量政策",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34576009",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 01时59分]"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "如何评价 DeepSeek 网页和 App 端开始展示消耗额度？",
-          "url": "https://www.zhihu.com/question/2109411707877695723",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时41分"
-        },
         {
           "title": "病毒吧曝假deepseek藏银狐木马",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28370146&amp;topic_name=%E7%97%85%E6%AF%92%E5%90%A7%E6%9B%9D%E5%81%87deepseek%E8%97%8F%E9%93%B6%E7%8B%90%E6%9C%A8%E9%A9%AC",
           "source": "贴吧",
           "ranks": [
-            18,
-            22
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时37分 ~ 15时41分]"
-        },
-        {
-          "title": "知乎与 DeepSeek 开展内容合作，AI 回答可溯源引用知乎内容并跳转原文，这将带来哪些体验变化？",
-          "url": "https://www.zhihu.com/question/2109594972236112069",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据日经新闻：日本最大电力公司JERA首席执行官兼董事长表示，该能源集团还正在与亚马逊、微软和谷歌进行洽谈。",
-          "url": "https://flash.jin10.com/detail/20261127055632719800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "央视网评金价大跌下的购金热",
-          "url": "https://www.douyin.com/hot/2763916",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时37分"
+          "time_info": "[01时58分 ~ 01时59分]"
         }
       ]
     },
@@ -178,15 +103,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "美国10年期美债期货下跌3个点，30年期美债期货下跌5个点。",
-          "url": "https://flash.jin10.com/detail/20261127070156386800",
-          "source": "金十数据",
+          "title": "AI交易回暖，纳指涨1.5%，闪迪涨超8%，中概指数涨3%，金银大涨，美债回落",
+          "url": "https://wallstreetcn.com/articles/3786838",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时37分"
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 01时59分]"
         }
       ]
     }
