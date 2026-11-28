@@ -1,33 +1,48 @@
 {
-  "generated_at": "2026-11-28T09:22:15.061553+08:00",
-  "total_titles_processed": 482,
+  "generated_at": "2026-11-28T18:01:10.620797+08:00",
+  "total_titles_processed": 723,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
-        {
-          "title": "美股收盘：AI交易强势反弹 纳指涨超2% Anthropic涨近11%",
-          "url": "https://www.cls.cn/detail/2547125",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时21分 ~ 09时22分]"
-        },
         {
           "title": "【早报】国常会：加力发挥“国家队”稳市作用；深夜，美股存储股全线大爆发；黄金、白银，同步反弹",
           "url": "https://www.cls.cn/detail/2547143",
           "source": "财联社热门",
           "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时21分 ~ 18时01分]"
+        },
+        {
+          "title": "美股收盘：AI交易强势反弹 纳指涨超2% Anthropic涨近11%",
+          "url": "https://www.cls.cn/detail/2547125",
+          "source": "财联社热门",
+          "ranks": [
+            4,
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时21分 ~ 09时22分]"
+          "appearance_count": 4,
+          "time_info": "[09时21分 ~ 18时01分]"
+        },
+        {
+          "title": "反弹的风吹到美股科技板块 巴西ETF盘前涨超14% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2547015",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时58分 ~ 18时01分]"
         },
         {
           "title": "金十图示：2026年11月27日（周五）热门中概股行情一览（美股盘中）",
@@ -39,18 +54,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
-        },
-        {
-          "title": "反弹的风吹到美股科技板块 巴西ETF盘前涨超14% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2547015",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时58分 ~ 09时22分]"
         },
         {
           "title": "美银Hartnett谈2027年美股：全面泡沫8888，软着陆7777，硬着陆6666",
@@ -75,51 +78,43 @@
           "time_info": "[01时58分 ~ 01时59分]"
         },
         {
+          "title": "特朗普拯救黄仁勋，也救了美股！高盛交易员感叹“全市场命运系于一人，这是好事还是坏事，管他呢！”",
+          "url": "https://wallstreetcn.com/articles/3786888",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时00分 ~ 18时01分]"
+        },
+        {
+          "title": "美股三大指数全线收涨：存储概念爆发，中概股普遍上扬",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34580217",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时00分 ~ 18时01分]"
+        },
+        {
           "title": "美元避险属性与美股联动交织，汇丰称外汇市场走势愈发难以解读",
           "url": "https://flash.jin10.com/detail/20261128055147512800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         }
       ]
     },
     {
-      "keyword_group": "证监会",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "证监会传达学习贯彻国务院常务会议精神",
-          "url": "https://www.cls.cn/detail/2546897",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时58分 ~ 09时22分]"
-        },
-        {
-          "title": "证监会传达学习贯彻国常会精神：会同有关方面抓紧研究出台相关增量政策",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34576009",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时58分 ~ 09时22分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "金价真的大涨了",
@@ -133,15 +128,101 @@
           "time_info": "[09时21分 ~ 09时22分]"
         },
         {
+          "title": "水贝金店人多到挤不进来 金价震荡黄金卖爆了",
+          "url": "https://flash.jin10.com/detail/20261128164436601800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时01分"
+        },
+        {
+          "title": "金价回调带动购金热，黄金迎来抢购潮",
+          "url": "https://wallstreetcn.com/livenews/3207329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时01分"
+        },
+        {
           "title": "国际金价周五涨超2.4%，本周现货白银涨6.3%",
           "url": "https://wallstreetcn.com/livenews/3207280",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
+        },
+        {
+          "title": "金价暴跌显露压力，印度央行加大对黄金贷款审查力度",
+          "url": "https://flash.jin10.com/detail/20261128154739995800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "证监会",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "证监会传达学习贯彻国务院常务会议精神",
+          "url": "https://www.cls.cn/detail/2546897",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时58分 ~ 18时01分]"
+        },
+        {
+          "title": "证监会出手！“南京路宝宝总”被查处",
+          "url": "https://www.baidu.com/s?wd=%E8%AF%81%E7%9B%91%E4%BC%9A%E5%87%BA%E6%89%8B%EF%BC%81%E2%80%9C%E5%8D%97%E4%BA%AC%E8%B7%AF%E5%AE%9D%E5%AE%9D%E6%80%BB%E2%80%9D%E8%A2%AB%E6%9F%A5%E5%A4%84",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时00分 ~ 18时01分]"
+        },
+        {
+          "title": "证监会传达学习贯彻国常会精神：会同有关方面抓紧研究出台相关增量政策",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34576009",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时58分 ~ 18时01分]"
+        },
+        {
+          "title": "证监会：抓紧研究出台相关增量政策，壮大中长期资金入市力量",
+          "url": "https://wallstreetcn.com/articles/3786855",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时00分 ~ 18时01分]"
         }
       ]
     },
@@ -154,11 +235,12 @@
           "url": "https://wallstreetcn.com/articles/3786838",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时21分 ~ 09时22分]"
+          "appearance_count": 4,
+          "time_info": "[09时21分 ~ 18时01分]"
         },
         {
           "title": "AI交易回暖，纳指涨1.5%，闪迪涨超8%，中概指数涨3%，金银大涨，美债回落",
@@ -186,8 +268,25 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时58分 ~ 09时22分]"
+          "appearance_count": 6,
+          "time_info": "[01时58分 ~ 18时01分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马斯克：谷歌已表示有意向SpaceX租用更多算力。",
+          "url": "https://wallstreetcn.com/livenews/3207332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时01分"
         }
       ]
     }
