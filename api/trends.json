@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-11-28T01:59:00.421675+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-11-28T09:22:15.061553+08:00",
+  "total_titles_processed": 482,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "美股收盘：AI交易强势反弹 纳指涨超2% Anthropic涨近11%",
+          "url": "https://www.cls.cn/detail/2547125",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时21分 ~ 09时22分]"
+        },
+        {
+          "title": "【早报】国常会：加力发挥“国家队”稳市作用；深夜，美股存储股全线大爆发；黄金、白银，同步反弹",
+          "url": "https://www.cls.cn/detail/2547143",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时21分 ~ 09时22分]"
+        },
         {
           "title": "金十图示：2026年11月27日（周五）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20261128014327133800",
@@ -14,9 +36,32 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
+        },
+        {
+          "title": "反弹的风吹到美股科技板块 巴西ETF盘前涨超14% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2547015",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时58分 ~ 09时22分]"
+        },
+        {
+          "title": "美银Hartnett谈2027年美股：全面泡沫8888，软着陆7777，硬着陆6666",
+          "url": "https://wallstreetcn.com/articles/3786819",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时58分 ~ 09时22分]"
         },
         {
           "title": "美股感恩节休市，欧股涨1.8%收窄月跌幅，德指反弹2%，原油三连涨",
@@ -30,26 +75,15 @@
           "time_info": "[01时58分 ~ 01时59分]"
         },
         {
-          "title": "反弹的风吹到美股科技板块 巴西ETF盘前涨超14% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2547015",
-          "source": "财联社热门",
+          "title": "美元避险属性与美股联动交织，汇丰称外汇市场走势愈发难以解读",
+          "url": "https://flash.jin10.com/detail/20261128055147512800",
+          "source": "金十数据",
           "ranks": [
-            7
+            15
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 01时59分]"
-        },
-        {
-          "title": "美银Hartnett谈2027年美股：全面泡沫8888，软着陆7777，硬着陆6666",
-          "url": "https://wallstreetcn.com/articles/3786819",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 01时59分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         }
       ]
     },
@@ -62,18 +96,76 @@
           "url": "https://www.cls.cn/detail/2546897",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[01时58分 ~ 09时22分]"
         },
         {
           "title": "证监会传达学习贯彻国常会精神：会同有关方面抓紧研究出台相关增量政策",
           "url": "https://m.thepaper.cn/newsDetail_forward_34576009",
           "source": "澎湃新闻",
           "ranks": [
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时58分 ~ 09时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价真的大涨了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%9C%9F%E7%9A%84%E5%A4%A7%E6%B6%A8%E4%BA%86%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
             14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时21分 ~ 09时22分]"
+        },
+        {
+          "title": "国际金价周五涨超2.4%，本周现货白银涨6.3%",
+          "url": "https://wallstreetcn.com/livenews/3207280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美存储芯片与光通信领涨，纳指涨2.3%，金银铜齐涨，美债跌，原油冲高转跌",
+          "url": "https://wallstreetcn.com/articles/3786838",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时21分 ~ 09时22分]"
+        },
+        {
+          "title": "AI交易回暖，纳指涨1.5%，闪迪涨超8%，中概指数涨3%，金银大涨，美债回落",
+          "url": "https://wallstreetcn.com/articles/3786838",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -90,28 +182,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28370146&amp;topic_name=%E7%97%85%E6%AF%92%E5%90%A7%E6%9B%9D%E5%81%87deepseek%E8%97%8F%E9%93%B6%E7%8B%90%E6%9C%A8%E9%A9%AC",
           "source": "贴吧",
           "ranks": [
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 01时59分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "AI交易回暖，纳指涨1.5%，闪迪涨超8%，中概指数涨3%，金银大涨，美债回落",
-          "url": "https://wallstreetcn.com/articles/3786838",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[01时58分 ~ 09时22分]"
         }
       ]
     }
